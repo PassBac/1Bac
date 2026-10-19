@@ -1,0 +1,154 @@
+{
+  "titre": "Carte mentale des personnages - La Boîte à merveilles",
+  "auteur": "Ahmed Sefrioui",
+  "genre": "Roman autobiographique",
+  "cadre_spatial": "Fès (Dar Chouafa et la Médina)",
+  "categories": [
+    {
+      "id": "famille_narrateur",
+      "nom": "1. La famille du narrateur",
+      "description": "Le foyer familial central de l'histoire",
+      "personnages": [
+        {
+          "nom": "Sidi Mohammed",
+          "role": "Narrateur et personnage principal",
+          "age": "6 ans",
+          "description": "Enfant solitaire, rêveur et très sensible. Il possède la Boîte à merveilles pour échapper au monde réel."
+        },
+        {
+          "nom": "Lalla Zoubida",
+          "role": "Mère du narrateur",
+          "age": "22 ans environ",
+          "description": "Femme au foyer, bavarde, superstitieuse et très attachée aux traditions et aux sanctuaires."
+        },
+        {
+          "nom": "Maâlem Abdeslam",
+          "role": "Père du narrateur",
+          "profession": "Tisserand",
+          "description": "Homme digne, pieux, silencieux et généreux. Sa faillite temporaire constitue le nœud dramatique du récit."
+        }
+      ]
+    },
+    {
+      "id": "locataires_dar_chouafa",
+      "nom": "2. Les locataires de Dar Chouafa",
+      "description": "Les habitants de la maison commune répartis sur trois niveaux",
+      "personnages": [
+        {
+          "nom": "Lalla Kenza (La Chouafa)",
+          "emplacement": "Rez-de-chaussée",
+          "role": "Voyante principale de la maison",
+          "description": "Organise une fois par mois des rituels de musique et de danse Gnaoua."
+        },
+        {
+          "nom": "Rahma",
+          "emplacement": "1er étage",
+          "role": "Voisine",
+          "description": "Épouse de Driss El Aouad. Femme généreuse mais se dispute violemment avec Lalla Zoubida au début."
+        },
+        {
+          "nom": "Driss El Aouad",
+          "emplacement": "1er étage",
+          "profession": "Fabricant de charrues",
+          "description": "Mari de Rahma et père de Zineb."
+        },
+        {
+          "nom": "Zineb",
+          "emplacement": "1er étage",
+          "role": "Camarade / Fille de Rahma",
+          "age": "6 ans",
+          "description": "Fillette détestée par Sidi Mohammed qui la trouve niaisante et pleurnicharde."
+        },
+        {
+          "nom": "Fatma Bziouya",
+          "emplacement": "2ème étage (partagé)",
+          "role": "Voisine proche",
+          "description": "Amie intime de Lalla Zoubida, partage le deuxième étage avec la famille du narrateur."
+        },
+        {
+          "nom": "Allal",
+          "emplacement": "2ème étage (partagé)",
+          "profession": "Jardinier",
+          "description": "Mari de Fatma Bziouya."
+        }
+      ]
+    },
+    {
+      "id": "entourage_proche",
+      "nom": "3. L'entourage et amis proches",
+      "description": "Les proches influençant la vie sociale et dramatique des parents",
+      "personnages": [
+        {
+          "nom": "Lalla Aïcha",
+          "role": "Ancienne voisine et amie intime de Lalla Zoubida",
+          "statut": "Chérifa",
+          "description": "Soutient son mari lors de sa faillite en vendant ses bijoux, puis subit son second mariage."
+        },
+        {
+          "nom": "Moulay Larbi",
+          "profession": "Babouchier",
+          "description": "Mari de Lalla Aïcha. Victime de la trahison de son associé Abdelkader, il épouse temporairement la fille du coiffeur."
+        },
+        {
+          "nom": "Abdelkader",
+          "role": "Ancien apprenti et associé",
+          "description": "Trahit Moulay Larbi en contestant la propriété de l'atelier de babouches."
+        }
+      ]
+    },
+    {
+      "id": "monde_du_msid",
+      "nom": "4. Le monde du Msid",
+      "description": "L'école coranique fréquentée par Sidi Mohammed",
+      "personnages": [
+        {
+          "nom": "Le Fqih",
+          "role": "Maître de l'école coranique",
+          "description": "Homme sévère armé d'une baguette de cognassier, craint par les élèves, mais célébré lors de l'Achoura."
+        },
+        {
+          "nom": "Hammoussa (Azouz Berrada)",
+          "role": "Camarade de classe",
+          "description": "Élève très petit et très vif, délégué par le Fqih pour des petites tâches."
+        }
+      ]
+    },
+    {
+      "id": "figures_quotidien_merveilleux",
+      "nom": "5. Figures du quotidien et du merveilleux",
+      "description": "Artisans, voyants, conteurs et serviteurs rythmant la vie du récit",
+      "personnages": [
+        {
+          "nom": "Abdallah l'épicier",
+          "role": "Conteur fascinant",
+          "description": "Épicier qui raconte des histoires fantastiques captivant l'imagination du jeune narrateur."
+        },
+        {
+          "nom": "Si Abderrahmane",
+          "profession": "Coiffeur et saigneur",
+          "description": "Coiffeur du père, redouté par Sidi Mohammed qui craint ses instruments."
+        },
+        {
+          "nom": "Sidi El Arafi",
+          "role": "Voyant aveugle",
+          "description": "Consulté par Lalla Zoubida et Lalla Aïcha pour trouver réconfort pendant l'absence du père."
+        },
+        {
+          "nom": "Salama",
+          "role": "Marieuse professionnelle",
+          "description": "Arrange le second mariage de Moulay Larbi avant de regretter son acte et d'aider à résoudre la situation."
+        },
+        {
+          "nom": "Driss le Teigneux",
+          "role": "Serviteur / Apprenti",
+          "description": "Apprenti fidèle et dévoué de Maâlem Abdeslam qui aide la famille au quotidien."
+        },
+        {
+          "nom": "Lalla Khadija & L'Oncle Othman",
+          "role": "Vieux couple de la Médina",
+          "description": "Leur histoire conjugale pittoresque est racontée lors d'une réunion entre femmes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "bankTitle": "Lexique et Vocabulaire de La Boîte à merveilles",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional",
+  "sourceDocument": "Le vocabulaire du souvenir.pdf & examens_corr.pdf",
+  "totalEntries": 45,
+  "entries": [
+    {
+      "id": "vocab_01",
+      "word": "se souvenir de",
+      "definition": "Garder ou faire revenir à l'esprit une impression, un événement ou une personne du passé.",
+      "synonymes": [
+        "se rappeler",
+        "se remémorer"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_02",
+      "word": "se rappeler",
+      "definition": "Remettre dans sa mémoire une chose passée.",
+      "synonymes": [
+        "se souvenir de",
+        "se remémorer"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_03",
+      "word": "se remémorer",
+      "definition": "Repasser dans son esprit des faits anciens avec un effort de mémoire.",
+      "synonymes": [
+        "se souvenir de",
+        "se rappeler"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_04",
+      "word": "graver un souvenir",
+      "definition": "Inscrire profondément un événement ou une image dans son esprit de façon ineffaçable.",
+      "synonymes": [
+        "imprimer dans l’esprit",
+        "conserver en mémoire"
+      ],
+      "context": "« Ma mémoire était une cire fraîche et les événements s’y gravaient en images ineffaçables. »",
+      "chapterId": "chapitre-1",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_05",
+      "word": "mémoire fraîche (ou cire fraîche)",
+      "definition": "Qualité d'une mémoire jeune et très réceptive, capable d'enregistrer fidèlement les impressions d'enfance.",
+      "synonymes": [
+        "mémoire fidèle"
+      ],
+      "context": "« Ma mémoire était une cire fraîche... »",
+      "chapterId": "chapitre-1",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_06",
+      "word": "évoquer / évocation",
+      "definition": "Rappeler à la conscience un souvenir, une image ou une émotion du passé.",
+      "synonymes": [
+        "raviver la mémoire",
+        "rappeler un souvenir"
+      ],
+      "context": "Le narrateur-adulte évoque son enfance passée à l'ancienne Médina de Fès.",
+      "chapterId": null,
+      "source": "Brefs résumés.pdf / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_07",
+      "word": "nostalgie",
+      "definition": "Regret mélancolique d'une époque écoulée, caractérisant le regard de l'adulte sur ses tendres années d'enfance.",
+      "synonymes": [
+        "mélancolie",
+        "regrets"
+      ],
+      "context": "« La nostalgie orne le récit de couleurs, de parfums et de tendresse. »",
+      "chapterId": null,
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_08",
+      "word": "mélancolie / mélancolique",
+      "definition": "État de tristesse douce et rêveuse provoqué par le sentiment d'isolement ou le rappel du passé.",
+      "synonymes": [
+        "nostalgie",
+        "amertume"
+      ],
+      "context": "« La solitude et la mélancolie incitent le narrateur-adulte à faire un retour en arrière... »",
+      "chapterId": null,
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_09",
+      "word": "amertume / goût amer",
+      "definition": "Sentiment de tristesse mêlé de ressentiment lié à un souvenir douloureux ou une déception.",
+      "synonymes": [
+        "regrets"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_10",
+      "word": "tendres années",
+      "definition": "Période de la petite enfance caractérisée par l'innocence et la fragilité affective.",
+      "synonymes": [
+        "temps de l’innocence",
+        "jeunes années"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_11",
+      "word": "captiver / fasciner",
+      "definition": "Éveiller un intérêt passionné, exercer une forte attraction sur l'esprit ou l'imagination.",
+      "synonymes": [
+        "émouvoir",
+        "faire vibrer"
+      ],
+      "context": "« Un enfant fasciné par les contes d’Abdallah, l’épicier et les récits de son père... »",
+      "chapterId": "chapitre-1",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_12",
+      "word": "souvenir confus / vague",
+      "definition": "Souvenir flou dont les contours manquent de clarté dans la mémoire.",
+      "synonymes": null,
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_13",
+      "word": "souvenir mémorable",
+      "definition": "Événement ou impression remarquable qui reste gravé durablement dans la mémoire.",
+      "synonymes": [
+        "chose mémorable"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_14",
+      "word": "perpétuer le souvenir",
+      "definition": "Faire durer la mémoire d'un événement ou d'une personne à travers le temps.",
+      "synonymes": [
+        "raviver la mémoire"
+      ],
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_15",
+      "word": "éducation stricte / sévère",
+      "definition": "Mode d'apprentissage et d'imposition de la discipline caractérisé par la rigueur et l'autorité.",
+      "synonymes": null,
+      "context": null,
+      "chapterId": null,
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_16",
+      "word": "lugubre",
+      "definition": "Triste et inquiétant.",
+      "synonymes": [
+        "sombre",
+        "sinistre"
+      ],
+      "context": "« ...la pièce paraissait lugubre avec toutes ces ombres qui s’amassaient dans les angles. »",
+      "chapterId": "chapitre-3",
+      "source": "examens_corr.pdf (Examen Chapitre 3)",
+      "verified": false
+    },
+    {
+      "id": "vocab_17",
+      "word": "habileté",
+      "definition": "Qualité d’une personne intelligente et adroite.",
+      "synonymes": [
+        "adresse",
+        "finesse"
+      ],
+      "context": "« J’admirais intérieurement l’habileté de ma mère. »",
+      "chapterId": "chapitre-3",
+      "source": "examens_corr.pdf (Examen Chapitre 3)",
+      "verified": false
+    },
+    {
+      "id": "vocab_18",
+      "word": "cabochon",
+      "definition": "Pierre fine ou précieuse en verre taillé sans facettes.",
+      "synonymes": null,
+      "context": "« Je rêvai cette nuit d’une belle flamme blanche que je réussis à tenir prisonnière dans mon cabochon de verre... »",
+      "chapterId": "chapitre-3",
+      "source": "examens_corr.pdf (Examen Chapitre 3) / Le symbolisme de la boîte à merveilles.pdf",
+      "verified": false
+    },
+    {
+      "id": "vocab_19",
+      "word": "faire emplette",
+      "definition": "Acheter un bien ou un objet.",
+      "synonymes": [
+        "faire des achats"
+      ],
+      "context": "« Il avait fait emplette en outre d’une bouteille de pétrole et d’un entonnoir. »",
+      "chapterId": "chapitre-3",
+      "source": "examens_corr.pdf (Examen Chapitre 3)",
+      "verified": false
+    },
+    {
+      "id": "vocab_20",
+      "word": "prospérité",
+      "definition": "Moments heureux, état de bien-être et de réussite.",
+      "synonymes": [
+        "bonheur",
+        "aisance"
+      ],
+      "context": "« La Chouafa qu’on appelait tante Kanza monta admirer notre nouvelle acquisition, nous souhaita toutes sortes de prospérités. »",
+      "chapterId": "chapitre-3",
+      "source": "examens_corr.pdf (Examen Chapitre 3)",
+      "verified": false
+    },
+    {
+      "id": "vocab_21",
+      "word": "faste",
+      "definition": "Déploiement de richesse, de magnificence et d'apparat.",
+      "synonymes": [
+        "richesse",
+        "luxe"
+      ],
+      "context": "« Nous quittâmes cette atmosphère de faste pour nous trouver dans le quartier des épices. »",
+      "chapterId": "chapitre-6",
+      "source": "examens_corr.pdf (Examen Chapitre 6)",
+      "verified": false
+    },
+    {
+      "id": "vocab_22",
+      "word": "acolytes",
+      "definition": "Compagnons ou complices qui aident une personne.",
+      "synonymes": [
+        "compagnons",
+        "complices"
+      ],
+      "context": "« ...lança de nouvelles imprécations contre les chouafas et leurs acolytes... »",
+      "chapterId": "chapitre-6",
+      "source": "examens_corr.pdf (Examen Chapitre 6)",
+      "verified": false
+    },
+    {
+      "id": "vocab_23",
+      "word": "gourmander",
+      "definition": "Blâmer ou gronder quelqu'un avec de la vivacité.",
+      "synonymes": [
+        "gronder",
+        "blâmer"
+      ],
+      "context": "« Elle ne cessa pas de me gourmander sans raison jusqu’à l’arrivée chez nous. »",
+      "chapterId": "chapitre-6",
+      "source": "examens_corr.pdf (Examen Chapitre 6)",
+      "verified": false
+    },
+    {
+      "id": "vocab_24",
+      "word": "imprécations",
+      "definition": "Souhaits de malheur proférés contre quelqu'un.",
+      "synonymes": [
+        "médicances",
+        "maledictions"
+      ],
+      "context": "« ...lança de nouvelles imprécations contre les chouafas... »",
+      "chapterId": "chapitre-6",
+      "source": "examens_corr.pdf (Examen Chapitre 6)",
+      "verified": false
+    },
+    {
+      "id": "vocab_25",
+      "word": "talisman",
+      "definition": "Objet auquel on attribue des vertus magiques de protection et de réconfort.",
+      "synonymes": [
+        "fétiche",
+        "amulette"
+      ],
+      "context": "« L’objet est regardé, contemplé et caressé. Il a une âme et une vertu de talisman. »",
+      "chapterId": null,
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_26",
+      "word": "solitude",
+      "definition": "État d'une personne qui se trouve seule ou se sent isolée, même lorsqu'elle est entourée.",
+      "synonymes": [
+        "isolement",
+        "sentiment d'isolement"
+      ],
+      "context": null,
+      "chapterId": "chapitre-1",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_27",
+      "word": "promiscuité",
+      "definition": "Cohabitation rapprochée de plusieurs personnes dans un espace restreint, parfois source de gêne ou de conflits.",
+      "synonymes": [
+        "voisinage étroit",
+        "entassement"
+      ],
+      "context": null,
+      "chapterId": "chapitre-1",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_28",
+      "word": "querelle",
+      "definition": "Discussion vive ou dispute entre plusieurs personnes.",
+      "synonymes": [
+        "dispute",
+        "altercation"
+      ],
+      "context": null,
+      "chapterId": "chapitre-1",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_29",
+      "word": "sanctuaire",
+      "definition": "Lieu consacré au culte ou à la prière, souvent associé à un saint.",
+      "synonymes": [
+        "lieu sacré",
+        "mausolée"
+      ],
+      "context": null,
+      "chapterId": "chapitre-2",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_30",
+      "word": "baraka",
+      "definition": "Bénédiction ou grâce spirituelle à laquelle la tradition populaire attribue une force bénéfique.",
+      "synonymes": [
+        "bénédiction",
+        "grâce"
+      ],
+      "context": null,
+      "chapterId": "chapitre-2",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_31",
+      "word": "aumône",
+      "definition": "Don, souvent matériel ou alimentaire, offert à une personne dans le besoin par charité ou solidarité.",
+      "synonymes": [
+        "offrande",
+        "charité"
+      ],
+      "context": null,
+      "chapterId": "chapitre-3",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_32",
+      "word": "cortège funèbre",
+      "definition": "Groupe de personnes qui accompagne le cercueil lors des obsèques.",
+      "synonymes": [
+        "convoi funéraire",
+        "cortège mortuaire"
+      ],
+      "context": null,
+      "chapterId": "chapitre-5",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_33",
+      "word": "deuil",
+      "definition": "État de tristesse et période de douleur ressentis après la mort d'une personne.",
+      "synonymes": [
+        "chagrin",
+        "affliction"
+      ],
+      "context": null,
+      "chapterId": "chapitre-5",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_34",
+      "word": "dévouement",
+      "definition": "Disposition à aider une personne avec fidélité, générosité et abnégation.",
+      "synonymes": [
+        "abnégation",
+        "générosité"
+      ],
+      "context": null,
+      "chapterId": "chapitre-5",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_35",
+      "word": "Kissaria",
+      "definition": "Marché couvert traditionnel, notamment consacré aux tissus et aux vêtements.",
+      "synonymes": [
+        "marché couvert",
+        "souk"
+      ],
+      "context": null,
+      "chapterId": "chapitre-6",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_36",
+      "word": "effervescence",
+      "definition": "Agitation vive et animée, souvent causée par l'enthousiasme ou l'approche d'un événement.",
+      "synonymes": [
+        "animation",
+        "bouillonnement"
+      ],
+      "context": null,
+      "chapterId": "chapitre-7",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_37",
+      "word": "présage",
+      "definition": "Signe auquel on attribue la capacité d'annoncer un événement futur, heureux ou malheureux.",
+      "synonymes": [
+        "signe avant-coureur",
+        "augure"
+      ],
+      "context": null,
+      "chapterId": "chapitre-8",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_38",
+      "word": "ingratitude",
+      "definition": "Manque de reconnaissance envers une personne qui a apporté aide ou bienfaits.",
+      "synonymes": [
+        "manque de gratitude",
+        "absence de reconnaissance"
+      ],
+      "context": null,
+      "chapterId": "chapitre-8",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_39",
+      "word": "moissonneur",
+      "definition": "Personne qui récolte les céréales dans les champs, généralement à l'aide d'une faucille ou d'une machine.",
+      "synonymes": [
+        "ouvrier agricole",
+        "récoltant"
+      ],
+      "context": null,
+      "chapterId": "chapitre-9",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_40",
+      "word": "détresse",
+      "definition": "État de grande souffrance morale ou de difficulté matérielle.",
+      "synonymes": [
+        "désarroi",
+        "dénuement"
+      ],
+      "context": null,
+      "chapterId": "chapitre-9",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_41",
+      "word": "amulette",
+      "definition": "Petit objet auquel on attribue une vertu protectrice ou porte-bonheur.",
+      "synonymes": [
+        "talisman",
+        "porte-bonheur"
+      ],
+      "context": null,
+      "chapterId": "chapitre-10",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_42",
+      "word": "récit enchâssé",
+      "definition": "Récit secondaire raconté à l'intérieur d'une histoire principale.",
+      "synonymes": [
+        "récit dans le récit",
+        "narration secondaire"
+      ],
+      "context": null,
+      "chapterId": "chapitre-11",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_43",
+      "word": "répudiation",
+      "definition": "Rupture du mariage prononcée par le mari dans certains cadres juridiques ou traditionnels.",
+      "synonymes": [
+        "divorce",
+        "dissolution du mariage"
+      ],
+      "context": null,
+      "chapterId": "chapitre-11",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_44",
+      "word": "apaisement",
+      "definition": "Retour au calme après une période de tension, de douleur ou d'inquiétude.",
+      "synonymes": [
+        "soulagement",
+        "accalmie"
+      ],
+      "context": null,
+      "chapterId": "chapitre-12",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    },
+    {
+      "id": "vocab_45",
+      "word": "dénouement",
+      "definition": "Partie finale d'un récit où les principaux conflits trouvent leur résolution.",
+      "synonymes": [
+        "conclusion",
+        "issue"
+      ],
+      "context": null,
+      "chapterId": "chapitre-12",
+      "source": "Vocabulaire complémentaire – ajout pédagogique",
+      "verified": false
+    }
+  ]
+}

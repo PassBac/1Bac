@@ -1,0 +1,3232 @@
+[
+  {
+    "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+    "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+    "chapterId": "chapitre-1",
+    "chapterTitle": "Chapitre I : La solitude, Dar Chouafa, le bain maure et la dispute",
+    "totalQuestions": 18,
+    "questions": [
+      {
+        "id": "ch1_q01",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Quels sont les deux éléments majeurs qui déclenchent le récit dès l'ouverture du roman ?",
+        "options": [
+          "La fête de l'Achoura et la perte du capital",
+          "La nuit et le poids de la solitude",
+          "La dispute avec Rahma et le départ du père",
+          "La visite du sanctuaire et la maladie du narrateur"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le récit s'ouvre sur la prise de conscience du narrateur adulte/enfant de son état de solitude nocturne : « moi, je ne dors pas. Je songe à ma solitude et j'en sens tout le poids ».",
+        "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q02",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Qui est la voyante qui occupe le rez-de-chaussée de Dar Chouafa et qui a donné son nom à la maison ?",
+        "options": [
+          "Fatma Bziouya",
+          "Lalla Aïcha",
+          "Lalla Kenza (Tante Kenza)",
+          "Rahma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lalla Kenza, appelée aussi Tante Kenza, est la voyante (Chouafa) qui loue le rez-de-chaussée et fait office de principale locataire de Dar Chouafa.",
+        "source": "personnages.pdf / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q03",
+        "chapterId": "chapitre-1",
+        "type": "vrai_faux",
+        "question": "Au début du roman dans le Chapitre I, le narrateur-personnage Sidi Mohammed est âgé de sept ans.",
+        "correctAnswer": false,
+        "explanation": "Toutes les fiches repères et analyses confirment que le narrateur-enfant est âgé de six ans au début de l'histoire.",
+        "source": "fiche-de-lecture-rapide.pdf / Analyse de la boîte à merveilles.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q04",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Qui sont les habitants qui occupent le premier étage de la maison Dar Chouafa ?",
+        "options": [
+          "La voyante Lalla Kenza et ses clientes",
+          "Rahma, son mari Driss El Aouad et leur fille Zineb",
+          "La famille du narrateur et Fatma Bziouya",
+          "Lalla Aïcha et son mari Moulay Larbi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le premier étage de Dar Chouafa est occupé par la famille de Rahma, son époux Driss El Aouad (fabricant de charrues) et leur fille Zineb.",
+        "source": "personnages.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q05",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Quel métier exerce Maâlem Abdeslam, le père du jeune narrateur ?",
+        "options": [
+          "Fabricant de charrues",
+          "Coiffeur-barbier",
+          "Tisserand",
+          "Jardinier"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Maâlem Abdeslam est un maître tisserand (fabricant de tissus) installé dans la médina de Fès.",
+        "source": "personnages.pdf / fiche-de-lecture-rapide.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q06",
+        "chapterId": "chapitre-1",
+        "type": "vrai_faux",
+        "question": "Pour le jeune Sidi Mohammed, la séance au bain maure avec sa mère constitue un moment de joie et de détente ludique.",
+        "correctAnswer": false,
+        "explanation": "Le narrateur s'ennuie au milieu des femmes dans cet espace chaud, bruyant et plein de vapeur qu'il assimilait purement et simplement à l'Enfer.",
+        "source": "Résumé chapitre par chapitre.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q07",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Quel événement dramatique et spectaculaire vient troubler la fin du premier chapitre ?",
+        "options": [
+          "Une dispute violente entre Lalla Zoubida et sa voisine Rahma",
+          "La disparition mystérieuse de la petite Zineb dans le souk",
+          "Un incendie déclaré dans la cuisine du deuxième étage",
+          "Une altercation verbale entre Maâlem Abdeslam et le fqih du Msid"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Le chapitre I se termine par une querelle spectaculaire dans le patio entre Lalla Zoubida (mère du narrateur) et Rahma.",
+        "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q08",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Quelle est l'origine exacte de la dispute entre Lalla Zoubida et Rahma le lundi ?",
+        "options": [
+          "Le vol d'un bijou de la Boîte à merveilles par Zineb",
+          "L'utilisation de l'espace de lessive un jour habituellement réservé à une autre voisine",
+          "Une insulte adressée par Driss El Aouad à Maâlem Abdeslam",
+          "Le refus de prêter une marmite en cuivre pour le repas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le lundi étant le jour de lessive réservé à Lalla Zoubida, l'initiative de Rahma de faire sa lessive ce jour-là déclenche une violente dispute.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Analyse de la boîte à merveilles.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q09",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Rôle et fonction symbolique : que représente la Boîte à merveilles pour Sidi Mohammed ?",
+        "options": [
+          "Un simple jouet d'enfant sans grande importance pratique",
+          "Un refuge secret et un talisman contenant des amitiés invisibles pour échapper à la solitude et au monde des adultes",
+          "Une réserve d'outils de couture prêtée par sa mère",
+          "Une boîte magique confiée par la Chouafa pour pratiquer des rituels"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La boîte à merveilles contient des objets hétéroclites sans valeur matérielle mais métamorphosés par l'imagination de l'enfant en trésors et compagnons réconfortants contre le chagrin et la solitude.",
+        "source": "Le symbolisme de la boîte à merveilles.pdf / fiche-de-lecture-rapide.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q10",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Analyse de la langue : dans l'expression « Ma mémoire était une cire fraîche », quelle figure de style est employée ?",
+        "options": [
+          "Une comparaison avec outil de comparaison",
+          "Une métaphore assimilant directement la mémoire à la cire",
+          "Une hyperbole exagérant la capacité d'oubli",
+          "Une antiphrase ironique"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Il s'agit d'une métaphore directe sans outil de comparaison, traduisant la malléabilité et la fidélité des souvenirs enregistrés dès l'enfance.",
+        "source": "Analyse de la boîte à merveilles.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch1_q11",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Quels personnages contribuent le plus à nourrir l'univers fabuleux et fantastique du jeune narrateur dans ce premier chapitre ?",
+        "options": [
+          "Le Fqih du Msid et la caissière du bain maure Lalla Fattoum",
+          "Kenza la voyante par ses rituels, Abdallah l'épicier par ses contes et le père par ses récits sur l'au-delà",
+          "Driss El Aouad et Allal le jardinier par leurs récits de métier",
+          "Zineb et les enfants du quartier par leurs jeux de rue"
+        ],
+        "correctAnswer": 1,
+        "explanation": "L'ordre de découverte des personnages montre que la voyante Kenza, Abdallah l'épicier et les discours du père sur l'enfer et le paradis nourrissent la féerie et l'imaginaire de l'enfant.",
+        "source": "Analyse de la boîte à merveilles.pdf, p. 2 / fiche-de-lecture-rapide.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q12",
+        "chapterId": "chapitre-1",
+        "type": "vrai_faux",
+        "question": "Sidi Mohammed éprouve une grande sympathie et de l'affection pour sa petite voisine Zineb.",
+        "correctAnswer": false,
+        "explanation": "Les sources indiquent explicitement qu'il existe une relation conflictuelle entre Sidi Mohammed et Zineb, le narrateur éprouvant du mépris à son égard.",
+        "source": "fiche-de-lecture-rapide.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q13",
+        "chapterId": "chapitre-1",
+        "type": "comprehension",
+        "question": "Pourquoi le jeune Sidi Mohammed se sent-il seul et différent des autres enfants du voisinage dès le début du roman ?",
+        "expectedAnswer": "Sidi Mohammed est un enfant fragile, rêveur et solitaire. Contrairement aux enfants de son âge qui s'amusent avec des jeux ordinaires dans la rue, il préfère le monde de l'invisible, la féerie des contes et le refuge secret de sa Boîte à merveilles.",
+        "gradingCriteria": [
+          "Mentionner les traits de caractère du personnage : solitaire, rêveur, fragile",
+          "Opposer sa recherche du monde invisible/féerique aux jeux habituels des enfants ordinaires",
+          "Évoquer le rôle de la Boîte à merveilles comme refuge intérieur"
+        ],
+        "explanation": "Le portrait initial montre un enfant en décalage avec son entourage, cherchant le réconfort dans un univers poétique personnel.",
+        "source": "Résumé chapitre par chapitre.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q14",
+        "chapterId": "chapitre-1",
+        "type": "evenement_chronologie",
+        "question": "Décrivez la trajectoire spatiale et l'enchaînement des événements principaux racontés dans le Chapitre I.",
+        "expectedAnswer": "1. Méditation sur la solitude dans la chambre familiale de Dar Chouafa ; 2. Présentation guidée de la maison Dar Chouafa (rez-de-chaussée de la voyante, 1er et 2ème étages) ; 3. Évocation du Msid et des récits fantastiques ; 4. Récit de la visite désagréable au bain maure avec la mère ; 5. Retour à la maison et grande dispute entre Lalla Zoubida et Rahma dans le patio.",
+        "gradingCriteria": [
+          "Situer le départ à Dar Chouafa et la description des habitants",
+          "Mentionner l'épisode du bain maure",
+          "Terminer obligatoirement par la dispute entre Lalla Zoubida et Rahma"
+        ],
+        "explanation": "Le chapitre I alterne entre descriptions fixes du cadre de vie et récits d'expériences personnelles (bain maure, dispute familiale).",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q15",
+        "chapterId": "chapitre-1",
+        "type": "vocabulaire_contexte",
+        "question": "Parmi la liste de termes liés au souvenir, quel sentiment mélancolique caractérise le regard de l'adulte revenant sur ses tendres années d'enfance ?",
+        "options": [
+          "La nostalgie",
+          "L'amertume",
+          "L'aversion",
+          "Le dépit"
+        ],
+        "correctAnswer": 0,
+        "explanation": "La nostalgie colore le récit autobiographique d'une tendre mélancolie à travers le souvenir des parfums, couleurs et émotions de la jeunesse.",
+        "source": "Le vocabulaire du souvenir.pdf / Analyse de la boîte à merveilles.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch1_q16",
+        "chapterId": "chapitre-1",
+        "type": "vrai_faux",
+        "question": "Maâlem Abdeslam et Lalla Zoubida sont nés et ont toujours vécu au cœur de la Médina de Fès.",
+        "correctAnswer": false,
+        "explanation": "Les fiches de personnages indiquent que le père Maâlem Abdeslam est d'origine montagnarde (d'un village situé à une cinquantaine de kilomètres de Fès) et s'est installé en ville avec sa famille.",
+        "source": "personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q17",
+        "chapterId": "chapitre-1",
+        "type": "qcm",
+        "question": "Selon la fiche descriptive des personnages, quel est l'âge exact attribué à Lalla Zoubida, la mère du narrateur ?",
+        "options": [
+          "20 ans",
+          "30 ans",
+          "35 ans",
+          "40 ans"
+        ],
+        "correctAnswer": 0,
+        "explanation": "La fiche des personnages précise que Lalla Zoubida est âgée de 20 ans, tout en se comportant déjà comme une femme âgée.",
+        "source": "personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch1_q18",
+        "chapterId": "chapitre-1",
+        "type": "themes_symboles",
+        "question": "En vous appuyant sur l'inventaire précis des documents, nommez au moins quatre objets insolites contenus dans la Boîte à merveilles de Sidi Mohammed.",
+        "expectedAnswer": "Des boutons (de porcelaine, décorés ou non), des clous à tête dorée, des boules de verre, des anneaux de cuivre, un minuscule cadenas sans clef, des encriers vides, des épingles, un cabochon en verre.",
+        "gradingCriteria": [
+          "Citer au moins 4 objets exacts de la liste issue des sources",
+          "Mettre en évidence leur caractère hétéroclite et ordinaire"
+        ],
+        "explanation": "La boîte contient des objets matériels pauvres et ordinaires que l'imagination magique du jeune garçon transforme en trésors uniques.",
+        "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+    "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+    "chapterId": "chapitre-2",
+    "chapterTitle": "Chapitre II : Le Msid, le mardi néfaste, la visite au mausolée de Sidi Ali Boughaleb et le cabochon de verre",
+    "totalQuestions": 18,
+    "questions": [
+      {
+        "id": "ch2_q01",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Pourquoi le mardi est-il considéré par les élèves du Msid comme une journée particulièrement redoutée ?",
+        "options": [
+          "C'est le jour du nettoyage complet de l'école coranique",
+          "C'est le jour consacré à la récitation des versets du Coran devant le Fqih",
+          "C'est le seul jour où les parents assistent aux cours",
+          "C'est le jour où l'école reste fermée pour congé"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le mardi est le jour néfaste au Msid car les élèves doivent réciter la partie du Coran apprise pendant la semaine sous le regard sévère du Fqih armé de sa baguette de cognassier.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q02",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quelle amie proche rend visite à Lalla Zoubida le mardi où Sidi Mohammed rentre malade et souffrant du Msid ?",
+        "options": [
+          "Fatma Bziouya",
+          "Rahma",
+          "Lalla Aïcha",
+          "Lalla Kenza"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lalla Aïcha, ancienne voisine et chère amie de Lalla Zoubida, vient lui rendre visite et constate l'état de santé affaibli du jeune garçon.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q03",
+        "chapterId": "chapitre-2",
+        "type": "vrai_faux",
+        "question": "Lalla Aïcha conseille à Lalla Zoubida de conduire Sidi Mohammed au mausolée de Sidi Ali Boughaleb pour favoriser sa guérison.",
+        "correctAnswer": true,
+        "explanation": "Lalla Aïcha conseille d'emmener l'enfant au sanctuaire de Sidi Ali Boughaleb afin qu'il y buve de l'eau bénite de la Zaouïa et retrouve sa santé et sa gaieté.",
+        "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q04",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quel incident physique survient lors de la visite du narrateur au mausolée de Sidi Ali Boughaleb ?",
+        "options": [
+          "Il perd sa babouche dans la foule des pèlerins",
+          "Il se fait griffer par un chat du sanctuaire",
+          "Il fait une chute dans la cour de la Zaouïa",
+          "Il s'égare dans les ruelles menant au mausolée"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Durant la visite du mausolée de Sidi Ali Boughaleb, le jeune Sidi Mohammed se fait griffer par un chat qui rôde dans le sanctuaire.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf (Chapitre II)",
+        "verified": false
+      },
+      {
+        "id": "ch2_q05",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Qui assure habituellement les courses du ménage pour la famille de Maâlem Abdeslam ?",
+        "options": [
+          "Son épouse Lalla Zoubida",
+          "Son apprenti et commis, Driss le teigneux",
+          "La voyante Lalla Kenza",
+          "Le jardinier Allal"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le commis du Maâlem Abdeslam, Driss (surnommé le teigneux), est chargé d'effectuer les achats quotidiens et d'apporter le couffin de provisions à la maison.",
+        "source": "Résumé chapitre par chapitre.pdf / examens_corr.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q06",
+        "chapterId": "chapitre-2",
+        "type": "vrai_faux",
+        "question": "Au début du récit (Chapitre II), la famille du narrateur vit dans la misère et ne mange pas à sa faim.",
+        "correctAnswer": false,
+        "explanation": "Les sources indiquent qu'au Chapitre II, la famille du narrateur ne connaissait pas les difficultés des autres ménages et jouissait d'un certain confort que les autres jalousaient.",
+        "source": "Résumé chapitre par chapitre.pdf (Chapitre II)",
+        "verified": false
+      },
+      {
+        "id": "ch2_q07",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quel objet réconfortant est offert au narrateur par sa voisine Rahma au cours du Chapitre II ?",
+        "options": [
+          "Une chaînette de cuivre",
+          "Un cabochon / bout de verre taillé",
+          "Un bouton en porcelaine décoré",
+          "Une petite boîte en bois de cèdre"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rahma offre à Sidi Mohammed un bout de verre taillé (cabochon), objet qu'il contemple avec émerveillement et ajoute aussitôt à sa Boîte à merveilles.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Le symbolisme de la boîte à merveilles.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q08",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quel moment de répit consécutif à sa maladie et à la visite au sanctuaire Sidi Mohammed passe-t-il à la maison ?",
+        "options": [
+          "Le lundi",
+          "Le mercredi matin",
+          "Le vendredi après-midi",
+          "Le dimanche"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Après les événements éprouvants du mardi (Msid et mausolée), le jeune narrateur profite d'une matinée de repos à la maison le mercredi matin.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf (Chapitre II)",
+        "verified": false
+      },
+      {
+        "id": "ch2_q09",
+        "chapterId": "chapitre-2",
+        "type": "comprehension",
+        "question": "Comment le jeune narrateur perçoit-il le Fqih du Msid et quelle est la cause principale de ses cauchemars ?",
+        "expectedAnswer": "Sidi Mohammed perçoit le Fqih comme un homme autoritaire et coléreux. Le regard sévère du maître et les coups distribués au hasard avec sa baguette de cognassier provoquent chez l'enfant de grands cauchemars et une profonde souffrance.",
+        "gradingCriteria": [
+          "Décrire le portrait moral du Fqih (autoritaire, coléreux, sévère)",
+          "Mentionner l'instrument de punition (la baguette de cognassier)",
+          "Expliquer l'impact psychologique sur l'enfant (cauchemars, peur, sentiment d'hostilité)"
+        ],
+        "explanation": "Le Msid apparaît au jeune garçon comme un lieu de contrainte et de punition corporelle incarné par la figure menaçante du Fqih.",
+        "source": "Résumé chapitre par chapitre.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q10",
+        "chapterId": "chapitre-2",
+        "type": "evenement_chronologie",
+        "question": "Résumez l'enchaînement chronologique des événements majeurs racontés dans le Chapitre II.",
+        "expectedAnswer": "1. Épreuve du mardi au Msid sous le regard sévère du Fqih ; 2. Retour de l'enfant malade et fiévreux chez sa mère ; 3. Visite de Lalla Aïcha qui propose un pèlerinage au sanctuaire ; 4. Visite au mausolée de Sidi Ali Boughaleb, prières et griffure du chat ; 5. Repos du mercredi matin et don du bout de verre par Rahma.",
+        "gradingCriteria": [
+          "Démarrer par la journée du mardi au Msid",
+          "Placer la visite de Lalla Aïcha suite à la maladie de l'enfant",
+          "Mentionner la visite au sanctuaire de Sidi Ali Boughaleb",
+          "Conclure par le repos du mercredi et l'enrichissement de la Boîte à merveilles"
+        ],
+        "explanation": "Le chapitre suit un parcours thérapeutique de la souffrance subie au Msid vers la recherche de réconfort spirituel au mausolée.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q11",
+        "chapterId": "chapitre-2",
+        "type": "vocabulaire_contexte",
+        "question": "Que signifie la qualification de « jour néfaste » attribuée au mardi par le narrateur ?",
+        "options": [
+          "Un jour de fête et de réjouissance populaire",
+          "Un jour marqué par le malheur, la peur ou la souffrance",
+          "Un jour de repos obligatoire décrété par la ville",
+          "Un jour de grand marché dans la médina"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Un jour néfaste est un jour défavorable, associé dans l'esprit de l'enfant aux épreuves d'évaluation au Msid sous la menace de la baguette de cognassier.",
+        "source": "Le vocabulaire du souvenir.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q12",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "À quelle cause Lalla Zoubida attribue-t-elle la maladie soudaine et la fièvre de son fils le mardi ?",
+        "options": [
+          "À l'eau froide consommée au bain maure",
+          "Au mauvais œil et à la jalousie d'autrui",
+          "À la fatigue causée par la dispute de la veille",
+          "À un mauvais repas consommé au marché"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lalla Zoubida, très superstitieuse, attribue régulièrement les maux de son fils au mauvais œil (l'envie) porté sur sa famille.",
+        "source": "personnages.pdf / examens_corr.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q13",
+        "chapterId": "chapitre-2",
+        "type": "vrai_faux",
+        "question": "Lalla Aïcha est une ancienne voisine de Lalla Zoubida résidant à l'impasse de Zenkat Hajjama.",
+        "correctAnswer": true,
+        "explanation": "Les fiches descriptives des personnages confirment que Lalla Aïcha vit à l'impasse de Zenkat Hajjama (rue Hajjama).",
+        "source": "personnages.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch2_q14",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quelles manifestations spirituelles caractérisent l'ambiance intérieure de la Zaouïa de Sidi Ali Boughaleb ?",
+        "options": [
+          "Des spectacles de musique et de danses profane",
+          "Des oraisons, des prières récitées et des invocations",
+          "Des débats juridiques entre savants de la ville",
+          "Un silence absolu imposé aux fidèles"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le résumé du chapitre II indique que le sanctuaire résonnait d'oraisons, de prières et d'invocations ferventes adressées au saint pèlerin.",
+        "source": "Résumé chapitre par chapitre.pdf (Chapitre II)",
+        "verified": false
+      },
+      {
+        "id": "ch2_q15",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Comment Lalla Zoubida accueille-t-elle son amie Lalla Aïcha lorsqu'elle lui rend visite ?",
+        "options": [
+          "En se plaignant de ses maux et en décrivant la souffrance de son fils",
+          "En lui refusant l'accès à sa chambre à cause de la fatigue",
+          "En fêtant joyeusement la réconciliation avec Rahma",
+          "En lui demandant conseil pour acheter une nouvelle lampe"
+        ],
+        "correctAnswer": 0,
+        "explanation": "À l'arrivée de son amie, Lalla Zoubida lui fait part de sa santé fragile et de l'état fiévreux du jeune Sidi Mohammed.",
+        "source": "Résumé chapitre par chapitre.pdf (Chapitre II)",
+        "verified": false
+      },
+      {
+        "id": "ch2_q16",
+        "chapterId": "chapitre-2",
+        "type": "qcm",
+        "question": "Quel rôle psychologique la Boîte à merveilles joue-t-elle pour l'enfant lorsqu'il rentre affaibli ou triste ?",
+        "options": [
+          "Elle lui fait peur et augmente sa fièvre",
+          "Elle lui sert d'instrument pour faire du bruit",
+          "Elle constitue un refuge secret et apaisant pour s'évader de la réalité",
+          "Elle contient des objets d'école pour réviser ses leçons"
+        ],
+        "correctAnswer": 2,
+        "explanation": "La Boîte à merveilles est le sanctuaire imaginaire de l'enfant : la contemplation de ses trésors lui permet d'échapper à la solitude et aux souffrances du monde extérieur.",
+        "source": "Le symbolisme de la boîte à merveilles.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q17",
+        "chapterId": "chapitre-2",
+        "type": "comprehension",
+        "question": "Pourquoi le petit Sidi Mohammed ressent-il un sentiment d'hostilité du monde extérieur durant ses matinées au Msid ?",
+        "expectedAnswer": "Sidi Mohammed est un enfant fragile, rêveur et sensible. L'atmosphère rigide du Msid, le bruit assourdissant des récitations et la menace constante de la baguette de cognassier du Fqih heurtent son univers intérieur et lui font percevoir le monde extérieur comme hostile.",
+        "gradingCriteria": [
+          "Souligner la sensibilité poétique et la fragilité de l'enfant",
+          "Opposer son univers intérieur aux contraintes de l'école coranique",
+          "Mentionner la peur du Fqih et des punitions corporelles"
+        ],
+        "explanation": "Le contraste entre l'imagination poétique de l'enfant et la sévérité de l'enseignement traditionnel crée un sentiment de souffrance et d'isolement.",
+        "source": "Brefs résumés.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch2_q18",
+        "chapterId": "chapitre-2",
+        "type": "themes_symboles",
+        "question": "Quel aspect de la culture marocaine traditionnelle ressort à travers le pèlerinage au mausolée de Sidi Ali Boughaleb ?",
+        "options": [
+          "Le rejet total des traditions religieuses",
+          "La croyance populaire dans la 'baraka' des saints et les vertus guérisseuses des zaouïas",
+          "L'obligation légale de consulter des médecins de l'hôpital",
+          "L'interdiction d'amener les enfants dans les sanctuaires"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La visite au mausolée illustre la médecine traditionnelle et la foi populaire dans la bénédiction ('baraka') des saints marabouts pour soigner les maux physiques et spirituels.",
+        "source": "Brefs résumés.pdf / examens_corr.pdf",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+    "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+    "chapterId": "chapitre-3",
+    "chapterTitle": "Chapitre III : La lampe à pétrole, la disparition de Zineb et le repas des mendiants",
+    "totalQuestions": 18,
+    "questions": [
+      {
+        "id": "ch3_q01",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Quel nouvel objet d'éclairage introduit par Fatma Bziouya suscite la fascination de Lalla Zoubida dans Dar Chouafa ?",
+        "options": [
+          "Un grand lustre en cristal",
+          "Une lampe à pétrole",
+          "Une lanterne en cuivre sculpté",
+          "Une bougie parfumée"
+        ],
+        "correctAnswer": 1,
+        "explanation": "L'acquisition d'une lampe à pétrole par la voisine Fatma Bziouya émerveille Lalla Zoubida, qui pousse son mari Maâlem Abdeslam à en acheter une pour leur chambre.",
+        "source": "Résumé chapitre par chapitre.pdf, p. 1 / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q02",
+        "chapterId": "chapitre-3",
+        "type": "vrai_faux",
+        "question": "Maâlem Abdeslam refuse catégoriquement d'acheter une lampe à pétrole car il la trouve trop chère et inutile.",
+        "correctAnswer": false,
+        "explanation": "Maâlem Abdeslam satisfait la demande de son épouse et rapporte une lampe à pétrole le soir même pour éclairer leur logement.",
+        "source": "Résumé chapitre par chapitre.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch3_q03",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Quel événement dramatique survient au cours de ce chapitre et alerte toute la communauté de Dar Chouafa ?",
+        "options": [
+          "L'incendie de l'atelier de tissage de Maâlem Abdeslam",
+          "La disparition de la petite Zineb dans la foule",
+          "La grave blessure d'Allal le jardinier",
+          "Le vol de la Boîte à merveilles de Sidi Mohammed"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rahma perd sa fille Zineb lors d'une sortie dans la cohue de la ville, déclenchant les pleurs et la panique de la mère.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Brefs résumés.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch3_q04",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Où Zineb est-elle finalement retrouvée saine et sauve grâce aux recherches de Lalla Zoubida et des voisines ?",
+        "options": [
+          "Au bord du fleuve Sebou",
+          "Au Msid auprès du Fqih",
+          "À Dar Kitoun (asile / refuge des enfants perdus près de Moulay Idriss)",
+          "Dans l'échoppe d'Abdallah l'épicier"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Zineb est retrouvée à Dar Kitoun, un refuge réservé aux enfants égarés situé près du sanctuaire de Moulay Idriss.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch3_q05",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Quelle est la conséquence morale et relationnelle majeure de la disparition et des retrouvailles de Zineb ?",
+        "options": [
+          "La rupture définitive entre Lalla Aïcha et Lalla Zoubida",
+          "La réconciliation sincère entre Lalla Zoubida et Rahma qui efface leur dispute passée",
+          "Le départ définitif de Rahma et sa famille de Dar Chouafa",
+          "L'expulsion de la voyante Lalla Kenza par le propriétaire"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Face au malheur de Rahma, Lalla Zoubida oublie immédiatement la rancune nées de la dispute des lessives et s'investit de tout son cœur pour l'aider, marquant leur réconciliation.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q06",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Pour rendre grâce à Dieu (Aumône / Sadaqa) après avoir retrouvé sa fille, quelle initiative Rahma prend-elle ?",
+        "options": [
+          "Elle offre des vêtements neufs aux enfants du quartier",
+          "Elle organise un grand repas charitable pour les pauvres et les mendiants dans le patio",
+          "Elle accomplit un pèlerinage de trois jours à Meknès",
+          "Elle achète un tapis précieux pour la mosquée du quartier"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rahma prépare une grande cérémonie d'aumône (Sadaqa) et réunit les mendiants et aveugles dans le patio de Dar Chouafa pour leur servir un repas chaud.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q07",
+        "chapterId": "chapitre-3",
+        "type": "vrai_faux",
+        "question": "Pendant le repas d'aumône offert aux pauvres, le jeune Sidi Mohammed participe joyeusement aux chants des invités.",
+        "correctAnswer": false,
+        "explanation": "Sidi Mohammed ne partage pas cette joie bruyante : épuisé et ému par la scène, il se sent triste et fond en larmes sans en comprendre la raison exacte.",
+        "source": "Résumé chapitre par chapitre.pdf, p. 1 / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q08",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Vers quoi le petit Sidi Mohammed se tourne-t-il à la fin du chapitre pour retrouver sa sérénité après cette journée agitée ?",
+        "options": [
+          "Vers le jeu de billes avec les garçons de la rue",
+          "Vers le sommeil profond sans rêves",
+          "Vers sa Boîte à merveilles et ses objets magiques",
+          "Vers la lecture des versets du Coran"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Comme à chaque fois qu'il est assailli par des émotions trop lourdes ou la fatigue, le jeune narrateur ouvre sa Boîte à merveilles pour y chercher le réconfort.",
+        "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q09",
+        "chapterId": "chapitre-3",
+        "type": "identification_personnages",
+        "question": "Quel personnage masculin de Dar Chouafa est le mari de Rahma et le père de Zineb ?",
+        "options": [
+          "Allal le jardinier",
+          "Driss El Aouad",
+          "Moulay Larbi",
+          "Driss le teigneux"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Driss El Aouad est le fabricant de charrues, époux de Rahma et père de la petite Zineb.",
+        "source": "personnages.pdf, p. 1",
+        "verified": false
+      },
+      {
+        "id": "ch3_q10",
+        "chapterId": "chapitre-3",
+        "type": "vrai_faux",
+        "question": "La disparition de Zineb montre que la solidarité entre les voisins de Dar Chouafa prime sur les petites querelles quotidiennes.",
+        "correctAnswer": true,
+        "explanation": "L'élan collectif des voisines pour consoler Rahma, chercher l'enfant et préparer le repas d'aumône illustre la valeur fondamentale de la solidarité communautaire.",
+        "source": "Analyse de la boîte à merveilles.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q11",
+        "chapterId": "chapitre-3",
+        "type": "comprehension",
+        "question": "Expliquez comment l'épisode de la disparition de Zineb illustre la valeur de la solidarité dans le roman.",
+        "expectedAnswer": "Lors de la disparition de Zineb, les différends du passé (notamment la querelle des lessives du chapitre I) sont instantanément oubliés. Lalla Zoubida et Fatma Bziouya entourent Rahma, pleurent avec elle, l'accompagnent dans ses recherches à Dar Kitoun et l'aident ensuite à préparer le grand repas d'aumône pour les pauvres.",
+        "gradingCriteria": [
+          "Rappeler l'oubli des disputes antérieures (réconciliation Lalla Zoubida / Rahma)",
+          "Mentionner l'accompagnement physique et moral dans la recherche de l'enfant",
+          "Citer la participation commune à la préparation de la Sadaqa (repas des mendiants)"
+        ],
+        "explanation": "Cet événement met en valeur l'esprit d'entraide et de compassion qui caractérise la communauté traditionnelle fassie dans les moments d'épreuve.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q12",
+        "chapterId": "chapitre-3",
+        "type": "evenement_chronologie",
+        "question": "Remettez dans l'ordre chronologique exact les événements clés du Chapitre III.",
+        "expectedAnswer": "1. L'achat de la lampe à pétrole par la famille du narrateur après celle de Fatma Bziouya ; 2. La disparition soudaine de Zineb lors d'une sortie ; 3. Les recherches et les retrouvailles de Zineb à Dar Kitoun ; 4. L'organisation du repas d'aumône (Sadaqa) pour les pauvres dans le patio ; 5. Les larmes de Sidi Mohammed et son refuge dans la Boîte à merveilles.",
+        "gradingCriteria": [
+          "Placer la lampe à pétrole au début du chapitre",
+          "Situer la disparition puis les retrouvailles à Dar Kitoun au milieu",
+          "Conclure par le repas des mendiants et le retour du narrateur à sa boîte"
+        ],
+        "explanation": "Le chapitre débute par une note de confort domestique (la lampe) avant de basculer dans l'inquiétude (Zineb) puis de revenir au calme spirituel et poétique.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q13",
+        "chapterId": "chapitre-3",
+        "type": "vocabulaire_contexte",
+        "question": "Dans le contexte des traditions religieuses décrites au Chapitre III, que signifie le terme 'Sadaqa' ?",
+        "options": [
+          "Une prière nocturne obligatoire pratiquée au Msid",
+          "Une aumône ou un repas charitable offert aux pauvres pour remercier Dieu",
+          "Un marché annuel de vente de tissus à Fès",
+          "Un contrat de mariage entre deux familles"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La Sadaqa désigne l'aumône bénévole offerte aux démunis et mendiants en signe de gratitude envers la providence divine.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / examens_corr.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q14",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Au début du Chapitre III, à quel endroit Sidi Mohammed retourne-t-il après sa période de maladie ?",
+        "options": [
+          "Au souk des bijoutiers avec sa mère",
+          "Au Msid pour reprendre ses études coraniques",
+          "Au champ avec son père",
+          "À l'échoppe de Moulay Larbi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Une fois rétabli de sa fièvre subie au chapitre II, le jeune garçon reprend le chemin de l'école coranique (le Msid).",
+        "source": "schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q15",
+        "chapterId": "chapitre-3",
+        "type": "themes_symboles",
+        "question": "Que symbolise la 'lampe à pétrole' dans la vie quotidienne des habitants de Dar Chouafa ?",
+        "options": [
+          "Un danger permanent d'incendie dans les chambres",
+          "Un signe de modernisation, de clarté et une pointe de fierté domestique face aux bougies traditionnelles",
+          "Un objet magique réservé exclusivement aux cérémonies de la voyante",
+          "Un outil de travail pour le métier de tisserand"
+        ],
+        "correctAnswer": 1,
+        "explanation": "La lampe à pétrole apporte un éclairage plus vif que les bougies et représente un petit progrès de confort domestique envié par les voisines.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Analyse de la boîte à merveilles.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q16",
+        "chapterId": "chapitre-3",
+        "type": "vrai_faux",
+        "question": "Sidi Mohammed profite de la disparition de Zineb pour affirmer haut et fort sa haine envers elle devant tout le monde.",
+        "correctAnswer": false,
+        "explanation": "Même s'il n'aime pas Zineb, le drame touche la communauté et le jeune garçon ressent la détresse ambiante, pleurant lors du repas d'aumône.",
+        "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q17",
+        "chapterId": "chapitre-3",
+        "type": "qcm",
+        "question": "Quels invités particuliers sont réunis dans le patio de Dar Chouafa pour partager le repas offert par Rahma ?",
+        "options": [
+          "Les marchands du souk des haïks",
+          "Les mendiants et les aveugles de la ville",
+          "Les notables et oulémas de la grande mosquée",
+          "Les compagnons d'apprentissage du Msid"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rahma convie les mendiants et aveugles de Fès à venir manger le repas préparé en action de grâces.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch3_q18",
+        "chapterId": "chapitre-3",
+        "type": "vocabulaire_contexte",
+        "question": "Dans le texte 'schema-des-chapitres-1-2-et-3.pdf', quel adjectif ou sentiment qualifie l'état d'esprit de la mère (Lalla Zoubida) lors de l'achat de la lampe à pétrole ?",
+        "options": [
+          "L'indifférence",
+          "La fierté et la satisfaction domestique",
+          "La honte",
+          "La colère"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lalla Zoubida éprouve de la fierté et de la satisfaction à éclairer sa chambre avec une lampe moderne semblable à celle de Fatma Bziouya.",
+        "source": "schema-des-chapitres-1-2-et-3.pdf",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+    "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+    "chapterId": "chapitre-4",
+    "chapterTitle": "Chapitre IV : Le printemps, la visite à Lalla Aïcha, les ennuis de Moulay Larbi et les contes d'Abdallah l'épicier",
+    "totalQuestions": 18,
+    "questions": [
+      {
+        "id": "ch4_q01",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Quelle saison commence au début du Chapitre IV ?",
+        "options": [
+          "L'hiver",
+          "Le printemps",
+          "L'été",
+          "L'automne"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le chapitre IV marque l'arrivée du printemps, deuxième grande saison qui découpe le roman (chapitres IV à VII).",
+        "source": "Analyse de la boîte à merveilles.pdf, p. 1 / schema-des-chapitres-4-5-et-6.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q02",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Chez qui Lalla Zoubida et son fils Sidi Mohammed se rendent-ils en visite au début de ce chapitre ?",
+        "options": [
+          "Chez Lalla Kenza à Dar Chouafa",
+          "Chez Lalla Aïcha, l'ancienne voisine et amie de la mère",
+          "Chez la marieuse Salama",
+          "Chez Fatma Bziouya"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lalla Zoubida emmène son fils passer la journée chez son ancienne voisine et amie intime, Lalla Aïcha.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q03",
+        "chapterId": "chapitre-4",
+        "type": "vrai_faux",
+        "question": "Lors de cette visite chez Lalla Aïcha, Sidi Mohammed s'amuse joyeusement à des jeux de groupe avec les enfants du quartier.",
+        "correctAnswer": false,
+        "explanation": "Sidi Mohammed ne s'entend pas avec les enfants de la maison (notamment les filles) et se querelle avec eux ; il préfère jouer seul avec sa propre ombre sur la terrasse.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q04",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Quel sujet grave et douloureux Lalla Aïcha confie-t-elle en secret à Lalla Zoubida ?",
+        "options": [
+          "L'intention de son mari de se remarier immédiatement",
+          "Les ennuis financiers de son mari Moulay Larbi trompé et trahi par son associé Abdelkader",
+          "La perte de ses bijoux précieux au souk des potiers",
+          "L'expulsion de leur logement par le propriétaire"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lalla Aïcha révèle à Lalla Zoubida le conflit financier qui oppose son mari Moulay Larbi à son jeune associé Abdelkader, qui a nié avoir reçu de l'argent pour l'atelier de babouches.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q05",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Métier et statut : quelle est la profession exacte de Moulay Larbi, le mari de Lalla Aïcha ?",
+        "options": [
+          "Tisserand de haïks",
+          "Babouchier (fabricant de babouches)",
+          "Coiffeur-barbier",
+          "Marchand de légumes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Moulay Larbi est un artisan babouchier respecté de Fès.",
+        "source": "personnages.pdf / schema-des-chapitres-4-5-et-6.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q06",
+        "chapterId": "chapitre-4",
+        "type": "vrai_faux",
+        "question": "Abdelkader était au départ un simple ouvrier formé et traité comme un fils par Moulay Larbi avant de le trahir.",
+        "correctAnswer": true,
+        "explanation": "Abdelkader était le jeune ouvrier commis de Moulay Larbi, que ce dernier avait formé et soutenu avant que ne survienne le litige financier sur les sommes engagées dans l'atelier.",
+        "source": "personnages.pdf / schema-des-chapitres-4-5-et-6.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q07",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Comment réagit Lalla Zoubida lorsqu'elle apprend les déboires et la trahison subie par le ménage de Lalla Aïcha ?",
+        "options": [
+          "Elle se moque de leur crédulité",
+          "Elle exprime une vive indignation et une profonde compassion envers ses amis",
+          "Elle conseille à Lalla Aïcha de divorcer sur-le-champ",
+          "Elle refuse d'écouter cette histoire familiale"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lalla Zoubida prend fait et cause pour Lalla Aïcha, indignée par l'injustice d'Abdelkader et attristée par le malheur de sa précieuse amie.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q08",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Quel personnage mythique et fascinant est évoqué dans ce chapitre à travers ses récits fantastiques et ses contes pour enfants ?",
+        "options": [
+          "Si Abderrahmane le coiffeur",
+          "Abdallah l'épicier",
+          "Sidi El Arafi le voyant aveugle",
+          "Allal le jardinier"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Abdallah l'épicier est un conteur fascinant dont les récits fabuleux nourrissent l'imaginaire magique de Sidi Mohammed et des gens de son quartier.",
+        "source": "personnages.pdf / Analyse de la boîte à merveilles.pdf, p. 2",
+        "verified": false
+      },
+      {
+        "id": "ch4_q09",
+        "chapterId": "chapitre-4",
+        "type": "vrai_faux",
+        "question": "Dans les discussions du quartier évoquées dans ce chapitre, Abdallah l'épicier est apprécié de manière unanime par tous les habitants sans exception.",
+        "correctAnswer": false,
+        "explanation": "Les sources indiquent qu'Abdallah l'épicier divise les gens : certains l'aiment et écoutent ses contes avec émerveillement, tandis que d'autres le critiquent et le considèrent comme un menteur ou un fou.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Analyse de la boîte à merveilles.pdf, p. 2",
+        "verified": false
+      },
+      {
+        "id": "ch4_q10",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Par quel moyen le père du narrateur, Maâlem Abdeslam, rapporte-t-il les histoires d'Abdallah l'épicier à la maison ?",
+        "options": [
+          "En lisant un livre manuscrit acheté au souk",
+          "En racontant le soir à sa femme et son fils les histoires entendues dans l'échoppe de l'épicier",
+          "En invitant Abdallah à dîner tous les vendredis à Dar Chouafa",
+          "En emmenant Sidi Mohammed chaque matin à la boutique d'Abdallah"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Le père Maâlem Abdeslam transmet les récits d'Abdallah l'épicier lors des veillées familiales du soir dans la chambre de Dar Chouafa.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q11",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Avec quoi Sidi Mohammed essaie-t-il de se lier d'amitié sur la terrasse de Lalla Aïcha pour échapper aux disputes des autres enfants ?",
+        "options": [
+          "Un petit chat errant",
+          "Sa propre ombre sur le mur",
+          "Un oiseau apprivoisé",
+          "Un objet sorti de sa Boîte à merveilles"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Seul sur la terrasse après s'être disputé avec les fillettes, l'enfant tente de jouer et de dialoguer avec sa propre ombre.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Brefs résumés.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q12",
+        "chapterId": "chapitre-4",
+        "type": "vrai_faux",
+        "question": "Au retour de la visite chez Lalla Aïcha, Lalla Zoubida garde jalousement le secret des déboires de Moulay Larbi et n'en parle à personne.",
+        "correctAnswer": false,
+        "explanation": "De retour à Dar Chouafa, Lalla Zoubida ne résiste pas au plaisir de raconter en détail à sa voisine Fatma Bziouya la mésaventure de Moulay Larbi et l'ingratitude d'Abdelkader.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q13",
+        "chapterId": "chapitre-4",
+        "type": "comprehension",
+        "question": "En quoi le conflit entre Moulay Larbi et Abdelkader illustre-t-il le thème de la trahison et de l'ingratitude dans le roman ?",
+        "expectedAnswer": "Abdelkader était un ouvrier démuni que Moulay Larbi a accueilli, formé au métier de babouchier et traité comme son propre fils. Lorsqu'un différend financier survient au sujet des sommes investies dans l'atelier, Abdelkader renie ses dettes et poursuit son bienfaiteur en justice, ruinant Moulay Larbi et illustrant une amère trahison humaine.",
+        "gradingCriteria": [
+          "Rappeler la relation initiale : Moulay Larbi avait formé et soutenu Abdelkader comme un fils",
+          "Expliquer le litige financier autour des sommes de l'atelier de babouches",
+          "Mettre en avant le sentiment de trahison et d'ingratitude éprouvé par la famille"
+        ],
+        "explanation": "Cet épisode dramatique enchâssé montre la vulnérabilité des artisans et la dureté des relations humaines face à l'argent.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q14",
+        "chapterId": "chapitre-4",
+        "type": "evenement_chronologie",
+        "question": "Reconstituez la trame des événements principaux qui composent le Chapitre IV.",
+        "expectedAnswer": "1. Arrivée du printemps et promenade de Lalla Zoubida et Sidi Mohammed chez Lalla Aïcha ; 2. Jeu solitaire de Sidi Mohammed avec son ombre sur la terrasse après une dispute enfantine ; 3. Confidences de Lalla Aïcha à Lalla Zoubida sur le litige financier entre Moulay Larbi et Abdelkader ; 4. Retour à la maison et récit de l'histoire par Lalla Zoubida à Fatma Bziouya ; 5. Récit du père Maâlem Abdeslam sur Abdallah l'épicier et ses contes.",
+        "gradingCriteria": [
+          "Mentionner le cadre printanier et la visite chez Lalla Aïcha",
+          "Inclure l'épisode des confidences sur la trahison d'Abdelkader",
+          "Mettre l'évocation des contes d'Abdallah l'épicier en fin de séquence"
+        ],
+        "explanation": "Le chapitre alterne scènes de visites de femmes, confidences intimes et récits merveilleux du soir.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q15",
+        "chapterId": "chapitre-4",
+        "type": "vocabulaire_contexte",
+        "question": "Dans le registre des sentiments éprouvés lors de la narration des souvenirs d'enfance, quel mot désigne une amère déception causée par la trahison d'un proche ?",
+        "options": [
+          "L'amertume",
+          "L'émerveillement",
+          "La félicité",
+          "L'extase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "L'amertume qualifie le sentiment de tristesse et de ressentiment face aux épreuves et aux déceptions de la vie adulte.",
+        "source": "Le vocabulaire du souvenir.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q16",
+        "chapterId": "chapitre-4",
+        "type": "vrai_faux",
+        "question": "Le récit sur Abdallah l'épicier est un exemple de récit enchâssé (histoire dans l'histoire) à l'intérieur du roman autobiographique.",
+        "correctAnswer": true,
+        "explanation": "Le portrait et les aventures d'Abdallah l'épicier constituent un récit enchâssé raconté par le père du narrateur au sein de la trame principale.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Analyse de la boîte à merveilles.pdf, p. 2",
+        "verified": false
+      },
+      {
+        "id": "ch4_q17",
+        "chapterId": "chapitre-4",
+        "type": "qcm",
+        "question": "Où se situe le quartier de Lalla Aïcha par rapport à Dar Chouafa ?",
+        "options": [
+          "Au quartier Zankat Hajjama",
+          "À l'extérieur des remparts de la ville",
+          "Au quartier Moulay Idriss",
+          "Près du sous-sol de Dar Chouafa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Lalla Aïcha habite au quartier Zankat Hajjama, nécessitant un déplacement à travers les ruelles de la médina.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / personnages.pdf",
+        "verified": false
+      },
+      {
+        "id": "ch4_q18",
+        "chapterId": "chapitre-4",
+        "type": "themes_symboles",
+        "question": "Quel contraste symbolique oppose le monde des adultes et le monde du jeune narrateur dans ce chapitre IV ?",
+        "expectedAnswer": "Le monde des adultes est marqué par les soucis matériels, l'argent, les procès et les déceptions humaines (le conflit Moulay Larbi / Abdelkader), tandis que le monde de l'enfant est dominé par l'imaginaire poétique (le dialogue avec son ombre) et la fascination pour la magie des contes (Abdallah l'épicier).",
+        "gradingCriteria": [
+          "Caractériser le monde adulte par les conflits d'argent et les trahisons",
+          "Caractériser le monde de l'enfant par l'imaginaire, le jeu poétique et les contes",
+          "Mettre en évidence la recherche de refuge de l'enfant face aux bavardages lugubres des adultes"
+        ],
+        "explanation": "Ce chapitre accentue la frontière entre la réalité triviale des adultes et l'univers enchanteur de l'enfance.",
+        "source": "schema-des-chapitres-4-5-et-6.pdf / Le symbolisme de la boîte à merveilles.pdf",
+        "verified": false
+      }
+    ]
+  },
+  {
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-5",
+  "chapterTitle": "Chapitre V : La mort du coiffeur, le dévouement de Lalla Aïcha et la fièvre de l'enfant",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch5_q01",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quel événement tragique survenu dans le quartier vient troubler l'atmosphère au début du Chapitre V ?",
+      "options": [
+        "L'incendie de l'échoppe de Maâlem Abdeslam",
+        "La mort du voisin et coiffeur Sidi Mohamed ben Tahar",
+        "La disparition définitive de la petite Zineb",
+        "La fermeture définitive du Msid par le Fqih"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre s'ouvre sur l'annonce du décès de Sidi Mohamed ben Tahar, le coiffeur qui habitait le quartier.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q02",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Comment le jeune Sidi Mohammed réagit-il à l'annonce de la mort du coiffeur et aux cérémonies funèbres ?",
+      "options": [
+        "Il reste totalement indifférent et continue de jouer",
+        "Il est profondément marqué, pris d'une crise de larmes et saisi par la peur de la mort",
+        "Il s'enjoue de voir du monde réuni dans la rue",
+        "Il décide de quitter le quartier pour s'installer chez Lalla Aïcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La mort du coiffeur choque la sensibilité extrême de l'enfant, provoquant chez lui des sanglots et une hantise obsédante de la mort.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q03",
+      "chapterId": "chapitre-5",
+      "type": "vrai_faux",
+      "question": "Lalla Zoubida éprouve un vif plaisir à écouter les lamentations funèbres lors du cortège du coiffeur.",
+      "correctAnswer": false,
+      "explanation": "Bien que les femmes assistent aux cérémonies et expriment leur tristesse, le spectacle de la mort replonge le foyer dans une ambiance grave et pieuse.",
+      "source": "Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q04",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quelle décision héroïque et généreuse Lalla Aïcha prend-elle pour sauver son mari Moulay Larbi de la ruine ?",
+      "options": [
+        "Elle demande un prêt usuraire à la voyante Lalla Kenza",
+        "Elle vend tous ses bijoux et ses meubles pour lui constituer un nouveau capital",
+        "Elle sollicite l'aide financière directe du Pacha de Fès",
+        "Elle convainc Lalla Zoubida de lui céder les économies de Maâlem Abdeslam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pour permettre à son époux de monter un nouvel atelier de babouches après la trahison d'Abdelkader, Lalla Aïcha sacrifie tous ses bijoux et biens précieux.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q05",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quel état physique et psychologique frappe Sidi Mohammed après la crise d'angoisse provoquée par la mort du coiffeur ?",
+      "options": [
+        "Il est atteint d'une forte fièvre et sombre dans le délire et les cauchemars",
+        "Il perd la parole et refuse de s'alimenter pendant un mois",
+        "Il s'évade de la maison pour rejoindre les mendiants",
+        "Il devient subitement très agressif envers ses camarades du Msid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La hantise de la mort et la fatigue entraînent chez l'enfant une forte fièvre accompagnée de délires et de visions cauchemardesques.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q06",
+      "chapterId": "chapitre-5",
+      "type": "vrai_faux",
+      "question": "Pendant la crise de fièvre de l'enfant dans le Chapitre V, la Boîte à merveilles conserve toute sa magie et continue de lui procurer de la joie.",
+      "correctAnswer": false,
+      "explanation": "Pendant la maladie, les objets de la Boîte perdent leur féerie ; ils n'évoquent plus que le deuil, la tristesse et s'apparentent même à de minuscules cercueils.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q07",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Comment Maâlem Abdeslam réagit-il lorsqu'il apprend le geste de sacrifice de Lalla Aïcha pour son époux ?",
+      "options": [
+        "Il blâme Moulay Larbi pour son imprudence",
+        "Il salue la noblesse et le dévouement de Lalla Aïcha envers son mari",
+        "Il refuse catégoriquement d'en entendre parler",
+        "Il conseille à Moulay Larbi de quitter Fès"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le père du narrateur exprime un grand respect pour l'attitude exemplaire de Lalla Aïcha qui soutient dignement son foyer dans l'épreuve.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q08",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Rôle des personnages : quel est le métier exact de Sidi Mohamed ben Tahar, l'homme dont on célèbre les funérailles ?",
+      "options": [
+        "Tisserand",
+        "Coiffeur-barbier",
+        "Babouchier",
+        "Marchand de tissus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sidi Mohamed ben Tahar était le coiffeur/barbier du quartier.",
+      "source": "personnages.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q09",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Que représente la trahison d'Abdelkader envers Moulay Larbi sur le plan des thèmes sociaux du roman ?",
+      "options": [
+        "Une illustration de l'injustice et de la perfidie dans le monde du commerce et de l'artisanat",
+        "Un conflit religieux entre deux confréries soufies",
+        "Un désaccord familial sur un héritage de maison",
+        "Une simple erreur de comptabilité sans gravité"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La trahison du jeune ouvrier Abdelkader envers son maître Moulay Larbi illustre l'ingratitude et les déceptions humaines au cœur des relations professionnelles.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q10",
+      "chapterId": "chapitre-5",
+      "type": "vrai_faux",
+      "question": "Le chapitre V montre que Maâlem Abdeslam accepte immédiatement d'associer Moulay Larbi à son propre atelier de tissage.",
+      "correctAnswer": false,
+      "explanation": "Moulay Larbi cherche à remonter un atelier de babouches grâce à la vente des bijoux de sa femme, et non à devenir tisserand avec Maâlem Abdeslam.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q11",
+      "chapterId": "chapitre-5",
+      "type": "comprehension",
+      "question": "Pourquoi la transformation symbolique des objets de la Boîte à merveilles dans le Chapitre V est-elle significative pour l'analyse du roman ?",
+      "expectedAnswer": "Cette transformation reflète l'état d'âme et la santé de l'enfant. Quand Sidi Mohammed est heureux, la boîte est un monde féerique ; lorsqu'il est malade et traumatisé par la mort du coiffeur, les objets perdent leur magie et deviennent froids, tristes comme des cercueils.",
+      "gradingCriteria": [
+        "Mettre en lien l'état de la boîte avec l'état de santé/psychologique de Sidi Mohammed",
+        "Opposer la féerie habituelle à l'aspect morbide/triste pendant la fièvre",
+        "Mentionner l'impact de la mort du coiffeur sur son imagination"
+      ],
+      "explanation": "La Boîte à merveilles fonctionne comme un miroir psychologique révélant la sensibilité extrême du narrateur-enfant.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q12",
+      "chapterId": "chapitre-5",
+      "type": "evenement_chronologie",
+      "question": "Remettez dans l'ordre chronologique les événements majeurs du Chapitre V.",
+      "expectedAnswer": "1. Récit de la mort du coiffeur Sidi Mohamed ben Tahar et passage du cortège funèbre dans la rue ; 2. Saisissement de frayeur et crise de larmes du jeune Sidi Mohammed ; 3. Discussion des parents sur le dévouement de Lalla Aïcha qui vend ses bijoux pour réinstaller Moulay Larbi ; 4. Apparition de la fièvre chez le narrateur et altération du pouvoir magique de sa Boîte à merveilles.",
+      "gradingCriteria": [
+        "Commencer par la mort du coiffeur",
+        "Situer le geste de Lalla Aïcha",
+        "Terminer par la fièvre de l'enfant et la dévalorisation temporaire de la boîte"
+      ],
+      "explanation": "Le chapitre s'articule autour de deux drames parallèles : le deuil du quartier et le drame financier de Moulay Larbi, convergeant vers la maladie de l'enfant.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q13",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quelle figure de style caractérise l'expression où les objets de la boîte sont assimilés à de 'minuscules cercueils' ?",
+      "options": [
+        "Une métaphore ou comparaison imagée",
+        "Une hyperbole comique",
+        "Une litote",
+        "Une oxymore joyeuse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cette image poétique traduit la perception ténébreuse de l'enfant malade qui projette l'idée de la mort sur ses jouets secrets.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q14",
+      "chapterId": "chapitre-5",
+      "type": "vocabulaire_contexte",
+      "question": "Que signifie le verbe 'évoquer' dans le contexte du récit autobiographique de la mémoire d'enfance ?",
+      "options": [
+        "Oublier volontairement un événement douloureux",
+        "Rappeler à la mémoire, faire réapparaître par la pensée ou le discours",
+        "Inventer une histoire fausse de toutes pièces",
+        "Critiquer sévèrement les traditions passées"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dans le vocabulaire du souvenir, 'évoquer' consiste à faire revivre les images et les émotions du passé.",
+      "source": "Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q15",
+      "chapterId": "chapitre-5",
+      "type": "vrai_faux",
+      "question": "Dans le Chapitre V, Moulay Larbi est arrêté et mis en prison à la suite du procès contre Abdelkader.",
+      "correctAnswer": false,
+      "explanation": "Moulay Larbi a perdu son procès face aux faux témoins d'Abdelkader, mais il n'est pas emprisonné : il se retrouve simplement spolié de ses droits et ruiné.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q16",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quel thème majeur lié aux valeurs traditionnelles est mis en relief à travers le comportement de Lalla Zoubida envers Lalla Aïcha ?",
+      "options": [
+        "La rivalité féminine",
+        "La profonde amitié, la compassion et le soutien moral inconditionnel",
+        "L'indifférence face aux soucis des voisins",
+        "La jalousie matérielle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Zoubida partage sincèrement la peine de son amie Lalla Aïcha et salue la dignité de son foyer.",
+      "source": "Résumé chapitre par chapitre.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q17",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Quelle est la cause directe du procès perdu par Moulay Larbi face à Abdelkader d'après les résumés du roman ?",
+      "options": [
+        "Le témoignage de faux témoins achetés ou influencés par Abdelkader",
+        "L'absence de contrat écrit signé devant le notaire",
+        "Le refus de Moulay Larbi de se présenter devant le juge (Cadi)",
+        "L'intervention du Fqih du Msid contre Moulay Larbi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Abdelkader a renié ses dettes envers Moulay Larbi en produisant de faux témoignages devant la justice.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch5_q18",
+      "chapterId": "chapitre-5",
+      "type": "themes_symboles",
+      "question": "Quelles sont les deux visions opposées du monde qui s'affrontent dans l'esprit du jeune narrateur au cours du Chapitre V ?",
+      "expectedAnswer": "L'univers rassurant et poétique du rêve (incarné habituellement par sa Boîte à merveilles) et la réalité tragique de la condition humaine (incarnée par la maladie, la trahison financière et la fatalité de la mort).",
+      "gradingCriteria": [
+        "Citer le monde du rêve/imaginaire de l'enfance",
+        "Citer la réalité tragique des adultes (mort, trahison, maladie)",
+        "Expliquer comment la mort du coiffeur brise temporairement l'illusion poétique"
+      ],
+      "explanation": "Le chapitre V marque une étape importante dans la confrontation de l'enfant avec les réalités de la souffrance et de la finitude humaine.",
+      "source": "Analyse de la boîte à merveilles.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-6",
+  "chapterTitle": "Chapitre VI : Les préparatifs de l'Achoura au Msid, la Kissaria et l'histoire d'Oncle Othman",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch6_q01",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "À quelle occasion importante les élèves du Msid entreprennent-ils le nettoyage et le réaménagement de leur école ?",
+      "options": [
+        "La fête du Mouloud",
+        "La fête de l'Achoura",
+        "L'Aïd el-Fitr",
+        "L'Aïd el-Kébir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les préparatifs au Msid (nettoyage, blanchiment à la chaux, frottage des murs) sont organisés en prévision de la grande fête traditionnelle de l'Achoura.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q02",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Quelle fonction particulière le Fqih confie-t-il au jeune Sidi Mohammed durant les travaux au Msid ?",
+      "options": [
+        "Chef des frotteurs de plancher",
+        "Chef de l'équipe des balayeurs",
+        "Trésorier chargé de collecter la cotisation",
+        "Responsable de l'approvisionnement en eau"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le Fqih nomme Sidi Mohammed chef d'équipe des balayeurs, ce qui suscite chez l'enfant une immense fierté et un sentiment d'importance.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q03",
+      "chapterId": "chapitre-6",
+      "type": "vrai_faux",
+      "question": "Sidi Mohammed accomplit sa tâche de chef d'équipe avec négligence et désintérêt.",
+      "correctAnswer": false,
+      "explanation": "Au contraire, Sidi Mohammed prend sa mission très au sérieux, guidant ses camarades avec zèle et enthousiasme jusqu'à l'épuisement.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q04",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Où Lalla Zoubida emmène-t-elle son fils Sidi Mohammed pour lui acheter ses vêtements neufs de l'Achoura ?",
+      "options": [
+        "Au souk des bijoutiers",
+        "À la Kissaria",
+        "Au marché aux épices",
+        "Chez le tailleur Moulay Larbi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La mère emmène Sidi Mohammed à la Kissaria, le grand marché de tissus et de vêtements de la médina de Fès.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q05",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Quels vêtements Lalla Zoubida achète-t-elle pour Sidi Mohammed à la Kissaria ?",
+      "options": [
+        "Une djellaba noire et un feutre rouge",
+        "Une gilet brodé (badrouna/gilet), un maillot blanc et un pantalon",
+        "Une gilet (gilet brodé), une gandoura blanche et des babouches neuves",
+        "Un caftan vert et une ceinture en soie"
+      ],
+      "correctAnswer": 2,
+      "explanation": "À la Kissaria, sa mère lui achète un gilet, une gandoura blanche ainsi qu'une paire de babouches neuves pour la fête de l'Achoura.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q06",
+      "chapterId": "chapitre-6",
+      "type": "vrai_faux",
+      "question": "La promenade et les achats à la Kissaria se déroulent dans un calme parfait sans aucun énervement de la part de l'enfant.",
+      "correctAnswer": false,
+      "explanation": "L'enfant est étourdi par la foule, exaspéré par le marchandage interminable de sa mère et finit par se disputer avec elle.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q07",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "De retour à la maison, quel incident survient au sujet des babouches neuves de l'enfant ?",
+      "options": [
+        "Sidi Mohammed les perd en jouant dans le patio",
+        "Sidi Mohammed refuse d'essayer ses babouches et se querelle avec sa mère",
+        "Zineb les vole pour les cacher sous le lit",
+        "Le chat de la voyante les déchire avec ses griffes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De retour chez lui, fâché contre sa mère, Sidi Mohammed refuse d'essayer ses babouches neuves, ce qui provoque la colère de Lalla Zoubida.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q08",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Qui est l'Oncle Othman dont Rahma raconte l'histoire captivante aux voisines de Dar Chouafa ?",
+      "options": [
+        "Un vieil homme aisé, époux de la jeune Lalla Khadija",
+        "Le maître tisserand qui emploie Maâlem Abdeslam",
+        "Le fqih retraité du Msid",
+        "Le frère aîné de Lalla Aïcha venu de Meknès"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oncle Othman est un vieillard d'origine noble et autrefois très riche qui a épousé en secondes noces une jeune femme nommée Lalla Khadija.",
+      "source": "personnages.pdf, p. 1 / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch6_q09",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Comment Lalla Khadija traite-t-elle son vieux mari Oncle Othman selon le récit de Rahma ?",
+      "options": [
+        "Avec une grande soumission et un respect aveugle",
+        "Elle le domine et le mène par le bout du nez malgré son âge",
+        "Elle refuse catégoriquement de lui adresser la parole",
+        "Elle gère seule son commerce de tissus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Malgré la différence d'âge, la jeune et jolie Khadija exerce une forte autorité sur le vieil Oncle Othman, qui lui cède tous ses désirs.",
+      "source": "personnages.pdf, p. 1 / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch6_q10",
+      "chapterId": "chapitre-6",
+      "type": "vrai_faux",
+      "question": "Dans le récit de Rahma, Oncle Othman a conservé intacte toute la fortune héritée de ses parents sans jamais rien gaspiller.",
+      "correctAnswer": false,
+      "explanation": "Oncle Othman a mené dans sa jeunesse une vie joyeuse et dissipée, dilapidant une grande partie du patrimoine hérité de ses parents.",
+      "source": "personnages.pdf, p. 1 / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch6_q11",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Quelle est la réaction des femmes de Dar Chouafa à l'écoute du récit sur Oncle Othman et Lalla Khadija ?",
+      "options": [
+        "Elles s'indignent du comportement scandaleux de Khadija",
+        "Elles s'amusent et rient des mésaventures amoureuses du vieil homme",
+        "Elles décident de chasser Rahma pour avoir colporté des commérages",
+        "Elles pleurent de pitié pour le vieil Oncle Othman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le récit burlesque de la relation conjugale entre Oncle Othman et la jeune Khadija suscite le rire et le divertissement des voisines rassemblées.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q12",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Quel statut narratif possède le récit concernant l'Oncle Othman à l'intérieur du Chapitre VI ?",
+      "options": [
+        "C'est un monologue intérieur du narrateur adulte",
+        "C'est un récit enchâssé (histoire racontée par un personnage à l'intérieur du récit principal)",
+        "C'est un extrait de la lettre d'Abdelkader",
+        "C'est une prédiction faite par Sidi El Arafi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'histoire d'Oncle Othman est un récit enchâssé raconté par Rahma aux femmes de la maison, interrompant momentanément la trame principale.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Analyse de la boîte à merveilles.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q13",
+      "chapterId": "chapitre-6",
+      "type": "comprehension",
+      "question": "Pourquoi la préparation de l'Achoura au Msid transforme-t-elle temporairement l'atmosphère habituelle de l'école coranique ?",
+      "expectedAnswer": "Pendant les préparatifs de l'Achoura, la sévérité habituelle du Fqih fait place à l'enthousiasme collectif. Les élèves ne récitent plus leurs versets sous la menace du soufflet, mais travaillent ensemble au nettoyage, au blanchiment des murs et à la décoration, transformant l'école en un lieu de fête et de fierté.",
+      "gradingCriteria": [
+        "Mentionner l'assouplissement de l'autorité du Fqih",
+        "Évoquer les travaux collectifs (nettoyage, blanchiment des murs)",
+        "Souligner le passage d'une ambiance austère/sévère à une atmosphère festive"
+      ],
+      "explanation": "La fête religieuse reconfigure les rapports entre le maître et ses élèves, remplaçant la crainte de la baguette par la joie du travail partagé.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q14",
+      "chapterId": "chapitre-6",
+      "type": "evenement_chronologie",
+      "question": "Ordonnez chronologiquement les événements majeurs du Chapitre VI.",
+      "expectedAnswer": "1. Nettoyage et blanchiment du Msid où Sidi Mohammed est nommé chef des balayeurs ; 2. Visite éprouvante à la Kissaria avec Lalla Zoubida pour l'achat des habits neufs ; 3. Dispute entre l'enfant et sa mère au retour à la maison à cause des babouches ; 4. Récit enchâssé de Rahma sur la vie du couple Oncle Othman et Lalla Khadija.",
+      "gradingCriteria": [
+        "Placer le nettoyage du Msid en premier",
+        "Situer les achats à la Kissaria en deuxième position",
+        "Terminer par le récit de Rahma sur Oncle Othman"
+      ],
+      "explanation": "Le chapitre progresse de l'espace collectif du Msid vers le marché de la Kissaria, avant de revenir au cadre domestique de Dar Chouafa.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q15",
+      "chapterId": "chapitre-6",
+      "type": "vocabulaire_contexte",
+      "question": "Que désigne précisément le terme 'Kissaria' dans le cadre traditionnel marocain évoqué dans le roman ?",
+      "options": [
+        "Un sanctuaire religieux dédié aux saints de la ville",
+        "Un marché couvert spécialisé dans la vente des tissus et des vêtements",
+        "Une école coranique réservée aux jeunes filles",
+        "Un atelier de fabrication de charrues et d'outils"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Kissaria est la partie du souk traditionnel réservée aux étoffes, tissus brodés et vêtements précieux.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / examens_corr.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch6_q16",
+      "chapterId": "chapitre-6",
+      "type": "vrai_faux",
+      "question": "Dans le Chapitre VI, Sidi Mohammed utilise les objets de sa Boîte à merveilles pour aider à décorer les murs du Msid.",
+      "correctAnswer": false,
+      "explanation": "La boîte à merveilles reste le secret intime de l'enfant ; il ne partage jamais ses objets secrets avec le Fqih ni avec ses camarades pour la décoration du Msid.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-4-5-et-6.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch6_q17",
+      "chapterId": "chapitre-6",
+      "type": "qcm",
+      "question": "Quel sentiment dominant éprouve le jeune Sidi Mohammed lorsqu'il est nommé 'chef d'équipe' par le Fqih ?",
+      "options": [
+        "Une peur panique de ne pas être à la hauteur",
+        "Une fierté immense et un sentiment de dignité",
+        "Une indifférence totale car il voulait rentrer chez lui",
+        "Une jalousie envers son ami Hammoussa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cette nomination valorise l'enfant qui se sent investi d'une autorité légitime et éprouve une grande fierté devant ses camarades.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch6_q18",
+      "chapterId": "chapitre-6",
+      "type": "themes_symboles",
+      "question": "Quels thèmes majeurs du roman s'expriment à travers les épisodes du Chapitre VI ?",
+      "expectedAnswer": "1. Les traditions religieuses et festives (préparatifs de l'Achoura, habits neufs) ; 2. La vie sociale et le rôle du conte/récit oral (histoire d'Oncle Othman racontée par Rahma) ; 3. Le monde de l'enfance entre fierté d'obéir et caprices/épuisement (au Msid puis à la Kissaria).",
+      "gradingCriteria": [
+        "Citer la fête de l'Achoura et les traditions de vêtements neufs",
+        "Mentionner l'oralité / les contes communautaires",
+        "Évoquer la psychologie enfantine (fierté vs fatigue/caprice)"
+      ],
+      "explanation": "Ce chapitre illustre l'intégration de l'enfant dans les rites collectifs tout en dévoilant la vivacité des récits oraux féminins.",
+      "source": "schema-des-chapitres-4-5-et-6.pdf / Analyse de la boîte à merveilles.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-7",
+  "chapterTitle": "Chapitre VII : La fête de l'Achoura, la cérémonie au Msid et les cadeaux",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch7_q01",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quel événement religieux festif constitue le cœur du Chapitre VII ?",
+      "options": [
+        "La fête du Aïd El Kébir",
+        "La fête de l'Achoura",
+        "La nuit du Destin (Lailat Al Qadr)",
+        "Le Mouloud (anniversaire du Prophète)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre VII est entièrement consacré à la célébration de la fête de l'Achoura, préparée depuis plusieurs jours au Msid et à la maison.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q02",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "À quel moment de la journée le jeune Sidi Mohammed se réveille-t-il le jour de l'Achoura ?",
+      "options": [
+        "À l'aube, très tôt le matin avant le chant des coqs",
+        "En milieu de matinée après le départ du père",
+        "À midi juste à l'heure du repas de fête",
+        "La veille au soir sans avoir réussi à dormir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sidi Mohammed est réveillé très tôt le matin à l'aube par sa mère pour s'habiller et se préparer avant d'aller au Msid.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q03",
+      "chapterId": "chapitre-7",
+      "type": "vrai_faux",
+      "question": "Le matin de l'Achoura, le Msid est plongé dans l'obscurité comme d'habitude.",
+      "correctAnswer": false,
+      "explanation": "Pour célébrer l'Achoura, le Msid est magnifiquement illuminé par de nombreuses bougies apportées par les élèves et blanchi à la chaux.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q04",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Comment le Fqih se comporte-t-il envers ses élèves le matin de la fête de l'Achoura ?",
+      "options": [
+        "Il reste très sévère et distribue des coups de baguette de cognassier",
+        "Il se montre exceptionnellement souriant, bienveillant et félicite les enfants",
+        "Il refuse de recevoir les enfants et annule la cérémonie",
+        "Il exige de nouveaux frais de scolarité avant toute prière"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pendant la célébration de l'Achoura, le Fqih abandonne sa sévérité habituelle pour se montrer joyeux, indulgent et chaleureux envers les élèves.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q05",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quel instrument de musique ou jouet traditionnel Maâlem Abdeslam offre-t-il à son fils pour l'Achoura ?",
+      "options": [
+        "Un tambourin (tar / tbal)",
+        "Une flûte en roseau",
+        "Un petit violon en bois",
+        "Un sifflet en terre cuite"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le père offre à Sidi Mohammed un tambourin pour rythmer les chants de fête de l'Achoura.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q06",
+      "chapterId": "chapitre-7",
+      "type": "vrai_faux",
+      "question": "Lalla Aïcha rend visite à la famille de Lalla Zoubida l'après-midi du jour de l'Achoura.",
+      "correctAnswer": true,
+      "explanation": "L'après-midi de l'Achoura est marqué par des visites familiales et amicales, notamment la venue de Lalla Aïcha chez Lalla Zoubida.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q07",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quelle est l'attitude des femmes de Dar Chouafa le jour de l'Achoura ?",
+      "options": [
+        "Elles se disputent l'accès au puits et au patio",
+        "Elles chantent, jouent du tambourin et célèbrent la fête dans la joie partagée",
+        "Elles gardent le silence pour respecter un deuil collectif",
+        "Elles quittent toutes la maison pour aller au cimetière"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les femmes de la maison partagent des moments de joie, chantent des cantiques et des rimes festives en jouant des tambourins.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q08",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quel vêtement neuf Sidi Mohammed porte-t-il fièrement lors de la cérémonie au Msid ?",
+      "options": [
+        "Un djellaba noire en laine brute",
+        "Sa nouvelle gilet vert, une gandoura blanche et des babouches neuves",
+        "Un kaftan rouge brodé de fil d'or",
+        "Un costume d'adulte prêté par le serviteur Driss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Après l'épisode de la Kissaria au chapitre VI, Sidi Mohammed revêt sa gandoura blanche, son gilet et ses nouvelles babouches le matin de la fête.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q09",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quelle atmosphère succède à la grande effervescence de l'Achoura à la fin du chapitre VII ?",
+      "options": [
+        "Une grande émeute dans le quartier de la médina",
+        "Un retour au calme, à la routine quotidienne et à une certaine lassitude",
+        "L'annonce immédiate du départ du père pour la moisson",
+        "Un déménagement précipité de la famille vers une autre maison"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Après l'intensité des festivités et de la musique, la fête prend fin et la vie ordinaire reprend son cours routinier.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q10",
+      "chapterId": "chapitre-7",
+      "type": "vrai_faux",
+      "question": "Pendant la fête de l'Achoura, la Boîte à merveilles du narrateur reste totalement oubliée au fond d'un coffre.",
+      "correctAnswer": false,
+      "explanation": "Même pendant les fêtes, la Boîte à merveilles demeure le compagnon fidèle de l'enfant qui y dépose parfois ses petits trésors de fête.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Le symbolisme de la boîte à merveilles.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q11",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quel rôle jouent les bougies apportées par les élèves au Msid le jour de l'Achoura ?",
+      "options": [
+        "Chasser les mauvais esprits du sous-sol",
+        "Éclairer le Msid pour la cérémonie nocturne/matinale et symboliser la lumière du savoir et de la fête",
+        "Servir de récompense matérielle attribuée au Fqih",
+        "Préparer un repas chaud pour les démunis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les bougies offertes par chaque élève servent à illuminer brillamment la salle d'école coranique pour célébrer dignement l'Achoura.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q12",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Parmi ces thèmes, lequel prédomine dans la première moitié du Chapitre VII ?",
+      "options": [
+        "La faillite financière et le désespoir",
+        "La fête religieuse, la joie enfantine et les traditions populaires",
+        "La dispute conjugale et le divorce",
+        "La solitude et la haine envers la société"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre VII est l'un des rares chapitres dominés par la joie collective, les traditions communautaires et la ferveur religieuse.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / fiche-de-lecture-rapide.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q13",
+      "chapterId": "chapitre-7",
+      "type": "comprehension",
+      "question": "En quoi la journée de l'Achoura au Msid transforme-t-elle temporairement la perception que Sidi Mohammed a de son maître (le Fqih) ?",
+      "expectedAnswer": "D'ordinaire effrayé par la sévérité et la baguette de cognassier du Fqih, Sidi Mohammed découvre un maître souriant, détendu et bienveillant pendant les festivités de l'Achoura. Cette métamorphose temporaire transforme l'enfer habituel du Msid en un lieu de lumière et de joie.",
+      "gradingCriteria": [
+        "Opposer l'image habituelle du Fqih (sévère, terrifiant) à son attitude le jour de l'Achoura (bienveillant, joyeux)",
+        "Mentionner l'impact sur le sentiment de l'enfant (fièrté, émerveillement, soulagement)"
+      ],
+      "explanation": "L'Achoura constitue une parenthèse enchantée dans la vie scolaire stricte du Msid.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q14",
+      "chapterId": "chapitre-7",
+      "type": "evenement_chronologie",
+      "question": "Reconstituez la séquence chronologique des événements majeurs racontés dans le Chapitre VII.",
+      "expectedAnswer": "1. Réveil très tôt le matin à l'aube et préparation vestimentaire par la mère ; 2. Départ vers le Msid illuminé de bougies et célébration collective avec le Fqih ; 3. Retour à la maison et remise des cadeaux (tambourin) par les parents ; 4. Repas de fête et célébrations musicales des femmes à Dar Chouafa ; 5. Visite de Lalla Aïcha et retombée progressive de l'agitation festive.",
+      "gradingCriteria": [
+        "Placer le réveil matinal et le Msid au début",
+        "Placer la distribution des cadeaux et le repas au milieu",
+        "Terminer par la visite de Lalla Aïcha et la fin des festivités"
+      ],
+      "explanation": "Le chapitre suit un déroulement temporel continu du matin de la fête jusqu'à la fin de la journée.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q15",
+      "chapterId": "chapitre-7",
+      "type": "vocabulaire_contexte",
+      "question": "Que signifie le mot « effervescence » dans le contexte des préparatifs et de la célébration de l'Achoura ?",
+      "options": [
+        "Un état d'agitation joyeuse, d'enthousiasme et d'activité intense",
+        "Une profonde tristesse partagée par tous les habitants",
+        "Un silence solennel imposé par les autorités religieuses",
+        "Une dispute violente autour du partage des marchandises"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'effervescence désigne la grande agitation enthousiaste et le dynamisme qui règnent dans la maison et la ville à l'occasion de la fête.",
+      "source": "Le vocabulaire du souvenir.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q16",
+      "chapterId": "chapitre-7",
+      "type": "vrai_faux",
+      "question": "Après les festivités de l'Achoura au chapitre VII, la situation financière de Moulay Larbi est définitivement réglée et rétablie.",
+      "correctAnswer": false,
+      "explanation": "Si les bijoux de Lalla Aïcha ont permis d'acheter un nouvel atelier à Moulay Larbi (chapitre V-VI), ses déboires et complications sociales vont se poursuivre dans les chapitres suivants.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q17",
+      "chapterId": "chapitre-7",
+      "type": "qcm",
+      "question": "Quelle saison commence à toucher à sa fin aux alentours des événements célébrés dans le Chapitre VII ?",
+      "options": [
+        "L'hiver",
+        "Le printemps",
+        "L'été",
+        "L'automne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre VII conclut la séquence du printemps avant le passage aux fortes chaleurs de l'été qui caractérisent la seconde moitié du roman (Chapitres VIII à XII).",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch7_q18",
+      "chapterId": "chapitre-7",
+      "type": "themes_symboles",
+      "question": "Quel symbole culturel représente le tambourin (« tar ») offert à l'enfant lors de l'Achoura ?",
+      "options": [
+        "Un symbole d'autorité scolaire imposé par le Msid",
+        "L'initiation à la musique rituelle populaire et le partage de la joie festive en communauté",
+        "Un outil de travail prêté par le père pour devenir artisan",
+        "Un objet magique réservé exclusivement aux rites de la voyante Chouafa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le tambourin est l'instrument de musique traditionnel emblématique de l'Achoura, reliant l'enfant au rythme festif de sa communauté.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Le symbolisme de la boîte à merveilles.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-8",
+  "chapterTitle": "Chapitre VIII : L'été au Msid, le souk des bijoutiers et le second mariage de Moulay Larbi",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch8_q01",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quel changement de cadre connaît le Msid avec l'arrivée des fortes chaleurs de l'été au Chapitre VIII ?",
+      "options": [
+        "Il est transféré dans un sanctuaire plus frais près du tombeau de Sidi El Tazi",
+        "Il est fermé pendant trois mois de vacances d'été",
+        "Il est déplacé dans le patio de Dar Chouafa",
+        "Il est installé sur la terrasse de la maison du Fqih"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avec l'arrivée des chaleurs étouffantes de l'été, le Msid abandonne sa salle habituelle pour s'installer dans un sanctuaire plus frais.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q02",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quelle est l'attitude du Fqih envers Sidi Mohammed au début de l'été dans le nouveau cadre du Msid ?",
+      "options": [
+        "Il le punit sévèrement avec sa baguette de cognassier",
+        "Il le félicite pour ses progrès rapides dans la récitation du Coran",
+        "Il le nomme définitivement chef des balayeurs",
+        "Il l'exclut du Msid pour manque d'attention"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Libéré du cadre oppressant de la salle habituelle, le jeune narrateur fait de remarquables progrès en mémoire et récitation, ce qui lui vaut la satisfaction du Fqih.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q03",
+      "chapterId": "chapitre-8",
+      "type": "vrai_faux",
+      "question": "Au Chapitre VIII, Maâlem Abdeslam emmène sa femme Lalla Zoubida au souk pour lui acheter des bracelets en or massif.",
+      "correctAnswer": false,
+      "explanation": "Maâlem Abdeslam emmène sa femme acheter des bracelets d'argent (soleils et lunes), et non en or massif.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q04",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Que se passe-t-il lors de la visite au souk des bijoutiers entre Maâlem Abdeslam et le courtier (dellal) ?",
+      "options": [
+        "Ils fêtent l'achat en buvant du thé au souk",
+        "Une altercation violente éclate à cause d'une tentative d'escroquerie sur le prix des bijoux",
+        "Le courtier offre gratuitement une bague au jeune Sidi Mohammed",
+        "Le père perd sa bourse contenant tout son capital"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Une dispute violente éclate au souk des bijoutiers quand le courtier tente de tromper le père sur le prix/poids des bracelets.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q05",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quelle est la réaction de Lalla Zoubida après la dispute du père au souk et l'achat des bracelets d'argent ?",
+      "options": [
+        "Elle montre fièrement ses bijoux à toutes les voisines de Dar Chouafa",
+        "Elle refuse de porter les bracelets, les considérant comme porteurs de malheur et de mauvais augure",
+        "Elle vend immédiatement les bracelets pour acheter des meubles",
+        "Elle exige que son mari retourne au souk pour les échanger contre de l'or"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Superstitieuse et troublée par la bagarre du père, Lalla Zoubida refuse de porter ces bijoux d'argent qu'elle associe au mauvais sort et aux larmes.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q06",
+      "chapterId": "chapitre-8",
+      "type": "vrai_faux",
+      "question": "Sidi Mohammed assiste calmement et avec enthousiasme à la dispute de son père au souk des bijoutiers.",
+      "correctAnswer": false,
+      "explanation": "Terrifié par la foule et la violence de l'altercation au souk, le jeune garçon est pris de panique, pleure et tombe de nouveau malade.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q07",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quelle nouvelle accablante concernant Moulay Larbi vient frapper Lalla Aïcha au Chapitre VIII ?",
+      "options": [
+        "Moulay Larbi a été emprisonné pour dettes non payées",
+        "Moulay Larbi a pris une seconde épouse, la jeune fille du coiffeur Si Abderrahmane",
+        "Sa maison a brûlé dans un incendie au quartier Zankat Hajjama",
+        "Son ancien associé Abdelkader a racheté tous ses ateliers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Grâce aux sacrifices de Lalla Aïcha qui avait vendu ses bijoux, Moulay Larbi a pu se rétablir financièrement, mais il décide de prendre une deuxième jeune épouse.",
+      "source": "personnages.pdf / Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q08",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Qui est la jeune fille que Moulay Larbi épouse en secondes noces ?",
+      "options": [
+        "La fille du coiffeur-barbier Si Abderrahmane",
+        "La fille de la voyante Lalla Kenza",
+        "La sœur de Fatma Bziouya",
+        "La fille de la marieuse Salama"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Moulay Larbi prend pour seconde épouse la jeune fille du coiffeur Si Abderrahmane.",
+      "source": "personnages.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q09",
+      "chapterId": "chapitre-8",
+      "type": "vrai_faux",
+      "question": "Lalla Zoubida soutient la décision de Moulay Larbi de prendre une seconde épouse et félicite la nouvelle mariée.",
+      "correctAnswer": false,
+      "explanation": "Lalla Zoubida est profondément révoltée par l'ingratitude de Moulay Larbi envers son amie Lalla Aïcha et partage pleinement la douleur de cette dernière.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q10",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quel type d'atmosphère pèse sur la ville de Fès au début du Chapitre VIII ?",
+      "options": [
+        "Une atmosphère glaciale et pluvieuse",
+        "Une atmosphère lourde, torride et étouffante",
+        "Un climat doux et printanier",
+        "Un temps brumeux et automnal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le début du chapitre décrit la chaleur torride de l'été qui transforme la ville en un four accablant et modifie le rythme de vie.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q11",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Quel rôle joue la Boîte à merveilles pour Sidi Mohammed au cours des accès de tristesse et de malaise au Chapitre VIII ?",
+      "options": [
+        "Elle lui permet de calculer ses dépenses du Msid",
+        "Elle demeure son refuge magique secret pour s'évader de la douleur ambiante et des disputes des adultes",
+        "Il la donne à Zineb en signe de réconciliation définitive",
+        "Il la jette par la fenêtre de Dar Chouafa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Face aux querelles des adultes et à la maladie, l'enfant retrouve dans la contemplation de ses trésors une consolation et un monde féerique.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q12",
+      "chapterId": "chapitre-8",
+      "type": "vrai_faux",
+      "question": "Lalla Aïcha accueille la nouvelle du mariage de son mari avec résignation et joie.",
+      "correctAnswer": false,
+      "explanation": "Lalla Aïcha est effondrée, terrassée par le chagrin et le sentiment d'une profonde ingratitude de la part de son époux qu'elle avait sauvé de la ruine.",
+      "source": "Résumé chapitre par chapitre.pdf / personnages.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q13",
+      "chapterId": "chapitre-8",
+      "type": "qcm",
+      "question": "Pourquoi l'achat des bracelets d'argent prend-il une tournure tragique dans le récit ?",
+      "options": [
+        "Parce que les bracelets étaient en réalité en laiton sans valeur",
+        "Parce que le geste généreux du père se termine par une bagarre et que la mère refuse ces bijoux perçus comme un présage de malheur",
+        "Parce que les bijoux ont été volés par la voisine Rahma",
+        "Parce que Maâlem Abdeslam voulait les offrir à Lalla Aïcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alors que le père voulait faire plaisir à sa femme en lui offrant ces bijoux, l'incident du souk transforme ce présent en un symbole d'infortune qui annonce la crise familiale.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q14",
+      "chapterId": "chapitre-8",
+      "type": "comprehension",
+      "question": "Pourquoi le transfert du Msid dans un sanctuaire plus frais au début de l'été influence-t-il positivement l'apprentissage de Sidi Mohammed ?",
+      "expectedAnswer": "Le changement de cadre (passage d'une salle sombre et étouffante à un sanctuaire plus frais et aéré) libère l'enfant du sentiment d'oppression. Moins accablé par la chaleur et la sévérité habituelle, Sidi Mohammed se sent plus apaisé et réussit à mieux réciter ses versets coraniques.",
+      "gradingCriteria": [
+        "Mentionner le changement de cadre physique (sanctuaire plus frais et aéré)",
+        "Expliquer le soulagement psychologique de l'enfant",
+        "Souligner l'amélioration de son apprentissage et de sa récitation du Coran"
+      ],
+      "explanation": "L'espace physique influe directement sur la sensibilité du jeune narrateur et ses performances au Msid.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q15",
+      "chapterId": "chapitre-8",
+      "type": "evenement_chronologie",
+      "question": "Rétablissez l'ordre chronologique exact des événements majeurs du Chapitre VIII.",
+      "expectedAnswer": "1. Déménagement du Msid dans un sanctuaire plus frais pour l'été et progrès de Sidi Mohammed ; 2. Visite en famille au souk des bijoutiers et altercation entre Maâlem Abdeslam et le courtier ; 3. Retour à la maison, refus de Lalla Zoubida de porter les bracelets porteurs de poisse, et maladie de l'enfant ; 4. Révélation du second mariage de Moulay Larbi avec la fille du coiffeur et désespoir de Lalla Aïcha.",
+      "gradingCriteria": [
+        "Placer le transfert du Msid en premier",
+        "Mettre l'épisode du souk des bijoutiers en second",
+        "Situer le retour à la maison et la maladie de l'enfant",
+        "Terminer par l'annonce du second mariage de Moulay Larbi"
+      ],
+      "explanation": "Le chapitre bascule progressivement de la fraîcheur du sanctuaire vers le drame du souk puis la crise conjugale chez Lalla Aïcha.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q16",
+      "chapterId": "chapitre-8",
+      "type": "vrai_faux",
+      "question": "Moulay Larbi s'est servi de sa réussite financière retrouvée (grâce au sacrifice de Lalla Aïcha) pour payer la dot de sa deuxième épouse.",
+      "correctAnswer": true,
+      "explanation": "L'ingratitude de Moulay Larbi est d'autant plus vive qu'il s'est servi du capital reconstitué par sa première femme pour contracter ce second mariage.",
+      "source": "personnages.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q17",
+      "chapterId": "chapitre-8",
+      "type": "vocabulaire_contexte",
+      "question": "Quel terme qualifie le mieux l'attitude de Moulay Larbi envers Lalla Aïcha selon Lalla Zoubida ?",
+      "options": [
+        "La magnanimité",
+        "L'ingratitude",
+        "La bienveillance",
+        "L'altruisme"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Zoubida qualifie d'ingratitude odieuse le comportement de Moulay Larbi qui abandonne moralement son épouse dévouée pour une jeune fille.",
+      "source": "personnages.pdf / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch8_q18",
+      "chapterId": "chapitre-8",
+      "type": "themes_symboles",
+      "question": "Quels sont les deux thèmes sociaux et moraux majeurs illustrés par l'histoire du second mariage de Moulay Larbi au Chapitre VIII ?",
+      "expectedAnswer": "1. La polygamie et la condition de la femme dans la société traditionnelle marocaine (souffrance subie par la première épouse délaissée) ; 2. L'ingratitude masculine et la solidarité féminine (soutien indéfectible entre Lalla Zoubida et Lalla Aïcha face à l'injustice).",
+      "gradingCriteria": [
+        "Citer la polygamie ou la condition féminine traditionnelle",
+        "Citer l'ingratitude masculine et la solidarité entre femmes"
+      ],
+      "explanation": "Cet épisode soulève des questions centrales sur le statut de la femme et l'entraide féminine face aux épreuves.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / fiche-de-lecture-rapide.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-9",
+  "chapterTitle": "Chapitre IX : La perte du capital, le départ du père et la détresse familiale",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch9_q01",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Où Maâlem Abdeslam a-t-il perdu l'intégralité de son capital financier ?",
+      "options": [
+        "Au souk des bijoutiers",
+        "Au souk des haïks (dans la foule)",
+        "Dans la cour du Msid",
+        "Au sanctuaire de Sidi Ali Boughaleb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maâlem Abdeslam perd sa bourse contenant tout son argent dans la cohue du souk des haïks alors qu'il s'apprêtait à acheter de la matière première.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q02",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Quelle décision radicale Maâlem Abdeslam prend-il pour rétablir la situation financière de sa famille ?",
+      "options": [
+        "Vendre la maison de Dar Chouafa",
+        "Demander un prêt usuraire à Abdelkader",
+        "Partir travailler comme moissonneur dans les environs de Fès",
+        "S'associer avec le marchand Driss El Aouad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Refusant de s'abaisser ou d'emprunter, le père décide de quitter la ville pour travailler comme moissonneur dans les campagnes afin de reconstituer son pécule.",
+      "source": "fiche-de-lecture-rapide.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q03",
+      "chapterId": "chapitre-9",
+      "type": "vrai_faux",
+      "question": "Lalla Zoubida réagit à la perte du capital par de violentes colères et des reproches adressés à son mari.",
+      "correctAnswer": false,
+      "explanation": "Lalla Zoubida fait preuve d'une grande dignité et de résignation face à cette épreuve, soutenant son mari malgré la profonde tristesse qui l'envahit.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q04",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Que vend Lalla Zoubida pour subvenir aux besoins du foyer durant l'absence du père ?",
+      "options": [
+        "Sa lampe à pétrole",
+        "Les bracelets d'argent (les bijoux maudits)",
+        "Les tapis de la chambre",
+        "Sa boîte à coudre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pour nourrir le foyer pendant le séjour du père à la campagne, Lalla Zoubida se résout à vendre les bracelets d'argent achetés au souk.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q05",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Quel sentiment accablant s'empare de la maison Dar Chouafa après le départ de Maâlem Abdeslam ?",
+      "options": [
+        "La joie et la liberté",
+        "Une atmosphère de deuil, de silence et de grande tristesse",
+        "La colère et la révolte contre les voisins",
+        "L'indifférence générale"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le départ du chef de famille plonge la maison dans le silence, la tristesse et l'abattement, le repas devenant morne et sans saveur.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q06",
+      "chapterId": "chapitre-9",
+      "type": "vrai_faux",
+      "question": "Pendant l'absence de Maâlem Abdeslam, la santé de Sidi Mohammed s'améliore grandement grâce au calme du foyer.",
+      "correctAnswer": false,
+      "explanation": "Affecté par la tristesse de sa mère et l'absence de son père, Sidi Mohammed retombe malade et souffre de nouveau de la fièvre et de faiblesses.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q07",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Comment les objets de la Boîte à merveilles apparaissent-ils à Sidi Mohammed dans ce moment de détresse ?",
+      "options": [
+        "Comme des bijoux royaux étincelants",
+        "Comme de froids et tristes morceaux de métal sans magie, ressemblant à des cercueils",
+        "Comme des animaux vivants qui lui parlent",
+        "Comme des pièces d'or d'une valeur inestimable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sous le poids du chagrin et de la maladie, l'alchimie poétique s'éteint : les objets perdent leur éclat magique et rappellent à l'enfant la tristesse du monde réel.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q08",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Qui vient rendre visite à Lalla Zoubida pour lui apporter son réconfort et lui proposer une solution spirituelle ?",
+      "options": [
+        "La voyante Lalla Kenza",
+        "Sa fidèle amie Lalla Aïcha",
+        "La voisine Fatma Bziouya",
+        "Salama la marieuse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Aïcha vient soutenir son amie dans la peine et lui propose d'aller consulter le voyant aveugle Sidi El Arafi.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q09",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Quelle proposition d'amitié et de pèlerinage Lalla Aïcha fait-elle à Lalla Zoubida à la fin du Chapitre IX ?",
+      "options": [
+        "Partir vivre dans un autre quartier de Fès",
+        "Consulter Sidi El Arafi, le devin aveugle réputé pour sa sagesse",
+        "Aller travailler ensemble chez un commerçant",
+        "Organiser une nouvelle fête de l'Achoura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Aïcha suggère à Lalla Zoubida de se rendre chez Sidi El Arafi pour trouver un apaisement spirituel et des prédictions sur le retour du père.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q10",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Au niveau du schéma narratif global du roman, que représente la perte du capital du père au Chapitre IX ?",
+      "options": [
+        "La situation initiale",
+        "L'élément perturbateur (ou déclencheur de la crise principale)",
+        "Péripétie secondaire joyeuse",
+        "La dénouement final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ruine financière du père constitue le grand événement perturbateur qui rompt la stabilité du foyer et déclenche la crise majeure de l'œuvre.",
+      "source": "fiche-de-lecture-rapide.pdf / Analyse de la boîte à merveilles.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q11",
+      "chapterId": "chapitre-9",
+      "type": "vrai_faux",
+      "question": "Maâlem Abdeslam accepte de vendre son matériel de tisserand avant son départ pour la campagne.",
+      "correctAnswer": false,
+      "explanation": "Maâlem Abdeslam conserve ses outils et son atelier, partant travailler temporairement comme moissonneur afin de pouvoir reprendre son métier à son retour.",
+      "source": "Résumé chapitre par chapitre.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q12",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Quel trait de caractère essentiel de Maâlem Abdeslam est mis en valeur lors de cette épreuve financière ?",
+      "options": [
+        "L'avarice et la cupidité",
+        "La dignité, la fierté et le sens de la responsabilité familiale",
+        "La lâcheté et la fuite devant les problèmes",
+        "L'impatience et la colère"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le père démontre une grande dignité : plutôt que de mendier ou de s'endetter, il choisit le labeur pénible de la moisson pour subvenir dignement aux besoins des siens.",
+      "source": "personnages.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q13",
+      "chapterId": "chapitre-9",
+      "type": "comprehension",
+      "question": "Expliquez comment la perception de la Boîte à merveilles par le jeune narrateur évolue entre les moments de bonheur et les moments de drame comme au Chapitre IX.",
+      "expectedAnswer": "Dans les moments de calme, la Boîte à merveilles est un talisman magique et un monde féerique qui réconforte l'enfant. Mais lors des drames (maladie, crise financière, départ du père), les objets perdent leur magie poétique pour redevenir de froids morceaux de métal comparés à de sombres cercueils.",
+      "gradingCriteria": [
+        "Mettre en contraste la vision enchantée ordinaire et la vision lugubre en temps de crise",
+        "Mentionner la perte de la fonction magique/poétique des objets",
+        "Faire référence à l'état émotionnel ou physique de l'enfant"
+      ],
+      "explanation": "La Boîte à merveilles reflète l'état psychologique et la sensibilité de l'enfant : elle s'illumine avec sa joie et s'assombrit avec sa détresse.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q14",
+      "chapterId": "chapitre-9",
+      "type": "evenement_chronologie",
+      "question": "Rétablissez la chronologie exacte des événements du Chapitre IX.",
+      "expectedAnswer": "1. Maâlem Abdeslam rentre au foyer et annonce la perte de son capital au souk des haïks. 2. Le père décide de partir travailler comme moissonneur dans les champs. 3. Départ du père et tristesse profonde de la mère et de l'enfant. 4. Vente des bracelets d'argent par Lalla Zoubida. 5. Visite de réconfort de Lalla Aïcha et proposition d'aller consulter Sidi El Arafi.",
+      "gradingCriteria": [
+        "Commencer par la perte du capital et l'annonce au foyer",
+        "Placer le départ du père avant la vente des bracelets",
+        "Terminer par la visite de Lalla Aïcha et la proposition du pèlerinage"
+      ],
+      "explanation": "Ce chapitre retrace l'enchaînement de la crise financière jusqu'à la recherche d'un soutien moral et spirituel.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q15",
+      "chapterId": "chapitre-9",
+      "type": "vocabulaire_contexte",
+      "question": "Quel terme issu du lexique des sentiments qualifie la douleur morale vive éprouvée par la mère et l'enfant après le départ du père ?",
+      "options": [
+        "L'amertume ou l'abattement",
+        "L'euphorie",
+        "L'enthousiasme",
+        "L'indifférence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "L'abattement et l'amertume décrivent l'état de profonde tristesse et de désarroi qui pèse sur la famille.",
+      "source": "Le vocabulaire du souvenir.pdf / schema-des-chapitres-7-8-et-9.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q16",
+      "chapterId": "chapitre-9",
+      "type": "vrai_faux",
+      "question": "Dans le Chapitre IX, les voisines de Dar Chouafa font preuve de méchanceté et se moquent du malheur de Lalla Zoubida.",
+      "correctAnswer": false,
+      "explanation": "Au contraire, la communauté de Dar Chouafa partage la peine de Lalla Zoubida et lui manifeste de la sympathie et du respect dans cette dure épreuve.",
+      "source": "Brefs résumés.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q17",
+      "chapterId": "chapitre-9",
+      "type": "qcm",
+      "question": "Quelle métaphore ou comparaison est associée aux bracelets d'argent vendus par Lalla Zoubida ?",
+      "options": [
+        "Des portes-bonheur sacrés",
+        "Des bijoux maudits apportant la poisse et les larmes",
+        "Des trésors royaux oubliés",
+        "Des souvenirs d'enfance d'Oncle Othman"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ayant causé la dispute au souk et précédé la ruine de la famille, les bracelets d'argent sont perçus par Lalla Zoubida comme des objets de malheur.",
+      "source": "schema-des-chapitres-7-8-et-9.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch9_q18",
+      "chapterId": "chapitre-9",
+      "type": "themes_symboles",
+      "question": "Quels grands thèmes de l'œuvre sont particulièrement illustrés dans le Chapitre IX ?",
+      "expectedAnswer": "La pauvreté et la ruine financière, la dignité et la fierté familiale, la solitude et le désarroi de l'enfant, la solidarité féminine ainsi que la détresse spirituelle compensée par le recours au sacré.",
+      "gradingCriteria": [
+        "Citer le thème de la pauvreté / ruine financière",
+        "Mentionner la dignité / fierté familiale ou le travail",
+        "Évoquer la solitude de l'enfant ou la solidarité"
+      ],
+      "explanation": "Le Chapitre IX est le nœud dramatique du roman où s'articulent la crise économique, la dignité sociale et la détresse émotionnelle.",
+      "source": "fiche-de-lecture-rapide.pdf / Analyse de la boîte à merveilles.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-10",
+  "chapterTitle": "Chapitre X : Le pèlerinage chez Sidi El Arafi, les prédictions et les nouvelles du père",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch10_q01",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Chez quel personnage mystérieux Lalla Zoubida et Lalla Aïcha se rendent-elles au début du Chapitre X pour chercher du réconfort ?",
+      "options": [
+        "Sidi Ali Boughaleb, le saint patron de la ville",
+        "Sidi El Arafi, le voyant aveugle",
+        "Si Abderrahmane, le coiffeur-barbier",
+        "Abdallah l'épicier conteur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Aïcha emmène Lalla Zoubida et Sidi Mohammed consulter Sidi El Arafi, un voyant aveugle réputé pour sa sagesse et ses prédictions apaisantes.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q02",
+      "chapterId": "chapitre-10",
+      "type": "vrai_faux",
+      "question": "Sidi El Arafi est un voyant clairvoyant qui utilise des cartes pour prédire l'avenir.",
+      "correctAnswer": false,
+      "explanation": "Sidi El Arafi est aveugle. Il utilise son toucher et un panier contenant divers petits objets (coquillages, perles, amulettes) pour faire ses devinations.",
+      "source": "personnages.pdf, p. 1 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q03",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quelle impression la maison et la personnalité de Sidi El Arafi font-elles sur le jeune Sidi Mohammed ?",
+      "options": [
+        "Il éprouve une grande frayeur à cause d'une baguette de cognassier",
+        "Il est séduit par la sérénité, la bienveillance et la douce voix du voyant aveugle",
+        "Il ressent du dégoût comme lors de la visite au bain maure",
+        "Il s'ennuie profondément et demande à quitter les lieux immédiatement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contrairement à la peur inspirée par d'autres figures, Sidi El Arafi impressionne l'enfant par sa douceur, sa sérénité et ses paroles réconfortantes.",
+      "source": "Résumé chapitre par chapitre.pdf, p. 2 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q04",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Que prédit Sidi El Arafi à Lalla Zoubida concernant son époux Maâlem Abdeslam ?",
+      "options": [
+        "Qu'il ne reviendra jamais à Fès et s'installera à la campagne",
+        "Qu'il est en bonne santé, qu'il réunira un nouveau capital et reviendra bientôt auprès des siens",
+        "Qu'il a été emprisonné après la perte de sa bourse",
+        "Qu'il a décidé d'épouser une seconde femme à la campagne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sidi El Arafi rassure Lalla Zoubida en lui affirmant que son mari se porte bien, travaille dur et sera bientôt de retour avec de l'argent.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Brefs résumés.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q05",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quel objet ou présent symbolique Sidi El Arafi remet-il à Sidi Mohammed lors de cette consultation ?",
+      "options": [
+        "Une chaînette de cuivre couverte de vert-de-gris",
+        "Une boule de verre magique pour sa boîte",
+        "Un petit sachet (ou amulette) contenant sa bénédiction",
+        "Un livre de prières destiné au Fqih du Msid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sidi El Arafi offre des bénédictions et un talisman/sachet protecteur à l'enfant pour le réconforter et lui porter chance.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q06",
+      "chapterId": "chapitre-10",
+      "type": "vrai_faux",
+      "question": "Au retour du pèlerinage chez Sidi El Arafi, Lalla Zoubida décide de fréquenter régulièrement les sanctuaires et de prier pour le retour de son mari.",
+      "correctAnswer": true,
+      "explanation": "Rassurée par les prédictions, Lalla Zoubida décide d'accomplir chaque semaine des prières et des visites dans les sanctuaires de la ville (comme Sidi Ali Boughaleb).",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q07",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quel événement concret vient confirmer les prédictions rassurantes de Sidi El Arafi peu après la visite ?",
+      "options": [
+        "Le retour imprévu du père le jour même de la visite",
+        "L'arrivée d'un messager venu de la campagne envoyant de l'argent et des nouvelles rassurantes du père",
+        "La restitution de la bourse perdue par le fqih du quartier",
+        "La découverte d'un trésor caché dans la Boîte à merveilles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un émissaire/messager envoyé par Maâlem Abdeslam apporte de l'argent, un pot de beurre et des nouvelles confirmant qu'il travaille comme moissonneur et se porte bien.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q08",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quelle recommandation ou précaution Lalla Zoubida exige-t-elle de son fils concernant la visite chez le voyant Sidi El Arafi ?",
+      "options": [
+        "De tout raconter aux voisines de Dar Chouafa dès leur retour",
+        "Garder le secret absolu et ne rien divulguer, en particulier devant les autres locataires",
+        "Ecrire le récit de la visite sur sa planche de bois au Msid",
+        "Offrir ses objets de la Boîte à merveilles en remerciement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Zoubida recommande fermement à son fils de garder le silence sur leur démarche superstitieuse chez le voyant aveugle.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q09",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Dans le registre des croyances populaires, quel rôle joue le personnage de Sidi El Arafi dans l'économie du récit ?",
+      "options": [
+        "Il incarne l'escroquerie et la manipulation de la naïveté des femmes",
+        "Il représente la figure du médiateur spirituel bienveillant apportant espoir et apaisement aux âmes en détresse",
+        "Il symbolise l'autorité religieuse orthodoxe opposée au maraboutisme",
+        "Il sert de rival commercial à Lalla Kenza la voyante de Dar Chouafa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dans le roman, Sidi El Arafi n'est pas présenté de manière péjorative mais comme une figure paternelle et spirituelle rassurante qui redonne espoir à Lalla Zoubida et Lalla Aïcha.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / personnages.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q10",
+      "chapterId": "chapitre-10",
+      "type": "vrai_faux",
+      "question": "Lors de la consultation chez Sidi El Arafi, Sidi Mohammed refuse d'approcher le voyant par peur de la cécité.",
+      "correctAnswer": false,
+      "explanation": "Au contraire, l'enfant est touché par la douceur du vieillard aveugle qui lui parle avec tendresse et lui remet une amulette.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / personnages.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q11",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quelle nourriture ou présent d'usage les femmes apportent-elles en offre à Sidi El Arafi lors de leur pèlerinage ?",
+      "options": [
+        "Des pièces de monnaie et des pains de sucre",
+        "Des tissus précieux fabriqués par Maâlem Abdeslam",
+        "Un mouton pour le sacrifice",
+        "Des gâteaux faits maison par Rahma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Selon les traditions marocaines rappelées dans les schémas, les fréquentes visites aux voyants et marabouts s'accompagnent d'offrandes (sucre, bougies ou piécettes).",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / examens_corr.pdf, p. 5",
+      "verified": false
+    },
+    {
+      "id": "ch10_q12",
+      "chapterId": "chapitre-10",
+      "type": "comprehension",
+      "question": "En quoi la visite chez Sidi El Arafi marque-t-elle le début du soulagement psychologique et moral de la famille après le drame du Chapitre IX ?",
+      "expectedAnswer": "Après le désespoir causé par la perte du capital et le départ du père, la consultation chez Sidi El Arafi apporte un réconfort spirituel. Les prédictions positives du voyant redonnent foi et espoir à Lalla Zoubida. Cet apaisement est rapidement concrétisé par l'arrivée du messager apportant l'argent et des nouvelles rassurantes du père.",
+      "gradingCriteria": [
+        "Rappeler la détresse initiale causée par la perte du capital et l'absence du père",
+        "Expliquer l'impact moral des paroles rassurantes du voyant aveugle",
+        "Mentionner la confirmation de ces prédictions par l'arrivée du messager et de l'argent"
+      ],
+      "explanation": "Sidi El Arafi agit comme le catalyseur du retour de l'espoir et de la sérénité au sein du foyer.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q13",
+      "chapterId": "chapitre-10",
+      "type": "evenement_chronologie",
+      "question": "Reconstituez l'ordre chronologique des événements du Chapitre X.",
+      "expectedAnswer": "1. Décision de Lalla Aïcha d'emmener Lalla Zoubida et Sidi Mohammed chez Sidi El Arafi ; 2. Trajet à travers la ville et arrivée à la demeure du voyant aveugle ; 3. Consultation mystique : Sidi El Arafi plonge ses mains dans son panier et délivre ses prédictions apaisantes ; 4. Bénédiction de Sidi Mohammed et don d'un talisman ; 5. Retour à la maison et consigne de garder le secret ; 6. Arrivée du messager de Maâlem Abdeslam apportant de l'argent et des nouvelles de la campagne.",
+      "gradingCriteria": [
+        "Placer la visite chez le voyant au début du chapitre",
+        "Décrire la séance de prédiction et le don du talisman",
+        "Terminer par l'arrivée de l'émissaire du père avec de l'argent"
+      ],
+      "explanation": "Le chapitre s'articule entre la démarche de foi/superstition et sa confirmation matérielle immédiate.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q14",
+      "chapterId": "chapitre-10",
+      "type": "vocabulaire_contexte",
+      "question": "Quel terme issu du glossaire du souvenir ou de la religion désigne les objets protecteurs sacrés portés pour éloigner le mauvais sort ?",
+      "options": [
+        "Un talisman (ou amulette)",
+        "Un cabochon",
+        "Un haïk",
+        "Une bavarderie"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Un talisman ou amulette désigne un objet réputé préserver du malheur ou porter chance, abondamment évoqué lors des visites aux voyants.",
+      "source": "Le vocabulaire du souvenir.pdf / Le symbolisme de la boîte à merveilles.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch10_q15",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "Quelle est la réaction de Lalla Aïcha face aux prédictions de Sidi El Arafi la concernant ?",
+      "options": [
+        "Elle éclate de colère et quitte la pièce",
+        "Elle y trouve le réconfort et l'espoir d'un dénouement favorable à ses soucis conjugaux et financiers",
+        "Elle se moque ouvertement des déclarations du vieillard",
+        "Elle décide de divorcer immédiatement de Moulay Larbi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Aïcha, accablée par les problèmes de son mari Moulay Larbi (remariage et dettes), puise dans les paroles du voyant la force d'espérer un rétablissement de sa situation.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / personnages.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q16",
+      "chapterId": "chapitre-10",
+      "type": "vrai_faux",
+      "question": "L'émissaire envoyé par Maâlem Abdeslam apporte également un pot de beurre salé (smen) et des œufs de la campagne.",
+      "correctAnswer": true,
+      "explanation": "En plus de l'argent pour subvenir aux besoins de la famille, le messager apporte des vivres de la campagne (beurre, œufs) envoyés par le père.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch10_q17",
+      "chapterId": "chapitre-10",
+      "type": "themes_symboles",
+      "question": "Quel contraste symbolique existe-t-il entre la cécité physique de Sidi El Arafi et son rôle dans l'histoire ?",
+      "expectedAnswer": "Bien que frappé de cécité physique (aveugle), Sidi El Arafi possède une 'vision intérieure' claire et une voyance spirituelle qui lui permettent de percer le désarroi des cœurs, d'apporter la lumière de l'espoir et de guider les personnes plongées dans le doute.",
+      "gradingCriteria": [
+        "Opposer la cécité physique de l'homme à sa vision spirituelle/intérieure",
+        "Mettre en valeur son rôle de guide apportant la lumière de l'espoir"
+      ],
+      "explanation": "La figure du sage aveugle est un archétype littéraire universel présent ici dans la culture marocaine traditionnelle.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch10_q18",
+      "chapterId": "chapitre-10",
+      "type": "qcm",
+      "question": "À la fin du Chapitre X, quel sentiment domine chez le jeune narrateur Sidi Mohammed ?",
+      "options": [
+        "L'angoisse grandissante de ne plus jamais revoir son père",
+        "Un soulagement mêlé d'espoir et un apaisement progressif de sa santé fragile",
+        "Le désir de s'enfuir de la maison familiale",
+        "La colère contre sa mère et Lalla Aïcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les nouvelles concrètes apportées par le messager du père et l'atmosphère apaisée réconfortent l'enfant dont l'état de santé s'améliore.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-11",
+  "chapterTitle": "Chapitre XI : Les bavardages chez Lalla Aïcha, la marieuse Salama et le désastre du second mariage de Moulay Larbi",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch11_q01",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Où se déroule la majeure partie des échanges et récits rapportés dans le Chapitre XI ?",
+      "options": [
+        "Au Msid auprès du Fqih",
+        "Chez Lalla Aïcha lors d'une réunion entre femmes",
+        "Dans le patio de Dar Chouafa autour de la Chouafa",
+        "Au souk des bijoutiers de la Kissaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre se situe principalement chez Lalla Aïcha, où Lalla Zoubida et son fils se rendent pour prendre le thé et prendre des nouvelles.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q02",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Qui est Salama, le personnage masculin/féminin haut en couleur qui rend visite à Lalla Aïcha dans ce chapitre ?",
+      "options": [
+        "La voisine du deuxième étage de Dar Chouafa",
+        "La marieuse professionnelle qui avait négocié le second mariage de Moulay Larbi",
+        "La sœur cadette de Lalla Zoubida venue de la campagne",
+        "La fille du coiffeur Si Abderrahmane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salama est la marieuse professionnelle (*dallala* / marieuse) qui avait arrangé le second mariage de Moulay Larbi avec la fille du coiffeur.",
+      "source": "personnages.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q03",
+      "chapterId": "chapitre-11",
+      "type": "vrai_faux",
+      "question": "Salama vient chez Lalla Aïcha pour exprimer ses regrets et s'excuser d'avoir arrangé le second mariage de Moulay Larbi.",
+      "correctAnswer": true,
+      "explanation": "Salama vient demander pardon à Lalla Aïcha pour le tort causé, expliquant qu'elle ignorait le mauvais caractère de la jeune mariée.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q04",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Comment s'est révélé être le second mariage de Moulay Larbi avec la fille du coiffeur ?",
+      "options": [
+        "Un immense bonheur couronné par la naissance d'un garçon",
+        "Un échec cuisant et un enfer quotidien marqué par les exigences et disputes de la jeune épouse",
+        "Une alliance commerciale très rentable pour son atelier de babouches",
+        "Une cohabitation paisible sous le même toit avec Lalla Aïcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La jeune épouse s'est avérée capricieuse, dépensière et acariâtre, transformant la vie de Moulay Larbi en un véritable calvaire.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q05",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Quelle décision majeure Moulay Larbi a-t-il prise concernant sa jeune seconde épouse ?",
+      "options": [
+        "L'emmener vivre à la campagne auprès de sa belle-famille",
+        "Divorcer et la répudier après lui avoir versé son dédommagement",
+        "Lui confier la gestion de son atelier de babouches",
+        "L'obliger à présenter des excuses publiques à Lalla Aïcha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moulay Larbi a décidé de rompre cette union désastreuse en entamant la procédure de divorce/répudiation.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q06",
+      "chapterId": "chapitre-11",
+      "type": "vrai_faux",
+      "question": "À l'annonce du divorce imminent de Moulay Larbi, Lalla Aïcha éclate de colère et refuse définitivement de le revoir.",
+      "correctAnswer": false,
+      "explanation": "Au contraire, cette nouvelle redonne espoir et joie à Lalla Aïcha, prête à pardonner à son mari et à le réaccueillir.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q07",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Qui est Zhor, le personnage qui intervient lors de la réunion chez Lalla Aïcha ?",
+      "options": [
+        "La servante de la Chouafa",
+        "Une voisine de Lalla Aïcha qui apporte des détails croustillants sur la dispute du jeune ménage",
+        "La fille du coiffeur Si Abderrahmane",
+        "La seconde épouse de Maâlem Abdeslam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zhor est une voisine venue prendre le thé, qui confirme et enrichit les récits de Salama concernant les scènes de ménage chez Moulay Larbi.",
+      "source": "personnages.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q08",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Comment le jeune narrateur Sidi Mohammed réagit-il face aux longues discussions de femmes sur le mariage et le divorce ?",
+      "options": [
+        "Il participe activement en donnant son avis",
+        "Il éprouve du désintérêt et de l'ennui, se sentant exclu du monde mystérieux des adultes",
+        "Il prend des notes pour raconter ces histoires au Fqih du Msid",
+        "Il s'enfuit de la maison pour rejoindre Zineb dans la rue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sidi Mohammed ne comprend pas les querelles complexes des adultes et se réfugie dans son monde intérieur silencieux.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Analyse de la boîte à merveilles.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q09",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Quel thème social lié à la condition féminine et au statut matrimonial est abordé à travers l'histoire de Salama et Moulay Larbi ?",
+      "options": [
+        "L'obligation du travail des enfants dans les usines",
+        "La polygamie, les mariages arrangés et les tensions entre coépouses/belles-familles",
+        "L'interdiction d'accès aux soins médicaux modernes",
+        "L'exode rural des jeunes filles vers la capitale"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le chapitre illustre les déboires et fragilités sociales engendrés par la polygamie et les alliances arrangées par les marieuses.",
+      "source": "examens_corr.pdf, p. 5 / fiche-de-lecture-rapide.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q10",
+      "chapterId": "chapitre-11",
+      "type": "vrai_faux",
+      "question": "Salama possède une voix virile et un comportement androgyne qui intriguent le jeune narrateur.",
+      "correctAnswer": true,
+      "explanation": "Les fiches de personnages et schémas décrivent Salama comme une femme à la voix forte et masculine, adoptant des manières franches et singulières.",
+      "source": "personnages.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q11",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Pourquoi la belle-mère (mère de la jeune épouse) s'est-elle battue avec Moulay Larbi selon les récits rapportés ?",
+      "options": [
+        "Parce qu'il refusa d'acheter une maison à la campagne",
+        "Pour défendre sa fille lors d'une dispute conjugale et exiger plus de dépenses et de bijoux",
+        "Parce qu'il refusait d'employer son beau-frère dans son atelier",
+        "Pour lui voler les clefs de son magasin de babouches"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La belle-mère est intervenue violemment dans le foyer pour exiger un train de vie au-dessus des moyens de Moulay Larbi.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q12",
+      "chapterId": "chapitre-11",
+      "type": "vrai_faux",
+      "question": "Malgré les récits réjouissants de Salama, l'attente du retour du père (Maâlem Abdeslam) continue de peser sur le foyer du narrateur.",
+      "correctAnswer": true,
+      "explanation": "Même si les visites apportent des distractions, l'absence de Maâlem Abdeslam demeure la préoccupation centrale de Lalla Zoubida et de Sidi Mohammed.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Brefs résumés.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q13",
+      "chapterId": "chapitre-11",
+      "type": "comprehension",
+      "question": "Expliquez comment le personnage de Salama passe de la responsabilité du malheur de Lalla Aïcha à la promesse de sa délivrance.",
+      "expectedAnswer": "Salama avait initialement négocié le second mariage de Moulay Larbi avec la fille du coiffeur, causant le chagrin de Lalla Aïcha. En venant s'excuser et en révélant l'échec total de cette union ainsi que la décision de Moulay Larbi de divorcer, elle devient l'annronciatrice de la libération et du retour de l'époux auprès de Lalla Aïcha.",
+      "gradingCriteria": [
+        "Rappeler le rôle initial de Salama dans l'arrangement du second mariage",
+        "Expliquer sa démarche de demande de pardon et le récit de l'échec conjugal",
+        "Conclure sur le soulagement et le renouveau d'espoir apportés à Lalla Aïcha"
+      ],
+      "explanation": "Salama opère une volte-face dramatique qui transforme la rancœur de Lalla Aïcha en espoir de réconciliation familiale.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Résumé chapitre par chapitre.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q14",
+      "chapterId": "chapitre-11",
+      "type": "evenement_chronologie",
+      "question": "Ordonnez chronologiquement les moments clés de la visite racontée au Chapitre XI.",
+      "expectedAnswer": "1. Arrivée de Lalla Zoubida et Sidi Mohammed chez Lalla Aïcha et service du thé ; 2. Arrivée de Salama la marieuse et présentation de ses excuses ; 3. Récit détaillé des disputes violentes entre Moulay Larbi, sa jeune épouse et la belle-mère ; 4. Interventions complémentaires de la voisine Zhor ; 5. Annonce du divorce imminent et joie retrouvée de Lalla Aïcha.",
+      "gradingCriteria": [
+        "Placer la réunion autour du thé au début",
+        "Situer la confession de Salama et les détails des querelles ménagères",
+        "Terminer par la perspective du divorce et la réjouissance de Lalla Aïcha"
+      ],
+      "explanation": "Le chapitre est construit sous forme de narration emboîtée (récit dans le récit) dévoilant progressivement le dénouement de la crise conjugale.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q15",
+      "chapterId": "chapitre-11",
+      "type": "vocabulaire_contexte",
+      "question": "Dans le registre des querelles familiales, que signifie le terme 'répudiation' ?",
+      "options": [
+        "Un acte de réconciliation solennel devant le juge",
+        "La dissolution unilatérale du mariage par le mari selon le droit traditionnel",
+        "L'adoption légale d'un enfant orphelin",
+        "Le paiement d'une dote pour une seconde épouse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La répudiation désignait l'acte par lequel le mari mettait fin unilatéralement au mariage.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / Le vocabulaire du souvenir.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q16",
+      "chapterId": "chapitre-11",
+      "type": "vrai_faux",
+      "question": "Sidi Mohammed profite de la réunion chez Lalla Aïcha pour jouer dans la rue avec les enfants du quartier.",
+      "correctAnswer": false,
+      "explanation": "Fidèle à sa nature solitaire, il reste à l'intérieur, renfermé dans son mutisme et observant la scène sans s'y mêler.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf / personnages.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q17",
+      "chapterId": "chapitre-11",
+      "type": "qcm",
+      "question": "Quel sentiment éprouve Lalla Zoubida en entendant les malheurs de la jeune seconde épouse de Moulay Larbi ?",
+      "options": [
+        "Une vive compassion pour la jeune fille",
+        "Une satisfaction ironique et le sentiment d'une justice immanente qui punit l'ingratitude",
+        "Une grande peur pour son propre ménage",
+        "L'envie de devenir elle-même marieuse"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lalla Zoubida voit dans l'échec de ce second mariage la juste punition de l'infidélité de Moulay Larbi envers son amie Lalla Aïcha.",
+      "source": "Résumé chapitre par chapitre.pdf / schema-des-chapitres-10-11-et-12.pdf",
+      "verified": false
+    },
+    {
+      "id": "ch11_q18",
+      "chapterId": "chapitre-11",
+      "type": "themes_symboles",
+      "question": "Quelle opposition de mondes transparaît à travers l'attitude de Sidi Mohammed au cours de ces séances de bavardages féminins ?",
+      "expectedAnswer": "L'opposition entre le monde mesquin, bavard et conflictuel des adultes (centré sur l'argent, le mariage, les querelles) et le monde intérieur de l'enfant (fondé sur le rêve, le silence, la poésie et la quête du merveilleux).",
+      "gradingCriteria": [
+        "Identifier l'opposition entre le monde des adultes et celui de l'enfant",
+        "Caractériser le monde des adultes (bavardages, soucis d'argent, mariage)",
+        "Caractériser le monde de l'enfant (rêve, solitude, poésie)"
+      ],
+      "explanation": "Ce contraste renforce le statut de marginal poétique du jeune narrateur au sein de la société fassie.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / Le symbolisme de la boîte à merveilles.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - La Boîte à merveilles (Ahmed Sefrioui)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitre-12",
+  "chapterTitle": "Chapitre XII : Le retour du père, la joie à Dar Chouafa et la réouverture de la Boîte à merveilles",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "ch12_q01",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quel événement tant attendu vient illuminer le début du Chapitre XII et mettre fin à l'angoisse de la famille ?",
+      "options": [
+        "Le retour triomphal de Maâlem Abdeslam après un mois de travail aux moissons",
+        "L'obtention d'un nouvel atelier de tissage plus grand",
+        "Le déménagement de la famille vers un logement individuel",
+        "La guérison miraculeuse du Fqih du Msid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le chapitre XII s'ouvre sur la grande joie du retour de Maâlem Abdeslam qui a terminé sa campagne de moissonneur et rentre chez lui à Fès.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch12_q02",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Qu'apporte Maâlem Abdeslam à sa famille lors de son retour des champs ?",
+      "options": [
+        "Uniquement des bijoux en or pour sa femme",
+        "De l'argent, des œufs, du beurre, de la farine et de la volaille",
+        "Des objets de valeur achetés au marché de campagne",
+        "Une nouvelle lampe à pétrole et des tapis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le père ramène les fruits de son dur labeur : son salaire ainsi que des provisions agricoles (beurre, farine, volaille, œufs) pour approvisionner le foyer.",
+      "source": "Résumé chapitre par chapitre.pdf, p. 2 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q03",
+      "chapterId": "chapitre-12",
+      "type": "vrai_faux",
+      "question": "À son retour, Maâlem Abdeslam apprend que sa femme Lalla Zoubida a dû vendre ses bracelets d'argent pour survivre pendant son absence.",
+      "correctAnswer": true,
+      "explanation": "Lalla Zoubida lui raconte les épreuves traversées et la vente des bijoux d'argent (qu'elle considérait comme néfastes) pour subvenir aux besoins de la maison.",
+      "source": "Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch12_q04",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Comment les voisines de Dar Chouafa réagissent-elles à la nouvelle du retour du chef de famille ?",
+      "options": [
+        "Elles restent indifférentes et enfermées dans leurs chambres",
+        "Elles manifestent leur sympathie et viennent congratuler la famille dans une ambiance de fête",
+        "Elles organisent une dispute pour le partage du patio",
+        "Elles demandent le remboursement immédiat de dettes anciennes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les voisines (Rahma, Fatma Bziouya, la Chouafa) partagent la joie de Lalla Zoubida et expriment chaleureusement leur solidarité et leurs félicitations.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Brefs résumés.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q05",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quel visiteur masculin vient rendre hommage à Maâlem Abdeslam au cours de ce dernier chapitre ?",
+      "options": [
+        "Driss El Aouad, le voisin du premier étage",
+        "Le Fqih du Msid accompagné d'élèves",
+        "Si Abderrahmane le coiffeur",
+        "Sidi El Arafi le voyant aveugle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Driss El Aouad vient saluer Maâlem Abdeslam et s'entretenir avec lui des nouvelles du quartier et des affaires de la ville.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q06",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quelle bonne nouvelle concernant Moulay Larbi est annoncée au cours de la discussion entre les hommes ?",
+      "options": [
+        "La naissance d'un héritier mâle",
+        "Le règlement définitif de son litige et la séparation d'avec sa seconde épouse",
+        "L'ouverture d'une seconde fabrique de babouches",
+        "Son départ définitif pour la Mecque"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Driss El Aouad confirme la fin des déboires de Moulay Larbi suite au divorce officialisé d'avec la fille du coiffeur, marquant le retour de la paix avec Lalla Aïcha.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch12_q07",
+      "chapterId": "chapitre-12",
+      "type": "vrai_faux",
+      "question": "À la fin de l'histoire, Sidi Mohammed participe activement aux longues discussions d'adultes menées par son père et Driss El Aouad.",
+      "correctAnswer": false,
+      "explanation": "Le jeune garçon se sent rapidement exclu et lassé par les conversations des grands. Il choisit de s'en éloigner pour se tourner vers son univers personnel.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q08",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quel geste symbolique accomplit Sidi Mohammed à la toute fin du roman pour clôturer le récit ?",
+      "options": [
+        "Il jette sa boîte à merveilles dans le puits de Dar Chouafa",
+        "Il offre ses objets magiques à sa voisine Zineb",
+        "Il tire sa Boîte à merveilles de son cachette et contemple à nouveau ses précieux trésors",
+        "Il brûle le contenu de sa boîte pour marquer son entrée dans le monde adulte"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le récit se کلôture sur l'image poétique du jeune garçon qui rouvre sa chère Boîte à merveilles pour y retrouver ses compagnons invisibles et s'y réfugier.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q09",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quelle est la tonalité dominante du dénouement de La Boîte à merveilles au Chapitre XII ?",
+      "options": [
+        "Tragique et désespérée",
+        "Heureuse, apaisée et empreinte de nostalgie poétique",
+        "Pessimiste et révoltée",
+        "Ironique et polémique"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le roman s'achève sur une note d'apaisement familial (retour du père, rétablissement de l'équilibre financier et conjugal) doublée du retour réconfortant du rêve enfantin.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q10",
+      "chapterId": "chapitre-12",
+      "type": "vrai_faux",
+      "question": "La fin du roman confirme que la solitude de Sidi Mohammed a été définitivement guérie par le retour de son père.",
+      "correctAnswer": false,
+      "explanation": "Même si le retour du père ramène la sécurité matérielle et affective, la solitude existentielle de l'enfant demeure : sa Boîte à merveilles reste son ultime et permanent refuge.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q11",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Combien de temps s'est écoulé au total entre le premier chapitre (hiver) et la fin du chapitre XII (été/fin de l'été) ?",
+      "options": [
+        "Trois ans exactement",
+        "Environ 9 mois à près d'un an (couvrant trois saisons)",
+        "Exactement cinq ans",
+        "Un mois seulement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'ensemble du récit s'étend sur une durée d'environ 8 à 10 mois (près d'un an), traversant l'hiver, le printemps et l'été.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q12",
+      "chapterId": "chapitre-12",
+      "type": "comprehension",
+      "question": "Pourquoi la réouverture de la Boîte à merveilles au dernier chapitre est-elle une scène essentielle pour comprendre la portée poétique de l'œuvre ?",
+      "expectedAnswer": "Cette scène finale montre que malgré la résorption des crises d'adultes (retour du père, bonheur retrouvé de Lalla Aïcha), le monde réel demeure imparfait pour l'enfant. La Boîte à merveilles réaffirme son rôle de sanctuaire poétique et d'ami fidèle où Sidi Mohammed retrouve son univers magique et sa paix intérieure.",
+      "gradingCriteria": [
+        "Expliquer que le retour de la paix chez les adultes ne suffit pas à combler la solitude de l'enfant",
+        "Mettre en valeur le rôle de la Boîte comme refuge poétique absolu",
+        "Souligner la permanence de l'imaginaire enfantin en clôture de l'œuvre"
+      ],
+      "explanation": "La boîte boucle le roman en réaffirmant le pouvoir consolateur de l'imagination face aux contraintes du monde réel.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1 / schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q13",
+      "chapterId": "chapitre-12",
+      "type": "evenement_chronologie",
+      "question": "Placez dans l'ordre chronologique exact les événements majeurs racontés dans le Chapitre XII.",
+      "expectedAnswer": "1. Arrivée festive de Maâlem Abdeslam à Dar Chouafa avec les provisions ; 2. Accueil chaleureux et félicitations enthousiastes des voisines du quartier ; 3. Conversation intime où Lalla Zoubida relate les péripéties et la vente des bijoux ; 4. Visite de Driss El Aouad et annonce officielle du divorce de Moulay Larbi ; 5. Retrait silencieux de Sidi Mohammed qui rouvre sa Boîte à merveilles.",
+      "gradingCriteria": [
+        "Mettre en premier le retour du père avec les vivres",
+        "Placer les réactions des voisines et l'échange de nouvelles",
+        "Inclure l'arrivée de Driss El Aouad et l'annonce du divorce",
+        "Terminer impérativement par la réouverture de la Boîte par l'enfant"
+      ],
+      "explanation": "Le chapitre suit une progression allant de la liesse collective au calme intérieur de l'enfant qui réintègre son monde virtuel.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "ch12_q14",
+      "chapterId": "chapitre-12",
+      "type": "vocabulaire_contexte",
+      "question": "Dans la phrase 'Les objets de ma boîte me saluèrent, vivants et fidèles', quelle figure de style traduit la relation animée entre l'enfant et son trésor ?",
+      "options": [
+        "Une personnification attribuant la vie et le sentiment à des objets inanimés",
+        "Une hyperbole purement comique",
+        "Une comparaison avec l'outil 'comme'",
+        "Une antiphrase désignant un reproche"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La personnification prête une vie, une volonté et une fidélité amicale aux simples objets matériels de la boîte.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1 / examens_corr.pdf, p. 4",
+      "verified": false
+    },
+    {
+      "id": "ch12_q15",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quel sentiment d'ensemble se dégage des paroles du père Maâlem Abdeslam lorsqu'il retrouve les siens ?",
+      "options": [
+        "L'amertume et le regret d'être revenu à Fès",
+        "La soulagement, la fierté d'avoir accompli son devoir et la gratitude envers Dieu",
+        "La colère envers les voisins et la rancœur",
+        "La volonté de quitter définitivement le métier de tisserand"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maâlem Abdeslam exprime une grande piété, la fierté d'avoir subvenu honorablement aux besoins de sa famille et le soulagement de retrouver son foyer.",
+      "source": "Résumé chapitre par chapitre.pdf, p. 2 / Brefs résumés.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q16",
+      "chapterId": "chapitre-12",
+      "type": "vrai_faux",
+      "question": "À la fin de l'histoire, la prédiction faite par le voyant aveugle Sidi El Arafi au Chapitre X s'est entièrement réalisée.",
+      "correctAnswer": true,
+      "explanation": "Les prédictions apaisantes du voyant aveugle (le retour du père et le rétablissement de la paix) se trouvent pleinement confirmées au Chapitre XII.",
+      "source": "schema-des-chapitres-10-11-et-12.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q17",
+      "chapterId": "chapitre-12",
+      "type": "qcm",
+      "question": "Quel statut conserve le narrateur adulte à l'issue de la rédaction de ses souvenirs d'enfance ?",
+      "options": [
+        "Un homme libéré de tout souvenir mélancolique",
+        "Un écrivain habité par la nostalgie qui cherche dans le souvenir la magie perdue de son enfance",
+        "Un artisan ayant repris l'atelier de son père",
+        "Un maître d'école coranique au Msid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le narrateur adulte conclut sa démarche autobiographique en gardant un regard plein de nostalgie et de tendresse sur l'enfant rêveur qu'il a été.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Le vocabulaire du souvenir.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "ch12_q18",
+      "chapterId": "chapitre-12",
+      "type": "themes_symboles",
+      "question": "Quels grands thèmes transversaux de l'œuvre se trouvent réunis et résolus dans ce douzième et dernier chapitre ?",
+      "expectedAnswer": "1. Le travail et la dignité familiale (victoire sur la pauvreté temporaire) ; 2. La solidarité communautaire (liesse partagée à Dar Chouafa) ; 3. Le pardon et l'apaisement conjugal (cas de Moulay Larbi et Lalla Aïcha) ; 4. La puissance préservée du monde virtuel et de la création poétique (la Boîte à merveilles).",
+      "gradingCriteria": [
+        "Citer la dignité par le travail et le retour de la sécurité financière",
+        "Évoquer la solidarité du voisinage à Dar Chouafa",
+        "Mentionner la résolution des soucis de Moulay Larbi et Lalla Aïcha",
+        "Conclure sur le rôle éternel de la Boîte à merveilles et du rêve"
+      ],
+      "explanation": "Le chapitre XII noue l'ensemble des trames secondaires (familiales, sociales et poétiques) dans un harmonieux dénouement.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / Analyse de la boîte à merveilles.pdf, p. 1-2",
+      "verified": false
+    }
+  ]
+}
+]

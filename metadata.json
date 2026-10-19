@@ -1,0 +1,6 @@
+{
+  "name": "PassBac - Le Régional en Poche",
+  "description": "Plateforme éducative professionnelle et gratuite de préparation à l'examen régional (1ère Bac Maroc). Fiches synthèses, cartes mentales en arbre, cartes mémoires et quiz interactifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

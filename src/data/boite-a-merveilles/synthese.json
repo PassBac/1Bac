@@ -1,0 +1,257 @@
+{
+  "title": "Synthèse des connaissances - La Boîte à merveilles (Ahmed Sefrioui)",
+  "description": "Fichier de référence structuré par thèmes pour une plateforme éducative de révision du Baccalauréat au Maroc.",
+  "targetAudience": "Élèves de 1ère année du Baccalauréat",
+  "totalCategories": 8,
+  "totalItems": 31,
+  "knowledgeItems": [
+    {
+      "id": "pres_01",
+      "category": "présentation de l'œuvre",
+      "title": "Titre, dates de rédaction et de parution",
+      "explanation": "L'œuvre intitule 'La Boîte à merveilles' a été écrite par Ahmed Sefrioui en 1952 et publiée en 1954 au XXe siècle.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pres_02",
+      "category": "présentation de l'œuvre",
+      "title": "Cadre spatio-temporel général",
+      "explanation": "L'action se déroule dans la vieille Médina de Fès (notamment à Dar Chouafa, au Msid, dans les souks et les sanctuaires) et s'étale sur une durée d'environ neuf mois à près d'un an, rythmée par trois saisons.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pres_03",
+      "category": "présentation de l'œuvre",
+      "title": "Structure narrative et découpage saisonnier",
+      "explanation": "Le roman est composé de 12 chapitres structurés en 3 saisons consécutives : l'hiver (3 chapitres, I à III), le printemps (4 chapitres, IV à VII) et l'été (5 chapitres, VIII à XII).",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pres_04",
+      "category": "présentation de l'œuvre",
+      "title": "Événement perturbateur principal",
+      "explanation": "L'élément qui fait basculer la vie paisible de la famille dans la crise est la perte du capital du père (Maâlem Abdeslam) au souk des haïks (Chapitre IX), ce qui l'oblige à quitter Fès pour travailler comme moissonneur.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / Brefs résumés.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "bio_01",
+      "category": "biographie de l'auteur",
+      "title": "Ahmed Sefrioui : Repères biographiques",
+      "explanation": "Ahmed Sefrioui (1915-2004) est un écrivain marocain né à Fès d'origine montagnarde. Il a grandi au cœur de la culture traditionnelle fassie qu'il retrace dans son récit.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / personnages.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "bio_02",
+      "category": "biographie de l'auteur",
+      "title": "Appartenance littéraire",
+      "explanation": "Ahmed Sefrioui est considéré comme l'un des pionniers et fondateurs de la littérature marocaine d'expression française du XXe siècle.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / examens_corr.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "bio_03",
+      "category": "biographie de l'auteur",
+      "title": "Autres œuvres notables de l'auteur",
+      "explanation": "Outre 'La Boîte à merveilles', Ahmed Sefrioui a rédigé d'autres ouvrages cités dans les épreuves officielles, notamment 'Le Chapelet d'ambre' et 'La Maison de servitude'.",
+      "source": "examens_corr.pdf, p. 3, 7",
+      "verified": false
+    },
+    {
+      "id": "genre_01",
+      "category": "genre littéraire",
+      "title": "Le roman autobiographique",
+      "explanation": "L'œuvre appartient au genre du roman autobiographique. Il s'agit d'un récit en prose écrit à la première personne ('je') où le narrateur-personnage (Sidi Mohammed) raconte des événements inspirés de sa propre enfance.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / examens_corr.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "genre_02",
+      "category": "genre littéraire",
+      "title": "Spécificités par rapport à l'autobiographie pure",
+      "explanation": "Bien qu'il s'appuie sur le souvenir d'enfance de l'auteur, le roman autobiographique réorganise les événements selon une trame narrative romancée, théâtralisée et poétique (absence de pacte autobiographique formel strict).",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "genre_03",
+      "category": "genre littéraire",
+      "title": "Dimension ethnographique et valeur de témoignage",
+      "explanation": "Le récit constitue un véritable témoignage culturel et documentaire sur la vie quotidienne, les corps de métiers, les sanctuaires et la cartographie géographique de Fès dans le Maroc traditionnel des années 1920.",
+      "source": "Brefs résumés.pdf, p. 1 / examens_corr.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "narr_01",
+      "category": "narration et autobiographie",
+      "title": "Focalisation interne et double statut du narrateur",
+      "explanation": "La narration est construite en focalisation interne avec un va-et-vient entre deux perspectives : le narrateur adulte qui se remémore son passé avec nostalgie et le narrateur enfant (Sidi Mohammed, 6 ans) qui vit les événements au présent.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Brefs résumés.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "narr_02",
+      "category": "narration et autobiographie",
+      "title": "Les déclencheurs du récit",
+      "explanation": "Le récit est déclenché au Chapitre I par la nuit, l'insomnie et le poids de la solitude. Pour égayer cette solitude et chercher ses origines, le narrateur adulte ouvre l'« album » de sa mémoire d'enfant.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "narr_03",
+      "category": "narration et autobiographie",
+      "title": "L'utilisation des temps du récit et du présent",
+      "explanation": "L'imparfait et le passé simple dominent pour raconter les événements passés et poser les descriptions. L'apparition du présent d'énonciation marque les interventions réflexives du narrateur adulte au moment où il écrit.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / Analyse de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "narr_04",
+      "category": "narration et autobiographie",
+      "title": "La métaphore de la mémoire d'enfant",
+      "explanation": "La mémoire de l'enfant est comparée à une « cire fraîche » dans laquelle les moindres événements se gravent en images ineffaçables, formant un album poétique consulté par l'adulte.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / Le vocabulaire du souvenir.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pers_01",
+      "category": "personnages",
+      "title": "La famille du narrateur",
+      "explanation": "Composée du petit Sidi Mohammed (6 ans, solitaire et rêveur), de sa mère Lalla Zoubida (20 ans, superstitieuse, fière de ses origines chérifiennes) et du père Maâlem Abdeslam (tisserand pieux et digne d'origine montagnarde).",
+      "source": "personnages.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pers_02",
+      "category": "personnages",
+      "title": "Les locataires de Dar Chouafa",
+      "explanation": "Dar Chouafa abrite : Lalla Kenza (la voyante au rez-de-chaussée) ; Rahma, son mari Driss El Aouad (fabricant de charrues) et leur fille Zineb (1er étage) ; Fatma Bziouya et Allal le jardinier (2ème étage).",
+      "source": "personnages.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "pers_03",
+      "category": "personnages",
+      "title": "L'entourage proche et amitiés",
+      "explanation": "Lalla Aïcha est l'ancienne voisine et la plus chère amie de Lalla Zoubida. Son mari, Moulay Larbi (babouchier), subit la trahison de son associé Abdelkader puis tente un second mariage malheureux arrangé par Salama la marieuse.",
+      "source": "personnages.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 1-2",
+      "verified": false
+    },
+    {
+      "id": "pers_04",
+      "category": "personnages",
+      "title": "Les figures religieuses et spirituelles",
+      "explanation": "Le Fqih du Msid représente l'autorité sévèrearmé de sa baguette de cognassier. En contrepoint, Sidi El Arafi est le voyant aveugle bienveillant dont les prédictions rassurent Lalla Zoubida et Lalla Aïcha.",
+      "source": "personnages.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 1, 2",
+      "verified": false
+    },
+    {
+      "id": "pers_05",
+      "category": "personnages",
+      "title": "Les figures du quotidien et de la féerie",
+      "explanation": "Abdallah l'épicier nourrit l'imaginaire du jeune garçon grâce à ses récits fabuleux. Si Abderrahmane est le coiffeur-barbier redouté par l'enfant. Driss le teigneux est le serviteur fidèle et généreux de la famille.",
+      "source": "personnages.pdf, p. 1 / Analyse de la boîte à merveilles.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "them_01",
+      "category": "thèmes",
+      "title": "La solitude et l'isolement de l'enfance",
+      "explanation": "Thème central du roman. Sidi Mohammed se sent étranger aux jeux brutaux des autres enfants. Sa solitude constante le pousse à se réfugier dans l'imaginaire et la contemplation.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "them_02",
+      "category": "thèmes",
+      "title": "La solidarité et la vie communautaire",
+      "explanation": "Malgré les disputes (comme la querelle des lessives), la communauté fait preuve d'une profonde solidarité lors des moments difficiles : organisation d'un repas pour les pauvres après la disparition de Zineb, soutien lors du départ du père.",
+      "source": "Brefs résumés.pdf, p. 1 / Résumé chapitre par chapitre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "them_03",
+      "category": "thèmes",
+      "title": "La superstition et les croyances populaires",
+      "explanation": "Le récit décrit l'omniprésence des pratiques magico-religieuses : rituels de la voyante Chouafa, pèlerinages aux mausolées (Sidi Ali Boughaleb), peur du mauvais œil et recours aux amulettes.",
+      "source": "Résumé chapitre par chapitre.pdf, p. 1 / examens_corr.pdf, p. 3, 5",
+      "verified": false
+    },
+    {
+      "id": "them_04",
+      "category": "thèmes",
+      "title": "La pauvreté et la fierté familiale",
+      "explanation": "La perte du capital illustre la fragilité économique des artisans. Cependant, le père refuse de mendier ou de s'abaisser, préférant quitter la ville pour travailler dignement comme moissonneur afin d'assurer la subsistance des siens.",
+      "source": "Brefs résumés.pdf, p. 1 / examens_corr.pdf, p. 4",
+      "verified": false
+    },
+    {
+      "id": "symb_01",
+      "category": "symbolisme de la boîte",
+      "title": "Inventaire précis des objets contenus",
+      "explanation": "La boîte renferme des objets ordinaires, pauvres et hétéroclites : boutons de porcelaine, clous à tête dorée, boules de verre, chaînette de cuivre couverte de vert-de-gris, cabochon en verre, minuscule cadenas sans clé.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "symb_02",
+      "category": "symbolisme de la boîte",
+      "title": "Fonction de talisman et plaisir sensuel",
+      "explanation": "Pour le jeune garçon, ces objets banals ont une âme et une vertu de talisman. Leur contemplation et leur maniement procurent au narrateur un plaisir sensuel et une ivresse poétique.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "symb_03",
+      "category": "symbolisme de la boîte",
+      "title": "L'alchimie de l'imagination enfantine",
+      "explanation": "Par une opération de magie intime fondée sur le rêve, le jeune Sidi Mohammed métamorphose le métal vil (cuivre, clous) en bijoux fabuleux provenus de palais souterrains invisibles.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "symb_04",
+      "category": "symbolisme de la boîte",
+      "title": "Refuge contre les adultes et double valeur symbolique",
+      "explanation": "La boîte sert de sanctuaire contre la solitude et les contraintes de la réalité des adultes. Néanmoins, lors des accès de fièvre ou de deuil (Chapitres V et IX), les objets perdent leur magie et la boîte s'assimile temporairement à un cercueil.",
+      "source": "Le symbolisme de la boîte à merveilles.pdf, p. 1 / schema-des-chapitres-4-5-et-6.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "anal_01",
+      "category": "éléments d'analyse littéraire présents dans les sources",
+      "title": "Organisation spatiale et schéma d'itinéraire",
+      "explanation": "L'espace est organisé selon un schéma aller/retour centré sur la chambre familiale de Dar Chouafa (lieu de sécurité et de retour) d'où s'élancent les parcours d'exploration et d'initiation dans la ville de Fès.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "anal_02",
+      "category": "éléments d'analyse littéraire présents dans les sources",
+      "title": "Les oppositions symboliques binaires",
+      "explanation": "Le récit repose sur des structures binaires fondamentales qui installent le mystère : clos / ouvert, sombre / éclairé, espace réel / espace rêvé.",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2",
+      "verified": false
+    },
+    {
+      "id": "anal_03",
+      "category": "éléments d'analyse littéraire présents dans les sources",
+      "title": "La description dynamique",
+      "explanation": "La description n'est pas un décor fixe mais accompagne les déplacements et la sensibilité de l'enfant (exploration du patio, agitation du bain maure, mouvement des souks).",
+      "source": "Analyse de la boîte à merveilles.pdf, p. 2 / fiche-de-lecture-rapide.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "anal_04",
+      "category": "éléments d'analyse littéraire présents dans les sources",
+      "title": "Tonalité, registres et figures de style",
+      "explanation": "L'œuvre privilégie une langue courante empreinte de lyrisme et de nostalgie. Elle emploie un riche réseau de figures de style (comparaisons, métaphores, hyperboles, personnifications) répertoriées dans les examens régionaux.",
+      "source": "fiche-de-lecture-rapide.pdf, p. 1 / examens_corr.pdf, p. 2, 4, 6",
+      "verified": false
+    }
+  ]
+}
