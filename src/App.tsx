@@ -15,7 +15,7 @@ import { HomeView } from './components/home/HomeView';
 import { NovelView } from './components/novel/NovelView';
 import { LexiqueGlobalPage } from './components/lexicon/LexiqueGlobalPage';
 import { AboutPage } from './components/about/AboutPage';
-import quizData from './data/boite-a-merveilles/quiz.json';
+import { getNovelStudyData } from './data/novelStudyData';
 
 const getInitialDarkMode = (): boolean => {
   if (typeof window === 'undefined') return false;
@@ -146,6 +146,10 @@ export default function App() {
 
   const selectedNovel =
     NOVELS.find((n) => n.id === selectedNovelId) || NOVELS[0];
+  const selectedStudyData = getNovelStudyData(selectedNovelId);
+  const selectedUnitIds = selectedStudyData?.chaptersSyllabus.length
+    ? selectedStudyData.chaptersSyllabus.map((chapter) => chapter.id)
+    : selectedStudyData?.quizBanks.map((bank) => bank.chapterId) || [];
 
   return (
     <div className="min-h-screen flex flex-col bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 transition-colors duration-200 selection:bg-amber-100 dark:selection:bg-amber-950/80 selection:text-amber-900 dark:selection:text-amber-200">
@@ -155,9 +159,9 @@ export default function App() {
         selectedNovelId={selectedNovelId}
         onNavigate={handleNavigate}
         completedChapterCount={progress.completedChapters.filter((id) =>
-          quizData.some((bank) => bank.chapterId === id)
+          selectedUnitIds.includes(id)
         ).length}
-        chapterCount={quizData.length}
+        chapterCount={selectedUnitIds.length}
         isDarkMode={isDarkMode}
         onToggleTheme={handleToggleTheme}
       />
@@ -176,6 +180,7 @@ export default function App() {
 
         {currentView === 'novel' && (
           <NovelView
+            key={selectedNovelId}
             novel={selectedNovel}
             progress={progress}
             onToggleFlashcardMastery={handleToggleFlashcardMastery}
