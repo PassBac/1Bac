@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { QuizChapterBank, LexiqueData, UserStudyProgress } from '../../types';
+import { QuizChapterBank, LexiqueData, UserStudyProgress, ChapterDossier } from '../../types';
 import {
   CheckCircle2,
   Circle,
@@ -26,6 +26,13 @@ interface ChaptersOverviewViewProps {
   onOpenQuiz: (chapterIndex: number) => void;
   onToggleChapter: (chapterId: string) => void;
   onOpenFlashcards: () => void;
+  chaptersSyllabus?: ChapterDossier[];
+  unitLabel?: string;
+  unitLabelSingular?: string;
+  unitCompletedAdjective?: 'étudié' | 'étudiée';
+  completedHeading?: string;
+  unitShortLabel?: string;
+  unitHeading?: string;
 }
 
 export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
@@ -35,13 +42,22 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
   onOpenQuiz,
   onToggleChapter,
   onOpenFlashcards,
+  chaptersSyllabus: providedChaptersSyllabus,
+  unitLabel = 'chapitres',
+  unitLabelSingular = 'Chapitre',
+  unitCompletedAdjective = 'étudié',
+  completedHeading,
+  unitShortLabel = 'Chap',
+  unitHeading = "Dossiers d'Étude Chapitre par Chapitre",
 }) => {
   const [selectedSeason, setSelectedSeason] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState<string>('');
-  const [expandedChapterId, setExpandedChapterId] = useState<string | null>('chapitre-1');
+  const [expandedChapterId, setExpandedChapterId] = useState<string | null>(
+    providedChaptersSyllabus?.[0]?.id ?? 'chapitre-1'
+  );
 
   // Comprehensive professional syllabus data according to Moroccan Regional Exam reference framework
-  const chaptersSyllabus = [
+  const boiteChaptersSyllabus: ChapterDossier[] = [
     {
       id: 'chapitre-1',
       number: 1,
@@ -328,8 +344,15 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
     },
   ];
 
+  const chaptersSyllabus = providedChaptersSyllabus?.length
+    ? providedChaptersSyllabus
+    : boiteChaptersSyllabus;
+  const availableSeasons = Array.from(
+    new Set(chaptersSyllabus.map((chapter) => chapter.season).filter(Boolean))
+  );
+
   const filteredChapters = chaptersSyllabus.filter((c) => {
-    if (selectedSeason !== 'all' && c.season.toLowerCase() !== selectedSeason.toLowerCase()) {
+    if (selectedSeason !== 'all' && c.season !== selectedSeason) {
       return false;
     }
     if (searchQuery.trim() !== '') {
@@ -346,8 +369,11 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
   const completedCount = chaptersSyllabus.filter((chapter) =>
     progress.completedChapters.includes(chapter.id)
   ).length;
-  const totalChapterCount = quizBanks.length;
-  const progressPct = Math.round((completedCount / totalChapterCount) * 100);
+  const totalChapterCount = chaptersSyllabus.length;
+  const progressPct = totalChapterCount
+    ? Math.round((completedCount / totalChapterCount) * 100)
+    : 0;
+  const progressLabel = completedHeading || `${unitLabel[0].toLocaleUpperCase()}${unitLabel.slice(1)} étudiés`;
 
   return (
     <div className="space-y-8 animate-in fade-in duration-300">
@@ -361,17 +387,17 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
             </span>
           </div>
           <h2 className="text-2xl sm:text-3xl font-serif font-bold text-stone-900 dark:text-stone-100">
-            Dossiers d'Étude Chapitre par Chapitre
+            {unitHeading}
           </h2>
           <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-xl leading-relaxed">
-            Consultez les synthèses événementielles, les figures de style incontournables et les enjeux types posés aux épreuves régionales de l'examen.
+            Consultez le fil conducteur, les repères d’analyse et les enjeux de chaque {unitLabelSingular.toLocaleLowerCase()} pour préparer l’épreuve régionale.
           </p>
         </div>
 
         {/* Academic Progress Summary Box */}
         <div className="bg-stone-50 dark:bg-stone-800/80 border border-stone-200 dark:border-stone-700 rounded-2xl p-5 shrink-0 min-w-[260px] space-y-3">
           <div className="flex items-center justify-between text-xs">
-            <span className="font-semibold text-stone-700 dark:text-stone-300">Chapitres étudiés :</span>
+            <span className="font-semibold text-stone-700 dark:text-stone-300">{progressLabel} :</span>
             <span className="font-mono font-bold text-stone-900 dark:text-stone-100 tabular-nums">
               {completedCount} / {totalChapterCount} ({progressPct}%)
             </span>
@@ -411,38 +437,21 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
                 : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200'
             }`}
           >
-            Tous les chapitres ({chaptersSyllabus.length})
+            Toutes les {unitLabel} ({chaptersSyllabus.length})
           </button>
-          <button
-            onClick={() => setSelectedSeason('hiver')}
-            className={`px-3.5 py-1.5 text-xs font-semibold rounded-xl transition-all whitespace-nowrap ${
-              selectedSeason === 'hiver'
-                ? 'bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 shadow-xs'
-                : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200'
-            }`}
-          >
-            Saison Hiver (Chap. I à III)
-          </button>
-          <button
-            onClick={() => setSelectedSeason('printemps')}
-            className={`px-3.5 py-1.5 text-xs font-semibold rounded-xl transition-all whitespace-nowrap ${
-              selectedSeason === 'printemps'
-                ? 'bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 shadow-xs'
-                : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200'
-            }`}
-          >
-            Saison Printemps (Chap. IV à VII)
-          </button>
-          <button
-            onClick={() => setSelectedSeason('été')}
-            className={`px-3.5 py-1.5 text-xs font-semibold rounded-xl transition-all whitespace-nowrap ${
-              selectedSeason === 'été'
-                ? 'bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 shadow-xs'
-                : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200'
-            }`}
-          >
-            Saison Été (Chap. VIII à XII)
-          </button>
+          {availableSeasons.map((season) => (
+            <button
+              key={season}
+              onClick={() => setSelectedSeason(season)}
+              className={`px-3.5 py-1.5 text-xs font-semibold rounded-xl transition-all whitespace-nowrap ${
+                selectedSeason === season
+                  ? 'bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 shadow-xs'
+                  : 'text-stone-600 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-200'
+              }`}
+            >
+              Saison {season}
+            </button>
+          ))}
         </div>
 
         <div className="relative">
@@ -480,14 +489,14 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
                 <div className="flex items-start sm:items-center gap-4">
                   {/* Distinctive Chapter Badge */}
                   <div className="w-12 h-12 rounded-2xl bg-stone-900 dark:bg-stone-800 text-amber-50 dark:text-amber-300 border dark:border-stone-700 flex flex-col items-center justify-center font-serif shrink-0 shadow-xs">
-                    <span className="text-[10px] uppercase font-mono tracking-wider opacity-70">Chap</span>
+                    <span className="text-[10px] uppercase font-mono tracking-wider opacity-70">{unitShortLabel}</span>
                     <span className="text-lg font-bold leading-none">{chap.number}</span>
                   </div>
 
                   <div className="space-y-1">
                     <div className="flex flex-wrap items-center gap-2 text-xs">
                       <span className="font-mono text-amber-900 dark:text-amber-300 font-semibold bg-amber-50 dark:bg-amber-950/60 border border-amber-200 dark:border-amber-800/60 px-2 py-0.5 rounded">
-                        Saison : {chap.season}
+                        {chap.season ? `Saison : ${chap.season}` : chap.seasonLabel}
                       </span>
                       <span className="text-stone-500 dark:text-stone-400 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 dark:text-stone-500" />
@@ -514,12 +523,12 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
                     {isCompleted ? (
                       <>
                         <CheckCircle2 className="w-4 h-4 text-emerald-700 dark:text-emerald-400" />
-                        <span>Chapitre étudié</span>
+                        <span>{unitLabelSingular} {unitCompletedAdjective}</span>
                       </>
                     ) : (
                       <>
                         <Circle className="w-4 h-4 text-stone-400 dark:text-stone-500" />
-                        <span>Marquer comme étudié</span>
+                        <span>Marquer comme {unitCompletedAdjective}</span>
                       </>
                     )}
                   </button>
@@ -573,7 +582,7 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
                     <div className="space-y-2">
                       <div className="flex items-center gap-2 text-xs font-bold text-stone-800 dark:text-stone-200 uppercase tracking-wider">
                         <Users className="w-4 h-4 text-amber-800 dark:text-amber-400" />
-                        <span>Personnages en action dans ce chapitre :</span>
+                        <span>Personnages en action dans cette {unitLabelSingular.toLocaleLowerCase()} :</span>
                       </div>
                       <div className="flex flex-wrap gap-2">
                         {chap.keyCharacters.map((char, cIdx) => (
@@ -643,7 +652,7 @@ export const ChaptersOverviewView: React.FC<ChaptersOverviewViewProps> = ({
                       className="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-stone-900 dark:bg-stone-800 hover:bg-stone-800 dark:hover:bg-stone-700 disabled:opacity-50 disabled:cursor-not-allowed text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs"
                     >
                       <HelpCircle className="w-4 h-4 text-amber-400" />
-                      <span>Passer le Quiz officiel du Chapitre {chap.number} ({bank?.questions.length ?? 0} Q)</span>
+                      <span>Passer le Quiz officiel · {unitLabelSingular} {chap.number} ({bank?.questions.length ?? 0} Q)</span>
                       <ArrowRight className="w-4 h-4" />
                     </button>
                   </div>

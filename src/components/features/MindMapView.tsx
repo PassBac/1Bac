@@ -1,5 +1,5 @@
-import React, { useState, useMemo } from 'react';
-import { PersonnagesData, SyntheseData, PersonnageItem, KnowledgeItem } from '../../types';
+import React, { useState, useMemo, useRef } from 'react';
+import { PersonnagesData, SyntheseData, PersonnageItem, KnowledgeItem, NovelId } from '../../types';
 import {
   Users,
   BookOpen,
@@ -21,17 +21,34 @@ import {
 interface MindMapViewProps {
   personnagesData: PersonnagesData;
   syntheseData: SyntheseData;
+  novelId: NovelId;
+  novelTitle: string;
+  novelAuthor: string;
+  novelPublishYear: number;
 }
 
 export const MindMapView: React.FC<MindMapViewProps> = ({
   personnagesData,
   syntheseData,
+  novelId,
+  novelTitle,
+  novelAuthor,
+  novelPublishYear,
 }) => {
   const [treeType, setTreeType] = useState<'personnages' | 'synthese'>('personnages');
   const [collapsedBranches, setCollapsedBranches] = useState<Record<string, boolean>>({});
   const [selectedPersonnage, setSelectedPersonnage] = useState<PersonnageItem | null>(null);
   const [selectedKnowledge, setSelectedKnowledge] = useState<KnowledgeItem | null>(null);
   const [search, setSearch] = useState<string>('');
+  const inspectorRef = useRef<HTMLDivElement>(null);
+
+  const revealInspector = () => {
+    if (window.matchMedia('(max-width: 1023px)').matches) {
+      window.requestAnimationFrame(() => {
+        inspectorRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    }
+  };
 
   // Branch theme colors for rich visual distinction of tree limbs in both light and dark
   const branchColorPalette = [
@@ -100,6 +117,49 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
   // Exam hints for key characters
   const getExamRelevance = (charName: string) => {
     const q = charName.toLowerCase();
+    if (novelId === 'dernier-jour') {
+      if (q.includes('condamné à mort')) {
+        return 'Analysez le monologue intérieur du narrateur, son angoisse face à l’exécution et la manière dont son témoignage dénonce la peine de mort.';
+      }
+      if (q.includes('marie')) {
+        return 'Étudiez la visite où Marie ne reconnaît pas son père : cette scène montre les conséquences de la condamnation sur les proches et intensifie la douleur du condamné.';
+      }
+      if (q.includes('mère et l’épouse') || q.includes("mère et l'épouse")) {
+        return 'Montrez comment la mère et l’épouse, évoquées comme victimes indirectes, illustrent le déshonneur et la souffrance que la condamnation fait peser sur la famille.';
+      }
+      if (q.includes('juges') || q.includes('magistrats') || q.includes('jurés')) {
+        return 'Analysez le contraste entre la gravité du verdict et l’attitude routinière des juges et des jurés, qui renforce la critique de l’institution judiciaire.';
+      }
+      if (q.includes('avocat')) {
+        return 'Relevez le décalage entre le rôle de défense de l’avocat et son attitude détachée au moment du verdict, qui accentue le sentiment d’abandon du condamné.';
+      }
+      if (q.includes('huissier')) {
+        return 'Montrez comment la notification du rejet du pourvoi transforme la procédure judiciaire en annonce concrète de l’exécution imminente.';
+      }
+      if (q.includes('directeurs')) {
+        return 'Étudiez la politesse administrative des directeurs face à la mort prochaine du prisonnier : ce contraste souligne la froideur de l’univers carcéral.';
+      }
+      if (q.includes('geôliers') || q.includes('gendarmes')) {
+        return 'Comparez les attitudes des gardiens et des gendarmes pour montrer comment le récit dénonce l’indifférence et la déshumanisation en prison.';
+      }
+      if (q.includes('bourreau')) {
+        return 'Analysez la routine technique du bourreau lors de la préparation à l’exécution : elle rend le supplice concret et dénonce la banalisation de la peine capitale.';
+      }
+      if (q.includes('aumônier') || q.includes('prêtre')) {
+        return 'Montrez comment les paroles machinales de l’aumônier échouent à apaiser le condamné et soulignent son besoin d’une présence réellement humaine.';
+      }
+      if (q.includes('friauche')) {
+        return 'Étudiez le récit du Friauche et l’échange de vêtements comme une illustration de l’engrenage de la misère, du crime et de la récidive.';
+      }
+      if (q.includes('forçats')) {
+        return 'Analysez la scène du ferrage et les chants des forçats : le spectacle de leur dégradation révèle la violence du système pénal.';
+      }
+      if (q.includes('foule')) {
+        return 'Montrez comment la foule transforme l’exécution en spectacle et participe à la dénonciation de la cruauté collective.';
+      }
+      return 'Reliez ce personnage à la situation du condamné et montrez comment son rôle contribue à la dénonciation de la peine de mort.';
+    }
+
     if (q.includes('sidi mohammed')) {
       return 'Personnage central. Objet de toutes les questions sur la double énonciation (narrateur adulte vs enfant), la solitude, et la fonction salvatrice de la boîte à merveilles.';
     }
@@ -225,17 +285,17 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
                 <span className="text-[10px] font-mono tracking-widest uppercase text-amber-400 font-bold">
                   🌳 Tronc Racine de l'Arbre
                 </span>
-                <span className="text-[11px] text-stone-400 font-mono">Ahmed Sefrioui (1954)</span>
+                <span className="text-[11px] text-stone-400 font-mono">
+                  {novelAuthor} ({novelPublishYear})
+                </span>
               </div>
               <h3 className="font-serif font-bold text-2xl text-amber-50 dark:text-amber-100">
-                {treeType === 'personnages'
-                  ? 'La Boîte à merveilles'
-                  : 'Synthèse Thématique & Conceptuelle'}
+                {novelTitle}
               </h3>
               <p className="text-xs text-stone-300 dark:text-stone-300 leading-relaxed">
                 {treeType === 'personnages'
-                  ? 'La médina de Fès des années 1920. Point d\'ancrage d\'où partent les 5 grandes branches relationnelles du narrateur.'
-                  : 'Les 8 axes de connaissances officiels requis pour réussir l\'épreuve de compréhension et de langue.'}
+                  ? `${personnagesData.genre} · ${personnagesData.cadre_spatial}`
+                  : syntheseData.description}
               </p>
             </div>
 
@@ -315,7 +375,11 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
 
                               {/* Interactive Character Leaf Button */}
                               <button
-                                onClick={() => setSelectedPersonnage(p)}
+                                onClick={() => {
+                                  setSelectedKnowledge(null);
+                                  setSelectedPersonnage(p);
+                                  revealInspector();
+                                }}
                                 className={`text-left p-3.5 sm:p-4 rounded-2xl border transition-all duration-150 flex items-center justify-between gap-4 w-full shadow-2xs group ${
                                   isSelected
                                     ? 'bg-amber-900 dark:bg-amber-800 text-white border-amber-900 dark:border-amber-700 shadow-md ring-2 ring-amber-400'
@@ -422,7 +486,11 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
                               <div className="absolute -left-6 sm:-left-8 w-6 sm:w-8 h-0.5 bg-stone-300/80 dark:bg-stone-700/80" />
 
                               <button
-                                onClick={() => setSelectedKnowledge(item)}
+                                onClick={() => {
+                                  setSelectedPersonnage(null);
+                                  setSelectedKnowledge(item);
+                                  revealInspector();
+                                }}
                                 className={`text-left p-3.5 sm:p-4 rounded-2xl border transition-all duration-150 flex items-center justify-between gap-4 w-full shadow-2xs group ${
                                   isSelected
                                     ? 'bg-amber-900 dark:bg-amber-800 text-white border-amber-900 dark:border-amber-700 shadow-md ring-2 ring-amber-400'
@@ -457,9 +525,9 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
         </div>
 
         {/* Right: Leaf Inspector Side Dossier (Sticky) */}
-        <div className="lg:col-span-4 sticky top-24 space-y-4">
+        <div ref={inspectorRef} className="lg:col-span-4 lg:sticky lg:top-24 space-y-4 scroll-mt-4">
           {selectedPersonnage ? (
-            <div className="bg-white dark:bg-stone-900 rounded-3xl border-2 border-amber-400 dark:border-amber-600/70 p-6 sm:p-7 shadow-md space-y-5 animate-in fade-in duration-200 transition-colors duration-200">
+            <div key={selectedPersonnage.nom} className="bg-white dark:bg-stone-900 rounded-3xl border-2 border-amber-400 dark:border-amber-600/70 p-6 sm:p-7 shadow-md space-y-5 animate-in fade-in slide-in-from-bottom-4 duration-300 transition-colors duration-200">
               <div className="flex items-start justify-between gap-3 border-b border-stone-100 dark:border-stone-800 pb-4">
                 <div>
                   <span className="text-[10px] font-mono uppercase tracking-wider text-amber-900 dark:text-amber-300 bg-amber-50 dark:bg-amber-950/60 border border-amber-200 dark:border-amber-800/60 px-2.5 py-1 rounded-md font-bold">
@@ -533,7 +601,7 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
               </div>
             </div>
           ) : selectedKnowledge ? (
-            <div className="bg-white dark:bg-stone-900 rounded-3xl border-2 border-amber-400 dark:border-amber-600/70 p-6 sm:p-7 shadow-md space-y-5 animate-in fade-in duration-200 transition-colors duration-200">
+            <div key={selectedKnowledge.id} className="bg-white dark:bg-stone-900 rounded-3xl border-2 border-amber-400 dark:border-amber-600/70 p-6 sm:p-7 shadow-md space-y-5 animate-in fade-in slide-in-from-bottom-4 duration-300 transition-colors duration-200">
               <div className="flex items-start justify-between gap-3 border-b border-stone-100 dark:border-stone-800 pb-4">
                 <div>
                   <span className="text-[10px] font-mono uppercase tracking-wider text-amber-900 dark:text-amber-300 bg-amber-50 dark:bg-amber-950/60 border border-amber-200 dark:border-amber-800/60 px-2.5 py-1 rounded-md font-bold">
