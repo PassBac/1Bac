@@ -1,15 +1,7 @@
 import React from 'react';
 import { NovelSummary, NovelId, UserStudyProgress } from '../../types';
-import { BookOpen, ArrowRight, Sparkles, HelpCircle, GitBranch, Layers, RotateCcw, CheckCircle2 } from 'lucide-react';
-import quizData from '../../data/boite-a-merveilles/quiz.json';
-import lexiqueData from '../../data/boite-a-merveilles/lexique.json';
-import syntheseData from '../../data/boite-a-merveilles/synthese.json';
-
-const chapterCount = quizData.length;
-const quizQuestionCount = quizData.reduce((total, bank) => total + bank.questions.length, 0);
-const vocabularyCount = lexiqueData.entries.length;
-const synthesisItemCount = syntheseData.knowledgeItems.length;
-const flashcardCount = vocabularyCount + synthesisItemCount;
+import { ArrowRight, RotateCcw, BookOpen, CheckCircle2 } from 'lucide-react';
+import { getNovelStudyData } from '../../data/novelStudyData';
 
 interface HomeViewProps {
   novels: NovelSummary[];
@@ -26,15 +18,16 @@ export const HomeView: React.FC<HomeViewProps> = ({
   onNavigate,
   onResetProgress,
 }) => {
-  const boiteNovel = novels.find((n) => n.id === 'boite-a-merveilles') || novels[0];
-  const otherNovels = novels.filter((n) => n.id !== 'boite-a-merveilles');
-  const validChapterIds = new Set(quizData.map((bank) => bank.chapterId));
-  const validFlashcardIds = new Set([
-    ...lexiqueData.entries.map((entry) => `lex_${entry.id}`),
-    ...syntheseData.knowledgeItems.map((item) => `syn_${item.id}`),
-  ]);
-  const completedChapCount = progress.completedChapters.filter((id) => validChapterIds.has(id)).length;
-  const masteredCardsCount = progress.masteredFlashcards.filter((id) => validFlashcardIds.has(id)).length;
+  const studyDataByNovel = novels.map((novel) => ({
+    novel,
+    studyData: getNovelStudyData(novel.id),
+  }));
+  const activeModuleCount = studyDataByNovel.filter(({ studyData }) => studyData).length;
+  const totalQuizQuestionCount = studyDataByNovel.reduce(
+    (total, { studyData }) =>
+      total + (studyData?.quizBanks.reduce((count, bank) => count + bank.questions.length, 0) || 0),
+    0
+  );
 
   return (
     <div className="space-y-12 py-6 max-w-6xl mx-auto px-4 sm:px-6 animate-in fade-in duration-300">
@@ -59,35 +52,34 @@ export const HomeView: React.FC<HomeViewProps> = ({
           </div>
         </div>
 
-        {/* Clean Professional Stats Summary */}
+        {/* Neutral program overview */}
         <div className="bg-stone-50 dark:bg-stone-800/80 p-6 rounded-2xl border border-stone-200 dark:border-stone-700/80 shrink-0 min-w-[260px] space-y-4">
           <div className="text-xs font-semibold text-stone-700 dark:text-stone-200 uppercase tracking-wider">
-            Votre état d'avancement
+            Le programme en un coup d'œil
           </div>
 
           <div className="space-y-3">
             <div className="flex items-center justify-between text-xs">
-              <span className="text-stone-600 dark:text-stone-400">Chapitres étudiés :</span>
+              <span className="text-stone-600 dark:text-stone-400">Œuvres au programme :</span>
               <span className="font-mono font-bold text-stone-900 dark:text-stone-100 tabular-nums">
-                {completedChapCount} / {chapterCount} chapitres
+                {novels.length}
               </span>
             </div>
 
             <div className="flex items-center justify-between text-xs">
-              <span className="text-stone-600 dark:text-stone-400">Cartes mémoires :</span>
-              <span className="font-mono font-bold text-amber-900 dark:text-amber-400 tabular-nums">
-                {masteredCardsCount} maîtrisée{masteredCardsCount > 1 ? 's' : ''}
+              <span className="text-stone-600 dark:text-stone-400">Modules disponibles :</span>
+              <span className="font-mono font-bold text-stone-900 dark:text-stone-100 tabular-nums">
+                {activeModuleCount} / {novels.length}
+              </span>
+            </div>
+
+            <div className="flex items-center justify-between text-xs">
+              <span className="text-stone-600 dark:text-stone-400">Questions de quiz :</span>
+              <span className="font-mono font-bold text-stone-900 dark:text-stone-100 tabular-nums">
+                {totalQuizQuestionCount}
               </span>
             </div>
           </div>
-
-          <button
-            onClick={() => onSelectNovel('boite-a-merveilles')}
-            className="w-full py-2.5 rounded-xl bg-amber-800 hover:bg-amber-900 text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-xs"
-          >
-            <span>Accéder à La Boîte à merveilles</span>
-            <ArrowRight className="w-3.5 h-3.5" />
-          </button>
         </div>
       </section>
 
@@ -105,135 +97,99 @@ export const HomeView: React.FC<HomeViewProps> = ({
           </p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-          {/* CARD 1: LA BOITE A MERVEILLES (Active) */}
-          <div className="lg:col-span-2 bg-white dark:bg-stone-900 rounded-3xl border-2 border-amber-400 dark:border-amber-600/70 p-6 sm:p-8 shadow-sm space-y-6 flex flex-col justify-between transition-colors duration-200">
-            <div className="space-y-4">
-              <div className="flex flex-wrap items-center justify-between gap-2">
-                <span className="text-xs font-bold text-amber-900 dark:text-amber-300 uppercase tracking-wider bg-amber-50 dark:bg-amber-950/60 px-2.5 py-1 rounded-lg border border-amber-200 dark:border-amber-800/60">
-                  {boiteNovel.genre} · {boiteNovel.publishYear}
-                </span>
-                <span className="text-xs font-semibold text-emerald-800 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 px-2.5 py-1 rounded-lg border border-emerald-200 dark:border-emerald-800/60 flex items-center gap-1">
-                  <CheckCircle2 className="w-3.5 h-3.5" />
-                  <span>Module d'étude actif</span>
-                </span>
-              </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5 items-stretch">
+          {studyDataByNovel.map(({ novel, studyData }, index) => {
+            const questionCount =
+              studyData?.quizBanks.reduce((total, bank) => total + bank.questions.length, 0) || 0;
+            const unitCount = studyData
+              ? studyData.chaptersSyllabus.length || novel.totalChapters
+              : novel.totalChapters;
+            const unitLabel = studyData?.unitLabel || 'chapitres';
+            const isActive = novel.status === 'active' && !!studyData;
 
-              <div className="space-y-1.5">
-                <h3 className="font-serif font-bold text-2xl sm:text-3xl text-stone-900 dark:text-stone-100">
-                  {boiteNovel.title}
-                </h3>
-                <div className="text-sm font-semibold text-amber-900 dark:text-amber-400">
-                  {boiteNovel.author} ({boiteNovel.authorLife})
-                </div>
-                <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 leading-relaxed pt-1">
-                  {boiteNovel.shortDescription}
-                </p>
-              </div>
-
-              {/* 4 Interactive Tools Quick Grid */}
-              <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 pt-2">
-                <button
-                  onClick={() => onSelectNovel('boite-a-merveilles')}
-                  className="p-3.5 rounded-2xl bg-stone-50 dark:bg-stone-800/70 hover:bg-amber-50 dark:hover:bg-amber-950/40 border border-stone-200 dark:border-stone-700/80 hover:border-amber-300 dark:hover:border-amber-600 text-left transition-colors space-y-1 group"
-                >
-                  <div className="text-amber-800 dark:text-amber-400 font-bold text-xs flex items-center gap-1.5">
-                    <GitBranch className="w-4 h-4" />
-                    <span>Arbre Mental</span>
-                  </div>
-                  <div className="text-[11px] text-stone-500 dark:text-stone-400">Branches & Personnages</div>
-                </button>
-
-                <button
-                  onClick={() => onSelectNovel('boite-a-merveilles')}
-                  className="p-3.5 rounded-2xl bg-stone-50 dark:bg-stone-800/70 hover:bg-amber-50 dark:hover:bg-amber-950/40 border border-stone-200 dark:border-stone-700/80 hover:border-amber-300 dark:hover:border-amber-600 text-left transition-colors space-y-1 group"
-                >
-                  <div className="text-amber-800 dark:text-amber-400 font-bold text-xs flex items-center gap-1.5">
-                    <Layers className="w-4 h-4" />
-                    <span>Cartes Mémoires</span>
-                  </div>
-                  <div className="text-[11px] text-stone-500 dark:text-stone-400">{flashcardCount} cartes recto-verso</div>
-                </button>
-
-                <button
-                  onClick={() => onSelectNovel('boite-a-merveilles')}
-                  className="p-3.5 rounded-2xl bg-stone-50 dark:bg-stone-800/70 hover:bg-amber-50 dark:hover:bg-amber-950/40 border border-stone-200 dark:border-stone-700/80 hover:border-amber-300 dark:hover:border-amber-600 text-left transition-colors space-y-1 group"
-                >
-                  <div className="text-amber-800 dark:text-amber-400 font-bold text-xs flex items-center gap-1.5">
-                    <HelpCircle className="w-4 h-4" />
-                    <span>Banque Quiz</span>
-                  </div>
-                  <div className="text-[11px] text-stone-500 dark:text-stone-400">{quizQuestionCount} questions · {chapterCount} chapitres</div>
-                </button>
-
-                <button
-                  onClick={() => onSelectNovel('boite-a-merveilles')}
-                  className="p-3.5 rounded-2xl bg-stone-50 dark:bg-stone-800/70 hover:bg-amber-50 dark:hover:bg-amber-950/40 border border-stone-200 dark:border-stone-700/80 hover:border-amber-300 dark:hover:border-amber-600 text-left transition-colors space-y-1 group"
-                >
-                  <div className="text-amber-800 dark:text-amber-400 font-bold text-xs flex items-center gap-1.5">
-                    <BookOpen className="w-4 h-4" />
-                    <span>Synthèse</span>
-                  </div>
-                  <div className="text-[11px] text-stone-500 dark:text-stone-400">{synthesisItemCount} repères thématiques</div>
-                </button>
-              </div>
-            </div>
-
-            <div className="pt-4 border-t border-stone-100 dark:border-stone-800 flex flex-col sm:flex-row items-center justify-between gap-4">
-              <span className="text-xs text-stone-500 dark:text-stone-400">
-                Chapitres étudiés : <strong className="text-stone-900 dark:text-stone-100">{completedChapCount} / {chapterCount}</strong>
-              </span>
-
-              <button
-                onClick={() => onSelectNovel('boite-a-merveilles')}
-                className="w-full sm:w-auto px-6 py-3 rounded-xl bg-amber-800 hover:bg-amber-900 text-white font-semibold text-xs shadow-xs flex items-center justify-center gap-2 transition-colors"
-              >
-                <span>Ouvrir l'étude de l'œuvre</span>
-                <ArrowRight className="w-4 h-4" />
-              </button>
-            </div>
-          </div>
-
-          {/* CARDS 2 & 3: LE DERNIER JOUR & ANTIGONE */}
-          <div className="space-y-6">
-            {otherNovels.map((novel) => (
-              <div
+            return (
+              <article
                 key={novel.id}
-                className="bg-white dark:bg-stone-900 rounded-3xl border border-stone-200 dark:border-stone-800 p-6 sm:p-7 shadow-xs space-y-4 hover:border-stone-300 dark:hover:border-stone-700 transition-all flex flex-col justify-between"
+                className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-xs transition-all duration-300 hover:-translate-y-1 hover:border-amber-400 hover:shadow-lg dark:border-stone-800 dark:bg-stone-900 dark:hover:border-amber-600"
               >
-                <div className="space-y-2">
-                  <div className="flex items-center justify-between">
-                    <span className="text-[11px] font-mono text-stone-500 dark:text-stone-400 uppercase font-semibold">
-                      {novel.century} · {novel.genre}
+                <div className="h-1.5 bg-gradient-to-r from-amber-700 via-amber-500 to-amber-200 dark:from-amber-600 dark:via-amber-400 dark:to-amber-900" />
+                <div className="flex flex-1 flex-col p-6 sm:p-7">
+                  <div className="flex items-start justify-between gap-3">
+                    <span className="inline-flex h-10 w-10 items-center justify-center rounded-2xl bg-amber-50 font-mono text-sm font-bold text-amber-900 dark:bg-amber-950/60 dark:text-amber-300">
+                      {String(index + 1).padStart(2, '0')}
                     </span>
-                    <span className="text-[10px] font-semibold text-stone-500 dark:text-stone-400 bg-stone-100 dark:bg-stone-800 px-2 py-0.5 rounded">
-                      Structure prête
+                    <span
+                      className={`inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-[10px] font-semibold ${
+                        isActive
+                          ? 'bg-emerald-50 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300'
+                          : 'bg-stone-100 text-stone-600 dark:bg-stone-800 dark:text-stone-300'
+                      }`}
+                    >
+                      {isActive && <CheckCircle2 className="h-3.5 w-3.5" />}
+                      {isActive ? 'Module disponible' : 'À venir'}
                     </span>
                   </div>
 
-                  <h4 className="font-serif font-bold text-xl text-stone-900 dark:text-stone-100">
-                    {novel.title}
-                  </h4>
-                  <div className="text-xs text-stone-600 dark:text-stone-300 font-semibold">
-                    {novel.author} ({novel.authorLife})
+                  <div className="mt-5 space-y-2">
+                    <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-amber-800 dark:text-amber-400">
+                      {novel.century} · {novel.genre} · {novel.publishYear}
+                    </p>
+                    <h3 className="min-h-[3.5rem] font-serif text-2xl font-bold leading-tight text-stone-900 dark:text-stone-100">
+                      {novel.title}
+                    </h3>
+                    <p className="text-xs font-semibold text-stone-600 dark:text-stone-300">
+                      {novel.author} <span className="font-normal">({novel.authorLife})</span>
+                    </p>
+                    <p className="min-h-[5.25rem] pt-1 text-sm leading-relaxed text-stone-600 dark:text-stone-400 line-clamp-4">
+                      {novel.shortDescription}
+                    </p>
                   </div>
-                  <p className="text-xs text-stone-500 dark:text-stone-400 leading-relaxed line-clamp-3">
-                    {novel.shortDescription}
-                  </p>
-                </div>
 
-                <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between">
-                  <button
-                    onClick={() => onSelectNovel(novel.id)}
-                    className="text-xs font-semibold text-amber-800 dark:text-amber-400 hover:text-amber-950 dark:hover:text-amber-300 flex items-center gap-1.5 transition-colors"
-                  >
-                    <span>Voir la fiche de l'œuvre</span>
-                    <ArrowRight className="w-3.5 h-3.5" />
-                  </button>
+                  <div className="mt-5 grid grid-cols-3 divide-x divide-stone-200 rounded-2xl border border-stone-200 bg-stone-50/80 py-3 dark:divide-stone-700 dark:border-stone-700 dark:bg-stone-800/60">
+                    <div className="px-2 text-center">
+                      <div className="font-mono text-base font-bold text-stone-900 dark:text-stone-100">
+                        {unitCount}
+                      </div>
+                      <div className="mt-0.5 text-[10px] text-stone-500 dark:text-stone-400">
+                        {unitLabel}
+                      </div>
+                    </div>
+                    <div className="px-2 text-center">
+                      <div className="font-mono text-base font-bold text-stone-900 dark:text-stone-100">
+                        {studyData ? questionCount : '—'}
+                      </div>
+                      <div className="mt-0.5 text-[10px] text-stone-500 dark:text-stone-400">
+                        quiz
+                      </div>
+                    </div>
+                    <div className="px-2 text-center">
+                      <div className="font-mono text-base font-bold text-stone-900 dark:text-stone-100">
+                        {studyData ? studyData.lexiqueData.entries.length : '—'}
+                      </div>
+                      <div className="mt-0.5 text-[10px] text-stone-500 dark:text-stone-400">
+                        mots-clés
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="mt-auto pt-6">
+                    <button
+                      onClick={() => onSelectNovel(novel.id)}
+                      className={`flex w-full items-center justify-center gap-2 rounded-xl px-4 py-3 text-xs font-semibold transition-all ${
+                        isActive
+                          ? 'bg-amber-800 text-white shadow-xs hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600'
+                          : 'border border-stone-300 text-stone-700 hover:border-amber-400 hover:text-amber-900 dark:border-stone-700 dark:text-stone-300 dark:hover:border-amber-600 dark:hover:text-amber-300'
+                      }`}
+                    >
+                      <BookOpen className="h-4 w-4" />
+                      <span>{isActive ? 'Ouvrir le module' : 'Découvrir l’œuvre'}</span>
+                      <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+                    </button>
+                  </div>
                 </div>
-              </div>
-            ))}
-          </div>
+              </article>
+            );
+          })}
         </div>
       </section>
 

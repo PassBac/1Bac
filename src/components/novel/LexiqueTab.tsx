@@ -81,7 +81,12 @@ export const LexiqueTab: React.FC<LexiqueTabProps> = ({ data }) => {
                 <h3 className="font-serif font-bold text-lg text-stone-900 dark:text-stone-100">
                   {item.word}
                 </h3>
-                {item.chapterId && (
+                {item.category && (
+                  <span className="text-[10px] uppercase font-mono text-stone-600 dark:text-stone-300 bg-stone-100 dark:bg-stone-800 px-2 py-0.5 rounded shrink-0">
+                    {item.category}
+                  </span>
+                )}
+                {!item.category && item.chapterId && (
                   <span className="text-[10px] uppercase font-mono text-stone-600 dark:text-stone-300 bg-stone-100 dark:bg-stone-800 px-2 py-0.5 rounded">
                     {item.chapterId.replace('-', ' ')}
                   </span>

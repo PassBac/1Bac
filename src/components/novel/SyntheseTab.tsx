@@ -35,7 +35,9 @@ export const SyntheseTab: React.FC<SyntheseTabProps> = ({
     return true;
   });
 
-  const completedCount = data.knowledgeItems.filter((item) => completedItems.includes(item.id)).length;
+  const completedCount = data.knowledgeItems.filter(
+    (item) => completedItems.includes(`syn_${item.id}`) || completedItems.includes(item.id)
+  ).length;
   const progressPct = totalItems > 0 ? Math.round((completedCount / totalItems) * 100) : 0;
 
   return (
@@ -115,7 +117,10 @@ export const SyntheseTab: React.FC<SyntheseTabProps> = ({
       {/* Grid of Knowledge Items */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {filteredItems.map((item) => {
-          const isDone = completedItems.includes(item.id);
+          const masteryId = `syn_${item.id}`;
+          const hasPrefixedId = completedItems.includes(masteryId);
+          const hasLegacyId = completedItems.includes(item.id);
+          const isDone = hasPrefixedId || hasLegacyId;
 
           return (
             <div
@@ -138,7 +143,7 @@ export const SyntheseTab: React.FC<SyntheseTabProps> = ({
                   </div>
 
                   <button
-                    onClick={() => onToggleItem(item.id)}
+                    onClick={() => onToggleItem(hasPrefixedId ? masteryId : hasLegacyId ? item.id : masteryId)}
                     className={`p-1.5 rounded-lg transition-colors shrink-0 ${
                       isDone
                         ? 'text-emerald-700 dark:text-emerald-300 bg-emerald-100 dark:bg-emerald-950/70 hover:bg-emerald-200 dark:hover:bg-emerald-900'
@@ -159,9 +164,11 @@ export const SyntheseTab: React.FC<SyntheseTabProps> = ({
                 </p>
               </div>
 
-              <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between text-[11px] text-stone-500 dark:text-stone-400">
+              <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-3 text-[11px] text-stone-500 dark:text-stone-400">
                 <span className="truncate max-w-[280px]">
-                  Source : {item.source}
+                  {item.keywords?.length
+                    ? `Mots-clés : ${item.keywords.join(' · ')}`
+                    : item.source ? `Source : ${item.source}` : ''}
                 </span>
                 <span className="font-mono text-stone-400 dark:text-stone-500">#{item.id}</span>
               </div>

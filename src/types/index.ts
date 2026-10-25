@@ -33,6 +33,7 @@ export interface KnowledgeItem {
   explanation: string;
   source: string;
   verified: boolean;
+  keywords?: string[];
 }
 
 export interface SyntheseData {
@@ -102,6 +103,7 @@ export interface LexiqueEntryItem {
   synonymes: string[] | null;
   context: string | null;
   chapterId: string | null;
+  category?: string;
   source: string;
   verified: boolean;
 }
@@ -112,6 +114,20 @@ export interface LexiqueData {
   sourceDocument: string;
   totalEntries: number;
   entries: LexiqueEntryItem[];
+}
+
+export interface ChapterDossier {
+  id: string;
+  number: number;
+  season: string;
+  seasonLabel?: string;
+  spatialFrame: string;
+  title: string;
+  narrativeArc: string;
+  regionalExamKeys: string[];
+  themes: string[];
+  keyCharacters: { name: string; role: string }[];
+  examQuestionsHint: string;
 }
 
 // User professional progress (no childish XP or streaks)

@@ -1,0 +1,222 @@
+{
+  "title": "Carte mentale des personnages - Le Dernier Jour d'un condamné (Victor Hugo)",
+  "description": "Structure sous forme de carte mentale des personnages et figures de l'œuvre de Victor Hugo pour la plateforme de révision du Baccalauréat.",
+  "targetAudience": "1ère année du Baccalauréat au Maroc",
+  "source": "les-personnages-de-l-oeuvre.pdf / presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+  "verified": false,
+  "categories": [
+    {
+      "categoryId": "cat_01",
+      "categoryName": "Le Protagoniste (Le Condamné)",
+      "description": "Le personnage central du récit, dont la pensée et les souffrances constituent le monologue intérieur du roman à thèse.",
+      "characters": [
+        {
+          "id": "pers_01",
+          "name": "Le Condamné à mort",
+          "role": "Narrateur-personnage principal",
+          "status": "Incarcéré (Bicêtre, Conciergerie, Hôtel de Ville)",
+          "description": "Jeune homme instruit, sain et fort. On ignore son nom, son âge exact et la nature précise de son crime (crime de sang). Hanté depuis 5 à 6 semaines par l'idée fixe de la mort et de la guillotine. Il éprouve un amour absolu pour sa fille Marie et refuse la cruauté du spectacle de l'exécution publique.",
+          "keyTraits": [
+            "Rêveur",
+            "Sensible",
+            "Instruit",
+            "Terriblement seul face à l'échafaud"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_02",
+      "categoryName": "La Famille du Condamné",
+      "description": "Les proches victimes indirectes de la peine capitale et du déshonneur social.",
+      "characters": [
+        {
+          "id": "pers_02",
+          "name": "Marie",
+          "role": "Fille du condamné (3 ans)",
+          "status": "Famille proche",
+          "description": "Petite fille âgée de trois ans. Son père lui voue une affection passionnée. Lors de sa visite au chapitre XLIII, elle ne reconnaît pas son père (l'appelle 'Monsieur' et croit qu'il est mort), ce qui anéantit le condamné et lui fait perdre tout espoir.",
+          "keyTraits": [
+            "Innocente",
+            "Candide",
+            "Vector d'une douleur morale immense pour le père"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 3"
+        },
+        {
+          "id": "pers_03",
+          "name": "La mère et l'épouse du condamné",
+          "role": "Mère et femme du condamné",
+          "status": "Famille proche (citées)",
+          "description": "Non décrites physiquement dans le récit, elles sont évoquées par le condamné pour souligner la peine indirecte infligée aux innocents que la justice de la société ruine et déshonore (Chapitre IX).",
+          "keyTraits": [
+            "Innocentes",
+            "Victimes collatérales du châtiment"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_03",
+      "categoryName": "Les Représentants de l'Autorité et de la Justice",
+      "description": "Les figures institutionnelles qui incarnent l'appareil judiciaire et l'indifférence de la société.",
+      "characters": [
+        {
+          "id": "pers_04",
+          "name": "Les Juges, Magistrats et Jurés",
+          "role": "Acteurs du procès et du verdict",
+          "status": "Institution judiciaire",
+          "description": "Indifférents au sort de l'homme qu'ils jugent. Le président est 'calme', les jurés sont blêmes et abattus par la fatigue des délibérations nocturnes, un jeune assesseur bavarde gaiement avec une jolie dame en chapeau rose.",
+          "keyTraits": [
+            "Froidement routiniers",
+            "Indifférents à la vie humaine"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+        },
+        {
+          "id": "pers_05",
+          "name": "L'Avocat de la défense",
+          "role": "Défenseur du condamné",
+          "status": "Justice",
+          "description": "A plaidé la grâce ou une peine atténuée, mais vient de 'déjeuner copieusement et de bon appétit' au moment du verdict, faisant preuve d'une légèreté déroutante pour le condamné.",
+          "keyTraits": [
+            "Professionnel détaché"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+        },
+        {
+          "id": "pers_06",
+          "name": "L'Huissier de justice",
+          "role": "Officier signifiant le rejet du pourvoi",
+          "status": "Administration judiciaire",
+          "description": "Vient notifier l'exécution imminente. Il est davantage préoccupé par la perte de son tabac que par le désespoir du condamné qu'il accompagne à la Conciergerie.",
+          "keyTraits": [
+            "Insensible",
+            "Lui reproche son air triste"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_04",
+      "categoryName": "Le Personnel Carcéral et d'Exécution",
+      "description": "Les agents chargés de la garde et de la mise à mort du prisonnier.",
+      "characters": [
+        {
+          "id": "pers_07",
+          "name": "Les Directeurs des prisons (Bicêtre et Conciergerie)",
+          "role": "Gestionnaires des établissements pénitentiaires",
+          "status": "Administration pénitentiaire",
+          "description": "Se montrent polis et faussement 'gentils' avec le condamné, mais cette courtoisie administrative annonce la proximité de l'échafaud ('C'est pour aujourd'hui').",
+          "keyTraits": [
+            "Polis",
+            "Administratifs",
+            "Froids"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+        },
+        {
+          "id": "pers_08",
+          "name": "Les Geôliers et Gendarmes",
+          "role": "Gardiens de cellule et escorte",
+          "status": "Personnel de prison",
+          "description": "Offrent un contraste : certains traitent le condamné comme un animal, d'autres sont plus douillets. L'un des gendarmes (Ch. XXXII) se montre familier uniquement pour lui demander les numéros gagnants de la loterie.",
+          "keyTraits": [
+            "Superstitieux",
+            "Rudes ou intéressés"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 2"
+        },
+        {
+          "id": "pers_09",
+          "name": "Le Bourreau (et ses valets)",
+          "role": "Exécuteur des hautes œuvres",
+          "status": "Place de Grève / Hôtel de Ville",
+          "description": "Chargé de 'la toilette du condamné' (coupe des cheveux et du collet, liage des mains) et de la guillotine. Il ne se soucie que des aspects techniques, craignant que la pluie ne rouille le mécanisme du couteau.",
+          "keyTraits": [
+            "Exécuteur technique",
+            "Routinier de la mort"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 3"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_05",
+      "categoryName": "La Figure Religieuse",
+      "description": "L'accompagnement spirituel officiel du condamné.",
+      "characters": [
+        {
+          "id": "pers_10",
+          "name": "L'Aumônier (Le Prêtre de la prison)",
+          "role": "Soutien spirituel officiel",
+          "status": "Clergé de la prison",
+          "description": "Accompagne le condamné à Bicêtre et à la Conciergerie. Il débite des prières et consolations de manière machinale et automatique, sans parler avec son cœur, ce qui désespère le prisonnier en quête de vraie ferveur et d'humanité.",
+          "keyTraits": [
+            "Détaché",
+            "Machinal",
+            "Sermons automatisés"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 2"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_06",
+      "categoryName": "Les Compagnons de Captivité",
+      "description": "Les autres criminels et détenus croisés dans le milieu carcéral.",
+      "characters": [
+        {
+          "id": "pers_11",
+          "name": "Le Friauche",
+          "role": "Ancien forçat et nouveau condamné à mort",
+          "status": "Rencontré à la Conciergerie (Ch. XXIII-XXIV)",
+          "description": "Fils d'un exécuté, ayant grandi dans le crime et l'argot. Il s'empare par la ruse de la redingote du narrateur. Il incarne l'engrenage fatal de la misère, du crime et de la récidive généré par la société.",
+          "keyTraits": [
+            "Cynique",
+            "Victime du système social",
+            "Utilise l'argot"
+          ],
+          "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 2"
+        },
+        {
+          "id": "pers_12",
+          "name": "Les Forçats du bagne",
+          "role": "Galerions condamnés aux travaux forcés",
+          "status": "Cour de Bicêtre (Ch. XIII-XIV)",
+          "description": "Prisonniers soumis à la cérémonie dégradante et spectaculaire du 'ferrage' avant leur départ pour le bagne de Toulon. Leur déchéance et leurs chants d'argot provoquent l'évanouissement du narrateur.",
+          "keyTraits": [
+            "Maltraités",
+            "Dégradés",
+            "Enchaînés"
+          ],
+          "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+        }
+      ]
+    },
+    {
+      "categoryId": "cat_07",
+      "categoryName": "La Foule Spectatrice",
+      "description": "Le peuple voyeuriste assemblé pour assister au supplice.",
+      "characters": [
+        {
+          "id": "pers_13",
+          "name": "La Foule de la Place de Grève",
+          "role": "Spectateurs de l'exécution",
+          "status": "Espace public (Rues, Hôtel de Ville, Place de Grève)",
+          "description": "Foule nombreuse, avide de sang et de divertissement tragique. Elle assiste au voyage de la carriole et à la guillotine comme à un spectacle festif, riant et applaudissant, sans conscience de la cruauté de la peine de mort.",
+          "keyTraits": [
+            "Cruelle",
+            "Voyeuriste",
+            "Inconsciente",
+            "Besoins de spectacle"
+          ],
+          "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 3"
+        }
+      ]
+    }
+  ]
+}

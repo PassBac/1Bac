@@ -29,9 +29,9 @@ export const NOVELS: NovelSummary[] = [
     coverImage: '',
     shortDescription:
       'Un plaidoyer vibrant et universel contre la peine de mort, consignant les dernières pensées et angoisses d\'un condamné anonyme attendant son exécution à Bicêtre, la Conciergerie et l\'Hôtel de Ville.',
-    status: 'coming_soon',
+    status: 'active',
     totalChapters: 49,
-    estimatedStudyTime: 'Structure prête (Module à venir)',
+    estimatedStudyTime: '6 séquences de révision',
   },
   {
     id: 'antigone',

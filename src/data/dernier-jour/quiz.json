@@ -1,0 +1,1607 @@
+{
+  "bankTitle": "Banque de Quiz - Le Dernier Jour d'un condamné (Victor Hugo)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "sectionId": "section-1-chapitres-1-5",
+  "sectionTitle": "Chapitres I à V : L'idée fixe, le souvenir du procès, la résignation et l'arrivée à Bicêtre",
+  "totalQuestions": 108,
+  "questions": [
+    {
+      "id": "djc_q01",
+      "chapterId": "chapitre-1",
+      "type": "qcm",
+      "question": "Quelle est l'idée fixe qui obsède le narrateur dès la première ligne du roman ?",
+      "options": [
+        "L'espoir d'une grâce royale",
+        "Le souvenir de son crime",
+        "La formule tragique : « Condamné à mort ! »",
+        "La peur de la faim et du froid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le roman s'ouvre sur le cri dramatique et l'idée obsessionnelle : « Condamné à mort ! Voilà cinq semaines que je vis avec cette pensée... »",
+      "source": "presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. I)",
+      "verified": false
+    },
+    {
+      "id": "djc_q02",
+      "chapterId": "chapitre-1",
+      "type": "qcm",
+      "question": "Où se trouve incarcéré le condamné au début du récit ?",
+      "options": [
+        "À la Conciergerie",
+        "À l'Hôtel de Ville",
+        "À la prison de Bicêtre",
+        "Au bagne de Toulon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Le premier grand lieu de détention décrit dans la première partie du roman est la prison de Bicêtre.",
+      "source": "presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. I)",
+      "verified": false
+    },
+    {
+      "id": "djc_q03",
+      "chapterId": "chapitre-1",
+      "type": "vrai_faux",
+      "question": "Le narrateur est doublement captif : physiquement dans sa cellule et moralement par son idée fixe.",
+      "correctAnswer": true,
+      "explanation": "Il est enfermé physiquement entre quatre murs et moralement obsédé par la pensée unique de son exécution.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. I)",
+      "verified": false
+    },
+    {
+      "id": "djc_q04",
+      "chapterId": "chapitre-1",
+      "type": "themes_symboles",
+      "question": "Quelle antithèse majeure le narrateur établit-il dans le Chapitre I entre son passé et son présent ?",
+      "expectedAnswer": "Le narrateur oppose son passé où il était un homme libre, jeune, riche d'idées, de fêtes et de fantaisies, à son présent de captif enchaîné corps et âme sous le joug d'une pensée glaciale et meurtrière.",
+      "gradingCriteria": [
+        "Mentionner la liberté et la richesse d'esprit passées (jeunesse, fantaisies)",
+        "Opposer la captivité physique et l'obsession de la mort au présent",
+        "Identifier la figure d'opposition (antithèse/contraste)"
+      ],
+      "explanation": "Cette antithèse souligne la déchéance du condamné et l'engrenage de la punition capitale.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. I)",
+      "verified": false
+    },
+    {
+      "id": "djc_q05",
+      "chapterId": "chapitre-2",
+      "type": "qcm",
+      "question": "À quelle saison et dans quelles conditions climatiques le procès du condamné s'est-il déroulé ?",
+      "options": [
+        "En plein hiver sous une pluie battante",
+        "À la fin du mois d'août, sous un soleil chaud et radieux",
+        "Au début du printemps pendant un orage",
+        "En automne sous un ciel gris et brumeux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le narrateur se rappelle le contraste tragique entre la chaleur d'un bel après-midi d'août et la froideur du verdict de mort prononcé à trois heures.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. II)",
+      "verified": false
+    },
+    {
+      "id": "djc_q06",
+      "chapterId": "chapitre-2",
+      "type": "qcm",
+      "question": "Quelle était l'attitude générale des jurés et des membres du tribunal lors du prononcé du verdict ?",
+      "options": [
+        "Ils pleuraient de compassion pour le jeune homme",
+        "Ils se montraient calmes, fatigués, hâter d'en finir et indifférents à son sort",
+        "Ils manifestaient une colère violente contre l'accusé",
+        "Ils hésitaient longuement entre la grâce et la prison"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les juges et jurés sont dépeints comme des hommes épuisés par les débats, pressés de déjeuner ou de dormir, traitant la condamnation à mort comme une simple formalité administrative.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. II)",
+      "verified": false
+    },
+    {
+      "id": "djc_q07",
+      "chapterId": "chapitre-2",
+      "type": "vrai_faux",
+      "question": "L'avocat de la défense s'est montré très satisfait d'avoir obtenu la peine de mort pour son client.",
+      "correctAnswer": false,
+      "explanation": "L'avocat espérait avoir évité la peine capitale en réclamant les travaux forcés à perpétuité ; il est lui-même atterré par le verdict d'exécution.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. II)",
+      "verified": false
+    },
+    {
+      "id": "djc_q08",
+      "chapterId": "chapitre-3",
+      "type": "qcm",
+      "question": "Quelle réflexion philosophique le condamné développe-t-il au Chapitre III pour tenter de relativiser son sort ?",
+      "options": [
+        "« Il faut souffrir sur terre pour gagner le paradis. »",
+        "« Tous les hommes sont des condamnés en sursis avec des échéances indéterminées. »",
+        "« La prison est le seul endroit où l'esprit reste pur. »",
+        "« Les juges seront eux-mêmes jugés par Dieu. »"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le condamné cherche une consolation stoïcienne en se disant que la condition humaine tout entière est une condamnation à mort dont seule la date reste inconnue.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. III)",
+      "verified": false
+    },
+    {
+      "id": "djc_q09",
+      "chapterId": "chapitre-4",
+      "type": "qcm",
+      "question": "Comment le condamné qualifie-t-il l'édifice de la prison de Bicêtre lorsqu'il y est transféré ?",
+      "options": [
+        "Un palais majestueux transformé en asile",
+        "Un édifice hideux, sombre et effrayant de loin comme de près",
+        "Une petite forteresse moderne et propre",
+        "Un couvent paisible au bord de la Seine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bicêtre est décrite comme une prison-château démantelée, sinistre et repoussante, suscitant l'effroi dès son approche.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. IV)",
+      "verified": false
+    },
+    {
+      "id": "djc_q10",
+      "chapterId": "chapitre-5",
+      "type": "qcm",
+      "question": "Grâce à quels éléments le condamné parvient-il à adoucir son régime carcéral et à retirer la camisole de force à Bicêtre ?",
+      "options": [
+        "En corrompant les gardiens avec de l'argent",
+        "Grâce à sa docilité, ses manières instruites et quelques mots de latin prononcés devant le geôlier",
+        "En menaçant de se suicider dans sa cellule",
+        "Grâce à l'intervention directe de son avocat auprès du directeur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Son niveau d'instruction et sa politesse impressionnent les guichetiers ; l'usage du latin (« gratias ») lui vaut d'être traité avec un peu plus d'égards et d'obtenir du papier et de l'encre.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. V) / les-personnages-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_q11",
+      "chapterId": "chapitre-5",
+      "type": "vocabulaire_contexte",
+      "question": "Comment le narrateur définit-il l'« argot » qu'il découvre auprès des autres détenus à Bicêtre ?",
+      "options": [
+        "Un langage poétique et raffiné poétisant la prison",
+        "Une langue hideuse, sorte d'excroissance ou de verrue sur le langage humain propre au bagne",
+        "Un dialecte étranger parlé par des marchands italiens",
+        "Un code secrètement enseigné par les juges"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'argot est qualifié par Victor Hugo de langage de la misère et du crime, « une excroissance vénéneuse » narrant le sang et l'échafaud.",
+      "source": "le-genre-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. V)",
+      "verified": false
+    },
+    {
+      "id": "djc_q12",
+      "chapterId": "chapitre-1",
+      "type": "vrai_faux",
+      "question": "Au moment où s'ouvre le récit au Chapitre I, il y a exactement cinq semaines que le condamné vit avec sa sentence.",
+      "correctAnswer": true,
+      "explanation": "Le texte débute par : « Voilà cinq semaines que je vis avec cette pensée, toujours seul avec elle... ».",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. I)",
+      "verified": false
+    },
+    {
+      "id": "djc_q13",
+      "chapterId": "chapitre-2",
+      "type": "evenement_chronologie",
+      "question": "Reconstituez la chronologie des sensations du condamné lors de l'annonce du verdict au tribunal (Chapitre II).",
+      "expectedAnswer": "1. Attente angoissée pendant la délibération du jury ; 2. Entrée des jurés et lecture du verdict de mort par le président du tribunal ; 3. Sensation de vertige et d'étouffement chez l'accusé ; 4. Conduite vers la voiture cellulaire pour le transfert à Bicêtre.",
+      "gradingCriteria": [
+        "Situer l'attente du verdict",
+        "Mentionner la déclaration officielle de la peine de mort",
+        "Décrire la réaction physique du condamné (vertige, étouffement)",
+        "Terminer par le transfert à Bicêtre"
+      ],
+      "explanation": "Le Chapitre II retrace la scène dramatique de la condamnation dans une salle d'audience surchauffée.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. II)",
+      "verified": false
+    },
+    {
+      "id": "djc_q14",
+      "chapterId": "chapitre-3",
+      "type": "vrai_faux",
+      "question": "Dans le Chapitre III, le condamné affirme qu'il regrette profondément de quitter les plaisirs et les honneurs de la haute société.",
+      "correctAnswer": false,
+      "explanation": "Il exprime au contraire une indifférence désillusionnée, estimant que la vie ordinaire des hommes ne vaut pas tant d'agitation.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. III)",
+      "verified": false
+    },
+    {
+      "id": "djc_q15",
+      "chapterId": "chapitre-5",
+      "type": "identification_personnages",
+      "question": "Comment les geôliers de Bicêtre considèrent-ils le condamné une fois qu'ils découvrent qu'il sait lire et parler latin ?",
+      "options": [
+        "Ils le prennent pour un dangereux sorcier",
+        "Ils le traitent avec un respect mêlé de curiosité et lui accordent des privilèges (paille, encre, liberté de mouvement dans sa cellule)",
+        "Ils le punissent plus sévèrement pour s'être moqué d'eux",
+        "Ils l'obligent à donner des cours aux autres gardiens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'instruction du condamné lui vaut un traitement différencié par rapport aux criminels analphabètes, les gardiens lui accordant de petits adoucissements.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf (Ch. V)",
+      "verified": false
+    },
+    {
+      "id": "djc_q16",
+      "chapterId": "chapitre-1",
+      "type": "comprehension",
+      "question": "En quoi le roman de Victor Hugo se distingue-t-il d'une autobiographie classique d'après les documents d'analyse ?",
+      "expectedAnswer": "Il ne s'agit pas d'une vraie autobiographie car l'auteur (Victor Hugo) est distinct du narrateur anonyme (un condamné fictif). De plus, le récit n'est pas rétrospectif sur toute une vie mais écrit au présent sur les dernières semaines d'un homme dont on ignore le nom et le crime exact.",
+      "gradingCriteria": [
+        "Distinguer l'auteur réel (Victor Hugo) du narrateur fictif anonyme",
+        "Souligner que le récit est au présent et restreint aux dernières semaines",
+        "Rappeler qu'il s'agit d'un roman à thèse abolitionniste"
+      ],
+      "explanation": "Victor Hugo utilise la fiction d'un monologue intérieur pour créer un réquisitoire universel contre la peine de mort.",
+      "source": "le-genre-de-l-oeuvre.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_q17",
+      "chapterId": "chapitre-4",
+      "type": "vocabulaire_contexte",
+      "question": "Quel nom populaire portait la voiture fermée servant au transport des prisonniers vers Bicêtre ?",
+      "options": [
+        "La carriole des morts",
+        "Le panier à salade",
+        "La diligence noire",
+        "Le fiacre du bagne"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La voiture cellulaire de transport des détenus est traditionnellement désignée sous le nom de « panier à salade » dans le vocabulaire carcéral.",
+      "source": "resume-chapitre-par-chapitre-2.pdf (Ch. IV) / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_q18",
+      "chapterId": "chapitre-2",
+      "type": "qcm",
+      "question": "Quel est le genre littéraire exact attribué à Le Dernier Jour d'un condamné de Victor Hugo ?",
+      "options": [
+        "Un roman fantastique",
+        "Un journal intime historique",
+        "Un roman à thèse abolitionniste",
+        "Une biographie politique"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Il s'agit d'un roman à thèse dont le but est d'abattre la peine de mort en faisant vivre au lecteur la torture morale du condamné.",
+      "source": "presentation-de-l-oeuvre.pdf / Biographie de Victor Hugo.pdf",
+      "verified": false
+    },
+    {
+  "bankTitle": "Banque de Quiz - Le Dernier Jour d'un condamné (Victor Hugo)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitres-6-a-13",
+  "chapterTitle": "Chapitres VI à XIII : L'écriture comme réquisitoire, le souvenir de Marie, le cachot et le ferrage des forçats",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "djc_ch6_13_q01",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Au Chapitre VI, quelle est la raison essentielle qui pousse le condamné à rédiger le journal de ses souffrances ?",
+      "options": [
+        "Prouver son innocence devant les juges de la cour",
+        "Offrir un réquisitoire abolitionniste pour que son journal rende la main des juges plus légère",
+        "Demander pardon à sa famille et à ses proches",
+        "Gagner de l'argent pour le léguer à sa fille Marie"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le narrateur décide d'écrire pour constituer un témoignage sur l'angoisse de l'attente afin d'inciter les juges et les législateurs à abolir la peine de mort.",
+      "source": "presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q02",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Au Chapitre IX, quelle est la pensée la plus douloureuse qui torture l'esprit du condamné lorsqu'il évoque sa famille ?",
+      "options": [
+        "L'amertume de sa femme délaissée",
+        "L'abandon financier de sa vieille mère",
+        "Le sort tragique de sa fille Marie (3 ans) qui grandira orpheline et marquée par la honte",
+        "La colère de ses frères face au scandale"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C'est l'avenir de sa petite fille Marie, âgée de trois ans, qui cause la douleur la plus aiguë au condamné : elle sera rejetée et aura honte de son nom.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q03",
+      "chapterId": "chapitres-6-a-13",
+      "type": "vrai_faux",
+      "question": "Au Chapitre IX, la mère, la femme et la fille du condamné reçoivent toutes le même degré d'attention affective dans ses méditations.",
+      "correctAnswer": false,
+      "explanation": "Même s'il pense à sa mère et à sa femme, c'est la pensée de sa fille Marie qui domine de manière bouleversante et exclusive son chagrin.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q04",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Que découvre le prisonnier sur les murs de son cachot à Bicêtre aux Chapitres X, XI et XII ?",
+      "options": [
+        "Des dessins religieux peints par des moines",
+        "Des graffitis et noms d'anciens condamnés à mort tracés avant leur exécution",
+        "Des plans d'évasion gravés par des gardiens",
+        "Des poèmes classiques d'auteurs célèbres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les murs du cachot conservent la mémoire d'anciens criminels exécutés qui y ont laissé leurs noms, devises et inscriptions au charbon ou au sang.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q05",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Quel événement marquant et impressionnant le condamné observe-t-il depuis sa fenêtre au Chapitre XIII ?",
+      "options": [
+        "L'incendie de la prison de Bicêtre",
+        "Le spectacle inhumain du ferrage des forçats partant pour le bagne de Toulon",
+        "La visite du Roi venu accorder des grâces",
+        "Une révolte générale des prisonniers dans la cour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le Chapitre XIII est célèbre pour la scène violente et théâtrale du ferrage des forçats exposés à la pluie et aux insultes avant leur départ pour le bagne.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q06",
+      "chapterId": "chapitres-6-a-13",
+      "type": "vrai_faux",
+      "question": "Face au spectacle effroyable du ferrage des forçats, le condamné éprouve un sentiment de supériorité et de joie cynique.",
+      "correctAnswer": false,
+      "explanation": "Le condamné est saisi d'horreur et de pitié, au point de s'évanouir devant la déchéance et la sauvagerie du traitement infligé à ces hommes.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q07",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Où sont emmenés les forçats après le rituel du ferrage décrit au Chapitre XIII ?",
+      "options": [
+        "À la prison de la Conciergerie",
+        "Au bagne de Toulon",
+        "Sur l'échafaud de la Place de Grève",
+        "Dans les mines de charbon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Les forçats enchaînés partent pour le bagne de Toulon pour y accomplir leurs peines de travaux forcés.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q08",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "En quoi l'acte d'écrire devient-il une thérapie pour le condamné aux Chapitres VI et VII ?",
+      "options": [
+        "Il lui permet d'oublier complètement sa sentence",
+        "Il distrait son esprit, canalise sa souffrance morale et donne un sens à son supplice",
+        "Il lui assure d'être libéré par les autorités",
+        "Il lui permet de communiquer secrètement avec d'autres détenus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'écriture offre un soulagement temporaire à son angoisse en lui permettant d'analyser ses sentiments et de lutter contre l'obscurité de sa cellule.",
+      "source": "presentation-de-l-oeuvre.pdf / le-genre-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q09",
+      "chapterId": "chapitres-6-a-13",
+      "type": "vrai_faux",
+      "question": "Victor Hugo fait exprimer au condamné l'idée que la peine de mort frappe aussi indirectement des innocents comme les enfants et les mères.",
+      "correctAnswer": true,
+      "explanation": "C'est l'un des arguments majeurs de l'œuvre : la condamnation détruit la vie de la famille (la fille Marie, la mère, la femme), vicilimes colatérales de la justice.",
+      "source": "les-personnages-de-l-oeuvre.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q10",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Dans le Chapitre XIII, quel élément météorologique accentue la misère et le caractère sinistre de la scène du ferrage ?",
+      "options": [
+        "Une chaleur suffocante d'été",
+        "Une pluie battante et un froid glacial",
+        "Un brouillard épais cachant la cour",
+        "Une tempête de neige"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La pluie glaciale qui tombe pendant la cérémonie du ferrage détrempe les vêtements des forçats et aggrave leur supplice physique.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q11",
+      "chapterId": "chapitres-6-a-13",
+      "type": "comprehension",
+      "question": "Expliquez pourquoi le spectacle du ferrage des forçats provoque l'évanouissement du condamné à la fin du Chapitre XIII.",
+      "expectedAnswer": "Le condamné est submergé par la terreur, le dégoût et la pitié face à la déhumanisation des forçats. La violence des gardiens, la déchéance des prisonniers et le sentiment d'assister à un enfer terrestre dépassent ses forces nerveuses et le font tomber inconscient.",
+      "gradingCriteria": [
+        "Mentionner la déhumanisation et la sauvagerie du traitement réservé aux forçats",
+        "Souligner l'empathie et le choc émotionnel subis par le condamné",
+        "Conclure par la perte de connaissance (évanouissement) provoquée par ce traumatisme"
+      ],
+      "explanation": "La scène du ferrage illustre la barbarie du système pénitentiaire de l'époque et fait prendre conscience au condamné de la cruauté de la société.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / les-personnages-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q12",
+      "chapterId": "chapitres-6-a-13",
+      "type": "evenement_chronologie",
+      "question": "Ordonnez chronologiquement les étapes de la journée du ferrage décrites au Chapitre XIII.",
+      "expectedAnswer": "1. Rassemblement et fouille des forçats dans la cour sous la pluie ; 2. Pose du collier de fer et rivetage sur l'enclume ; 3. Chants et danses cyniques des forçats enchaînés ; 4. Évanouissement du condamné qui contemple la scène depuis sa fenêtre.",
+      "gradingCriteria": [
+        "Respecter l'ordre des événements : fouille, rivetage du fer, chants/agitation, évanouissement du narrateur"
+      ],
+      "explanation": "La séquence monte en intensité dramatique jusqu'au choc final qui fait perdre connaissance au narrateur.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q13",
+      "chapterId": "chapitres-6-a-13",
+      "type": "vocabulaire_contexte",
+      "question": "Que désigne le terme « bagne » vers lequel sont envoyés les forçats au Chapitre XIII ?",
+      "options": [
+        "Un tribunal de haute sécurité",
+        "Un lieu de détention et de travaux forcés pour les condamnés à de lourdes peines",
+        "Un hôpital psychiatrique pour criminels",
+        "Un monastère de réhabilitation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le bagne (comme celui de Toulon) était un établissement pénitentiaire où les condamnés exécutaient des peines de travaux forcés extrêmement dures.",
+      "source": "resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q14",
+      "chapterId": "chapitres-6-a-13",
+      "type": "themes_symboles",
+      "question": "Quel symbole littéraire représentent les graffitis découverts sur les murs du cachot aux Chapitres X à XII ?",
+      "options": [
+        "La preuve que la prison est un lieu d'éducation et de culture",
+        "La solidarité tragique et la fraternité des condamnés unis par le même destin mortel",
+        "Un code secret utilisé pour préparer des évasions collectives",
+        "Une marque de mépris adressée uniquement aux gardiens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ces traces de sang et de charbon créent un lien spirituel entre les générations de suppliciés et témoignent du désespoir humain face à la guillotine.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / le-genre-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q15",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Au Chapitre VI, comment le condamné qualifie-t-il l'utilité future de son journal intime ?",
+      "options": [
+        "Une œuvre poétique destinée à la célébrité littéraire",
+        "Une leçon pour les juges et un plaidoyer pour l'humanité de la justice",
+        "Un simple passetemps sans valeur",
+        "Une confession religieuse pour obtenir le pardon divin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Il espère que le récit de ses souffrances physiques et morales montrera aux hommes qui jugent la réalité de la torture infligée.",
+      "source": "presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q16",
+      "chapterId": "chapitres-6-a-13",
+      "type": "vrai_faux",
+      "question": "Le récit du 'Dernier Jour d'un condamné' comporte des indications précises sur le nom du condamné et la nature exacte de son crime.",
+      "correctAnswer": false,
+      "explanation": "Victor Hugo conserve l'anonymat du personnage et le flou sur son crime afin de donner une portée universelle à son combat contre la peine de mort.",
+      "source": "presentation-de-l-oeuvre.pdf / le-genre-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q17",
+      "chapterId": "chapitres-6-a-13",
+      "type": "qcm",
+      "question": "Quel sentiment éprouvent les forçats enchaînés à l'égard du public venus les observer lors du ferrage ?",
+      "options": [
+        "De la honte et du repentir",
+        "De la haine, de l'insolence et de la provocation à travers des chansons d'argot",
+        "Une demande de grâce et de pitié",
+        "L'indifférence totale"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Face à la foule voyeuriste et aux gardiens, les forçats réagissent par le cynisme, la violence verbale et les chants en argot.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch6_13_q18",
+      "chapterId": "chapitres-6-a-13",
+      "type": "themes_symboles",
+      "question": "Quel registre littéraire domine la scène du ferrage des forçats au Chapitre XIII ?",
+      "options": [
+        "Le registre comique",
+        "Le registre pathétique et tragique",
+        "Le registre épidictique",
+        "Le registre pastoral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le registre pathétique et tragique suscite l'effroi, la pitié et l'indignation du lecteur face à la dégradation de la dignité humaine.",
+      "source": "presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "bankTitle": "Banque de Quiz - Le Dernier Jour d'un condamné (Victor Hugo)",
+  "targetAudience": "1ère année du Baccalauréat au Maroc - Examen Régional de Français",
+  "chapterId": "chapitres-14-a-22",
+  "chapterTitle": "Chapitres XIV à XXII : L'infirmerie, la chanson en argot et le départ pour la Conciergerie",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "djc_ch14_q01",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Où se trouve le condamné au début du chapitre XIV après la scène éprouvante du ferrage des forçats ?",
+      "options": [
+        "Dans un nouveau cachot sous terre",
+        "À l'infirmerie de la prison de Bicêtre",
+        "Dans la voiture le conduisant à la Conciergerie",
+        "Sur la Place de Grève devant la guillotine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Après s'être évanoui lors du spectacle barbare du ferrage des forçats, le condamné se réveille à l'infirmerie de Bicêtre.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q02",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Dans le chapitre XVI, quel sentiment surprend le condamné lorsqu'il entend une jeune fille chanter sous sa fenêtre ?",
+      "options": [
+        "Une joie immense sans mélange",
+        "Un contraste douloureux entre la voix pure de la jeune fille et les paroles brutes en argot de la chanson",
+        "Une colère noire contre la jeune fille qui le moque",
+        "L'envie immédiate de chanter avec elle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La chanson en argot, chantée d'une voix fraîche et mélodieuse par une jeune fille, crée un contraste saisissant et terrifiant pour le condamné face à la réalité de l'échafaud.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / le-genre-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q03",
+      "chapterId": "chapitres-14-a-22",
+      "type": "vrai_faux",
+      "question": "Dans la chanson populaire en argot entendue par le condamné, le mot 'sacré d'arbre' désigne la guillotine.",
+      "correctAnswer": true,
+      "explanation": "L'argot pénitentiaire utilise des métaphores crues pour désigner les instruments de punition et de mort comme la guillotine.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q04",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "À quoi le condamné repense-t-il avec nostalgie dans les chapitres XVI et XVII pour échapper à l'horreur présente ?",
+      "options": [
+        "À ses études de droit à la faculté",
+        "Aux souvenirs d'enfance et à son premier amour de jeunesse (Pepita / Pepipa)",
+        "À ses voyages à travers l'Europe",
+        "Aux grandes fêtes de la cour royale"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le condamné se replie dans ses souvenirs d'enfance et d'adolescence innocente, évoquant les promenades dans le jardin et les émois amoureux de sa jeunesse.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q05",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Quel personnage officiel entre dans la cellule du condamné au chapitre XIX pour lui annoncer officiellement que son pourvoi en cassation est rejeté ?",
+      "options": [
+        "Le bourreau de Paris",
+        "Le directeur de la prison de Bicêtre accompagné de l'huissier",
+        "Le roi de France en personne",
+        "L'avocat général"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le directeur de Bicêtre vient notifier l'arrêt du rejet du pourvoi et marquer le début de l'exécution ultime du jugement.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / les-personnages-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q06",
+      "chapterId": "chapitres-14-a-22",
+      "type": "vrai_faux",
+      "question": "Lorsque le pourvoi en cassation est rejeté, le condamné conserve encore l'espoir ultime d'obtenir une grâce royale.",
+      "correctAnswer": true,
+      "explanation": "Même après le rejet de la cassation, le condamné s'accroche jusqu'au dernier instant à la possibilité d'une grâce du roi.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q07",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Pourquoi le comportement des geôliers et des gardiens change-t-il brusquement et devient-il plus 'poli' le jour de l'exécution ?",
+      "options": [
+        "Parce qu'ils ont pitié et veulent devenir ses amis",
+        "Parce que la coutume exige d'être prévenant envers un homme qui va mourir dans quelques heures",
+        "Parce qu'ils espèrent recevoir de l'argent en héritage",
+        "Parce que le directeur leur a ordonné de s'excuser"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le changement d'attitude des gardiens souligne la froideur administrative : la politesse hypocrite s'installe ritualistiquement le jour de la mise à mort.",
+      "source": "les-personnages-de-l-oeuvre.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q08",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Quel est le deuxième lieu de détention où le condamné est transféré au chapitre XXII ?",
+      "options": [
+        "Le bagne de Toulon",
+        "La prison de la Conciergerie",
+        "La Sainte-Chapelle",
+        "L'Hôtel de Ville"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le parcours du condamné suit une logique spatiale précise : Bicêtre, puis la Conciergerie, et enfin l'Hôtel de Ville / Place de Grève.",
+      "source": "presentation-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q09",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Qui accompagne le condamné dans la voiture qui le transporte de Bicêtre à la Conciergerie (chapitre XXII) ?",
+      "options": [
+        "Sa fille Marie et sa mère",
+        "L'huissier de justice et l'aumônier (prêtre)",
+        "Le bourreau et ses acolytes",
+        "Son avocat et le juge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dans la voiture fermée, le condamné est encadré par l'huissier chargé de l'exécution des formalités et le prêtre assurant le suivi spirituel.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / les-personnages-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q10",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Analyse du style : dans la phrase 'Cette pensée horrible est toujours là, seule et jalouse', quelle figure de style est employée ?",
+      "options": [
+        "Une litote",
+        "Une personnification de l'idée fixe",
+        "Une hyperbole comique",
+        "Une anaphore répétitive"
+      ],
+      "correctAnswer": 1,
+      "explanation": "L'idée fixe de la mort est personnifiée comme un être vivant, jaloux et obsédant qui ne quitte jamais l'esprit du prisonnier.",
+      "source": "presentation-de-l-oeuvre.pdf / examens_corr.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q11",
+      "chapterId": "chapitres-14-a-22",
+      "type": "vrai_faux",
+      "question": "Pendant le trajet en voiture vers la Conciergerie, le condamné remarque que la foule dans les rues assiste à son passage avec une profonde compassion et des larmes.",
+      "correctAnswer": false,
+      "explanation": "La foule fait preuve de curiosité malsaine et d'indifférence, considérant le passage de la voiture comme le début d'un spectacle réjouissant.",
+      "source": "les-personnages-de-l-oeuvre.pdf / resume-chapitre-par-chapitre-2.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q12",
+      "chapterId": "chapitres-14-a-22",
+      "type": "comprehension",
+      "question": "Pourquoi la visite de l'aumônier laisse-t-elle le condamné insatisfait et déçu sur le plan spirituel ?",
+      "expectedAnswer": "L'aumônier récite des prières et des discours mécaniques, répétés par habitude professionnelle. Il ne parle pas avec le cœur et ne comprend pas la souffrance singulière et l'angoisse réelle de l'homme face à la mort.",
+      "gradingCriteria": [
+        "Souligner le caractère mécanique/automatique des paroles du prêtre",
+        "Mentionner l'absence d'empathie réelle et de réconfort humain personnalisé",
+        "Opposer la routine ecclésiastique à l'angoisse authentique du condamné"
+      ],
+      "explanation": "Victor Hugo critique ainsi la religion institutionnalisée et routinière qui manque de compassion vivante.",
+      "source": "les-personnages-de-l-oeuvre.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q13",
+      "chapterId": "chapitres-14-a-22",
+      "type": "evenement_chronologie",
+      "question": "Ordonnez chronologiquement les événements suivants survenus entre le réveil à l'infirmerie et l'arrivée à la Conciergerie.",
+      "expectedAnswer": "1. Réveil à l'infirmerie après le spectacle du ferrage ; 2. Écoute troublante de la chanson en argot sous la fenêtre ; 3. Évocation nostalgique des souvenirs de jeunesse et du premier amour ; 4. Annonce officielle du rejet du pourvoi en cassation par le directeur et l'huissier ; 5. Départ en voiture fermée vers la Conciergerie avec le prêtre et l'huissier.",
+      "gradingCriteria": [
+        "Placer le réveil à l'infirmerie au début",
+        "Situer l'épisode de la chanson en argot avant l'annonce officielle",
+        "Terminer par le transfert en voiture vers la Conciergerie"
+      ],
+      "explanation": "Cette séquence montre la transition du refuge intérieur du souvenir vers la prise en charge administrative de l'exécution.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q14",
+      "chapterId": "chapitres-14-a-22",
+      "type": "vocabulaire_contexte",
+      "question": "Que signifie l'expression administrative 'pourvoi en cassation' dans le contexte du procès judiciaire ?",
+      "options": [
+        "Une demande de pardon adressée directement au Roi",
+        "Un recours juridique contestant la conformité légale d'un jugement devant la cour suprême",
+        "Une demande de transfert vers une autre prison",
+        "Un accord financier signé avec la famille de la victime"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Le pourvoi en cassation est le dernier recours juridique contestant la légalité de la procédure. Son rejet rend la condamnation irrémédiable.",
+      "source": "vocabulaire_dernier_jour_condamne.json / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q15",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Quel sentiment éprouve le condamné lorsqu'il traverse la ville de Paris dans la voiture fermée et aperçoit la vie quotidienne des citoyens ?",
+      "options": [
+        "Un sentiment d'exclusion totale et d'étrangeté face à des gens libres qui poursuivent leurs activités ordinaires",
+        "L'envie de sauter de la voiture pour s'acheter de la nourriture",
+        "Une grande fierté d'être remarqué par la foule",
+        "L'indifférence absolue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Le condamné mesure l'abîme qui le sépare désormais du reste de l'humanité : pour les gens de la rue, la vie continue normalement.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / presentation-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q16",
+      "chapterId": "chapitres-14-a-22",
+      "type": "vrai_faux",
+      "question": "Dans le chapitre XVIII, la visite de l'architecte venant mesurer la cellule pour des réparations futures révolte le condamné par son absurdité.",
+      "correctAnswer": true,
+      "explanation": "L'architecte prépare l'avenir de la prison alors que le condamné n'a plus que quelques heures à vivre, ce qui met en relief l'insensibilité du système.",
+      "source": "resume-chapitre-par-chapitre-2.pdf / les-personnages-de-l-oeuvre.pdf",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q17",
+      "chapterId": "chapitres-14-a-22",
+      "type": "qcm",
+      "question": "Sur le plan thématique, que représente la traversée de Paris entre Bicêtre et la Conciergerie ?",
+      "options": [
+        "Une simple promenade urbaine",
+        "Une étape douloureuse du 'chemin de croix' conduisant le condamné vers le lieu final du supplice",
+        "Un voyage d'étude sociologique",
+        "Une tentative d'évasion ratée"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La progression à travers les trois prisons (Bicêtre, Conciergerie, Hôtel de Ville) constitue une descente aux enfers et un chemin de croix tragique.",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "djc_ch14_q18",
+      "chapterId": "chapitres-14-a-22",
+      "type": "themes_symboles",
+      "question": "Expliquez la portée symbolique du contraste entre les souvenirs de jeunesse du condamné (jardin, amour, nature) et son enfermement dans le cachot.",
+      "expectedAnswer": "Ce contraste renforce le registre pathétique. En rappelant la pureté, la lumière et la liberté de son innocence passée, l'auteur souligne la cruauté de la peine de mort qui arrache brutalement un être jeune à la vie et à la beauté du monde.",
+      "gradingCriteria": [
+        "Citer les éléments du souvenir : lumière, jeunesse, amour, nature",
+        "Mettre en évidence le contraste avec la noirceur du cachot et l'imminence de la mort",
+        "Identifier l'effet recherché : susciter la pitié du lecteur (registre pathétique) et dénoncer la peine de mort"
+      ],
+      "explanation": "L'antithèse entre la vie rêvée et la mort promise intensifie la thèse abolitionniste de Victor Hugo.",
+      "source": "presentation-de-l-oeuvre.pdf / le-genre-de-l-oeuvre.pdf",
+      "verified": false
+    }
+  ]
+},
+{
+  "title": "Quiz - Le Dernier Jour d'un condamné (Chapitres XXIII à XXXII)",
+  "description": "Banque de 18 questions QCM, Vrai/Faux et analyse littéraire sur le séjour à la Conciergerie, la rencontre avec le Friauche, l'isolement et l'attente du pourvoi.",
+  "novel": "Le Dernier Jour d'un condamné",
+  "author": "Victor Hugo",
+  "chapters": "XXIII à XXXII",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": "q23_32_01",
+      "chapter": "XXIII",
+      "type": "QCM",
+      "question": "Où le condamné est-il transféré au chapitre XXIII après son départ de Bicêtre ?",
+      "options": [
+        "À la prison de la Santé",
+        "À la Conciergerie",
+        "Au bagne de Toulon",
+        "À la Sainte-Pélagie"
+      ],
+      "answer": "À la Conciergerie",
+      "explanation": "Le condamné est transféré de Bicêtre à la Conciergerie, l'étape intermédiaire avant son exécution à l'Hôtel de Ville.",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_02",
+      "chapter": "XXIII",
+      "type": "QCM",
+      "question": "Qui le condamné rencontre-t-il dans son nouveau cachot à la Conciergerie ?",
+      "options": [
+        "Un vieux prêtre bienveillant",
+        "Un autre condamné à mort surnommé 'le Friauche'",
+        "Un ancien camarade d'enfance",
+        "Son avocat venu lui annoncer sa grâce"
+      ],
+      "answer": "Un autre condamné à mort surnommé 'le Friauche'",
+      "explanation": "Le narrateur partage provisoirement son cachot avec le 'Friauche', un criminel récidiviste également condamné à la peine capitale.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1 / les-personnages-de-l-oeuvre.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_03",
+      "chapter": "XXIII",
+      "type": "Vrai/Faux",
+      "question": "Le Friauche est le fils d'un riche marchand qui a mal tourné.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "answer": "Faux",
+      "explanation": "Le Friauche raconte son parcours d'orphelin poussé au vol et au crime par la misère et l'abandon social dès son plus jeune âge.",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_04",
+      "chapter": "XXIII",
+      "type": "QCM",
+      "question": "Que demande le Friauche au narrateur avant de quitter le cachot ?",
+      "options": [
+        "De lui donner sa montre en or",
+        "D'échanger sa redingote propre contre son propre veste délabrée",
+        "De lui écrire une lettre de grâce",
+        "De lui donner ses souliers"
+      ],
+      "answer": "D'échanger sa redingote propre contre son propre veste délabrée",
+      "explanation": "Le Friauche propose et impose l'échange de vêtements, s'emparant de la redingote de drap propre du narrateur.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_05",
+      "chapter": "XXIV",
+      "type": "QCM",
+      "question": "Quelle réaction le narrateur éprouve-t-il après le départ du Friauche ?",
+      "options": [
+        "De la colère et un sentiment de dépossession physique et morale",
+        "De la joie d'avoir aidé un compagnon",
+        "De l'indifférence totale",
+        "Un sentiment de soulagement financier"
+      ],
+      "answer": "De la colère et un sentiment de dépossession physique et morale",
+      "explanation": "Le narrateur se sent dépouillé de son identité et dégoûté d'avoir dû porter la veste râpée du criminel.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_06",
+      "chapter": "XXV",
+      "type": "Vrai/Faux",
+      "question": "Au chapitre XXV, le condamné est déplacé dans une cellule plus propre et mieux éclairée.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "answer": "Vrai",
+      "explanation": "Il est transféré dans une cellule individuelle plus décente, mais la pensée de la mort continue de l'obséder.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_07",
+      "chapter": "XXVI",
+      "type": "QCM",
+      "question": "Au chapitre XXVI, quelle est la principale source de douleur morale pour le condamné ?",
+      "options": [
+        "La peur de la douleur physique de la guillotine",
+        "Le sort réservé à sa petite fille Marie qui grandira orpheline et déshonorée",
+        "La perte de ses biens matériels",
+        "La sévérité de son geôlier"
+      ],
+      "answer": "Le sort réservé à sa petite fille Marie qui grandira orpheline et déshonorée",
+      "explanation": "Le condamné déplore l'impact tragique de son exécution sur sa fille innocentée mais condamnée au mépris social.",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_08",
+      "chapter": "XXVII",
+      "type": "QCM",
+      "question": "Quelle interrogation scientifique et macabre hante le narrateur au chapitre XXVII ?",
+      "options": [
+        "Il se demande si la tête tranchée conserve la conscience et la sensibilité après la décapitation",
+        "Il cherche à comprendre le mécanisme exact du couperet",
+        "Il demande la composition chimique de l'encre des procès-verbaux",
+        "Il s'interroge sur la résistance du fer des fers de prison"
+      ],
+      "answer": "Il se demande si la tête tranchée conserve la conscience et la sensibilité après la décapitation",
+      "explanation": "L'angoisse de la mort le pousse à s'interroger sur la persistance de la souffrance et de la conscience après le coup de guillotine.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_09",
+      "chapter": "XXVIII",
+      "type": "Vrai/Faux",
+      "question": "Le condamné garde jusqu'au bout l'espoir d'obtenir une grâce royale.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "answer": "Vrai",
+      "explanation": "Même à l'approche de l'heure fatale, le narrateur continue de se raccrocher au secours possible d'un recours ou d'une grâce du Roi.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_10",
+      "chapter": "XXIX",
+      "type": "QCM",
+      "question": "Comment le condamné perçoit-il le rôle du Roi dans le processus de la grâce au chapitre XXIX ?",
+      "options": [
+        "Comme un tyran impitoyable",
+        "Comme un homme bon qui signerait la grâce s'il connaissait sa souffrance réelle",
+        "Comme un juge impartial",
+        "Comme un personnage indifférent à la politique"
+      ],
+      "answer": "Comme un homme bon qui signerait la grâce s'il connaissait sa souffrance réelle",
+      "explanation": "Le narrateur imagine que le Roi accorderait son pardon s'il avait sous les yeux le tableau authentique de l'agonie morale du prisonnier.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_11",
+      "chapter": "XXX",
+      "type": "QCM",
+      "question": "Quelle critique le narrateur adresse-t-il à l'aumônier de la Conciergerie au chapitre XXX ?",
+      "options": [
+        "Il l'accuse d'être un imposteur",
+        "Il regrette que le prêtre débite des prières mécaniques et impersonnelles sans réelle compassion",
+        "Il lui reproche de trop parler de politique",
+        "Il dénonce son retard lors des visites"
+      ],
+      "answer": "Il regrette que le prêtre débite des prières mécaniques et impersonnelles sans réelle compassion",
+      "explanation": "Le condamné ressent l'attitude de l'aumônier comme une routine fonctionnelle vide de chaleur humaine véritable.",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_12",
+      "chapter": "XXXI",
+      "type": "QCM",
+      "question": "Quel visiteur inattendu vient prendre des mesures dans la cellule du condamné au chapitre XXXI ?",
+      "options": [
+        "Un peintre pour réaliser son portrait",
+        "L'architecte de la prison venant inspecter les réparations des murs",
+        "Un journaliste cherchant une interview",
+        "Un médecin légiste"
+      ],
+      "answer": "L'architecte de la prison venant inspecter les réparations des murs",
+      "explanation": "L'architecte visite la cellule pour des métrés d'entretien, traitant le lieu de détention avec la froideur d'un chantier technique.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_13",
+      "chapter": "XXXII",
+      "type": "QCM",
+      "question": "Quelle proposition insolite le gendarme de garde fait-il au condamné au chapitre XXXII ?",
+      "options": [
+        "Il lui propose de l'aider à s'évader contre de l'argent",
+        "Il lui demande de lui donner les trois numéros gagnants de la loterie dans ses rêves",
+        "Il lui offre de lui apporter un repas de fête",
+        "Il demande à lire ses écrits"
+      ],
+      "answer": "Il lui demande de lui donner les trois numéros gagnants de la loterie dans ses rêves",
+      "explanation": "Superstitieux, le gendarme pense que les condamnés à mort voient l'avenir et exige les trois numéros de la loterie en échange de faveurs.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_14",
+      "chapter": "XXXII",
+      "type": "Vrai/Faux",
+      "question": "Le condamné accepte de donner de faux numéros au gendarme pour obtenir un échange d'habits ou d'égards.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "answer": "Vrai",
+      "explanation": "Le narrateur profite de la crédulité du gendarme pour marchander de petites conditions de confort.",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_15",
+      "chapter": "XXIII",
+      "type": "QCM",
+      "question": "Quel terme d'argot désigne 'le bourreau' ou 'la guillotine' dans le récit du Friauche ?",
+      "options": [
+        "L'abbaye de Monte-à-Regret",
+        "Le jardin des plantes",
+        "La grande maison",
+        "Le palais de cristal"
+      ],
+      "answer": "L'abbaye de Monte-à-Regret",
+      "explanation": "L'expression 'l'abbaye de Monte-à-Regret' est une métaphore argotique désignant l'échafaud.",
+      "source": "vocabulaire_dernier_jour_condamne.json, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_16",
+      "chapter": "XXVI",
+      "type": "Analyse",
+      "question": "Quelle opposition binaire est développée entre le sort du condamné et celui de sa fille Marie ?",
+      "options": [
+        "L'innocence pure de l'enfant opposée à la culpabilité et au déshonneur social hérité de la peine du père",
+        "La richesse passée vs la pauvreté future",
+        "La jeunesse vs la vieillesse",
+        "La foi vs l'athéisme"
+      ],
+      "answer": "L'innocence pure de l'enfant opposée à la culpabilité et au déshonneur social hérité de la peine du père",
+      "explanation": "Hugo démontre que la peine de mort frappe injustement la famille innocente du condamné.",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / presentation-de-l-oeuvre.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_17",
+      "chapter": "XXX",
+      "type": "Analyse",
+      "question": "Quel contraste ressort entre l'aumônier de la prison et le besoin spirituel du condamné ?",
+      "options": [
+        "L'aumônier répète un rituel administratif glacé, alors que le condamné recherche un réconfort humain et poignant",
+        "L'aumônier est trop agressif envers le prisonnier",
+        "Le condamné refuse catégoriquement toute croyance en Dieu",
+        "L'aumônier cherche à pousser le prisonnier à la révolte"
+      ],
+      "answer": "L'aumônier répète un rituel administratif glacé, alors que le condamné recherche un réconfort humain et poignant",
+      "explanation": "Le narrateur critique l'institutionnalisation de la religion qui perd toute empathie face à la détresse de l'homme.",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1"
+    },
+    {
+      "id": "q23_32_18",
+      "chapter": "XXIII-XXXII",
+      "type": "QCM",
+      "question": "Quel est le registre littéraire dominant dans cette séquence de chapitres ?",
+      "options": [
+        "Registre tragique et pathétique",
+        "Registre comique et satirique",
+        "Registre épanorthique et bucolique",
+        "Registre épique"
+      ],
+      "answer": "Registre tragique et pathétique",
+      "explanation": "L'angoisse croissante, l'inéluctabilité de la mort et le désespoir suscité par la pensée de Marie relèvent des registres tragique et pathétique.",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / examens_corr.pdf, p. 1"
+    }
+  ]
+},
+{
+  "titre": "Quiz - Le Dernier Jour d'un condamné (Séquence 5 : Chapitres XXXIII à XLI)",
+  "oeuvre": "Le Dernier Jour d'un condamné",
+  "auteur": "Victor Hugo",
+  "sequence": 5,
+  "chapitres": "XXXIII à XLI",
+  "nombre_questions": 18,
+  "description": "Banque de questions à choix multiples (QCM) évaluant la compréhension des chapitres 33 à 41 : l'évasion dans les souvenirs d'enfance (Pepita), le contraste poignant avec le cachot, l'angoisse physique de la décapitation et l'espoir de la grâce royale.",
+  "questions": [
+    {
+      "id": 1,
+      "chapitre": "XXXIII",
+      "question": "De quoi le condamné se souvient-il principalement dans le chapitre XXXIII pour échapper temporairement à l'horreur de sa cellule ?",
+      "options": [
+        "De sa première journée de classe à l'école",
+        "De ses souvenirs de jeunesse et d'un été d'enfance avec la petite Pepita",
+        "De son arrestation tragique par les gendarmes",
+        "D'un voyage en Espagne avec ses parents"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Le chapitre XXXIII constitue une parenthèse lyrique où le condamné se réfugie dans la mémoire amoureuse et innocente de sa jeunesse, évoquant une promenade d'été dans un jardin avec Pepita, une jeune Andalouse aux grands yeux noirs.",
+      "theme": "Souvenirs d'enfance et évasion poétique",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 2,
+      "chapitre": "XXXIII",
+      "question": "Qui est Pepita dans les souvenirs du condamné ?",
+      "options": [
+        "Une amie d'enfance espagnole avec qui il a partagé son premier amour d'adolescent",
+        "Sa sœur aînée morte en bas âge",
+        "La jeune servante qui travaillait dans la maison familiale",
+        "La fille du directeur de la prison de Bicêtre"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Pepita est l'amour de jeunesse du condamné, une jeune fille aux yeux noirs et aux cheveux d'ébène avec qui il lisait des vers espagnols sous la treille d'un jardin.",
+      "theme": "Personnages et réminiscences sentimentales",
+      "niveau": "Facile"
+    },
+    {
+      "id": 3,
+      "chapitre": "XXXIII",
+      "question": "Quelle activité poétique et complice les deux jeunes gens partageaient-ils dans le jardin d'été ?",
+      "options": [
+        "Chanter des romances en argot",
+        "Lire ensemble des vers et se tenir la main sous les feuillages",
+        "Dessiner les fleurs du jardin",
+        "Jouer aux cartes en cachette des parents"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Ils lisaient de la poésie espagnole ensemble, échangeant des regards et des effleurements de mains qui éveillaient les premiers sentiments amoureux.",
+      "theme": "Analyse du récit et tonalité lyrique",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 4,
+      "chapitre": "XXXIV",
+      "question": "Comment s'opère la rupture brutale entre le souvenir heureux et la réalité au chapitre XXXIV ?",
+      "options": [
+        "Le geôlier entre brusquement pour lui apporter sa soupe froide",
+        "La vision de sa jeunesse s'interrompt net quand la pensée de son crime et de son échafaud le rattrape",
+        "La pluie se met à tomber à travers le vasistas",
+        "Un autre condamné hurle dans le couloir voisin"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Au chapitre XXXIV, la réminiscence lumineuse est violemment brisée par le retour de la pensée fixe : l'échafaud, le sang et la hache de la justice viennent détruire l'illusion poétique.",
+      "theme": "Rupture narrative et antithèse",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 5,
+      "chapitre": "XXXV",
+      "question": "Quelle antithèse majeure le condamné établit-il au chapitre XXXV entre son passé et son présent ?",
+      "options": [
+        "L'opposition entre sa richesse passée et sa pauvreté en prison",
+        "L'opposition entre la liberté rayonnante de sa jeunesse et la froideur mortelle de son cachot actuel",
+        "L'opposition entre le silence de la campagne et le bruit de la ville",
+        "L'opposition entre la foi religieuse de sa mère et son athéisme"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Le condamné mesure le gouffre entre le jeune homme plein d'avenir, libre et aimé qu'il était, et l'être traqué, enchaîné et promis au couperet qu'il est devenu.",
+      "theme": "Figures de style et thématique du temps",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 6,
+      "chapitre": "XXXVI",
+      "question": "Quel édifice parisien et quel symbole sonore ressurgissent dans la mémoire du condamné au chapitre XXXVI ?",
+      "options": [
+        "La Bastille et le canon du 14 juillet",
+        "Le bourdon de la cathédrale Notre-Dame de Paris vibrant au soleil",
+        "Le clocher de la Sainte-Chapelle et les cloches du soir",
+        "La tour Saint-Jacques et les cris des marchands"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Le condamné revoit Notre-Dame et se rappelle l'émotion ressentie lorsqu'il entendait la grosse cloche (le bourdon) faire vibrer la cité entière.",
+      "theme": "Cadre spatial et mémoire auditive",
+      "niveau": "Difficile"
+    },
+    {
+      "id": 7,
+      "chapitre": "XXXVII",
+      "question": "Quelle vision sinistre le condamné associe-t-il à l'Hôtel de Ville dans le chapitre XXXVII ?",
+      "options": [
+        "L'image d'un palais des fêtes somptueux",
+        "La vision d'un bâtiment menaçant devant lequel se dresse l'échafaud de la Place de Grève",
+        "Un tribunal militaire impitoyable",
+        "Un hôpital pour malades contagieux"
+      ],
+      "reponse_correcte": 1,
+      "explication": "L'Hôtel de Ville est pour lui le lieu fatal dont la façade contemple la Place de Grève et assiste sans pitié au spectacle sanglant de la guillotine.",
+      "theme": "Espace et symbolique tragique",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 8,
+      "chapitre": "XXXVIII",
+      "question": "À 1h15 de l'après-midi (chapitre XXXVIII), quel symptôme physique et psychologique accable le condamné ?",
+      "options": [
+        "Une faim dévorante qu'on refuse de satisfaire",
+        "Une douleur violente à la tête, des frissons de fièvre et l'impression d'agoniser avant l'heure",
+        "Une perte totale de la parole et de la vue",
+        "Une crise de fou rire incontrôlable"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Le supplice moral provoque une dégradation physique réelle : le condamné ressent une ferveur convulsive, un froid glacial dans les veines et de violentes céphalées.",
+      "theme": "Souffrance physique et torture morale",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 9,
+      "chapitre": "XXXIX",
+      "question": "Au chapitre XXXIX, sur quel aspect terrifiant du supplice le condamné focalise-t-il sa pensée ?",
+      "options": [
+        "La peur de voir son corps jeté dans une fosse commune sans sépulture",
+        "La séparation mécanique et sanglante de la tête et du tronc par la guillotine",
+        "La crainte que la corde de la pendaison ne casse",
+        "Le risque de subir la torture du fouet avant l'exécution"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Dans ce chapitre très réaliste et macabre, il s'interroge sur la sensation physique exacte du couperet de fer glissant entre les vertèbres et tranchant le cou.",
+      "theme": "Réquisitoire et horreur de la peine de mort",
+      "niveau": "Difficile"
+    },
+    {
+      "id": 10,
+      "chapitre": "XXXIX",
+      "question": "Quelle interrogation philosophique et médicale hante le condamné concernant la décapitation ?",
+      "options": [
+        "Savoir si la tête coupée conserve une conscience ou de la douleur pendant quelques secondes après la chute du couperet",
+        "Savoir si la guillotine a été inventée par un médecin humaniste",
+        "Savoir combien de litres de sang le corps humain contient",
+        "Savoir si l'âme s'échappe par la bouche ou par la blessure"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Hugo aborde ici l'une des controverses médicales de son époque : la possibilité que la tête tranchée ressente encore une souffrance et garde une conscience brève après la séparation du corps.",
+      "theme": "Argumentation abolitionniste et physiologie",
+      "niveau": "Difficile"
+    },
+    {
+      "id": 11,
+      "chapitre": "XL",
+      "question": "Sur quelle ultime démarche institutionnelle repose l'espoir fou du condamné au chapitre XL ?",
+      "options": [
+        "Une évasion organisée par ses amis à l'aide de limes",
+        "La possibilité d'une grâce accordée par le Roi",
+        "Une révolte générale des citoyens de Paris",
+        "Une erreur de vice de forme découverte par son avocat"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Le chapitre XL est centré sur le fantasme de la grâce royale : le condamné imagine que le Roi, détenteur du droit de vie et de mort, pourrait signer son pardon à la dernière minute.",
+      "theme": "L'espoir et la grâce royale",
+      "niveau": "Facile"
+    },
+    {
+      "id": 12,
+      "chapitre": "XL",
+      "question": "Pourquoi le condamné trouve-t-il absurde et cruel que le Roi refuse la grâce ?",
+      "options": [
+        "Parce que le Roi ne le connaît pas personnellement et ne perdrait rien à lui donner la vie",
+        "Parce que le Roi est lui-même un homme soumis à la mort et à la justice divine",
+        "Parce que le Roi a déjà gracié tous les autres prisonniers de la Conciergerie",
+        "Parce que le crime commis était une simple erreur judiciaire reconnue"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le condamné souligne l'asymétrie totale : pour le Roi, une grâce n'est qu'un coup de plume insignifiant parmi des milliers de papiers, alors que pour lui, c'est l'existence tout entière.",
+      "theme": "Critique du pouvoir politique et plaidoyer",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 13,
+      "chapitre": "XLI",
+      "question": "Quelle résolution stoïcienne le condamné essaie-t-il d'adopter au chapitre XLI en pensant au moment de l'exécution ?",
+      "options": [
+        "Insulter les juges et le bourreau devant le peuple",
+        "Faire preuve de courage et ne pas trembler devant la foule assemblée sur la place",
+        "Réciter des prières à haute voix jusqu'au dernier souffle",
+        "Faire semblant de s'évanouir pour être transporté inconscient"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Il cherche à rassembler ses forces pour affronter la guillotine avec dignité et fermeté, refusant de donner au peuple le spectacle d'une lâcheté gémissante.",
+      "theme": "Dignité morale et posture tragique",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 14,
+      "chapitre": "XLI",
+      "question": "Qui se présente auprès du condamné à la fin du chapitre XLI et quelle impression laisse-t-il ?",
+      "options": [
+        "Son avocat qui vient lui annoncer l'échec définitif",
+        "L'aumônier de la prison, perçu comme un fonctionnaire froid reprenant des prières banales",
+        "Le bourreau venant prendre ses mesures",
+        "Le médecin venu lui donner un calmant"
+      ],
+      "reponse_correcte": 1,
+      "explication": "L'aumônier revient pour la préparation spirituelle, mais son discours stéréotypé et sans chaleur humaine n'apporte aucun réconfort au condamné.",
+      "theme": "Personnages et critique de la religion officielle",
+      "niveau": "Moyen"
+    },
+    {
+      "id": 15,
+      "chapitre": "XXXIII-XLI",
+      "question": "Quel registre littéraire domine les souvenirs d'enfance et la scène amoureuse avec Pepita ?",
+      "options": [
+        "Le registre comique et burlesque",
+        "Le registre lyrique et élégiaque",
+        "Le registre épique et héroïque",
+        "Le registre satirique"
+      ],
+      "reponse_correcte": 1,
+      "explication": "L'ébauche des souvenirs sentimentaux fait appel au registre lyrique (expression des sentiments intimes, poésie de la nature, nostalgie du bonheur perdu).",
+      "theme": "Registres littéraires",
+      "niveau": "Facile"
+    },
+    {
+      "id": 16,
+      "chapitre": "XXXIII-XLI",
+      "question": "Quelle est la valeur argumentative du contraste entre le passé heureux (Pepita) et la cellule lugubre ?",
+      "options": [
+        "Prouver que le condamné était un criminel endurci depuis son enfance",
+        "Humaniser le condamné aux yeux du lecteur pour susciter la pitié et l'empathie",
+        "Démontrer que la prison de la Conciergerie est plus confortable que sa maison d'enfance",
+        "Montrer que les femmes sont responsables de sa chute"
+      ],
+      "reponse_correcte": 1,
+      "explication": "En montrant que le condamné a été un jeune homme sensible, instruit et capable d'aimer, Victor Hugo brise le stéréotype du 'monstre' et pousse le lecteur à s'identifier à lui.",
+      "theme": "Stratégie argumentative et abolitionnisme",
+      "niveau": "Difficile"
+    },
+    {
+      "id": 17,
+      "chapitre": "XXXIII-XLI",
+      "question": "Quelle figure de style caractérise la juxtaposition constante de la lumière du soleil d'été et des ténèbres du cachot ?",
+      "options": [
+        "La litote",
+        "L'antithèse",
+        "L'hyperbole",
+        "L'anaphore"
+      ],
+      "reponse_correcte": 1,
+      "explication": "L'antithèse oppose de manière saisissante la lumière, la vie et la liberté (passé) aux ténèbres, à la pierre et à la mort (présent).",
+      "theme": "Figures de style",
+      "niveau": "Facile"
+    },
+    {
+      "id": 18,
+      "chapitre": "XXXIII-XLI",
+      "question": "En quoi les réflexions macabres du chapitre XXXIX constituent-elles une attaque directe contre la guillotine ?",
+      "options": [
+        "Elles montrent que la guillotine est trop chère à entretenir pour l'État",
+        "Elles dénoncent la prétendue 'douceur' sans douleur de la décapitation vantée par les partisans de la peine de mort",
+        "Elles proposent de remplacer la guillotine par la pendaison",
+        "Elles critiquent la laideur esthétique de la machine"
+      ],
+      "reponse_correcte": 1,
+      "explication": "Victor Hugo démonte le mythe d'une exécution 'propre et indolore' inventée par le docteur Guillotin, en montrant la barbarie physique et la torture psychologique subies par le condamné.",
+      "theme": "Réquisitoire contre la guillotine",
+      "niveau": "Difficile"
+    }
+  ]
+},
+{
+  "titre": "Quiz - Le Dernier Jour d'un condamné (Séquence 6 : Chapitres XLII à XLIX)",
+  "oeuvre": "Le Dernier Jour d'un condamné",
+  "auteur": "Victor Hugo",
+  "sequence": "Séquence 6 (Chapitres 42 à 49)",
+  "chapitres_couverts": "XLII à XLIX",
+  "description": "Quiz de 18 questions d'évaluation et de révision sur le dénouement tragique du roman : la toilette du condamné, la visite poignante de sa fille Marie, le voyage vers la Place de Grève et l'attente ultime de la grâce à 16h00.",
+  "questions": [
+    {
+      "id": 1,
+      "chapitre": "Chapitre XLII",
+      "question": "Que cherche désespérément le condamné au chapitre XLII pour supporter l'angoisse de la guillotine ?",
+      "options": [
+        "Un moyen d'anesthésier ses sens ou un état de stupeur/engourdissement",
+        "Un poison transmis secrètement par un geôlier",
+        "Une bible pour réciter des prières jusqu'à la fin",
+        "Un complice pour organiser une évasion de dernière minute"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le condamné espère que la terreur physique l'engourdisse ou le fasse s'évanouir afin de ne pas ressentir la douleur et le choc de la décapitation."
+    },
+    {
+      "id": 2,
+      "chapitre": "Chapitre XLIII",
+      "question": "Quel événement particulièrement poignant se déroule au chapitre XLIII ?",
+      "options": [
+        "La visite de sa petite fille Marie âgée de trois ans",
+        "La visite de sa mère venue lui donner sa bénédiction",
+        "Le rejet définitif de sa grâce par le Roi en personne",
+        "L'agression du condamné par la foule en colère"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Au chapitre XLIII, la petite Marie, âgée de trois ans, vient rendre visite à son père dans sa cellule."
+    },
+    {
+      "id": 3,
+      "chapitre": "Chapitre XLIII",
+      "question": "Pourquoi la visite de Marie est-elle une véritable torture psychologique pour le condamné ?",
+      "options": [
+        "Elle ne le reconnaît pas et l'appelle 'Monsieur'",
+        "Elle refuse de l'embrasser parce qu'il porte des vêtements sales",
+        "Elle lui apprend que sa mère est déjà morte de chagrin",
+        "Elle lui demande de s'enfuir immédiatement avec elle"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Enfermé depuis plusieurs mois, le condamné a changé physiquement. Sa fille ne le reconnaît pas, affirmant que son papa est 'mort'."
+    },
+    {
+      "id": 4,
+      "chapitre": "Chapitre XLIII",
+      "question": "Que répond la petite Marie lorsque le condamné lui demande où est son papa ?",
+      "options": [
+        "Elle dit qu'il est mort",
+        "Elle dit qu'il est parti en voyage à la campagne",
+        "Elle dit qu'il est en prison à Bicêtre",
+        "Elle dit qu'il travaille chez le Roi"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Marie explique naïvement que son père est 'mort', car c'est ce qu'on lui a raconté à la maison pour lui cacher la vérité."
+    },
+    {
+      "id": 5,
+      "chapitre": "Chapitre XLIV",
+      "question": "Quel est l'effet de la visite de Marie sur l'état d'esprit du condamné au chapitre XLIV ?",
+      "options": [
+        "Il perd le dernier lien affectif qui le rattachait encore à la vie",
+        "Il décide de se battre et de s'évader par la force",
+        "Il ressent une joie immense et meurt apaisé",
+        "Il maudit sa famille d'avoir abandonné son souvenir"
+      ],
+      "reponse_correcte": 0,
+      "explication": "La réaction de Marie brise le cœur du condamné. Puisqu'elle ne le reconnaît plus, son dernier ancrage affectif s'effondre, le laissant prêt pour la mort."
+    },
+    {
+      "id": 6,
+      "chapitre": "Chapitre XLV",
+      "question": "Comment le condamné décrit-il la foule assemblée sur la Place de Grève au chapitre XLV ?",
+      "options": [
+        "Comme une foule sanguinaire, hyène cruelle et avide de spectacle",
+        "Comme un peuple silencieux et attristé par la peine de mort",
+        "Comme une assemblée de citoyens exigeant la grâce royale",
+        "Comme des croyants en prière pour le salut de son âme"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Victor Hugo dénonce la barbarie du peuple qui vient assister à l'exécution comme à un divertissement populaire festif."
+    },
+    {
+      "id": 7,
+      "chapitre": "Chapitre XLVI",
+      "question": "Quelle est la principale inquiétude du condamné concernant l'avenir de sa fille Marie (Ch. XLVI) ?",
+      "options": [
+        "Qu'elle soit marquée à jamais par la honte et le déshonneur du nom de son père",
+        "Qu'elle n'ait pas assez d'argent pour aller à l'école",
+        "Qu'elle soit adoptée par une famille d'aristocrates",
+        "Qu'elle devienne elle-même criminelle plus tard"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le condamné souffre à l'idée que Marie subira la stigmatisation sociale d'être la 'fille d'un guillotiné'."
+    },
+    {
+      "id": 8,
+      "chapitre": "Chapitre XLVII",
+      "question": "Que contient le court chapitre XLVII du roman ?",
+      "options": [
+        "Une note explicative ou un billet adressé à sa fille/au Roi",
+        "Une longue description du repas préparé par les geôliers",
+        "Le texte intégral de la loi abolissant la guillotine",
+        "Le portrait physique détaillé du bourreau de Paris"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le chapitre XLVII présente une courte note/billet exprimant le désir de laisser un mot d'adieu ou un appel au secours."
+    },
+    {
+      "id": 9,
+      "chapitre": "Chapitre XLVIII",
+      "question": "En quoi consiste la 'toilette du condamné' décrite avec précision au chapitre XLVIII ?",
+      "options": [
+        "Couper les cheveux sur la nuque, découper le col de la chemise et lier les mains",
+        "Prendre un bain chaud et revêtir une robe blanche de pénitence",
+        "Se faire raser la barbe et mettre un costume d'avocat",
+        "Recevoir l'extrême-onction et choisir son dernier repas"
+      ],
+      "reponse_correcte": 0,
+      "explication": "La 'toilette' est la préparation matérielle à la décapitation : on dresse le cou du condamné en coupant ses cheveux et son col, puis on lui lie les bras derrière le dos."
+    },
+    {
+      "id": 10,
+      "chapitre": "Chapitre XLVIII",
+      "question": "Qui accomplit les gestes de la 'toilette du condamné' au chapitre XLVIII ?",
+      "options": [
+        "Les valets du bourreau (les exécuteurs des hautes œuvres)",
+        "Les gardiens de la prison de la Conciergerie",
+        "L'aumônier et l'avocat du condamné",
+        "Les étudiants en médecine de la Charité"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Ce sont les assistants du bourreau Gros (les valets de la guillotine) qui effectuent froidement la 'toilette'."
+    },
+    {
+      "id": 11,
+      "chapitre": "Chapitre XLVIII",
+      "question": "Quel véhicule transporte le condamné de la Conciergerie à la Place de Grève ?",
+      "options": [
+        "Une charrette / voiture fermée tirée par des chevaux",
+        "Une caleche royale d'apparat dorée",
+        "Un train à vapeur pénitentiaire",
+        "Il accomplit le trajet à pied en procession"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le condamné fait le trajet dans une voiture lugubre (charrette) encadrée de gendarmes à cheval à travers les rues de Paris."
+    },
+    {
+      "id": 12,
+      "chapitre": "Chapitre XLVIII",
+      "question": "Qui accompagne le condamné à l'intérieur du véhicule pendant le trajet ultime ?",
+      "options": [
+        "L'aumônier de la prison et le valet du bourreau",
+        "Son avocat et le juge d'instruction",
+        "Sa femme et sa fille Marie",
+        "Le directeur de la Conciergerie uniquement"
+      ],
+      "reponse_correcte": 0,
+      "explication": "L'aumônier (qui récite des prières mécaniques) et l'exécuteur l'accompagnent dans la voiture pendant le trajet vers la mort."
+    },
+    {
+      "id": 13,
+      "chapitre": "Chapitre XLIX",
+      "question": "Dans quel bâtiment le condamné est-il installé à son arrivée sur la Place de Grève ?",
+      "options": [
+        "L'Hôtel de Ville de Paris",
+        "La Cathédrale Notre-Dame de Paris",
+        "La Sainte-Chapelle",
+        "Le Palais de Justice"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Avant d'être mené à l'échafaud dressé au centre de la Place de Grève, le condamné est introduit dans une chambre de l'Hôtel de Ville."
+    },
+    {
+      "id": 14,
+      "chapitre": "Chapitre XLIX",
+      "question": "Quelle grâce suprême le condamné demande-t-il frénétiquement au chapitre XLIX ?",
+      "options": [
+        "Cinq minutes de répit dans l'espoir que le courrier apportant la grâce arrive",
+        "Une Bible dédicacée par l'archevêque de Paris",
+        "Le droit de revoir sa fille une seconde fois",
+        "La possibilité de lire un discours à la foule"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Suppliant le magistrat et l'exécuteur, le condamné demande 'cinq minutes encore' dans l'illusion désespérée que la grâce royale va arriver."
+    },
+    {
+      "id": 15,
+      "chapitre": "Chapitre XLIX",
+      "question": "Quelle heure indique l'horloge au tout dernier mot du roman (Chapitre XLIX) ?",
+      "options": [
+        "QUATRE HEURES (16h00)",
+        "MIDI PILE (12h00)",
+        "MINUIT (00h00)",
+        "TROIS HEURES ET DEMIE (15h30)"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le roman se termine abruptement sur l'indication horaire fatale : 'QUATRE HEURES !', marquant l'instant précis de l'exécution."
+    },
+    {
+      "id": 16,
+      "chapitre": "Chapitre XLVIII & XLIX",
+      "question": "Quel registre littéraire domine les derniers chapitres du roman ?",
+      "options": [
+        "Le registre tragique et pathétique",
+        "Le registre comique et satyrique",
+        "Le registre épique et merveilleux",
+        "Le registre fantastique et policier"
+      ],
+      "reponse_correcte": 0,
+      "explication": "L'impuissance de l'homme face au destin inexorable (tragique) et la souffrance morale poignante (pathétique) caractérisent le dénouement."
+    },
+    {
+      "id": 17,
+      "chapitre": "Ensemble du roman",
+      "question": "Quelle est la portée politique et sociale de la fin tragique de ce roman à thèse de Victor Hugo ?",
+      "options": [
+        "Démontrer l'inhumanité, la cruauté inutile et la barbarie de la peine de mort",
+        "Prouver l'efficacité exemplaire de la guillotine pour dissuader les criminels",
+        "Demander l'amélioration de la nourriture dans les prisons françaises",
+        "Défendre le pouvoir absolu du Roi sur les tribunaux"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Victor Hugo utilise ce journal d'agonie pour frapper les esprits et militer activement en faveur de l'abolition universelle de la peine de mort."
+    },
+    {
+      "id": 18,
+      "chapitre": "Ensemble du roman",
+      "question": "Pourquoi l'auteur choisit-il d'interrompre brusquement le récit à 16h00 sans décrire la décapitation ?",
+      "options": [
+        "Pour laisser le lecteur face au vide de la mort et faire de l'exécution un acte insoutenable",
+        "Parce qu'il n'avait plus de papier dans son cachot pour écrire",
+        "Parce que le condamné s'est évadé au dernier moment",
+        "Pour permettre une suite dans un deuxième tome"
+      ],
+      "reponse_correcte": 0,
+      "explication": "Le silence brutal au moment où le couperet tombe laisse le lecteur stupéfait et indigné face au crime judiciaire commis au nom de la société."
+    }
+  ]
+}
+  ]
+}

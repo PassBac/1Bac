@@ -1,0 +1,290 @@
+{
+  "titre": "Cartes Mémoires - Le Dernier Jour d'un condamné",
+  "auteur": "Victor Hugo",
+  "genre": "Roman à thèse / Monologue intérieur",
+  "annee_publication": "1829",
+  "objectif_pedagogique": "Révision rapide et efficace des notions clés pour l'Examen Régional du Baccalauréat",
+  "nombre_cartes": 25,
+  "cartes": [
+    {
+      "id": 1,
+      "categorie": "Fiche d'identité",
+      "recto": "Quel est le genre littéraire de 'Le Dernier Jour d'un condamné' ?",
+      "verso": "C'est un roman à thèse centré sur un monologue intérieur tragique.",
+      "mots_cles": [
+        "Roman à thèse",
+        "Monologue intérieur",
+        "Abolitionnisme"
+      ]
+    },
+    {
+      "id": 2,
+      "categorie": "Fiche d'identité",
+      "recto": "Quelle est la thèse défendue par Victor Hugo dans cet ouvrage ?",
+      "verso": "L'abolition de la peine de mort et la dénonciation de la cruauté de la justice humaine.",
+      "mots_cles": [
+        "Abolition",
+        "Peine de mort",
+        "Humanisme"
+      ]
+    },
+    {
+      "id": 3,
+      "categorie": "Fiche d'identité",
+      "recto": "Qui est le narrateur et quel est son statut ?",
+      "verso": "Un homme anonyme, jeune, instruit, condamné à mort, dont on ignore le crime exact.",
+      "mots_cles": [
+        "Anonymat",
+        "Jeune",
+        "Instruit",
+        "Condamné"
+      ]
+    },
+    {
+      "id": 4,
+      "categorie": "Lieux du récit",
+      "recto": "Quels sont les trois lieux de détention traversés par le condamné ?",
+      "verso": "1. Bicêtre (la prison)\n2. La Conciergerie (l'attente finale)\n3. L'Hôtel de Ville / Place de Grève (l'échafaud).",
+      "mots_cles": [
+        "Bicêtre",
+        "Conciergerie",
+        "Place de Grève"
+      ]
+    },
+    {
+      "id": 5,
+      "categorie": "Lieux du récit",
+      "recto": "Combien de temps dure le séjour du condamné à Bicêtre ?",
+      "verso": "Environ 6 semaines (45 jours) d'attente du rejet de son pourvoi en cassation.",
+      "mots_cles": [
+        "6 semaines",
+        "45 jours",
+        "Pourvoi"
+      ]
+    },
+    {
+      "id": 6,
+      "categorie": "Lieux du récit",
+      "recto": "Combien de temps durent les événements du jour de l'exécution ?",
+      "verso": "Le récit s'étale sur quelques heures seulement (de 6h du matin à 16h, heure de l'exécution).",
+      "mots_cles": [
+        "Dernier jour",
+        "6h à 16h",
+        "Compte à rebours"
+      ]
+    },
+    {
+      "id": 7,
+      "categorie": "Personnages",
+      "recto": "Qui est Marie et quel est son rôle tragique dans le récit ?",
+      "verso": "La fille du condamné (3 ans). Lors de sa visite (Ch. 26), elle ne le reconnaît plus et l'appelle 'monsieur', ce qui lui brise le cœur.",
+      "mots_cles": [
+        "Marie",
+        "3 ans",
+        "Rupture affective",
+        "Innocence"
+      ]
+    },
+    {
+      "id": 8,
+      "categorie": "Personnages",
+      "recto": "Qui est le 'Friauche' (Chapitre 23) ?",
+      "verso": "Un autre condamné à mort, criminel récidiviste, victime de la misère sociale, qui prend la redingote du narrateur.",
+      "mots_cles": [
+        "Friauche",
+        "Récidiviste",
+        "Argot",
+        "Miroir tragique"
+      ]
+    },
+    {
+      "id": 9,
+      "categorie": "Personnages",
+      "recto": "Quelle est l'attitude de la foule face au condamné ?",
+      "verso": "Voyeuriste, sanguinaire et indifférente, considérant l'exécution comme un spectacle et une fête.",
+      "mots_cles": [
+        "Foule",
+        "Spectacle",
+        "Voyeurisme",
+        "Cruauté collective"
+      ]
+    },
+    {
+      "id": 10,
+      "categorie": "Personnages",
+      "recto": "Comment Victor Hugo présente-t-il les représentants de la justice et de l'Église ?",
+      "verso": "Des figures mécaniques, indifférentes et routinières (juges, geôliers, aumônier débitant des prières sans empathie).",
+      "mots_cles": [
+        "Indifférence",
+        "Bureaucratie",
+        "Aumônier mécanique"
+      ]
+    },
+    {
+      "id": 11,
+      "categorie": "Thèmes & Symboles",
+      "recto": "Qu'est-ce que 'l'Idée fixe' du condamné ?",
+      "verso": "L'obsession permanente et paralysante de la mort ('Condamné à mort !') qui étouffe toute autre pensée.",
+      "mots_cles": [
+        "Idée fixe",
+        "Obsession",
+        "Torture morale"
+      ]
+    },
+    {
+      "id": 12,
+      "categorie": "Thèmes & Symboles",
+      "recto": "Que représente le spectacle du 'ferrage des forçats' (Chapitre 13) ?",
+      "verso": "Une scène de déhumanisation sauvage où les prisonniers destinés au bagne sont enchaînés sous la pluie devant des spectateurs hilares.",
+      "mots_cles": [
+        "Ferrage",
+        "Forçats",
+        "Bagne",
+        "Déhumanisation"
+      ]
+    },
+    {
+      "id": 13,
+      "categorie": "Thèmes & Symboles",
+      "recto": "Pourquoi le condamné écrit-il son journal d'angoisse ?",
+      "verso": "Pour soulager sa souffrance et pour que ses écrits servent de réquisitoire aux juges pour abolir la peine capitale.",
+      "mots_cles": [
+        "Journal",
+        "Réquisitoire",
+        "Utilité sociale"
+      ]
+    },
+    {
+      "id": 14,
+      "categorie": "Thèmes & Symboles",
+      "recto": "Que symbolise la 'toilette du condamné' (Chapitre 48) ?",
+      "verso": "La préparation physique à la mort : cheveux coupés sur le cou, col de la chemise découpé, mains liées dans le dos.",
+      "mots_cles": [
+        "Toilette du condamné",
+        "Mains liées",
+        "Rituel macabre"
+      ]
+    },
+    {
+      "id": 15,
+      "categorie": "Thèmes & Symboles",
+      "recto": "Quel rôle joue la petite chanson en argot entendue au Chapitre 16 ?",
+      "verso": "Elle crée un contraste saisissant entre la voix fraîche d'une jeune fille et la violence des paroles criminelles qu'elle chante.",
+      "mots_cles": [
+        "Chanson en argot",
+        "Contraste",
+        "Innocence et crime"
+      ]
+    },
+    {
+      "id": 16,
+      "categorie": "Procédés littéraires",
+      "recto": "Quelles sont les principales figures de style utilisées dans le roman ?",
+      "verso": "Antithèse, métaphore, hyperbole, anaphore, personnification (de la mort et de la guillotine).",
+      "mots_cles": [
+        "Antithèse",
+        "Personnification",
+        "Hyperbole"
+      ]
+    },
+    {
+      "id": 17,
+      "categorie": "Procédés littéraires",
+      "recto": "Quels sont les registres littéraires dominants dans l'œuvre ?",
+      "verso": "Le registre tragique (l'inéluctabilité de la mort) et le registre pathétique (suscite la pitié et la compassion).",
+      "mots_cles": [
+        "Tragique",
+        "Pathétique",
+        "Compassion"
+      ]
+    },
+    {
+      "id": 18,
+      "categorie": "Procédés littéraires",
+      "recto": "Quelle est la focalisation employée tout au long du récit ?",
+      "verso": "Focalisation interne (vision restreinte à travers la conscience et les émotions du condamné).",
+      "mots_cles": [
+        "Focalisation interne",
+        "Subjectivité",
+        "Intimité"
+      ]
+    },
+    {
+      "id": 19,
+      "categorie": "Procédés littéraires",
+      "recto": "Quel est le temps verbal dominant du récit d'attente ?",
+      "verso": "Le présent de l'indicatif (présent d'énonciation / présent d'actualité), renforçant l'impression d'instantanéité.",
+      "mots_cles": [
+        "Présent de l'indicatif",
+        "Urgence",
+        "Direct"
+      ]
+    },
+    {
+      "id": 20,
+      "categorie": "Contexte historique",
+      "recto": "En quelle année et sous quel contexte politique le livre est-il paru ?",
+      "verso": "En 1829, sous la Restauration (Charles X), anonymement d'abord, puis avec la préface de 1832.",
+      "mots_cles": [
+        "1829",
+        "Restauration",
+        "Préface de 1832"
+      ]
+    },
+    {
+      "id": 21,
+      "categorie": "Contexte historique",
+      "recto": "Quelle est l'importance de la Préface de 1832 ?",
+      "verso": "Hugo y développe de manière explicite et argumentative tous les arguments juridiques, moraux et sociaux contre la peine de mort.",
+      "mots_cles": [
+        "Préface 1832",
+        "Argumentation directe",
+        "Combat politique"
+      ]
+    },
+    {
+      "id": 22,
+      "categorie": "Echéance ultime",
+      "recto": "Quel est le dernier mot écrit par le condamné au Chapitre 49 ?",
+      "verso": "'QUATRE HEURES.' (Heure exacte fixée pour l'exécution).",
+      "mots_cles": [
+        "Quatre heures",
+        "Interruption du récit",
+        "Exécution"
+      ]
+    },
+    {
+      "id": 23,
+      "categorie": "Rapports humains",
+      "recto": "Comment le gendarme de garde interagit-il avec le condamné au Chapitre 32 ?",
+      "verso": "Il lui demande les numéros de la loterie en échange d'une faveur, traitant la mort imminente avec intérêt personnel.",
+      "mots_cles": [
+        "Gendarme",
+        "Loterie",
+        "Superstition"
+      ]
+    },
+    {
+      "id": 24,
+      "categorie": "Souvenirs d'enfance",
+      "recto": "Qui est Pepita (Chapitre 33) ?",
+      "verso": "Le souvenir d'un amour d'enfance et d'été en Espagne, apportant un moment de lumière et de nostalgie dans le cachot sombre.",
+      "mots_cles": [
+        "Pepita",
+        "Souvenir d'enfance",
+        "Lumière et nostalgie"
+      ]
+    },
+    {
+      "id": 25,
+      "categorie": "Double peine",
+      "recto": "Pourquoi Hugo affirme-t-il que la peine de mort frappe aussi les innocents ?",
+      "verso": "Parce qu'elle condamne la famille du criminel (mère, épouse, enfant) à la misère, au déshonneur et à l'abandon social.",
+      "mots_cles": [
+        "Viktimisation secondaire",
+        "Famille",
+        "Déshonneur"
+      ]
+    }
+  ]
+}

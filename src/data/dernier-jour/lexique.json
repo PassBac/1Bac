@@ -1,0 +1,361 @@
+{
+  "title": "Lexique et Vocabulaire - Le Dernier Jour d'un condamné (Victor Hugo)",
+  "description": "Fichier de révision lexicale pour la préparation à l'Examen Régional de Français (1ère année Bac Maroc).",
+  "targetAudience": "Élèves de 1ère année du Baccalauréat",
+  "totalEntries": 28,
+  "vocabulary": [
+    {
+      "id": "vocab_djc_01",
+      "word": "Roman à thèse",
+      "definition": "Genre littéraire dans lequel l'auteur cherche à démontrer une thèse politique, morale ou sociale (ici, l'abolition de la peine de mort).",
+      "synonymes": [
+        "récit engagé",
+        "roman d'idées"
+      ],
+      "context": "Victor Hugo utilise ce récit pour dénoncer l'inhumanité de la peine capitale.",
+      "category": "Genre et Littérature",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / le-genre-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_02",
+      "word": "Monologue intérieur",
+      "definition": "Technique narrative restituant le flux direct des pensées intimes du personnage à la première personne, sans intermédiaire.",
+      "synonymes": [
+        "discours intérieur",
+        "journal intime"
+      ],
+      "context": "Le récit est rédigé comme une chronique psychologique des dernières semaines du condamné.",
+      "category": "Technique narrative",
+      "source": "le-genre-de-l-oeuvre.pdf, p. 1 / presentation-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_03",
+      "word": "Échafaud / Guillotine",
+      "definition": "Charpente en bois sur laquelle est dressée la machine servant aux exécutions capitales.",
+      "synonymes": [
+        "scaffold",
+        "couperet"
+      ],
+      "context": "Le condamné redoute l'instant final où il sera mené sur l'échafaud de la Place de Grève.",
+      "category": "Justice et Châtiment",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_04",
+      "word": "Bicêtre",
+      "definition": "Lieu de détention (prison-hospice) situé près de Paris où le condamné passe le début de sa captivité après sa condamnation.",
+      "synonymes": [
+        "prison",
+        "maison de force"
+      ],
+      "context": "Le récit débute à Bicêtre où le condamné reste enfermé plusieurs semaines.",
+      "category": "Lieux du récit",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_05",
+      "word": "Conciergerie",
+      "definition": "Prison parisienne située au Palais de Justice où le condamné est transféré le jour de son exécution.",
+      "synonymes": [
+        "dépôt",
+        "cellule de transfert"
+      ],
+      "context": "Après Bicêtre, le prisonnier fait étape à la Conciergerie avant d'être mené à l'Hôtel de Ville.",
+      "category": "Lieux du récit",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_06",
+      "word": "Hôtel de Ville / Place de Grève",
+      "definition": "Place publique parisienne où se déroulaient traditionnellement les exécutions capitales devant la foule.",
+      "synonymes": [
+        "lieu d'exécution"
+      ],
+      "context": "L'exécution publique doit avoir lieu à quatre heures sur la Place de Grève.",
+      "category": "Lieux du récit",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_07",
+      "word": "Argot",
+      "definition": "Jargon particulier parlé par les criminels, voleurs et forçats au bagne et en prison.",
+      "synonymes": [
+        "langage secret",
+        "jargon carcéral"
+      ],
+      "context": "Le condamné découvre le langage argotique auprès des autres prisonniers de Bicêtre.",
+      "category": "Langue et Registre",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_08",
+      "word": "Friauche",
+      "definition": "Terme argotique désignant un condamné à mort, également surnom donné au second prisonnier qui succède au héros dans sa cellule.",
+      "synonymes": [
+        "condamné à la peine capitale"
+      ],
+      "context": "Le « friauche » raconte son parcours de misère qui l'a mené au meurtre et à la condamnation.",
+      "category": "Personnages et Carcéral",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1 / les-personnages-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_09",
+      "word": "Bagne / Forçat",
+      "definition": "Établissement de peines pour les condamnés aux travaux forcés (les forçats), comme le bagne de Toulon.",
+      "synonymes": [
+        "pénitencier",
+        "galères"
+      ],
+      "context": "Le spectacle du départ des forçats pour le bagne choque profondément le condamné.",
+      "category": "Univers Carcéral",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_10",
+      "word": "Ferrage (des forçats)",
+      "definition": "Cérémonie violente au cours de laquelle on rivait un collier de fer au cou des condamnés au bagne.",
+      "synonymes": [
+        "enchaînement"
+      ],
+      "context": "Le ferrage des forçats dans la cour de Bicêtre constitue une scène de grande cruauté collective.",
+      "category": "Univers Carcéral",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_11",
+      "word": "Pourvoi (en cassation)",
+      "definition": "Recours juridique formé devant la Cour de cassation pour tenter d'annuler un jugement.",
+      "synonymes": [
+        "recours en annulation"
+      ],
+      "context": "Le condamné attend anxieusement le rejet ou l'acceptation de son pourvoi en cassation.",
+      "category": "Justice et Procédure",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_12",
+      "word": "Grâce (royale)",
+      "definition": "Pardon accordé par le Roi/Souverain commuant la peine de mort en une peine de prison/travaux forcés.",
+      "synonymes": [
+        "pardon royal",
+        "commutation de peine"
+      ],
+      "context": "Jusqu'au dernier instant, le prisonnier espère l'arrivée d'une grâce royale.",
+      "category": "Justice et Procédure",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_13",
+      "word": "Idée fixe",
+      "definition": "Pensée obsessionnelle et envahissante qui monopolise l'esprit de l'individu (ici, la pensée de la mort).",
+      "synonymes": [
+        "obsession",
+        "idée hantante"
+      ],
+      "context": "« Condamné à mort ! » constitue l'idée fixe qui glace et paralyse le héros.",
+      "category": "Psychologie du Condamné",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_14",
+      "word": "Aumônier",
+      "definition": "Prêtre chargé de l'assistance spirituelle des prisonniers et d'accompagner le condamné à l'échafaud.",
+      "synonymes": [
+        "confesseur",
+        "prêtre de prison"
+      ],
+      "context": "L'aumônier vient réciter des prières stéréotypées que le condamné juge mécaniques et sans âme.",
+      "category": "Personnages et Religion",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_15",
+      "word": "Geôlier / Guichetier",
+      "definition": "Gardien de prison chargé de la surveillance des détenus.",
+      "synonymes": [
+        "gardien",
+        "maton"
+      ],
+      "context": "Les geôliers traitent le condamné soit avec indifférence administrative, soit avec une politesse intéressée.",
+      "category": "Personnages et Carcéral",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_16",
+      "word": "Bourreau",
+      "definition": "Exécuteur des peines de justice chargées d'actionner la guillotine.",
+      "synonymes": [
+        "exécuteur des hautes œuvres"
+      ],
+      "context": "Le bourreau prépare la toilette du condamné en lui coupant les cheveux et le col du vêtement.",
+      "category": "Personnages et Justice",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_17",
+      "word": "Abolitionnisme",
+      "definition": "Mouvement politique et moral luttant pour l'abolition définitive de la peine de mort.",
+      "synonymes": [
+        "mouvement abolitionniste"
+      ],
+      "context": "Victor Hugo est la figure de proue de l'abolitionnisme littéraire au XIXe siècle.",
+      "category": "Engagement et Idéologie",
+      "source": "Biographie de Victor Hugo.pdf, p. 1 / presentation-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_18",
+      "word": "Toilette du condamné",
+      "definition": "Dernier apprêt de la victime avant l'exécution (coupe des cheveux sur la nuque, liage des mains).",
+      "synonymes": [
+        "apprêt funèbre"
+      ],
+      "context": "La « toilette » est une étape terrifiante où le condamné est livré aux mains du bourreau.",
+      "category": "Rituels d'exécution",
+      "source": "resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_19",
+      "word": "Expiation",
+      "definition": "Souffrance subie en réparation d'une faute ou d'un crime commis.",
+      "synonymes": [
+        "châtiment",
+        "pénitence"
+      ],
+      "context": "La société exige la souffrance du criminel sous prétexte d'expiation judiciaire.",
+      "category": "Justice et Morale",
+      "source": "les-personnages-de-l-oeuvre.pdf, p. 1 / le-genre-de-l-oeuvre.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_20",
+      "word": "Angoisse / Torture morale",
+      "definition": "Anxiété profonde et permanente provoquée par l'attente de la mort imminente.",
+      "synonymes": [
+        "détresse psychologique",
+        "agonie mentale"
+      ],
+      "context": "Le roman démontre que la véritable torture de la peine de mort est la torture morale de l'attente.",
+      "category": "Psychologie du Condamné",
+      "source": "presentation-de-l-oeuvre.pdf, p. 1 / resume-chapitre-par-chapitre-2.pdf, p. 1",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_21",
+      "word": "Pourvoi en cassation",
+      "definition": "Recours adressé à la Cour de cassation pour faire vérifier si une décision de justice respecte la loi.",
+      "synonymes": [
+        "recours en cassation"
+      ],
+      "context": "Le condamné évoque les démarches judiciaires et l'espoir que sa condamnation soit réexaminée.",
+      "category": "Justice et Procédure",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_22",
+      "word": "Grâce royale",
+      "definition": "Décision du souverain qui réduit ou annule tout ou partie d'une peine.",
+      "synonymes": [
+        "clémence souveraine",
+        "remise de peine"
+      ],
+      "context": "L'attente d'une grâce entretient chez le condamné un espoir fragile jusqu'au dernier jour.",
+      "category": "Justice et Procédure",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_23",
+      "word": "Geôle",
+      "definition": "Prison ou cellule où une personne est enfermée.",
+      "synonymes": [
+        "prison",
+        "cachot"
+      ],
+      "context": "Les déplacements entre les lieux de détention rythment l'attente du condamné.",
+      "category": "Lieux d'enfermement",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_24",
+      "word": "Échafaud",
+      "definition": "Plateforme dressée pour une exécution publique.",
+      "synonymes": [
+        "estrade d'exécution"
+      ],
+      "context": "L'image de l'échafaud concentre la peur du condamné et la dénonciation du spectacle de la peine capitale.",
+      "category": "Rituels d'exécution",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_25",
+      "word": "Bourreau",
+      "definition": "Personne chargée d'exécuter la peine capitale.",
+      "synonymes": [
+        "exécuteur"
+      ],
+      "context": "La présence du bourreau rend l'exécution concrète et imminente aux yeux du condamné.",
+      "category": "Rituels d'exécution",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_26",
+      "word": "Plaidoirie",
+      "definition": "Discours prononcé par un avocat pour défendre une personne devant un tribunal.",
+      "synonymes": [
+        "défense orale"
+      ],
+      "context": "La justice est évoquée à travers le procès, la condamnation et les démarches de défense.",
+      "category": "Justice et Procédure",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_27",
+      "word": "Implacable",
+      "definition": "Qui ne se laisse pas fléchir et ne montre aucune pitié.",
+      "synonymes": [
+        "inflexible",
+        "impitoyable"
+      ],
+      "context": "Le temps qui sépare le condamné de son exécution semble avancer de façon implacable.",
+      "category": "Psychologie du Condamné",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    },
+    {
+      "id": "vocab_djc_28",
+      "word": "Abolir",
+      "definition": "Supprimer officiellement une loi, une pratique ou une peine.",
+      "synonymes": [
+        "supprimer",
+        "abroger"
+      ],
+      "context": "Le plaidoyer humaniste de Victor Hugo appelle à abolir la peine de mort.",
+      "category": "Engagement et Idéologie",
+      "source": "Complément pédagogique – vocabulaire du roman",
+      "verified": false
+    }
+  ]
+}

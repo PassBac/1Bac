@@ -1,27 +1,14 @@
 import React, { useState } from 'react';
-import { NovelSummary, QuizChapterBank, UserStudyProgress } from '../../types';
+import { NovelSummary, UserStudyProgress } from '../../types';
 import { SyntheseTab } from './SyntheseTab';
-import { PersonnagesTab } from './PersonnagesTab';
 import { QuizTab } from './QuizTab';
 import { LexiqueTab } from './LexiqueTab';
 import { FlashcardsView } from '../features/FlashcardsView';
 import { MindMapView } from '../features/MindMapView';
 import { ChaptersOverviewView } from '../features/ChaptersOverviewView';
-
-// Authentic user-provided JSON files
-import syntheseData from '../../data/boite-a-merveilles/synthese.json';
-import personnagesData from '../../data/boite-a-merveilles/personnages.json';
-import quizData from '../../data/boite-a-merveilles/quiz.json';
-import lexiqueData from '../../data/boite-a-merveilles/lexique.json';
+import { getNovelStudyData } from '../../data/novelStudyData';
 
 import { BookOpen, Users, HelpCircle, Sparkles, ArrowLeft, Network, Layers, BookmarkCheck, CheckCircle2 } from 'lucide-react';
-
-const quizBanks = quizData as QuizChapterBank[];
-const totalQuizQuestions = quizBanks.reduce((total, bank) => total + bank.questions.length, 0);
-const flashcardIds = [
-  ...lexiqueData.entries.map((entry) => `lex_${entry.id}`),
-  ...syntheseData.knowledgeItems.map((item) => `syn_${item.id}`),
-];
 
 interface NovelViewProps {
   novel: NovelSummary;
@@ -43,16 +30,35 @@ export const NovelView: React.FC<NovelViewProps> = ({
   const [activeTab, setActiveTab] = useState<string>('chapters');
   const [activeQuizChapterIdx, setActiveQuizChapterIdx] = useState<number>(0);
 
-  const isBoite = novel.id === 'boite-a-merveilles';
+  const studyData = getNovelStudyData(novel.id);
+  const quizBanks = studyData?.quizBanks ?? [];
+  const chapterIds = studyData?.chaptersSyllabus.length
+    ? studyData.chaptersSyllabus.map((chapter) => chapter.id)
+    : quizBanks.map((bank) => bank.chapterId);
+  const totalQuizQuestions = quizBanks.reduce((total, bank) => total + bank.questions.length, 0);
+  const flashcardIds = studyData
+    ? [
+        ...studyData.lexiqueData.entries.map((entry) => `lex_${entry.id}`),
+        ...studyData.syntheseData.knowledgeItems.map((item) => `syn_${item.id}`),
+      ]
+    : [];
   const completedChapterCount = progress.completedChapters.filter((id) =>
-    quizBanks.some((bank) => bank.chapterId === id)
+    chapterIds.includes(id)
   ).length;
-  const masteredFlashcardCount = progress.masteredFlashcards.filter((id) =>
-    flashcardIds.includes(id)
-  ).length;
+  const masteredFlashcardCount = studyData
+    ? studyData.lexiqueData.entries.filter((entry) =>
+        progress.masteredFlashcards.includes(`lex_${entry.id}`)
+      ).length +
+      studyData.syntheseData.knowledgeItems.filter(
+        (item) =>
+          progress.masteredFlashcards.includes(`syn_${item.id}`) ||
+          progress.masteredFlashcards.includes(item.id)
+      ).length
+    : 0;
+  const totalStudyUnits = chapterIds.length;
 
   const tabs = [
-    { id: 'chapters', label: `Chapitres & Quiz (${completedChapterCount}/${quizBanks.length})`, icon: BookmarkCheck },
+    { id: 'chapters', label: `${studyData?.unitLabel || 'Chapitres'} (${completedChapterCount}/${totalStudyUnits})`, icon: BookmarkCheck },
     { id: 'mindmap', label: 'Arbre Mental Interactif', icon: Network },
     { id: 'flashcards', label: `Cartes Mémoires (${masteredFlashcardCount}/${flashcardIds.length})`, icon: Layers },
     { id: 'quizzes', label: `Banque de Quiz (${totalQuizQuestions} Questions)`, icon: HelpCircle },
@@ -66,7 +72,7 @@ export const NovelView: React.FC<NovelViewProps> = ({
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  if (!isBoite) {
+  if (!studyData) {
     return (
       <div className="max-w-4xl mx-auto px-4 py-10 space-y-6 animate-in fade-in duration-200">
         <button
@@ -155,7 +161,7 @@ export const NovelView: React.FC<NovelViewProps> = ({
           </div>
 
           <div className="flex items-center gap-2 text-xs text-stone-600 dark:text-stone-300 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 px-3 py-1.5 rounded-lg shrink-0">
-            <span>Médina de Fès · Années 1920</span>
+            <span>{studyData.spatialFrame}</span>
           </div>
         </div>
 
@@ -189,25 +195,36 @@ export const NovelView: React.FC<NovelViewProps> = ({
         {activeTab === 'chapters' && (
           <ChaptersOverviewView
             quizBanks={quizBanks}
-            lexiqueData={lexiqueData as any}
+            lexiqueData={studyData.lexiqueData}
             progress={progress}
             onOpenQuiz={handleOpenQuizFromChapter}
             onToggleChapter={onToggleChapter}
             onOpenFlashcards={() => setActiveTab('flashcards')}
+            chaptersSyllabus={studyData.chaptersSyllabus.length ? studyData.chaptersSyllabus : undefined}
+            unitLabel={studyData.unitLabel}
+            unitLabelSingular={studyData.unitLabelSingular}
+            unitCompletedAdjective={studyData.unitCompletedAdjective}
+            completedHeading={studyData.completedHeading}
+            unitShortLabel={studyData.unitShortLabel}
+            unitHeading={studyData.unitHeading}
           />
         )}
 
         {activeTab === 'mindmap' && (
           <MindMapView
-            personnagesData={personnagesData as any}
-            syntheseData={syntheseData as any}
+            personnagesData={studyData.personnagesData}
+            syntheseData={studyData.syntheseData}
+            novelId={novel.id}
+            novelTitle={novel.title}
+            novelAuthor={novel.author}
+            novelPublishYear={novel.publishYear}
           />
         )}
 
         {activeTab === 'flashcards' && (
           <FlashcardsView
-            lexiqueData={lexiqueData as any}
-            syntheseData={syntheseData as any}
+            lexiqueData={studyData.lexiqueData}
+            syntheseData={studyData.syntheseData}
             masteredIds={progress.masteredFlashcards}
             soundEnabled={false}
             onToggleMastery={onToggleFlashcardMastery}
@@ -226,14 +243,14 @@ export const NovelView: React.FC<NovelViewProps> = ({
 
         {activeTab === 'synthese' && (
           <SyntheseTab
-            data={syntheseData as any}
+            data={studyData.syntheseData}
             completedItems={progress.masteredFlashcards}
             onToggleItem={onToggleFlashcardMastery}
           />
         )}
 
         {activeTab === 'lexicon' && (
-          <LexiqueTab data={lexiqueData as any} />
+          <LexiqueTab data={studyData.lexiqueData} />
         )}
       </div>
     </div>

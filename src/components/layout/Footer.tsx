@@ -43,8 +43,13 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                   La Boîte à merveilles (Ahmed Sefrioui)
                 </button>
               </li>
-              <li className="text-stone-400 dark:text-stone-600 cursor-not-allowed">
-                Le Dernier Jour d'un Condamné (À venir)
+              <li>
+                <button
+                  onClick={() => onNavigate('novel', 'dernier-jour')}
+                  className="hover:text-amber-800 dark:hover:text-amber-400 transition-colors text-left"
+                >
+                  Le Dernier Jour d'un Condamné (module actif)
+                </button>
               </li>
               <li className="text-stone-400 dark:text-stone-600 cursor-not-allowed">
                 Antigone (À venir)

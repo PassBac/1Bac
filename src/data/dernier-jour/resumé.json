@@ -1,0 +1,161 @@
+{
+  "oeuvre": "Le Dernier Jour d'un condamné",
+  "auteur": "Victor Hugo",
+  "genre": "Roman à thèse / Monologue intérieur",
+  "date_publication": "1829",
+  "siecle": "XIXe siècle",
+  "objectif_pedagogique": "Guide de révision complet pour l'Examen Régional du Baccalauréat au Maroc : Résumés par séquences de chapitres (groupés comme dans les quiz) et modèles officiels de 'Situation de passage' (contextualisation de l'extrait) conformes au barème d'examen.",
+  "methode_situation_de_passage": {
+    "etape_1": "Identifier l'œuvre, l'auteur, le genre et la date de parution.",
+    "etape_2": "Situer le passage par rapport à la trame narrative globale (ce qui s'est passé juste avant).",
+    "etape_3": "Résumer l'idée principale / l'événement clé de la séquence ou de l'extrait.",
+    "etape_4": "Indiquer la suite immédiate des événements."
+  },
+  "sequencage_chapitres": [
+    {
+      "id": "seq_1",
+      "titre_sequence": "Séquence 1 : Chapitres I à V",
+      "chapitres": "I à V",
+      "lieu_principal": "Prison de Bicêtre",
+      "resume_detaille": "Le récit débute à la prison de Bicêtre. Le narrateur, un jeune homme instruit, est obsédé depuis cinq semaines par la formule irrévocable 'Condamné à mort !'. Il se remémore le jour de son procès en août, la chaleur suffocante, l'indifférence glaciale des juges et des jurés, et la prononciation du verdict. Il analyse ensuite sa situation à Bicêtre, où il découvre l'âpreté de l'univers carcéral, la haine des gardiens et la langue de l'argot qu'il décrit comme une excroissance hideuse de la langue française.",
+      "situation_de_passage": {
+        "situation_generale": "Cet extrait est tiré du roman à thèse 'Le Dernier Jour d'un condamné' écrit par Victor Hugo et publié en 1829 pour plaider l'abolition de la peine de mort.",
+        "evenements_precedents": "Avant cette séquence, le narrateur menait une vie libre, heureuse et instruite entouré de sa famille.",
+        "evenement_cle": "Dans ce passage (Chapitres I à V), le condamné prend conscience de son tragique destin à Bicêtre, se rappelle son procès en août et découvre l'univers sombre de la prison et le langage de l'argot.",
+        "suite_des_evenements": "À la suite de cette prise de conscience, le condamné décide de prendre la plume pour rédiger le journal de ses souffrances morales afin de convaincre les hommes d'abolir la peine capitale."
+      },
+      "themes_cles": [
+        "L'obsession de la mort",
+        "La justice humaine et mécanique",
+        "La vie carcérale à Bicêtre",
+        "L'argot"
+      ],
+      "tonalitess_et_figures": [
+        "Registre pathétique",
+        "Antithèse (liberté passée vs captivité présente)",
+        "Métaphore de l'idée fixe"
+      ]
+    },
+    {
+      "id": "seq_2",
+      "titre_sequence": "Séquence 2 : Chapitres VI à XIII",
+      "chapitres": "VI à XIII",
+      "lieu_principal": "Prison de Bicêtre",
+      "resume_detaille": "Le condamné entreprend de tenir un journal de ses souffrances, non par vanité littéraire, mais pour laisser un témoignage utile qui incitera les juges à supprimer la peine capitale. Il pense avec amertume à sa famille (sa mère, sa femme et surtout sa petite fille Marie âgée de trois ans) qui subira le déshonneur. En observant son cachot, il y découvre des inscriptions et des noms de célèbres criminels gravés sur les murs. Le point culminant de cette séquence est le spectacle atroce du ferrage des forçats en partance pour le bagne de Toulon : le narrateur assiste sous la pluie à la déhumanisation de ces hommes, subit leurs moqueries et s'évanouit d'horreur.",
+      "situation_de_passage": {
+        "situation_generale": "Cet extrait est issu de 'Le Dernier Jour d'un condamné' de Victor Hugo (1829), réquisitoire contre la barbarie de la peine de mort.",
+        "evenements_precedents": "Auparavant, le condamné s'était remémoré son procès à Bicêtre et avait analysé son enfermement et son idée fixe.",
+        "evenement_cle": "Dans ce passage (Chapitres VI à XIII), le condamné explique son projet d'écriture abolitionniste, exprime sa douleur pour sa fille Marie, explore les graffitis de son cachot et assiste au spectacle dégradant et violent du ferrage des forçats.",
+        "suite_des_evenements": "Pris de malaise face à cette violence institutionnelle, le condamné s'évanouit et se réveille à l'infirmerie de la prison."
+      },
+      "themes_cles": [
+        "L'utilité de l'écriture abolitionniste",
+        "La souffrance de la famille innocente (Marie)",
+        "La fraternité des souffrants et les graffitis",
+        "La barbarie du ferrage des forçats"
+      ],
+      "tonalitess_et_figures": [
+        "Registre tragique et pathétique",
+        "Énumération et comparaison (description du ferrage)",
+        "Champ lexical de la déchéance et de la cruauté"
+      ]
+    },
+    {
+      "id": "seq_3",
+      "titre_sequence": "Séquence 3 : Chapitres XIV à XXII",
+      "chapitres": "XIV à XXII",
+      "lieu_principal": "Infirmerie et guichet de Bicêtre",
+      "resume_detaille": "Après son évanouissement, le condamné se réveille à l'infirmerie où il connaît un bref répit physique. Il entend sous sa fenêtre une jeune fille chanter une chanson en argot : le contraste entre la voix pure et la vulgarité sanglante des paroles le bouleverse. Il se réfugie dans la nostalgie de sa jeunesse et de son premier amour d'adolescence avec Pepita. La réalité le rattrape brutalement lorsque l'huissier du tribunal vient lui notifier le rejet officiel de son pourvoi en cassation. Il comprend qu'il ne lui reste que quelques heures à vivre et prépare son transfert imminent vers la Conciergerie.",
+      "situation_de_passage": {
+        "situation_generale": "Ce texte appartient au roman à thèse 'Le Dernier Jour d'un condamné' (1829) de Victor Hugo.",
+        "evenements_precedents": "Précédemment, le narrateur avait assisté au ferrage traumatisant des forçats et s'était effondré d'épuisement.",
+        "evenement_cle": "Dans ce passage (Chapitres XIV à XXII), après un séjour à l'infirmerie rythmé par la chanson en argot et le souvenir poétique de Pepita, le condamné apprend le rejet définitif de son pourvoi en cassation et prépare son transfert vers la Conciergerie.",
+        "suite_des_evenements": "Le condamné est emmené dans une voiture fermée à travers Paris en direction de la Conciergerie, antichambre de l'échafaud."
+      },
+      "themes_cles": [
+        "Le contraste entre pureté et horreur (la chanson en argot)",
+        "La nostalgie de l'enfance et de l'amour (Pepita)",
+        "Le rejet du pourvoi en cassation",
+        "L'inéluctabilité de la sentence"
+      ],
+      "tonalitess_et_figures": [
+        "Registre lyrique et nostalgique",
+        "Antithèse (voix fillette vs texte argotique)",
+        "Invective contre la justice administrative"
+      ]
+    },
+    {
+      "id": "seq_4",
+      "titre_sequence": "Séquence 4 : Chapitres XXIII à XXXII",
+      "chapitres": "XXIII à XXXII",
+      "lieu_principal": "La Conciergerie",
+      "resume_detaille": "Arrivé à la Conciergerie, le condamné est enfermé dans une cellule sombre. Il y rencontre 'le Friauche', un autre condamné à mort qui lui raconte sa vie de misère, l'engrenage du crime et lui prend sa redingote bourgeoise en échange d'une veste usée. Le narrateur replonge dans un désespoir profond en songeant au sort d'orpheline déshonorée qui attend sa fille Marie. Il observe avec amertume l'indifférence de l'aumônier qui lui décite des prières mécaniques, ainsi que la vénalité d'un gendarme qui lui demande les numéros de la loterie en échange de sa bienveillance.",
+      "situation_de_passage": {
+        "situation_generale": "L'extrait est tiré du roman abolitionniste 'Le Dernier Jour d'un condamné' de Victor Hugo (1829).",
+        "evenements_precedents": "Avant cette séquence, le condamné avait quitté la prison de Bicêtre après la confirmation du rejet de son recours en cassation.",
+        "evenement_cle": "Dans ce passage (Chapitres XXIII à XXXII), le condamné est installé à la Conciergerie, rencontre l'autre prisonnier (le Friauche), s'inquiète du futur tragique de sa fille Marie et dénonce la froideur de l'aumônier et la vénalité du gendarme.",
+        "suite_des_evenements": "Le condamné continue de compter les heures qui le séparent de l'exécution, se remémorant ses derniers souvenirs de jeunesse."
+      },
+      "themes_cles": [
+        "La rencontre du Friauche et la déterminisme social",
+        "L'échange de vêtements (symbole de déchéance)",
+        "L'amour paternel et l'angoisse pour Marie",
+        "La critique de l'aumônier et de la routine carcérale"
+      ],
+      "tonalitess_et_figures": [
+        "Registre tragique et d'ironie critique",
+        "Dialogue dramatique",
+        "Métaphore de la société bourreau"
+      ]
+    },
+    {
+      "id": "seq_5",
+      "titre_sequence": "Séquence 5 : Chapitres XXXIII à XLI",
+      "chapitres": "XXXIII à XLI",
+      "lieu_principal": "La Conciergerie (dernières heures)",
+      "resume_detaille": "Le condamné tente d'échapper à la terreur de la guillotine en se réfugiant dans ses souvenirs de jeunesse, notamment une journée d'été ensoleillée passée à cueillir des fraises avec sa jeune amie Pepita. Mais la réalité cruelle revient au galop : il rédige son testament spirituel, pense à la douleur physique de la décapitation et s'interroge sur la vie après la mort. Un prêtre insensible vient lui rendre visite sans parvenir à le consoler. Enfin, les autorités viennent l'avertir que l'heure du transfert vers l'Hôtel de Ville a sonné.",
+      "situation_de_passage": {
+        "situation_generale": "Ce passage s'inscrit dans 'Le Dernier Jour d'un condamné' (1829) de Victor Hugo, œuvre majeure du romantisme abolitionniste.",
+        "evenements_precedents": "Auparavant, le condamné avait fait l'expérience de la cruauté de la Conciergerie, affronté le Friauche et subi les prières froides du prêtre.",
+        "evenement_cle": "Dans ce passage (Chapitres XXXIII à XLI), le narrateur oscille entre le souvenir lumineux de sa jeunesse avec Pepita et l'angoisse terrifiante du supplice, rédige ses dernières volontés et s'apprête à être transféré à l'Hôtel de Ville.",
+        "suite_des_evenements": "Le condamné est emmené à l'Hôtel de Ville pour la préparation ultime (la toilette) avant l'échafaud."
+      },
+      "themes_cles": [
+        "Le contraste lumière du passé vs obscurité de la mort",
+        "Le souvenir d'amour de Pepita",
+        "L'angoisse de la décapitation physique",
+        "La faillite du réconfort religieux"
+      ],
+      "tonalitess_et_figures": [
+        "Registre lyrique et poignant",
+        "Juxtaposition des temps (imparfait du souvenir vs présent d'angoisse)",
+        "Questions existentielles"
+      ]
+    },
+    {
+      "id": "seq_6",
+      "titre_sequence": "Séquence 6 : Chapitres XLII à XLIX",
+      "chapitres": "XLII à XLIX",
+      "lieu_principal": "Hôtel de Ville & Place de Grève",
+      "resume_detaille": "Arrivé à l'Hôtel de Ville, le condamné subit la 'toilette du condamné' : le bourreau lui coupe les cheveux et colle le col de sa chemise. Il reçoit la visite poignante de sa fille Marie (3 ans) : la petite ne le reconnaît pas et l'appelle 'Monsieur', croyant que son père est mort, ce qui lui brise définitivement le cœur. Emmené en charrette à travers une foule sanguinaire et voyeuriste assemblée sur la Place de Grève, il implore en vain une grâce royale de dernière minute. Le récit s'interrompt brutalement à quatre heures, moment précis de l'exécution.",
+      "situation_de_passage": {
+        "situation_generale": "Cet extrait constitue le dénouement tragique du roman à thèse 'Le Dernier Jour d'un condamné' de Victor Hugo (1829).",
+        "evenements_precedents": "Avant cette séquence, le condamné avait quitté la Conciergerie après une ultime nuit de souvenirs et de souffrances morales.",
+        "evenement_cle": "Dans ce passage (Chapitres XLII à XLIX), le condamné subit la toilette du bourreau, vit l'épreuve déchirante où sa fille Marie ne le reconnaît pas, traverse la foule haineuse sur la Place de Grève et attend vainement la grâce royale jusqu'à quatre heures.",
+        "suite_des_evenements": "Le récit s'arrête net à quatre heures : l'exécution à la guillotine a lieu, scellant le destin tragique du héros et l'accomplissement du réquisitoire d'Hugo."
+      },
+      "themes_cles": [
+        "La toilette du condamné",
+        "L'aliénation familiale (Marie ne reconnaît pas son père)",
+        "La cruauté et le voyeurisme de la foule",
+        "L'attente vaine de la grâce royale",
+        "L'exécution à quatre heures"
+      ],
+      "tonalitess_et_figures": [
+        "Registre tragique absolu et pathétique",
+        "Suspense et ellipse temporelle (compte à rebours)",
+        "Phrases courtes et hachées"
+      ]
+    }
+  ]
+}
