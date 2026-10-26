@@ -1,0 +1,221 @@
+{
+  "titre": "Cours et Quiz : L'Énonciation et la Situation d'Énonciation",
+  "description": "Fiche de cours synthétique et banque d'exercices corrigés sur l'énonciation, la situation d'énonciation, l'énoncé ancré vs coupé, et les indices déictiques, appliqués aux œuvres au programme de 1ère BAC (La Boîte à merveilles et Le Dernier Jour d'un condamné).",
+  "cours": {
+    "definition_enonciation": "L'énonciation est l'acte individuel de production d'un message (l'énoncé) par un locuteur/énonciateur destiné à un allocutaire/destinataire dans des circonstances spatiales et temporelles précises.",
+    "composantes_situation_enonciation": {
+      "questions_cles": [
+        "Qui parle ? (L'énonciateur / Locuteur)",
+        "À qui parle-t-il ? (Le destinataire / Allocutaire)",
+        "Quand parle-t-il ? (Le moment de l'énonciation)",
+        "Où parle-t-il ? (Le lieu de l'énonciation)",
+        "De quoi parle-t-il ? (L'objet du message)"
+      ]
+    },
+    "types_enonces": {
+      "enonce_ancre": {
+        "definition": "Un énoncé est ancré dans la situation d'énonciation lorsqu'il ne peut être compris que si l'on connaît les circonstances de sa production (qui parle, quand et où).",
+        "caracteristiques": [
+          "Pronoms personnels de la 1ère et 2ème personne (je, tu, nous, vous, me, te...)",
+          "Temps verbaux liés au présent : Présent d'énonciation, Passé composé, Futur simple",
+          "Indicateurs spatio-temporels déictiques : aujourd'hui, hier, demain, maintenant, ici, ce soir",
+          "Types de textes privilégiés : dialogues, lettres, journaux intimes, monologues intérieurs"
+        ],
+        "exemples_oeuvre": [
+          "« Maintenant que je suis un homme... » (La Boîte à merveilles, Ch. I - Le narrateur adulte au moment où il écrit)",
+          "« Condamné à mort ! Voilà cinq semaines que je vis avec cette pensée... » (Le Dernier Jour d'un condamné, Ch. I - Monologue intérieur au présent)"
+        ]
+      },
+      "enonce_coupe": {
+        "definition": "Un énoncé est coupé de la situation d'énonciation lorsqu'il se suffit à lui-même et que sa compréhension ne dépend pas du moment ou du lieu où il a été écrit.",
+        "caracteristiques": [
+          "Pronoms de la 3ème personne (il, elle, ils, elles)",
+          "Temps du récit / du passé : Passé simple, Imparfait, Plus-que-parfait",
+          "Indicateurs spatio-temporels absolus ou anaphoriques : ce jour-là, la veille, le lendemain, alors, là-bas",
+          "Types de textes privilégiés : récits historiques, contes, romans à la 3ème personne, récits d'événements passés"
+        ],
+        "exemples_oeuvre": [
+          "« Ma mère s'éveilla la première. Elle fit du feu... » (La Boîte à merveilles - Le récit des événements de l'enfance au passé simple)"
+        ]
+      }
+    },
+    "tableau_deictiques_transposition": {
+      "description": "Correspondance des indicateurs temporels selon le type d'énoncé (utile pour le passage du discours direct au discours indirect) :",
+      "correspondances": [
+        {
+          "ancre": "Aujourd'hui",
+          "coupe": "Ce jour-là"
+        },
+        {
+          "ancre": "Hier",
+          "coupe": "La veille"
+        },
+        {
+          "ancre": "Demain",
+          "coupe": "Le lendemain"
+        },
+        {
+          "ancre": "Maintenant / En ce moment",
+          "coupe": "Alors / À ce moment-là"
+        },
+        {
+          "ancre": "Ici",
+          "coupe": "Là / Là-bas"
+        },
+        {
+          "ancre": "La semaine prochaine",
+          "coupe": "La semaine suivante"
+        }
+      ]
+    },
+    "application_aux_oeuvres": {
+      "la_boite_a_merveilles": "L'œuvre combine deux niveaux d'énonciation : le système de l'énoncé ancré lorsque le narrateur adulte intervient au présent d'énonciation pour commenter ses souvenirs ('Je couve mon chagrin...'), et le système de l'énoncé coupé lorsque le narrateur raconte les événements de sa 6ème année au passé simple/imparfait.",
+      "le_dernier_jour_d_un_condamne": "Le roman est quasi-intégralement rédigé sous forme d'un monologue intérieur ancré dans le présent de l'énonciation ('Maintenant je suis captif...', 'Il est six heures...'). L'ancrage temporel crée un effet d'immédiateté tragique et de réalisme psychologique."
+    },
+    "methodologie_examen": {
+      "conseils": [
+        "Pour identifier la situation d'énonciation, repérez qui parle (locuteur), à qui (destinataire), où (lieu) et quand (moment).",
+        "Pour déterminer si l'énoncé est ancré ou coupé, observez les temps des verbes (présent/passé composé vs passé simple/imparfait) et les indices de personne (je/tu vs il/elle).",
+        "Justifiez toujours votre réponse en citant des indices précis du texte (pronoms, adverbes de temps, temps verbaux)."
+      ]
+    }
+  },
+  "quiz_et_exercices": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Qu'est-ce que la situation d'énonciation ?",
+        "options": [
+          "L'histoire racontée par le narrateur à la troisième personne",
+          "L'ensemble des conditions dans lesquelles un message est produit (qui parle, à qui, quand, où)",
+          "Le lieu où se déroule l'action dramatique d'une pièce de théâtre",
+          "La liste des figures de style contenues dans un texte"
+        ],
+        "reponse_correcte": 1,
+        "explication": "La situation d'énonciation regroupe l'énonciateur, le destinataire, le lieu et le moment précis de la production de l'énoncé."
+      },
+      {
+        "id": 2,
+        "question": "Quel indice est caractéristique d'un énoncé ANCRÉ dans la situation d'énonciation ?",
+        "options": [
+          "L'utilisation exclusive de la 3ème personne du singulier",
+          "L'emploi du passé simple et du plus-que-parfait",
+          "L'utilisation de pronoms de la 1ère/2ème personne (je, tu) et d'adverbes comme 'aujourd'hui' ou 'ici'",
+          "L'absence totale d'indicateurs de temps et de lieu"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Un énoncé ancré s'appuie sur le présent d'énonciation, la 1ère/2ème personne et des déictiques dépendants du moment de la parole (aujourd'hui, ici, maintenant)."
+      },
+      {
+        "id": 3,
+        "question": "Quel est le repère temporel coupé équivalent à l'indicateur déictique 'hier' ?",
+        "options": [
+          "Le lendemain",
+          "La veille",
+          "Ce jour-là",
+          "Autrefois"
+        ],
+        "reponse_correcte": 1,
+        "explication": "'Hier' (énoncé ancré) se transpose en 'la veille' dans un énoncé coupé de la situation d'énonciation."
+      },
+      {
+        "id": 4,
+        "question": "Dans 'Le Dernier Jour d'un condamné', la phrase 'Maintenant, je suis captif. Mon corps est aux fers dans un cachot' relève de :",
+        "options": [
+          "Un énoncé coupé de la situation d'énonciation",
+          "Un énoncé ancré dans la situation d'énonciation",
+          "Un récit historique au passé simple",
+          "Un dialogue au discours indirect"
+        ],
+        "reponse_correcte": 1,
+        "explication": "L'utilisation de 'maintenant', du présent 'je suis' et du pronom 'je' montre que le texte est directement ancré dans le moment où le condamné écrit."
+      },
+      {
+        "id": 5,
+        "question": "Comment s'appelle un mot dont le sens dépend directement de la situation d'énonciation (ex: ici, maintenant, je) ?",
+        "options": [
+          "Un connecteur logique",
+          "Un indice déictique (ou déictique)",
+          "Une métaphore",
+          "Un champ lexical"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Les déictiques sont des termes (pronoms, adverbes) qui désignent des éléments de la situation d'énonciation et changent de sens selon qui parle, où et quand."
+      },
+      {
+        "id": 6,
+        "question": "Dans 'La Boîte à merveilles', quel temps verbal marque le passage du récit passé (enfance) au présent du narrateur adulte ?",
+        "options": [
+          "Le passé simple de narration",
+          "L'imparfait de description",
+          "Le présent d'énonciation",
+          "Le conditionnel présent"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Le présent d'énonciation permet au narrateur adulte d'interrompre le récit de son enfance pour commenter sa situation actuelle d'adulte solitaire."
+      }
+    ],
+    "texte_a_trous": {
+      "consigne": "Complétez le texte avec les termes suivants : déictiques, ancré, locuteur, coupé, passé simple.",
+      "texte": "Un énoncé est dit __________ dans la situation d'énonciation lorsqu'il contient des indicateurs spatio-temporels appelés __________, dépendants du moment où parle le __________. À l'inverse, un énoncé __________ se caractérise par l'emploi de la 3ème personne et de temps du passé comme le __________.",
+      "reponses": [
+        "ancré",
+        "déictiques",
+        "locuteur",
+        "coupé",
+        "passé simple"
+      ]
+    },
+    "identification_extraits": [
+      {
+        "id": 1,
+        "extrait": "« Aujourd’hui, ma solitude ne date pas d’hier. Je couve mon chagrin comme un trésor. » (La Boîte à merveilles)",
+        "type_enonce": "Énoncé ancré dans la situation d'énonciation",
+        "indices": [
+          "Présent d'énonciation ('date', 'couve')",
+          "Pronom 1ère personne ('ma', 'je')",
+          "Adverbes déictiques ('Aujourd'hui', 'hier')"
+        ],
+        "analyse": "Le narrateur adulte s'exprime directement au moment où il écrit, formulant ses réflexions actuelles."
+      },
+      {
+        "id": 2,
+        "extrait": "« Le lendemain de la dispute, mon père se leva tôt pour aller à son atelier de tissage. Ma mère prépara le petit-déjeuner en silence. » (La Boîte à merveilles)",
+        "type_enonce": "Énoncé coupé de la situation d'énonciation",
+        "indices": [
+          "Passé simple ('se leva', 'prépara')",
+          "3ème personne ('mon père', 'ma mère')",
+          "Indicateur temporel anaphorique/absolu ('Le lendemain')"
+        ],
+        "analyse": "Il s'agit du récit rétrospectif d'événements passés, détaché du moment précis où le narrateur adulte tient la plume."
+      },
+      {
+        "id": 3,
+        "extrait": "« Il est six heures. L'horloge de la Conciergerie vient de sonner. Je suis ici, dans cette chambre. » (Le Dernier Jour d'un condamné)",
+        "type_enonce": "Énoncé ancré dans la situation d'énonciation",
+        "indices": [
+          "Présent d'énonciation ('est', 'vient', 'suis')",
+          "Déictique spatial ('ici', 'cette chambre')",
+          "Pronom 'je'"
+        ],
+        "analyse": "Le condamné retranscrit ses perceptions en temps réel dans sa cellule."
+      },
+      {
+        "id": 4,
+        "extrait": "« Le condamné fut transféré à Bicêtre dans une voiture fermée. Les gendarme le surveillaient durant tout le trajet. » (Analyse littéraire)",
+        "type_enonce": "Énoncé coupé de la situation d'énonciation",
+        "indices": [
+          "Passé simple ('fut transféré')",
+          "Imparfait ('surveillaient')",
+          "3ème personne ('Le condamné', 'Les gendarmes')"
+        ],
+        "analyse": "Récit objectif et historique raconté à la troisième personne sans lien avec la situation de communication de l'auteur."
+      }
+    ],
+    "exercice_redaction_type_examen": {
+      "extrait": "« On vient de me notifier le rejet de mon pourvoi. Cela s'est fait ce matin même à huit heures. Maintenant, tout est fini. Il ne me reste plus qu'à attendre mon tour. » (Le Dernier Jour d'un condamné)",
+      "question": "1. Identifiez la situation d'énonciation de ce passage (qui parle ? à qui ? quand ? où ?).\n2. Précisez le type d'énoncé (ancré ou coupé) et justifiez votre réponse à l'aide de deux indices textuels précis.",
+      "reponse_modele": "1. **Situation d'énonciation :**\n   - **Locuteur (Qui parle ?) :** Le condamné à mort.\n   - **Destinataire (À qui ?) :** Lui-même / Le lecteur (monologue intérieur / journal).\n   - **Quand ? :** Le jour même de son exécution, juste après l'annonce du rejet de son pourvoi.\n   - **Où ? :** Dans sa prison (Bicêtre / Conciergerie).\n\n2. **Type d'énoncé et justification :**\n   - Il s'agit d'un **énoncé ancré dans la situation d'énonciation**.\n   - **Justification :** On relève l'emploi du présent d'énonciation ('vient', 'est', 'reste') et d'indices déictiques temporels ancrés dans le moment présent ('ce matin même', 'Maintenant')."
+    }
+  }
+}

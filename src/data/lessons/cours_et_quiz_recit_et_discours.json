@@ -1,0 +1,190 @@
+{
+  "module": "Récit et Discours",
+  "description": "Fiche de cours synthétique, méthodologie d'examen et banque d'exercices interactifs pour le module Récit et Discours (1ère BAC / Examen Régional).",
+  "fiche_de_cours": {
+    "definition_et_distinction": {
+      "recit": {
+        "nom": "Le Récit (ou Histoire)",
+        "definition": "Mode d'énonciation où les événements sont rapportés de manière objective, détachée de la situation de communication actuelle (énoncé coupé).",
+        "caracteristiques": [
+          "Pronoms employés : 3ème personne (il, elle, ils, elles), absence de 'je' et 'tu' (sauf dans les dialogues rapportés).",
+          "Temps verbaux : Passé simple (action de premier plan), Imparfait (description, second plan), Plus-que-parfait.",
+          "Repères spatio-temporels : Indicateurs historiques/temporels autonomes (ce jour-là, la veille, le lendemain, à cet endroit-là)."
+        ],
+        "visee": "Raconter des faits passés, maintenir une distance narrative et créer un effet d'objectivité."
+      },
+      "discours": {
+        "nom": "Le Discours",
+        "definition": "Mode d'énonciation où le locuteur s'adresse directement à un destinataire dans une situation de communication présente (énoncé ancré).",
+        "caracteristiques": [
+          "Pronoms employés : 1ère et 2ème personnes (je, tu, nous, vous).",
+          "Temps verbaux : Présent de l'indicatif, Passé composé, Futur simple, Impératif.",
+          "Repères spatio-temporels : Déictiques liés au moment du dialogue (maintenant, aujourd'hui, hier, demain, ici)."
+        ],
+        "visee": "Exprimer des émotions, commenter, argumenter, persuader ou dialoguer directement."
+      }
+    },
+    "tableau_comparatif": [
+      {
+        "critere": "Situation par rapport à l'énonciation",
+        "recit": "Énoncé coupé du moment de l'énonciation",
+        "discours": "Énoncé ancré dans le moment de l'énonciation"
+      },
+      {
+        "critere": "Pronoms dominants",
+        "recit": "3ème personne (il, elle, ils)",
+        "discours": "1ère et 2ème personnes (je, tu, nous, vous)"
+      },
+      {
+        "critere": "Temps de référence",
+        "recit": "Passé simple, Imparfait, Plus-que-parfait",
+        "discours": "Présent, Passé composé, Futur simple"
+      },
+      {
+        "critere": "Indicateurs de temps",
+        "recit": "Ce jour-là, la veille, le lendemain",
+        "discours": "Aujourd'hui, hier, demain, maintenant"
+      },
+      {
+        "critere": "Indicateurs d'espace",
+        "recit": "Là-bas, dans ce lieu-là",
+        "discours": "Ici, à cet endroit même"
+      }
+    ],
+    "application_aux_oeuvres": {
+      "boite_a_merveilles": "L'œuvre alterne continuellement entre le récit (le narrateur adulte raconte au passé simple/imparfait ses souvenirs d'enfance à 6 ans) et le discours (le narrateur adulte intervient au présent pour commenter ses émotions ou s'adresser au lecteur).",
+      "dernier_jour_condamne": "L'œuvre est dominée par le discours en raison de la forme du monologue intérieur. Le condamné écrit au présent dans sa cellule ('Condamné à mort !'). Cependant, certains chapitres basculent dans le récit lorsque le condamné se remémore son procès ou son passé d'enfant (ex: chapitre II ou XXXIII)."
+    },
+    "methodologie_examen": {
+      "question_type": "Ce passage relève-t-il du système du récit ou du discours ? Justifiez votre réponse à partir de deux indices.",
+      "etapes_reponse": [
+        "1. Identifier le statut (Récit ou Discours).",
+        "2. Relever le premier indice : les pronoms personnels employés (ex: dominance du 'je' ou de la '3ème personne').",
+        "3. Relever le deuxième indice : le système des temps verbaux (ex: présent/passé composé vs passé simple/imparfait).",
+        "4. Relever l'indicateur spatio-temporel si nécessaire (ex: 'aujourd'hui' vs 'ce jour-là')."
+      ],
+      "modele_redaction": "Ce passage relève du discours car le narrateur est directement ancré dans la situation d'énonciation. On le justifie par : 1) La dominance de la 1ère personne ('je', 'ma') ; 2) L'utilisation des temps du présent ('suis', 'pense') et des déictiques temporels ('maintenant')."
+    }
+  },
+  "banque_de_quiz": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Quel est le temps fondamental des actions de premier plan dans le système du Récit ?",
+        "options": [
+          "Le Présent de l'indicatif",
+          "Le Passé simple",
+          "Le Passé composé",
+          "Le Futur simple"
+        ],
+        "reponse_correcte": "Le Passé simple",
+        "explication": "Dans le récit au passé, le passé simple est le temps des actions accomplies et de premier plan, tandis que l'imparfait sert au second plan et à la description."
+      },
+      {
+        "id": 2,
+        "question": "Quels pronoms personnels caractérisent le système du Discours ?",
+        "options": [
+          "Exclusivement la 3ème personne (il, elle, ils)",
+          "La 1ère et la 2ème personne (je, tu, nous, vous)",
+          "Seulement le pronom impersonnel 'on'",
+          "Les pronoms démonstratifs uniquement"
+        ],
+        "reponse_correcte": "La 1ère et la 2ème personne (je, tu, nous, vous)",
+        "explication": "Le discours implique une interaction entre un locuteur (je/nous) et un destinataire (tu/vous)."
+      },
+      {
+        "id": 3,
+        "question": "Lequel de ces indicateurs temporels appartient au système du Récit (énoncé coupé) ?",
+        "options": [
+          "Aujourd'hui",
+          "Maintenant",
+          "Ce jour-là",
+          "Demain"
+        ],
+        "reponse_correcte": "Ce jour-là",
+        "explication": "'Ce jour-là' est un indicateur temporel autonome coupé du moment de l'énonciation, propre au récit."
+      },
+      {
+        "id": 4,
+        "question": "Pourquoi 'Le Dernier Jour d'un condamné' est-il majoritairement écrit dans le système du Discours ?",
+        "options": [
+          "Parce que c'est un livre d'histoire sur le XIXe siècle.",
+          "Parce qu'il s'agit d'un monologue intérieur où le narrateur exprime ses pensées au présent.",
+          "Parce que l'auteur écrit à la troisième personne.",
+          "Parce qu'il n'y a aucune émotion exprimée."
+        ],
+        "reponse_correcte": "Parce qu'il s'agit d'un monologue intérieur où le narrateur exprime ses pensées au présent.",
+        "explication": "Le journal/monologue intérieur place le condamné dans l'urgence du présent de sa cellule, favorisant le système du discours."
+      },
+      {
+        "id": 5,
+        "question": "Dans 'La Boîte à merveilles', que traduit le passage du récit au discours au présent ?",
+        "options": [
+          "Une erreur de grammaire de l'auteur.",
+          "Une intervention du narrateur adulte qui commente ses souvenirs passés.",
+          "Le changement de personnage principal.",
+          "Un changement de lieu vers une autre ville."
+        ],
+        "reponse_correcte": "Une intervention du narrateur adulte qui commente ses souvenirs passés.",
+        "explication": "Le narrateur adulte utilise le présent du discours pour prendre de la distance et commenter nostalgiquement sa propre enfance."
+      },
+      {
+        "id": 6,
+        "question": "Quel temps du passé est le plus souvent associé au discours oral ou écrit ancré dans le présent ?",
+        "options": [
+          "Le Passé simple",
+          "Le Passé antérieur",
+          "Le Passé composé",
+          "Le Plus-que-parfait du subjonctif"
+        ],
+        "reponse_correcte": "Le Passé composé",
+        "explication": "Le passé composé exprime une action passée dont les conséquences restent liées au présent de l'énonciation."
+      }
+    ],
+    "texte_a_trous": {
+      "consigne": "Complétez le texte ci-dessous avec les termes appropriés : [récit, discours, ancré, coupé, passé simple, présent].",
+      "texte": "Le systeme du ________ est direct et ________ dans la situation de communication, il utilise principalement le ________ et la premiere personne. En revanche, le systeme du ________ est ________ du moment où l'on parle et privilégie le ________ et la troisieme personne.",
+      "reponses_attendues": [
+        "discours",
+        "ancré",
+        "présent",
+        "récit",
+        "coupé",
+        "passé simple"
+      ]
+    },
+    "identification_sur_extraits": [
+      {
+        "id": 1,
+        "extrait": "« Le soir, quand tous dorment, les démons, les saints et les djinns s'emparent de mon domaine... Je ne dors pas. Je songe à ma solitude et j'en sens tout le poids. » (La Boîte à merveilles, Ch. I)",
+        "systeme": "Discours",
+        "justification": "Utilisation de la 1ère personne ('mon', 'Je'), du présent de l'indicatif ('dorment', 'dors', 'songe', 'sens') exprimant le sentiment immédiat du narrateur."
+      },
+      {
+        "id": 2,
+        "extrait": "« Ma mère ouvrit la boîte à merveilles. Elle en retira une chaînette de cuivre, deux boutons d'os et les posa sur le lit devant moi. » (La Boîte à merveilles)",
+        "systeme": "Récit",
+        "justification": "Emploi de la 3ème personne ('Elle') et du passé simple de l'indicatif ('ouvrit', 'retira', 'posa') pour rapporter une suite d'actions passées."
+      },
+      {
+        "id": 3,
+        "extrait": "« Voilà cinq semaines que je vis avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids ! » (Le Dernier Jour d'un condamné, Ch. I)",
+        "systeme": "Discours",
+        "justification": "Ancrage direct dans le présent de l'énonciation ('Voilà', 'je vis') et forte charge affective exprimée à la 1ère personne."
+      },
+      {
+        "id": 4,
+        "extrait": "« Il était cinq heures. Les guichetiers le poussèrent dans le cachot. Le lourd battant de chêne se referma sur lui avec un bruit de tonnerre. » (Le Dernier Jour d'un condamné)",
+        "systeme": "Récit",
+        "justification": "Énoncé coupé du présent : 3ème personne ('le', 'lui'), imparfait de description ('était') et passé simple d'action ('poussèrent', 'se referma')."
+      }
+    ],
+    "exercice_redaction": {
+      "consigne_examen": "Lisez l'extrait suivant de 'Le Dernier Jour d'un condamné' (Chapitre II) : 'J'arrivai au palais de justice à huit heures du matin. Le grand énumérateur s'assit. Les jurés entrèrent. Je vis leurs visages pâles...' \nQuestions :\n1. Quel est le système d'énonciation dominant dans cet extrait (récit ou discours) ? Justifiez à l'aide de deux indices précis.\n2. Pourquoi l'auteur fait-il ce choix narratif dans ce chapitre ?",
+      "corrige_modele": {
+        "question_1": "Cet extrait relève du système du Récit. Justification : 1) Les temps verbaux dominants sont le passé simple ('arrivai', 's'assit', 'entrèrent', 'vis') ; 2) Les événements sont relatés comme une suite d'actions passées découpées chronologiquement.",
+        "question_2": "Victor Hugo choisit le récit dans ce chapitre car le condamné fait un retour en arrière (analepse) pour raconter le déroulement de son procès. Il prend la posture du conteur racontant une histoire passée avant de revenir au présent de sa cellule."
+      }
+    }
+  }
+}

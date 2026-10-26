@@ -1,0 +1,257 @@
+{
+  "titre": "Cours et Quiz : Les Registres de Langue / Tonalités Littéraires - 1ère BAC",
+  "fichiers_sources": [
+    "les-registres-de-langue.pdf",
+    "les-niveaux-de-langue.pdf"
+  ],
+  "oeuvres_supports": [
+    "La Boîte à merveilles d'Ahmed Sefrioui",
+    "Le Dernier Jour d'un condamné de Victor Hugo"
+  ],
+  "fiche_de_cours": {
+    "definition": "Le registre littéraire (ou tonalité) correspond à l'atmosphère, à l'émotion ou à l'impression particulière qu'un texte cherche à susciter chez le lecteur (pitié, rire, terreur, admiration, révolte). Il dépend des choix lexicaux, grammaticaux et stylistiques de l'auteur.",
+    "distinction_importante": "Ne pas confondre 'Niveau/Registre de langue' (familier, courant, soutenu) avec 'Registre littéraire/Tonalité' (pathétique, tragique, lyrique, comique, ironique, etc.).",
+    "registres_essentiels_bac": [
+      {
+        "nom": "Registre Pathétique",
+        "definition": "Cherche à émouvoir le lecteur, à lui faire ressentir de la pitié, de la compassion ou de la tristesse face aux souffrances d'un personnage.",
+        "procedes_cles": [
+          "Champ lexical de la douleur, des larmes, de la souffrance et de la misère",
+          "Figures d'amplification (hyperboles, gradations)",
+          "Phrases exclamatives et interrogatives (cris du cœur)",
+          "Champs lexicaux de l'abandon et de l'impuissance"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "Le Dernier Jour d'un condamné",
+            "extrait": "Ma pauvre fille ! encore un an, et tu ne te rappelleras plus... Ma petite Marie ! mon enfant ! elle ne sait pas ce que c'est qu'un père.",
+            "analyse": "La répétition affectueuse et les exclamations traduisent la douleur d'un père condamné à abandonner son enfant innocente."
+          },
+          {
+            "oeuvre": "La Boîte à merveilles",
+            "extrait": "Ma mère pleurait, poussait des gémissements étouffés... Mon père ne travaillait plus, nous étions plongés dans la misère la plus noire.",
+            "analyse": "L'évocation des pleurs de la mère et de la faillite soudaine suscite la compassion du lecteur."
+          }
+        ]
+      },
+      {
+        "nom": "Registre Tragique",
+        "definition": "Inspire la terreur et l'effroi face à une fatalité inéluctable (la mort, le destin) contre laquelle l'homme lutte en vain.",
+        "procedes_cles": [
+          "Champ lexical de la mort, du destin, de la tragédie et du sang",
+          "Phrases courtes, répétitions et interrogations sans réponse",
+          "Présence d'un couperet temporel / compte à rebours inéluctable"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "Le Dernier Jour d'un condamné",
+            "extrait": "Condamné à mort ! Voilà cinq semaines que je vis avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids !",
+            "analyse": "L'idée fixe de la mort est une fatalité personnifiée à laquelle le condamné ne peut échapper."
+          }
+        ]
+      },
+      {
+        "nom": "Registre Lyrique",
+        "definition": "Expression poétique et exaltée des sentiments personnels intimes (amour, nostalgie, regret, mélancolie, fuite du temps).",
+        "procedes_cles": [
+          "Utilisation massive de la 1ère personne ('je', 'mon', 'ma')",
+          "Champ lexical des émotions, du souvenir, de la nature et de la poésie",
+          "Anaphores, métaphores poétiques, rythme musical des phrases"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "La Boîte à merveilles",
+            "extrait": "Moi seul, j'étais seul au fond de mon petit lit... Ma solitude ne datait pas d'hier. J'avais le sentiment d'un vide immense.",
+            "analyse": "L'expression mélancolique de la solitude enfantine à la première personne."
+          },
+          {
+            "oeuvre": "Le Dernier Jour d'un condamné",
+            "extrait": "C'était par un beau soir d'été... Pepita et moi, nous étions sous la treille, seuls, éperdus, lisant un livre de vers.",
+            "analyse": "L'évocation nostalgique et romantique des souvenirs d'adolescence oubliés."
+          }
+        ]
+      },
+      {
+        "nom": "Registre Ironique",
+        "definition": "Consiste à dire le contraire de ce que l'on pense (antiphrase) pour se moquer, critiquer ou dénoncer avec distance.",
+        "procedes_cles": [
+          "Antiphrases et exagérations caricaturales",
+          "Contraste entre le ton employé et la réalité décrite",
+          "Sarcasme, guillemets ironiques"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "Le Dernier Jour d'un condamné",
+            "extrait": "Ces honnêtes jurés qui ont voté ma mort avec tant de sérénité et de zèle civique.",
+            "analyse": "L'adjectif 'honnêtes' et la 'sérénité' sont ironiques pour dénoncer l'indifférence cruelle des juges."
+          }
+        ]
+      },
+      {
+        "nom": "Registre Comique / Satirique",
+        "definition": "Cherche à faire rire ou sourire (comique) ou à tourner en dérision des ridicules sociaux et des institutions (satirique).",
+        "procedes_cles": [
+          "Comique de mots, de gestes, de répétition ou de situation",
+          "Caricatures, hyperboles amusantes, bavardages populaires"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "La Boîte à merveilles",
+            "extrait": "La dispute entre Rahma et Lalla Zoubida pour la lessive, avec des injures extravagantes échangées depuis les fenêtres.",
+            "analyse": "La scène de dispute burlesque suscite le rire à travers la surenchère d'insultes."
+          }
+        ]
+      },
+      {
+        "nom": "Registre Épique / Polémique",
+        "definition": "L'épique grandit les actions des personnages pour en faire des héros ; le polémique (du grec polemos = guerre) livre un combat d'idées véhément.",
+        "procedes_cles": [
+          "Champ lexical du combat, du débat, des accusations directes",
+          "Tournures interrogatives oratoires et apostrophes"
+        ],
+        "exemples_oeuvres": [
+          {
+            "oeuvre": "Le Dernier Jour d'un condamné (Préface)",
+            "extrait": "La peine de mort est le signe spécial et éternel de la barbarie. Abolissez la guillotine !",
+            "analyse": "Réquisitoire direct contre l'institution judiciaire et la peine capitale."
+          }
+        ]
+      }
+    ],
+    "methode_examen_regional": {
+      "question_type": "Quel est le registre (ou la tonalité) dominant dans cet extrait ? Justifiez votre réponse à partir de deux procédés.",
+      "reponse_type_modele": "Le registre dominant dans cet extrait est le registre [Nom du registre] (ex: pathétique). Justification : 1. La présence du champ lexical de [Thème, ex: la souffrance/la tristesse] avec les mots '...'. 2. L'utilisation de [Procédé stylistique, ex: la phrase exclamative / l'hyperbole] ('...')."
+    }
+  },
+  "banque_exercices": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Quelle est la définition exacte du 'registre pathétique' ?",
+        "options": [
+          "Un registre qui cherche à faire rire le lecteur par des caricatures.",
+          "Un registre qui vise à susciter la pitié, la compassion et la tristesse face à la souffrance.",
+          "Un registre qui raconte des batailles héroïques avec des hyperboles.",
+          "Un registre qui utilise l'ironie pour critiquer la société."
+        ],
+        "reponse_correcte": "Un registre qui vise à susciter la pitié, la compassion et la tristesse face à la souffrance.",
+        "explication": "Le mot pathétique vient du grec 'pathos' (passion, souffrance). Il vise à émouvoir le lecteur devant le malheur d'autrui."
+      },
+      {
+        "id": 2,
+        "question": "Dans 'Le Dernier Jour d'un condamné', quel registre domine lorsque le condamné évoque sa fille Marie de 3 ans qui ne le reconnaîtra plus ?",
+        "options": [
+          "Le registre comique",
+          "Le registre épique",
+          "Le registre pathétique",
+          "Le registre fantastique"
+        ],
+        "reponse_correcte": "Le registre pathétique",
+        "explication": "La séparation cruelle entre le père et son innocente petite fille qui l'oubliera suscite une profonde pitié chez le lecteur."
+      },
+      {
+        "id": 3,
+        "question": "Quel registre caractérise une phrase comme : 'Condamné à mort ! La mort est au bout de cette journée, elle m'attend inévitablement à quatre heures' ?",
+        "options": [
+          "Le registre tragique",
+          "Le registre comique",
+          "Le registre satirique",
+          "Le registre lyrique"
+        ],
+        "reponse_correcte": "Le registre tragique",
+        "explication": "Le sentiment d'une fatalité inéluctable (la mort fixée à une heure précise) est le propre du registre tragique."
+      },
+      {
+        "id": 4,
+        "question": "Lorsque le narrateur de 'La Boîte à merveilles' exprime avec poésie sa nostalgie et son sentiment de solitude enfantine à la 1ère personne, il s'agit du :",
+        "options": [
+          "Registre lyrique",
+          "Registre polémique",
+          "Registre fantastique",
+          "Registre épique"
+        ],
+        "reponse_correcte": "Registre lyrique",
+        "explication": "Le registre lyrique permet l'expression privilégiée des états d'âme, des sentiments intimes et de la nostalgie."
+      },
+      {
+        "id": 5,
+        "question": "Quelle est la différence fondamentale entre 'Niveau de langue' et 'Registre de langue (tonalité)' ?",
+        "options": [
+          "C'est la même chose.",
+          "Le niveau de langue concerne le degré de correction grammaticale (familier, courant, soutenu), tandis que le registre (tonalité) concerne l'émotion produite par le texte (pathétique, tragique, lyrique...).",
+          "Le niveau de langue ne s'utilise qu'au théâtre.",
+          "Le registre de langue ne concerne que la poésie."
+        ],
+        "reponse_correcte": "Le niveau de langue concerne le degré de correction grammaticale (familier, courant, soutenu), tandis que le registre (tonalité) concerne l'émotion produite par le texte (pathétique, tragique, lyrique...).",
+        "explication": "C'est une distinction classique et capitale pour les épreuves du Régional."
+      }
+    ],
+    "texte_a_trous": [
+      {
+        "id": 1,
+        "consigne": "Complétez le texte ci-dessous avec les termes corrects : pathétique, lyrique, tragique, ironique, antiphrase.",
+        "texte_a_completer": "Le registre [trou_1] exprime les sentiments intimes et la nostalgie du poète. Le registre [trou_2] vise à provoquer la pitié devant la souffrance d'un personnage. Le registre [trou_3] est marqué par la fatalité de la mort. Enfin, le registre [trou_4] utilise souvent l'[trou_5] pour dire le contraire de ce que l'on pense.",
+        "solutions": {
+          "trou_1": "lyrique",
+          "trou_2": "pathétique",
+          "trou_3": "tragique",
+          "trou_4": "ironique",
+          "trou_5": "antiphrase"
+        }
+      }
+    ],
+    "identification_extraits": [
+      {
+        "id": 1,
+        "extrait": "« Oh ! ma pauvre petite fille ! encore un an, et tu ne sauras plus ce que c'est qu'un père... Et moi, pendant ce temps-là, je serai mort, ma tête sera coupée ! »",
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "registre_attendu": "Pathétique",
+        "indices_a_relever": [
+          "Interjections d'émotion ('Oh !')",
+          "Punctuation exclamative",
+          "Champ lexical de la souffrance et de la séparation familiale ('pauvre petite fille', 'mort', 'tête coupée')"
+        ]
+      },
+      {
+        "id": 2,
+        "extrait": "« Rien n'était plus charmant que cette petite fille de quatorze ans. Nous étions là sous la treille, tranquilles, seuls... Je lisais des vers, elle regardait le ciel. »",
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "registre_attendu": "Lyrique",
+        "indices_a_relever": [
+          "Emploi de la 1ère personne ('nous', 'je')",
+          "Champ lexical du bonheur et de la poésie ('charmant', 'tranquilles', 'vers', 'ciel')",
+          "Nostalgie d'un souvenir d'amour perdu"
+        ]
+      },
+      {
+        "id": 3,
+        "extrait": "« Ces bons messieurs les juges ont trouvé que j'avais la tête trop lourde, alors ils vont me la couper par pure bonté ! »",
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "registre_attendu": "Ironique / Satirique",
+        "indices_a_relever": [
+          "Antiphrase ('bons messieurs', 'pure bonté')",
+          "Moquerie envers l'institution judiciaire"
+        ]
+      },
+      {
+        "id": 4,
+        "extrait": "« C'était une tempête de cris, d'injures, de malédictions. Ma mère et Rahma s'arrachaient les cheveux, se traitaient de gueuses et de sorcières sous les yeux effarés des voisines. »",
+        "oeuvre": "La Boîte à merveilles",
+        "registre_attendu": "Comique / Dramatique burlesque",
+        "indices_a_relever": [
+          "Enumération d'actes excessifs",
+          "Champ lexical du conflit populaire surjoué ('tempête de cris', 'gueuses', 'sorcières')"
+        ]
+      }
+    ],
+    "analyse_redigee_examen": {
+      "extrait_etude": "« Ma mère pleurait à chaudes larmes. Mon père avait perdu tout son pécule dans le souk. La maison était sombre, muette, écrasée sous le poids de la ruine. Je sentais mon cœur se serrer dans ma poitrine d'enfant. » (La Boîte à merveilles, Chapitre IX)",
+      "consigne": "Identifiez le registre dominant dans cet extrait et justifiez votre réponse à l'aide de deux procédés stylistique ou lexicaux.",
+      "modele_de_reponse": {
+        "registre": "Registre pathétique",
+        "justification_1": "Le champ lexical de la Tristesse et de la Misère ('pleurait à chaudes larmes', 'perdu tout son pécule', 'ruine', 'sombre').",
+        "justification_2": "La personnification de la maison ('écrasée sous le poids de la ruine') et la réaction physique d'impuissance de l'enfant ('mon cœur se serrer') qui accentuent la compassion du lecteur."
+      }
+    }
+  }
+}

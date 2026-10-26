@@ -1,0 +1,191 @@
+{
+  "module_langue": "Les Champs Lexicaux",
+  "niveau": "1ère Année Baccalauréat (Examen Régional - Maroc)",
+  "oeuvres_supports": [
+    "La Boîte à merveilles d'Ahmed Sefrioui",
+    "Le Dernier Jour d'un condamné de Victor Hugo"
+  ],
+  "fiche_de_cours": {
+    "titre": "Comprendre et Analyser les Champs Lexicaux",
+    "definition": "Un champ lexical est l'ensemble des mots (noms, verbes, adjectifs, adverbes) qui se rapportent à une même idée, une même réalité ou un même thème au sein d'un texte littéraire.",
+    "composants_du_champ_lexical": [
+      "Des mots de la même famille (ex: école, écolier, scolarité)",
+      "Des synonymes ou termes proches (ex: frayeur, terreur, crainte, angoisse)",
+      "Des mots appartenant au même domaine thématique (ex: prison, cachot, geôlier, grilles, chaînes)"
+    ],
+    "domaines_recurents_dans_les_oeuvres_au_programme": [
+      {
+        "domaine": "La Solitude et l'Abolition / Captivité (Le Dernier Jour d'un condamné)",
+        "termes_cles": [
+          "cachot",
+          "cellule",
+          "isolement",
+          "captif",
+          "foule",
+          "mur",
+          "abandon",
+          "seul"
+        ]
+      },
+      {
+        "domaine": "Le Merveilleux et le Magique (La Boîte à merveilles)",
+        "termes_cles": [
+          "talisman",
+          "féerie",
+          "fée",
+          "sorcier",
+          "chouafa",
+          "enchanter",
+          "invisible",
+          "magie"
+        ]
+      },
+      {
+        "domaine": "La Peur et la Mort (Les deux œuvres)",
+        "termes_cles": [
+          "supplice",
+          "guillotine",
+          "échafaud",
+          "cadavre",
+          "délire",
+          "cercueil",
+          "sanglots",
+          "agonie"
+        ]
+      },
+      {
+        "domaine": "La Religion et le Sacré (La Boîte à merveilles)",
+        "termes_cles": [
+          "Msid",
+          "Fqih",
+          "Coran",
+          "mausolée",
+          "zaouïa",
+          "prières",
+          "psaumes",
+          "pèlerinage"
+        ]
+      }
+    ],
+    "methode_d_analyse_pour_l_examen": "À l'Examen Régional, il ne suffit pas de relever des mots. Il faut préciser le rôle du champ lexical : exprimer un sentiment dominant (pathétique, angoisse), décrire un cadre spatio-temporel, ou révéler la vision du monde du narrateur."
+  },
+  "banque_de_quiz": [
+    {
+      "id": 1,
+      "type": "QCM",
+      "consigne": "Sélectionnez la définition exacte d'un champ lexical.",
+      "question": "Qu'est-ce qu'un champ lexical dans un texte littéraire ?",
+      "options": [
+        "Un ensemble de mots qui ont la même classe grammaticale.",
+        "Un ensemble de mots de natures différentes qui se rapportent à un même thème ou une même idée.",
+        "Une suite d'adjectifs qualificatifs décrivant un personnage.",
+        "Un groupe de verbes conjugués au même temps du récit."
+      ],
+      "reponse_correcte": "Un ensemble de mots de natures différentes qui se rapportent à un même thème ou une même idée.",
+      "explication": "Le champ lexical regroupe des noms, des verbes, des adjectifs ou des adverbes associés à un thème commun (ex: la peur, la religion, la prison)."
+    },
+    {
+      "id": 2,
+      "type": "QCM",
+      "consigne": "Identifiez le champ lexical dominant dans l'extrait ci-dessous.",
+      "extrait": "« La nuit, la maison tomba dans le silence, je me sentis triste. Je tirai de dessous mon lit ma Boîte à Merveilles... Je pouvais m'évader de ce monde de contraintes. »",
+      "source": "La Boîte à merveilles (Ahmed Sefrioui)",
+      "question": "Quel est le champ lexical dominant dans ce passage ?",
+      "options": [
+        "Le champ lexical de la guerre et du combat",
+        "Le champ lexical de la tristesse et de l'évasion/solitude",
+        "Le champ lexical de la fête et de la joie collective",
+        "Le champ lexical de la justice et du droit"
+      ],
+      "reponse_correcte": "Le champ lexical de la tristesse et de l'évasion/solitude",
+      "explication": "Les termes 'triste', 'seul', 's'évader', 'contraintes' et 'silence' traduisent la mélancolie du jeune narrateur et son refuge dans l'imaginaire."
+    },
+    {
+      "id": 3,
+      "type": "QCM",
+      "consigne": "Repérez l'intrus parmi les mots proposés.",
+      "question": "Lequel de ces mots N'APPARTIENT PAS au champ lexical de la captivité pénitentiaire ?",
+      "options": [
+        "Cachot",
+        "Geôlier",
+        "Mausolée",
+        "Fers"
+      ],
+      "reponse_correcte": "Mausolée",
+      "explication": "Un mausolée est un édifice funéraire/religieux (très présent dans La Boîte à merveilles), alors que cachot, geôlier et fers appartiennent au champ lexical de la prison (Le Dernier Jour d'un condamné)."
+    },
+    {
+      "id": 4,
+      "type": "Texte_a_trous",
+      "consigne": "Remplissez les trous dans les phrases suivantes à l'aide des termes du champ lexical approprié.",
+      "mots_disponibles": [
+        "guillotine",
+        "bourreau",
+        "condamné",
+        "échafaud"
+      ],
+      "exercice_texte": "Le [trou_1] attendait dans sa cellule l'heure fatale. Sur la Place de Grève, le [trou_2] dressait la [trou_3] mécanique. À quatre heures, le couteau devait tomber sur l'[trou_4].",
+      "reponses_correctes": {
+        "trou_1": "condamné",
+        "trou_2": "bourreau",
+        "trou_3": "guillotine",
+        "trou_4": "échafaud"
+      },
+      "explication": "Ces mots constituent le champ lexical de la peine capitale et du supplice dans Le Dernier Jour d'un condamné."
+    },
+    {
+      "id": 5,
+      "type": "Identification_dans_extrait",
+      "consigne": "Lisez l'extrait suivant et relevez QUATRE mots appartenant au champ lexical de la peur.",
+      "extrait": "« J'ai eu peur. J'ai vu passer le fqih, mon maître. Tu es blanc comme un linge. Il tremble comme une feuille... Je me cachai dans les plis du haïk. »",
+      "source": "La Boîte à merveilles (Chapitre X)",
+      "mots_a_relever_attendus": [
+        "peur",
+        "blanc comme un linge",
+        "tremble",
+        "effrayer"
+      ],
+      "champ_lexical_identifie": "La Peur / L'Effroi",
+      "effet_analyse": "Ce champ lexical montre la terreur instinctive que le Fqih inspire au jeune Sidi Mohammed, même en dehors du Msid."
+    },
+    {
+      "id": 6,
+      "type": "Identification_dans_extrait",
+      "consigne": "Relevez QUATRE mots ou expressions appartenant au champ lexical de la justice/procès dans l'extrait ci-dessous.",
+      "extrait": "« Les juges s'étaient prononcés... Le président du jury avait une voix calme. L'avocat plaidait, les jurés délibéraient et l'huissier apporta le verdict. »",
+      "source": "Le Dernier Jour d'un condamné",
+      "mots_a_relever_attendus": [
+        "juges",
+        "président du jury",
+        "avocat",
+        "jurés",
+        "verdict",
+        "huissier"
+      ],
+      "champ_lexical_identifie": "La Justice / L'Appareil judiciaire",
+      "effet_analyse": "Met en évidence la machine judiciaire froide et impersonnelle qui décide du sort du condamné."
+    },
+    {
+      "id": 7,
+      "type": "Ecriture_Analyse",
+      "consigne": "Répondez directement à la question de compréhension/analyse d'examen régional.",
+      "question": "Dans le Chapitre III de La Boîte à merveilles, lors du repas offert aux mendiants par Rahma, relevez deux mots du champ lexical de la cuisine et deux mots du champ lexical de la religion.",
+      "reponse_modele": "1. Champ lexical de la cuisine : marmites, couscoussiers, sauces, louche, éplucher.\n2. Champ lexical de la religion : psalmodie, Coran, sourate, croyants, prières, bénédictions.",
+      "explication": "Ce double champ lexical illustre le caractère à la fois festif, culinaire et pieux de la charité traditionnelle marocaine."
+    },
+    {
+      "id": 8,
+      "type": "QCM",
+      "consigne": "Quelle est la valeur ou l'effet recherché par l'accumulation du champ lexical de l'argot (« friauche », « marteaux », « torgnole », « sang ») dans Le Dernier Jour d'un condamné ?",
+      "question": "Quel est l'effet de l'utilisation du champ lexical de l'argot dans le roman de Victor Hugo ?",
+      "options": [
+        "Exprimer la noblesse et le langage poétique du héros.",
+        "Rendre le récit réaliste et montrer la laideur du monde carcéral tout en rejetant le crime.",
+        "Faire rire le lecteur par des plaisanteries enfantines.",
+        "Démontrer que le condamné est un homme très savant."
+      ],
+      "reponse_correcte": "Rendre le récit réaliste et montrer la laideur du monde carcéral tout en rejetant le crime.",
+      "explication": "Hugo utilise le champ lexical de l'argot (la 'langue de la prison') pour peindre avec un réalisme frappant la déchéance de la vie des bagnes et des prisons."
+    }
+  ]
+}

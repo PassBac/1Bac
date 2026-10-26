@@ -1,0 +1,317 @@
+{
+  "titre": "Cours et Quiz : Les Figures de Style (1ère BAC)",
+  "description": "Fiche de cours exhaustive et banque d'exercices d'entraînement sur les figures de style appliquées aux deux œuvres du programme : La Boîte à merveilles d'Ahmed Sefrioui et Le Dernier Jour d'un condamné de Victor Hugo.",
+  "matiere": "Français - 1ère Année Baccalauréat (Examen Régional)",
+  "cours": {
+    "objectifs": [
+      "Connaître les principales figures de style récurrentes à l'Examen Régional.",
+      "Savoir identifier la figure de style employée dans un extrait de texte.",
+      "Être capable d'expliquer l'effet produit ou la valeur expressive de la figure de style."
+    ],
+    "categories_figures": [
+      {
+        "categorie": "1. Figures d'analogie et de rapprochement",
+        "description": "Elles établissent des liens de ressemblance entre deux éléments.",
+        "figures": [
+          {
+            "nom": "La Comparaison",
+            "definition": "Rapprochement de deux éléments (comparé et comparant) au moyen d'un outil de comparaison (comme, tel que, pareil à, ressembler à...).",
+            "exemple_boite_a_merveilles": "« Ma mémoire était fraîche comme celle d'un enfant. »",
+            "exemple_dernier_jour_condamne": "« Mon idée est là, toujours présente, comme un spectre de plomb. »",
+            "effet_produit": "Rend la description plus imagée et concrète en s'appuyant sur un visuel ou un ressenti connu."
+          },
+          {
+            "nom": "La Métaphore",
+            "definition": "Rapprochement de deux éléments sans outil de comparaison direct.",
+            "exemple_boite_a_merveilles": "« Ma solitude n'est pas d'aujourd'hui. C'est un vieux palais en ruine. »",
+            "exemple_dernier_jour_condamne": "« Cette pensée est une araignée qui tisse sa toile dans mon cerveau. »",
+            "effet_produit": "Crée une image poétique forte, transforme le sens usuel et exprime une vision subjective intense."
+          },
+          {
+            "nom": "La Personnification",
+            "definition": "Attribution de caractéristiques, de sentiments ou de comportements humains à un objet, un animal ou une idée abstraite.",
+            "exemple_boite_a_merveilles": "« Mes clous et mes boutons me parlaient leur langage poétique. »",
+            "exemple_dernier_jour_condamne": "« La guillotine est une machine monstrueuse qui a soif de sang. »",
+            "effet_produit": "Rend le monde inanimé vivant, dramatique ou poétique."
+          },
+          {
+            "nom": "L'Allégorie",
+            "definition": "Représentation concrète et imagée d'une idée abstraite (souvent par un personnage ou une scène).",
+            "exemple_boite_a_merveilles": "La Boîte à Merveilles personnifiant le monde merveilleux de l'enfance contre le monde adulte.",
+            "exemple_dernier_jour_condamne": "Le Bagne ou la Prison représentés comme des monstres dévorants absorbant la jeunesse des hommes.",
+            "effet_produit": "Rend une idée abstraite (la Mort, la Captivité, la Solitude) saisissante et compréhensible."
+          }
+        ]
+      },
+      {
+        "categorie": "2. Figures d'exagération et d'atténuation",
+        "description": "Elles modifient l'intensité d'une idée ou d'une réalité.",
+        "figures": [
+          {
+            "nom": "L'Hyperbole",
+            "definition": "Exagération forte des termes pour impressionner ou insister.",
+            "exemple_boite_a_merveilles": "« Ma mère versait des torrents de larmes. »",
+            "exemple_dernier_jour_condamne": "« Il y avait un million de regards fixés sur moi sur la Place de Grève. »",
+            "effet_produit": "Met en valeur la force d'une émotion, d'une douleur ou d'un spectacle dramatique."
+          },
+          {
+            "nom": "L'Euphémisme",
+            "definition": "Adoucissement d'une réalité douloureuse, effrayante ou brute par l'emploi d'un mot plus doux.",
+            "exemple_boite_a_merveilles": "« Il a quitté ce monde » (pour dire qu'il est mort).",
+            "exemple_dernier_jour_condamne": "« L'exécuteur va faire sa besogne » (pour désigner l'action de couper la tête).",
+            "effet_produit": "Atténue le choc ou la brutalité d'un événement (la mort, l'exécution)."
+          },
+          {
+            "nom": "La Litote",
+            "definition": "Atténuation de l'expression (souvent par une tournure négative) pour suggérer beaucoup plus que ce qui est dit.",
+            "exemple_boite_a_merveilles": "« Ce n'est pas un mauvais enfant » (pour dire qu'il est très sage/gentil).",
+            "exemple_dernier_jour_condamne": "« Je ne suis pas fâché de vous revoir » (pour dire qu'il est très soulagé de revoir quelqu'un).",
+            "effet_produit": "Renforce l'impression par la retenue et la fausse modestie du propos."
+          }
+        ]
+      },
+      {
+        "categorie": "3. Figures d'opposition",
+        "description": "Elles mettent en contraste des éléments contraires.",
+        "figures": [
+          {
+            "nom": "L'Antithèse",
+            "definition": "Rapprochement dans une même phrase ou un même passage de deux termes ou idées de sens opposé.",
+            "exemple_boite_a_merveilles": "« J'étais à la fois très heureux et très triste. »",
+            "exemple_dernier_jour_condamne": "« Autrefois j'étais libre et riche ; aujourd'hui je suis captif et nu. »",
+            "effet_produit": "Met en relief un conflit intérieur, un changement dramatique de situation ou une dualité."
+          },
+          {
+            "nom": "L'Oxymore",
+            "definition": "Alliance surprenante de deux mots contradictoires juxtaposés (côte à côte) dans le même groupe syntaxique.",
+            "exemple_boite_a_merveilles": "« Une obscure clarté », « Un silence sonore » / « Une nuit lumineuse ».",
+            "exemple_dernier_jour_condamne": "« Une horrible gaieté », « Un affreux sourire » (à propos des forçats ou du bourreau).",
+            "effet_produit": "Crée un effet de surprise tragique ou poétique en associant deux réalités incompatibles."
+          },
+          {
+            "nom": "L'Antiphrase (Ironie)",
+            "definition": "Dire le contraire de ce que l'on pense, tout en faisant comprendre sa véritable pensée.",
+            "exemple_boite_a_merveilles": "« C'est du propre ! » ou « Quel charmant voisin ! » (en parlant d'un homme désagréable).",
+            "exemple_dernier_jour_condamne": "« Ces braves gens de jurés qui ont décidé de me couper le cou avec tant de politesse. »",
+            "effet_produit": "Dénonce, critique ou se moque de manière piquante et ironique."
+          }
+        ]
+      },
+      {
+        "categorie": "4. Figures d'insistance et de construction",
+        "description": "Elles jouent sur la répétition, l'ordre des mots ou la structure de la phrase.",
+        "figures": [
+          {
+            "nom": "L'Anaphore",
+            "definition": "Répétition d'un même mot ou groupe de mots en début de phrases, de vers ou de propositions successives.",
+            "exemple_boite_a_merveilles": "« Toujours la même obscurité, toujours les mêmes murs, toujours le même silence. »",
+            "exemple_dernier_jour_condamne": "« Condamné à mort ! Voilà cinq semaines que je vis avec cette pensée, toujours seul avec elle, toujours glacé de sa présence... »",
+            "effet_produit": "Rythme la phrase, crée une insistance obsessionnelle ou une émotion progressive."
+          },
+          {
+            "nom": "L'Énumération / L'Accumulation",
+            "definition": "Juxtaposition de plusieurs mots de même nature ou fonction pour détailler un tout.",
+            "exemple_boite_a_merveilles": "« Dans ma boîte se trouvaient des clous, des boutons, des boules de verre, des chaînettes de cuivre... »",
+            "exemple_dernier_jour_condamne": "« Des chaînes, des verrous, des grilles, des cachots, des soldats... voilà mon univers. »",
+            "effet_produit": "Donne une impression d'abondance, de désordre, de richesse ou d'enfermement oppressant."
+          },
+          {
+            "nom": "La Gradation",
+            "definition": "Succession de termes ordonnés selon une progression croissante (ascendante) ou décroissante (descendante).",
+            "exemple_boite_a_merveilles": "« Un cri, un hurlement, un rugissement terrifiant secoua la maison. » (Gradation ascendante)",
+            "exemple_dernier_jour_condamne": "« Je suis inquiet, effrayé, terrifié, anéanti. »",
+            "effet_produit": "Dramatise l'action et montre la montée en puissance d'une émotion ou d'un danger."
+          }
+        ]
+      }
+    ],
+    "methodologie_examen": {
+      "titre": "Comment réussir la question sur les figures de style à l'Examen Régional ?",
+      "etapes": [
+        "1. Identifier précisément le nom de la figure de style (ex: Métaphore, Hyperbole, Antithèse). Ne pas inventer de nom.",
+        "2. Relever les mots du texte qui justifient la figure de style (ex: 'araignée qui tisse sa toile').",
+        "3. Expliquer l'effet produit dans le contexte : Pourquoi l'auteur a-t-il utilisé cette figure ? Qu'est-ce qu'elle exprime ? (l'angoisse, la tristesse, l'ironie, le merveilleux, etc.).",
+        "Exemple de rédaction type : 'Il s'agit d'une métaphore (« cette pensée est une araignée »). L'auteur compare l'idée fixe de la mort à une araignée sans outil de comparaison afin d'exprimer le piège mental et l'angoisse étouffante du condamné.'"
+      ]
+    }
+  },
+  "quiz_et_exercices": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Quelle figure de style utilise un outil de comparaison (comme, tel que, semblable à) ?",
+        "options": [
+          "A. La métaphore",
+          "B. La comparaison",
+          "C. L'oxymore",
+          "D. La personnification"
+        ],
+        "reponse_correcte": "B. La comparaison",
+        "explication": "La comparaison rapproche un comparé et un comparant au moyen d'un outil grammatical explicite (comme, pareil à, tel que...)."
+      },
+      {
+        "id": 2,
+        "question": "Dans l'expression « Ma solitude est un vieux palais en ruine », quelle est la figure de style ?",
+        "options": [
+          "A. Une comparaison",
+          "B. Une métaphore",
+          "C. Une hyperbole",
+          "D. Une antiphrase"
+        ],
+        "reponse_correcte": "B. Une métaphore",
+        "explication": "Il y a un rapprochement direct entre 'ma solitude' et 'un vieux palais en ruine' sans outil de comparaison, c'est donc une métaphore."
+      },
+      {
+        "id": 3,
+        "question": "Quelle figure de style consiste à attribuer des sentiments humains à un objet inanimé ?",
+        "options": [
+          "A. L'hyperbole",
+          "B. La personnification",
+          "C. La litote",
+          "D. L'anaphore"
+        ],
+        "reponse_correcte": "B. La personnification",
+        "explication": "La personnification donne des caractéristiques, comportements ou émotions humaines à un être inanimé ou abstrait."
+      },
+      {
+        "id": 4,
+        "question": "Dans Le Dernier Jour d'un condamné, l'expression « Une horrible gaieté » associe deux mots de sens opposé côte à côte. C'est :",
+        "options": [
+          "A. Une antithèse",
+          "B. Un oxymore",
+          "C. Une anaphore",
+          "D. Une gradation"
+        ],
+        "reponse_correcte": "B. Un oxymore",
+        "explication": "Deux mots contradictoires juxtaposés dans le même groupe de mots ('horrible' et 'gaieté') forment un oxymore."
+      },
+      {
+        "id": 5,
+        "question": "« Verser des torrents de larmes » est un exemple de :",
+        "options": [
+          "A. Litote",
+          "B. Euphémisme",
+          "C. Hyperbole",
+          "D. Antiphrase"
+        ],
+        "reponse_correcte": "C. Hyperbole",
+        "explication": "L'exagération 'torrents de larmes' amplifie l'intensité du chagrin, c'est une hyperbole."
+      },
+      {
+        "id": 6,
+        "question": "Répéter un même mot au début de plusieurs phrases successives s'appelle :",
+        "options": [
+          "A. Une anaphore",
+          "B. Une accumulation",
+          "C. Une métaphore",
+          "D. Une gradation"
+        ],
+        "reponse_correcte": "A. Une anaphore",
+        "explication": "L'anaphore est la répétition d'un terme en tête de phrase ou de proposition."
+      }
+    ],
+    "texte_a_trous": [
+      {
+        "enonce": "Complétez le texte avec les figures de style qui conviennent : [métaphore, comparaison, hyperbole, oxymore, personnification].",
+        "phrases": [
+          "1. Rapprocher deux éléments avec le mot 'comme' constitue une __________.",
+          "2. Dire que la guillotine a 'soif de sang' est une __________.",
+          "3. Dire d'une personne très triste qu'elle verse des 'torrents de larmes' est une __________.",
+          "4. Associer deux mots opposés comme 'une sombre clarté' forme un __________.",
+          "5. Déclarer 'cette pensée est un spectre' sans mot de comparaison est une __________."
+        ],
+        "reponses_correctes": [
+          "1. comparaison",
+          "2. personnification",
+          "3. hyperbole",
+          "4. oxymore",
+          "5. métaphore"
+        ]
+      }
+    ],
+    "identification_extraits": [
+      {
+        "id": 1,
+        "oeuvre": "La Boîte à merveilles",
+        "extrait": "« Mes clous, mes boutons de cuivre, mes boules de verre me parlaient, réconfortaient ma solitude. »",
+        "figure_identifiee": "Personnification",
+        "categorie": "Analogie",
+        "explication_et_effet": "Les objets inanimés de la boîte sont dotés de la parole humaine. Cela montre la puissance de l'imagination poétique de l'enfant qui transforme ses bibelots en amis consolateurs."
+      },
+      {
+        "id": 2,
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "extrait": "« Toujours seul avec cette pensée, toujours glacé de sa présence, toujours courbé sous son poids ! »",
+        "figure_identifiee": "Anaphore (répétition de 'toujours')",
+        "categorie": "Insistance / Rythme",
+        "explication_et_effet": "La répétition du mot 'toujours' en début de proposition exprime le caractère obsessionnel, inévitable et étouffant de l'idée fixe de la mort."
+      },
+      {
+        "id": 3,
+        "oeuvre": "La Boîte à merveilles",
+        "extrait": "« Ma mère pleurait à chaudes larmes, elle poussait des gémissements à fendre les pierres. »",
+        "figure_identifiee": "Hyperbole",
+        "categorie": "Exagération",
+        "explication_et_effet": "L'expression 'à fendre les pierres' exagère la force des pleurs pour souligner le désespoir profond et spectaculaire de Lalla Zoubida."
+      },
+      {
+        "id": 4,
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "extrait": "« Autrefois, j'étais un homme comme un autre... Aujourd'hui, je suis un condamné à mort. »",
+        "figure_identifiee": "Antithèse",
+        "categorie": "Opposition",
+        "explication_et_effet": "Oppose le passé heureux et libre ('autrefois') au présent tragique d'enfermement ('aujourd'hui') pour marquer la rupture fatale dans la vie du narrateur."
+      },
+      {
+        "id": 5,
+        "oeuvre": "La Boîte à merveilles",
+        "extrait": "« La nuit était noire comme de l'encre. »",
+        "figure_identifiee": "Comparaison",
+        "categorie": "Analogie",
+        "explication_et_effet": "Rapproche 'la nuit' et 'l'encre' avec l'outil de comparaison 'comme' pour accentuer l'obscurité totale qui effrayait l'enfant."
+      },
+      {
+        "id": 6,
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "extrait": "« Cette horrible machine qui coupe une tête et laisse un corps... »",
+        "figure_identifiee": "Périphrase (pour désigner la guillotine)",
+        "categorie": "Substitution",
+        "explication_et_effet": "Remplace le nom propre de l'instrument par une description imagée pour exprimer le dégoût et la terreur du condamné face à la mécanique judiciaire."
+      },
+      {
+        "id": 7,
+        "oeuvre": "La Boîte à merveilles",
+        "extrait": "« Les femmes riaient, criaient, s'injuriaient, se réconciliaient. »",
+        "figure_identifiee": "Énumération / Accumulation de verbes",
+        "categorie": "Construction",
+        "explication_et_effet": "Juxtapose plusieurs actions successives pour rendre compte du désordre, du dynamisme et de la vie bruyante de Dar Chouafa."
+      },
+      {
+        "id": 8,
+        "oeuvre": "Le Dernier Jour d'un condamné",
+        "extrait": "« Je mourrai dans trois heures, dans deux heures, dans une heure. »",
+        "figure_identifiee": "Gradation descendante",
+        "categorie": "Insistance / Tension dramatique",
+        "explication_et_effet": "La réduction progressive du temps insiste sur le compte à rebours inéluctable vers la mort et intensifie le suspense tragique."
+      }
+    ],
+    "exercice_redaction_examen": {
+      "consigne": "Lisez l'extrait suivant et répondez aux questions de compréhension et de langue selon le barème de l'Examen Régional.",
+      "extrait": "« Cette pensée est toujours là, seule et jalouse, chassant toute distraction, me secouant de ses deux mains de glace quand je veux tourner la tête... Elle s'est glissée sous toutes les formes où mon esprit voudrait la fuir, se mêle comme un refrain horrible à toutes les paroles qu'on m'adresse, se colle avec moi aux grilles hideuses de mon cachot. » (Victor Hugo, Le Dernier Jour d'un condamné, Chapitre I)",
+      "questions": [
+        {
+          "num": 1,
+          "question_examen": "Identifiez la figure de style contenue dans l'expression : « me secouant de ses deux mains de glace ». Justifiez votre réponse.",
+          "bareme": "1 point",
+          "corrige_modele": "Il s'agit d'une personnification (ou métaphore personnifiante). L'idée fixe de la mort est représentée comme un être humain doté de 'mains de glace' qui secouent physiquement le condamné."
+        },
+        {
+          "num": 2,
+          "question_examen": "Quel est l'effet recherché par l'auteur à travers l'emploi de cette figure de style ?",
+          "bareme": "1 point",
+          "corrige_modele": "L'auteur cherche à montrer que la pensée de la mort n'est pas seulement une idée abstraite, mais une présence physique obsédante, violente et paralysante qui étouffe le condamné."
+        }
+      ]
+    }
+  }
+}

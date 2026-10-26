@@ -15,7 +15,9 @@ import { HomeView } from './components/home/HomeView';
 import { NovelView } from './components/novel/NovelView';
 import { LexiqueGlobalPage } from './components/lexicon/LexiqueGlobalPage';
 import { AboutPage } from './components/about/AboutPage';
+import { LessonsView } from './components/features/LessonsView';
 import { getNovelStudyData } from './data/novelStudyData';
+import { LESSONS } from './data/lessons';
 
 const getInitialDarkMode = (): boolean => {
   if (typeof window === 'undefined') return false;
@@ -34,6 +36,7 @@ const getInitialDarkMode = (): boolean => {
 export default function App() {
   const [currentView, setCurrentView] = useState<string>('home');
   const [selectedNovelId, setSelectedNovelId] = useState<NovelId>('boite-a-merveilles');
+  const [selectedLessonId, setSelectedLessonId] = useState(LESSONS[0].id);
   const [progress, setProgress] = useState<UserStudyProgress>(getStoredStudyProgress());
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
@@ -68,6 +71,14 @@ export default function App() {
         const novelId = hash.replace('novel/', '') as NovelId;
         setSelectedNovelId(novelId);
         setCurrentView('novel');
+      } else if (hash === 'lessons' || hash.startsWith('lessons/')) {
+        const lessonId = hash.split('/')[1];
+        setSelectedLessonId(
+          LESSONS.some((lesson) => lesson.id === lessonId)
+            ? lessonId
+            : LESSONS[0].id
+        );
+        setCurrentView('lessons');
       } else if (hash === 'lexicon' || hash === 'about') {
         setCurrentView(hash);
       }
@@ -92,8 +103,16 @@ export default function App() {
       window.location.hash = `novel/${id}`;
       setCurrentView('novel');
     } else {
+      if (view.startsWith('lessons/')) {
+        const lessonId = view.split('/')[1];
+        if (LESSONS.some((lesson) => lesson.id === lessonId)) {
+          setSelectedLessonId(lessonId);
+        }
+        setCurrentView('lessons');
+      } else {
+        setCurrentView(view);
+      }
       window.location.hash = view === 'home' ? '' : view;
-      setCurrentView(view);
     }
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -186,6 +205,14 @@ export default function App() {
             onToggleFlashcardMastery={handleToggleFlashcardMastery}
             onToggleChapter={handleToggleChapter}
             onScoreRecorded={handleScoreRecorded}
+            onBackToHome={() => handleNavigate('home')}
+          />
+        )}
+
+        {currentView === 'lessons' && (
+          <LessonsView
+            selectedLessonId={selectedLessonId}
+            onSelectLesson={(lessonId) => handleNavigate(`lessons/${lessonId}`)}
             onBackToHome={() => handleNavigate('home')}
           />
         )}

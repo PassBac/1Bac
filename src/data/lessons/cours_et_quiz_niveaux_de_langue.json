@@ -1,0 +1,188 @@
+{
+  "titre": "Cours et Quiz : Les Niveaux de Langue (1ère BAC)",
+  "description": "Fiche de cours complète et banque d'exercices interactifs sur les niveaux de langue (familier, courant, soutenu, argot) appliqués à La Boîte à merveilles d'Ahmed Sefrioui et Le Dernier Jour d'un condamné de Victor Hugo.",
+  "cours": {
+    "definition": "Le niveau de langue (ou registre de langue) désigne le degré de correction, la richesse du vocabulaire et la complexité de la syntaxe utilisés par un locuteur. Il varie selon la situation de communication, le milieu social, l'interlocuteur et l'intention du locuteur.",
+    "typologie": [
+      {
+        "niveau": "Niveau Soutenu (Recherché / Littéraire)",
+        "caracteristiques": "Vocabulaire riche, précis et poétique ; syntaxe complexe et soignée ; emploi de temps littéraires (passé simple, subjonctif imparfait) ; absence totale de familiarités.",
+        "indices": "Inversion du sujet, figures de style élaborées, constructions passives, termes abstraits ou noblement choisis.",
+        "exemple_bm": "'Quand le sommeil refuse d'abriter mes paupières, je me remémore mon enfance avec une nostalgie poignante...'",
+        "exemple_djc": "'Une pensée unique, une pensée infernale est scellée à mon esprit comme un crampon de fer...'"
+      },
+      {
+        "niveau": "Niveau Courant (Standard / Neutre)",
+        "caracteristiques": "Vocabulaire usuel et compréhensible par tous ; respect strict des règles de la grammaire ; syntaxe simple et claire.",
+        "indices": "Ordre sujet-verbe-complément (S-V-C), temps usuels du récit et du discours, phrases déclaratives ordinaires.",
+        "exemple_bm": "'Ma mère acheta du henné, du clou de girofle et des poudres odorantes pour la fête de l'Achoura.'",
+        "exemple_djc": "'Le geôlier m'a apporté à manger. J'ai goûté au bouillon, mais je n'avais pas d'appétit.'"
+      },
+      {
+        "niveau": "Niveau Familier (Relâché / Oral)",
+        "caracteristiques": "Vocabulaire populaire ou quotidien relâché ; hésitations et abréviations ; non-respect de certaines règles grammaticales (ex: omission du 'ne' de négation, suppression du 'e' muet).",
+        "indices": "Emploi de 'on' pour 'nous', interrogations directes par intonation sans inversion, mots expressifs ou vulgaires.",
+        "exemple_bm": "Dispute des voisines (Rahma et Lalla Zoubida) : 'Regardez cette pouilleuse qui se donne des airs de grande dame !'",
+        "exemple_djc": "Remarques des guichetiers ou des prisonniers dans la cour : 'C'est un drôle d'oiseau qui ne parle pas beaucoup !'"
+      },
+      {
+        "niveau": "L'Argot (Langage spécialisé de la prison et du bagne)",
+        "caracteristiques": "Jargon propre au milieu carcéral et criminel, étudié spécifiquement par Victor Hugo dans Le Dernier Jour d'un condamné. Il sert de code secret, de défense et d'expression de la misère.",
+        "indices": "Mots secrets ou métaphoriques du crime : 'la taule' (la prison), 'le friauche' (le condamné), 'la chourine' (le couteau/le meurtre), 'la veuve' (la guillotine), 'les marrons' (les coups).",
+        "exemple_djc": "Chanson en argot (Ch. XV) et récit du Friauche (Ch. XXIII) : 'J'ai fait la chourine pour avoir du laffaro...'"
+      }
+    ],
+    "tableau_comparatif": [
+      {
+        "concept": "Nourriture",
+        "soutenu": "Mets délicats / Pitance",
+        "courant": "Nourriture / Repas",
+        "familier": "Bouffe / Mangeaille",
+        "argot": "La graille / Le rab"
+      },
+      {
+        "concept": "Peur",
+        "soutenu": "Frayeur / Épouvante",
+        "courant": "Peur / Crainte",
+        "familier": "Frousse / Trouille",
+        "argot": "La froussardise"
+      },
+      {
+        "concept": "Argent",
+        "soutenu": "Fortune / Deniers",
+        "courant": "Argent / Monnaie",
+        "familier": "Sous / Fric",
+        "argot": "Le laffaro / Le gris"
+      },
+      {
+        "concept": "Tuer / Mourir",
+        "soutenu": "Trépasser / Exécuter",
+        "courant": "Tuer / Mourir",
+        "familier": "Crever / Dégommer",
+        "argot": "Chouriner / Faucher"
+      }
+    ],
+    "methodologie_examen": {
+      "etape_1": "Identifier les indices lexicaux (vocabulaire précieux, neutre, populaire ou argotique).",
+      "etape_2": "Observer la syntaxe et la grammaire (inversion du sujet = soutenu ; omission du 'ne' de négation = familier).",
+      "etape_3": "Rédiger la justification : Nommer le niveau de langue, relever le terme ou la tournure exacte entre guillemets, et expliquer l'effet recherché par l'auteur (ex: le réalisme des dialogues chez Sefrioui, la dénonciation de la misère sociale par l'argot chez Hugo)."
+    }
+  },
+  "quiz": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Quel niveau de langue est caractérisé par l'inversion du sujet, un vocabulaire poétique et la présence du passé simple ?",
+        "options": [
+          "A) Le niveau familier",
+          "B) Le niveau soutenu",
+          "C) Le niveau courant",
+          "D) Le niveau argotique"
+        ],
+        "reponse_correcte": "B) Le niveau soutenu",
+        "explication": "Le niveau soutenu utilise une syntaxe élaborée (inversion du sujet, phrases complexes) et un lexique châtié."
+      },
+      {
+        "id": 2,
+        "question": "Dans 'La Boîte à merveilles', quel niveau de langue domine dans la narration faite par le narrateur adulte ?",
+        "options": [
+          "A) Le niveau soutenu",
+          "B) Le niveau familier",
+          "C) L'argot",
+          "D) Le niveau vulgaire"
+        ],
+        "reponse_correcte": "A) Le niveau soutenu",
+        "explication": "Le narrateur adulte s'exprime dans un français très élégant, poétique et recherché pour évoquer sa mémoire."
+      },
+      {
+        "id": 3,
+        "question": "Quel terme définit le langage secret et populaire utilisé par les prisonniers dans 'Le Dernier Jour d'un condamné' ?",
+        "options": [
+          "A) Le langage littéraire",
+          "B) L'argot",
+          "C) Le style épique",
+          "D) Le niveau châtié"
+        ],
+        "reponse_correcte": "B) L'argot",
+        "explication": "L'argot est la langue propre aux criminels et forçats, analysée par Victor Hugo dans le chapitre V et la préface de 1832."
+      },
+      {
+        "id": 4,
+        "question": "Quelle phrase est au niveau familier ?",
+        "options": [
+          "A) 'Je ne saurais exprimer la douleur qui m'accable.'",
+          "B) 'Le prisonnier marchait dans le couloir sombre.'",
+          "C) 'J'ai pas envie de me faire pincer par les gardes !'",
+          "D) 'Qu'on apporte immédiatement ce dossier au tribunal.'"
+        ],
+        "reponse_correcte": "C) 'J'ai pas envie de me faire pincer par les gardes !'",
+        "explication": "L'absence du 'ne' de négation ('J'ai pas') et le mot 'pincer' (pour arrêter) relèvent du niveau familier."
+      },
+      {
+        "id": 5,
+        "question": "Dans la dispute entre Lalla Zoubida et Rahma (Chapitre I de BM), pourquoi l'auteur emploie-t-il des termes familiers ?",
+        "options": [
+          "A) Pour montrer l'élégance des deux femmes",
+          "B) Pour traduire la violence verbale et assurer le réalisme de la scène de ménage",
+          "C) Parce que le narrateur ne connaît pas d'autres mots",
+          "D) Pour faire rire le juge"
+        ],
+        "reponse_correcte": "B) Pour traduire la violence verbale et assurer le réalisme de la scène de ménage",
+        "explication": "Le niveau familier dans les dialogues reflète la spontanéité, la colère et le cadre populaire des femmes du peuple à Fès."
+      },
+      {
+        "id": 6,
+        "question": "Que signifie le mot argotique 'la chourine' dans le récit du Friauche (Chapitre XXIII de DJC) ?",
+        "options": [
+          "A) La fuite",
+          "B) Le couteau / le meurtre au couteau",
+          "C) La nourriture",
+          "D) La cellule de prison"
+        ],
+        "reponse_correcte": "B) Le couteau / le meurtre au couteau",
+        "explication": "Dans l'argot des forçats du XIXe siècle, 'la chourine' désigne le couteau et 'chouriner' signifie poignarder."
+      }
+    ],
+    "texte_a_trous": {
+      "consigne": "Complétez le texte ci-dessous avec les mots suivants : soutenu, argot, familier, courant, déictiques, réalisme.",
+      "texte": "Dans une œuvre littéraire, les variations de langue permettent d'adapter le discours à la situation. Le niveau ___________ s'emploie dans la conversation quotidienne correcte. Le niveau ___________ se distingue par sa richesse lexicale et sa syntaxe complexe. Lors des disputes populaires, les personnages utilisent souvent le niveau ___________ pour manifester leur colère. Enfin, Victor Hugo introduit l'___________ des forçats dans son roman afin d'accentuer le ___________ social de l'univers carcéral.",
+      "reponses": [
+        "courant",
+        "soutenu",
+        "familier",
+        "argot",
+        "réalisme"
+      ]
+    },
+    "identification_extraits": [
+      {
+        "id": 1,
+        "extrait": "« Ma solitude ne date pas d'hier. Je me souviens de ma petite enfance comme d'une terre de légende... » (La Boîte à merveilles)",
+        "niveau_identifie": "Niveau Soutenu",
+        "justification": "Utilisation d'un vocabulaire poétique et élégant ('terre de légende') et d'une structure syntaxique soignée."
+      },
+      {
+        "id": 2,
+        "extrait": "« C'est une chenille qui a salé son morceau d'homme ! » (Le Dernier Jour d'un condamné - Discours de la foule/argot)",
+        "niveau_identifie": "Argot / Niveau Familier populaire",
+        "justification": "Emploi d'expressions métaphoriques populaires du jargon carcéral et de la rue."
+      },
+      {
+        "id": 3,
+        "extrait": "« Nous sommes allés au Souk des bijoutiers. Mon père voulait acheter des bracelets à ma mère. » (La Boîte à merveilles)",
+        "niveau_identifie": "Niveau Courant",
+        "justification": "Syntaxe déclarative simple (S-V-C), vocabulaire usuel et respect parfait de la grammaire."
+      },
+      {
+        "id": 4,
+        "extrait": "« Regarde-moi cette gueuse ! Elle vient laver son linge un lundi pour me faire de la peine ! » (La Boîte à merveilles)",
+        "niveau_identifie": "Niveau Familier",
+        "justification": "Présence d'insultes populaires ('gueuse') et tournures orales agressives dans le dialogue."
+      }
+    ],
+    "exercice_redaction": {
+      "consigne_examen": "Lisez le passage suivant et répondez aux questions : 'J'ai été élevé à Bicêtre. J'ai appris à lire dans le grand livre du bagne. J'ai chouriné pour avoir du laffaro.' (Le Dernier Jour d'un condamné, Ch. XXIII)\na) Quel est le niveau de langue des termes soulignés ('chouriné', 'laffaro') ?\nb) Quelle est la valeur de l'emploi de ce registre dans le roman ?",
+      "corrigé_modele": "a) Les termes 'chouriné' (poignardé) et 'laffaro' (argent) appartiennent au niveau de langue argotique (l'argot des forçats et des criminels).\nb) L'emploi de l'argot par Victor Hugo a une double valeur : d'une part, il renforce le réalisme de la peinture du milieu carcéral ; d'autre part, il montre comment la misère et l'absence d'éducation poussent les hommes vers le crime et créent une langue de la déchéance."
+    }
+  }
+}

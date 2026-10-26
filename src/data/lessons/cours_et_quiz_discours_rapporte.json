@@ -1,0 +1,255 @@
+{
+  "module": "Langue et Communication - Examen Régional (1ère BAC)",
+  "titre_cours": "Le Discours Rapporté (Direct, Indirect, Indirect Libre)",
+  "description": "Fiche de cours structurée et banque d'exercices d'entraînement (QCM, texte à trous, transformations et questions types examen) sur les trois modes de discours rapporté appliqués à La Boîte à merveilles et Le Dernier Jour d'un condamné.",
+  "cours": {
+    "introduction": "Le discours rapporté désigne l'ensemble des procédés linguistiques permettant d'intégrer les paroles ou les pensées d'un locuteur dans un récit.",
+    "les_trois_formes": [
+      {
+        "type": "Discours Direct (DD)",
+        "definition": "Les paroles sont rapportées exactement telles qu'elles ont été prononcées, sans modification.",
+        "marques_typographiques_et_grammaticales": [
+          "Guillemets, tirets, deux-points.",
+          "Présence d'un verbe introducteur de parole (dire, répliquer, s'écrier, chuchoter...).",
+          "Conservation des marques d'énonciation (1ère et 2ème personnes, déictiques temporels 'aujourd'hui', 'demain', etc.).",
+          "Maintien de l'expressivité (phrases interrogatives, exclamatives, interjections)."
+        ],
+        "exemple_boite_a_merveilles": "Ma mère me dit : « Tu as le visage pâle, mon fils. »",
+        "effet_produit": "Crée un effet de réel, donne de la vie et de la théâtralité au récit."
+      },
+      {
+        "type": "Discours Indirect (DI)",
+        "definition": "Les paroles sont intégrées au récit sous forme de proposition subordonnée conduite par un verbe introducteur.",
+        "marques_typographiques_et_grammaticales": [
+          "Disparition de la ponctuation du dialogue (guillemets, deux-points, tirets).",
+          "Emploi d'une subordonnée complétive (introduite par 'que', 'si', 'de' + infinitif, ou un mot interrogatif).",
+          "Transposition des pronoms personnels (je/tu -> il/elle), des possessifs et des déictiques.",
+          "Concordance des temps obligatoire si le verbe introducteur est au passé."
+        ],
+        "exemple_dernier_jour": "L'aumônier me demanda si j'avais besoin de ses consolations.",
+        "effet_produit": "Fluidifie le récit, résume les échanges verbalisés et adapte le propos au point de vue du narrateur."
+      },
+      {
+        "type": "Discours Indirect Libre (DIL)",
+        "definition": "Forme hybride où les paroles ou pensées sont rapportées sans verbe introducteur ni subordination, mais avec les marques de temps et de personne du récit.",
+        "marques_typographiques_et_grammaticales": [
+          "Absence de guillemets, de tirets et de verbe introducteur.",
+          "Conservation des interrogations, exclamations, interjections et hésitations du discours direct.",
+          "Adoption des temps (imparfait/conditionnel) et des personnes (3ème personne) du discours indirect.",
+          "Mélange subtil entre la voix du narrateur et la pensée du personnage."
+        ],
+        "exemple_dernier_jour": "Condamné à mort ! Ainsi les hommes en avaient décidé. N'y avait-il aucun recours ?",
+        "effet_produit": "Immerge le lecteur directement dans la conscience psychologique du personnage (monologue intérieur)."
+      }
+    ],
+    "tableau_concordance_des_temps": {
+      "regle_generale": "Lorsque le verbe introducteur est à un temps du passé (passé simple, imparfait, passé composé), les temps du discours direct se transforment dans le discours indirect.",
+      "correspondances": [
+        {
+          "discours_direct": "Présent",
+          "discours_indirect": "Imparfait",
+          "exemple": "« Je veux sortir. » -> Il disait qu'il voulait sortir."
+        },
+        {
+          "discours_direct": "Passé composé",
+          "discours_indirect": "Plus-que-parfait",
+          "exemple": "« J'ai tout perdu. » -> Il déclara qu'il avait tout perdu."
+        },
+        {
+          "discours_direct": "Futur simple",
+          "discours_indirect": "Conditionnel présent",
+          "exemple": "« Je viendrai demain. » -> Il affirma qu'il viendrait le lendemain."
+        },
+        {
+          "discours_direct": "Futur antérieur",
+          "discours_indirect": "Conditionnel passé",
+          "exemple": "« J'aurai fini à midi. » -> Il assura qu'il aurait fini à midi."
+        },
+        {
+          "discours_direct": "Impératif",
+          "discours_indirect": "De + Infinitif",
+          "exemple": "« Tais-toi ! » -> Il lui ordonna de se taire."
+        }
+      ]
+    },
+    "tableau_deictiques_temporels": [
+      {
+        "discours_direct": "Aujourd'hui",
+        "discours_indirect": "Ce jour-là"
+      },
+      {
+        "discours_direct": "Hier",
+        "discours_indirect": "La veille"
+      },
+      {
+        "discours_direct": "Demain",
+        "discours_indirect": "Le lendemain"
+      },
+      {
+        "discours_direct": "Ce soir / Cette semaine",
+        "discours_indirect": "Ce soir-là / Cette semaine-là"
+      },
+      {
+        "discours_direct": "Dans deux jours",
+        "discours_indirect": "Deux jours plus tard / après"
+      },
+      {
+        "discours_direct": "Ici",
+        "discours_indirect": "Là / Là-bas"
+      }
+    ],
+    "methodologie_examen_regional": {
+      "consignes_frequentes": [
+        "Identifiez le mode de discours rapporté dans le passage souligné.",
+        "Transposez la phrase suivante du discours direct au discours indirect.",
+        "Expliquez la valeur du discours indirect libre dans cet extrait."
+      ],
+      "conseil_redaction": "Pour réussir une transformation au discours indirect : 1. Repérez le temps du verbe introducteur. 2. Supprimez les guillemets et deux-points. 3. Modifiez les pronoms et adjectifs possessifs. 4. Appliquez la concordance des temps et modifiez les marqueurs de temps."
+    }
+  },
+  "quiz_et_exercices": {
+    "qcm": [
+      {
+        "id": "qcm_1",
+        "question": "Quel mode de discours rapporté conserve les guillemets, les deux-points et les marques d'énonciation directes (1ère/2ème personne) ?",
+        "options": [
+          "A) Le discours indirect libre",
+          "B) Le discours direct",
+          "C) Le discours indirect",
+          "D) Le récit d'événements"
+        ],
+        "reponse_correcte": "B) Le discours direct",
+        "explication": "Le discours direct rapporte fidèlement les paroles telles qu'elles ont été prononcées, en conservant la ponctuation du dialogue."
+      },
+      {
+        "id": "qcm_2",
+        "question": "Si le verbe introducteur est au passé simple ('Il affirma...'), en quel temps se transforme le 'Futur simple' du discours direct au discours indirect ?",
+        "options": [
+          "A) L'imparfait",
+          "B) Le plus-que-parfait",
+          "C) Le conditionnel présent",
+          "D) Le subjonctif présent"
+        ],
+        "reponse_correcte": "C) Le conditionnel présent",
+        "explication": "Le futur simple devient le conditionnel présent en discours indirect lorsque le verbe de parole est au passé."
+      },
+      {
+        "id": "qcm_3",
+        "question": "Quelle est la particularité principale du Discours Indirect Libre (DIL) ?",
+        "options": [
+          "A) Il utilise systématiquement la conjonction 'que' et des guillemets.",
+          "B) Il rapporte les paroles sans verbe introducteur ni subordination, mais avec l'imparfait/3ème personne.",
+          "C) Il ne s'emploie que dans les pièces de théâtre.",
+          "D) Il interdit l'emploi des phrases interrogatives et exclamatives."
+        ],
+        "reponse_correcte": "B) Il rapporte les paroles sans verbe introducteur ni subordination, mais avec l'imparfait/3ème personne.",
+        "explication": "Le DIL fusionne la voix du narrateur et la pensée intime du personnage sans introduire de conjonction de subordination."
+      },
+      {
+        "id": "qcm_4",
+        "question": "Dans la phrase : « Le condamné pensait : 'Demain, je serai exécuté.' », quelle est la bonne transposition au discours indirect au passé ?",
+        "options": [
+          "A) Le condamné pensait que demain il sera exécuté.",
+          "B) Le condamné pensait que le lendemain il serait exécuté.",
+          "C) Le condamné pensait qu'hier il avait été exécuté.",
+          "D) Le condamné pensa qu'il est exécuté ce jour-là."
+        ],
+        "reponse_correcte": "B) Le condamné pensait que le lendemain il serait exécuté.",
+        "explication": "'Demain' devient 'le lendemain', 'je' devient 'il', et 'serai' (futur) devient 'serait' (conditionnel présent)."
+      },
+      {
+        "id": "qcm_5",
+        "question": "Dans 'La Boîte à merveilles', lorsque Lalla Zoubida raconte les malheurs de Lalla Aïcha en disant : 'Cette pauvre femme a été trahie par son associé !', quel temps prend le verbe au discours indirect introduit par 'Lalla Zoubida raconta que...' ?",
+        "options": [
+          "A) Présent de l'indicatif",
+          "B) Plus-que-parfait",
+          "C) Imparfait",
+          "D) Futur antérieur"
+        ],
+        "reponse_correcte": "B) Plus-que-parfait",
+        "explication": "Le passé composé ('a été trahie') se transforme en plus-que-parfait ('avait été trahie') lorsque le verbe introducteur est au passé."
+      },
+      {
+        "id": "qcm_6",
+        "question": "Quel est l'effet littéraire majeur du discours indirect libre dans 'Le Dernier Jour d'un condamné' ?",
+        "options": [
+          "A) Donner un ton comique et burlesque.",
+          "B) Permettre une immersion psychologique totale dans la détresse du condamné.",
+          "C) Masquer les émotions du personnage principal.",
+          "D) Raconter des événements historiques extérieurs."
+        ],
+        "reponse_correcte": "B) Permettre une immersion psychologique totale dans la détresse du condamné.",
+        "explication": "Le DIL traduit l'agitation intérieure et le monologue tragique de l'accusé face à l'imminence de la mort."
+      }
+    ],
+    "texte_a_trous": [
+      {
+        "id": "trous_1",
+        "consigne": "Remplissez les vides avec les mots suivants : [direct, indirect, concordance, déictiques, subordonnée].",
+        "texte": "Pour transposer une phrase du discours _____ au discours _____, il faut supprimer les guillemets et intégrer les paroles sous forme de proposition _____. Si le verbe introducteur est au passé, on doit obligatoirement respecter la _____ des temps et modifier les marqueurs spatio-temporels appelés _____.",
+        "solution": {
+          "trou_1": "direct",
+          "trou_2": "indirect",
+          "trou_3": "subordonnée",
+          "trou_4": "concordance",
+          "trou_5": "déictiques"
+        }
+      }
+    ],
+    "identification_et_transformation": [
+      {
+        "id": "transfo_1",
+        "extrait": "« Ma mère me dit : 'Demain, nous irons au sanctuaire de Sidi Ali Boughaleb.' » (La Boîte à merveilles)",
+        "consigne": "Identifiez le mode de discours puis transposez la phrase au discours indirect (verbe introducteur : 'Ma mère me dit que...').",
+        "reponse_attendue": {
+          "mode_initial": "Discours Direct",
+          "transposition": "Ma mère me dit que le lendemain, nous irions (ou ils iraient) au sanctuaire de Sidi Ali Boughaleb."
+        }
+      },
+      {
+        "id": "transfo_2",
+        "extrait": "« L'huissier me chuchota : 'Avez-vous l'intention de former un pourvoi en cassation ?' » (Le Dernier Jour d'un condamné)",
+        "consigne": "Transposez cette question totale du discours direct au discours indirect.",
+        "reponse_attendue": {
+          "transposition": "L'huissier me chuchota si j'avais l'intention de former un pourvoi en cassation."
+        }
+      },
+      {
+        "id": "transfo_3",
+        "extrait": "Mon père me demanda avec sévérité : « As-tu appris tes leçons de Coran aujourd'hui ? »",
+        "consigne": "Effectuez la transformation au discours indirect.",
+        "reponse_attendue": {
+          "transposition": "Mon père me demanda avec sévérité si j'avais appris mes leçons de Coran ce jour-là."
+        }
+      },
+      {
+        "id": "transfo_4",
+        "extrait": "Mon Dieu ! Quatre heures ! Se pouvait-il que ce fût la dernière heure ? N'y aurait-il aucune grâce royale ?",
+        "consigne": "Identifiez le mode de discours rapporté dans cet extrait du Chapitre XLVIII du Dernier Jour d'un condamné.",
+        "reponse_attendue": {
+          "mode": "Discours Indirect Libre (DIL)",
+          "explication": "Présence de ponctuations expressives (! ?), absence de verbe introducteur, et emploi des temps du passé (imparfait/conditionnel) et de la 3ème personne."
+        }
+      }
+    ],
+    "exercice_redaction_examen": {
+      "extrait_support": "Maâlem Abdeslam entra dans la pièce. Il regarda ma mère et lui annonça : « J'ai perdu tout mon pécule dans le souk des bijoutiers. Je dois partir travailler dans les moissons aux environs de Fès. Ne pleure pas, Dieu nous viendra en aide. »",
+      "questions": [
+        {
+          "question_num": "1",
+          "consigne": "Quel est le mode de discours utilisé dans les paroles de Maâlem Abdeslam ?",
+          "bareme": "0.5 point"
+        },
+        {
+          "question_num": "2",
+          "consigne": "Réécrivez ce passage au discours indirect en commençant par : 'Maâlem Abdeslam annonça à sa femme que...'",
+          "bareme": "1.5 point"
+        }
+      ],
+      "corrige_modele": {
+        "reponse_1": "Il s'agit du discours direct (présence des deux-points, des guillemets et de la 1ère personne).",
+        "reponse_2": "Maâlem Abdeslam annonça à sa femme qu'il avait perdu tout son pécule dans le souk des bijoutiers, qu'il devait partir travailler dans les moissons aux environs de Fès, et lui demanda de ne pas pleurer car Dieu leur viendrait en aide."
+      }
+    }
+  }
+}

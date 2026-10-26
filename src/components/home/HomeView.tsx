@@ -1,7 +1,8 @@
 import React from 'react';
 import { NovelSummary, NovelId, UserStudyProgress } from '../../types';
-import { ArrowRight, RotateCcw, BookOpen, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, RotateCcw, BookOpen, BookOpenCheck, CheckCircle2 } from 'lucide-react';
 import { getNovelStudyData } from '../../data/novelStudyData';
+import { LESSONS } from '../../data/lessons';
 
 interface HomeViewProps {
   novels: NovelSummary[];
@@ -190,6 +191,60 @@ export const HomeView: React.FC<HomeViewProps> = ({
               </article>
             );
           })}
+        </div>
+      </section>
+
+      <section className="space-y-6">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div className="space-y-1">
+            <span className="text-xs font-semibold uppercase tracking-wider text-amber-800 dark:text-amber-400">
+              Méthode · Grammaire et analyse
+            </span>
+            <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100 sm:text-3xl">
+              Leçons de langue
+            </h2>
+            <p className="max-w-2xl text-xs leading-relaxed text-stone-600 dark:text-stone-400 sm:text-sm">
+              Huit notions du programme, avec fiches de cours, exemples et exercices interactifs.
+            </p>
+          </div>
+          <button
+            type="button"
+            onClick={() => onNavigate('lessons')}
+            className="inline-flex items-center justify-center gap-2 self-start rounded-xl bg-amber-800 px-4 py-2.5 text-xs font-semibold text-white transition hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600 sm:self-auto"
+          >
+            Toutes les leçons
+            <ArrowRight className="h-4 w-4" />
+          </button>
+        </div>
+
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-4">
+          {LESSONS.map((lesson, index) => (
+            <button
+              key={lesson.id}
+              type="button"
+              onClick={() => onNavigate(`lessons/${lesson.id}`)}
+              className="group flex h-full min-h-[154px] flex-col rounded-2xl border border-stone-200 bg-white p-5 text-left transition-all hover:-translate-y-0.5 hover:border-amber-400 hover:shadow-md dark:border-stone-800 dark:bg-stone-900 dark:hover:border-amber-700"
+            >
+              <span className="flex w-full items-center justify-between">
+                <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-amber-50 text-amber-900 dark:bg-amber-950/60 dark:text-amber-300">
+                  <BookOpenCheck className="h-4 w-4" />
+                </span>
+                <span className="font-mono text-[10px] font-bold text-stone-400 dark:text-stone-500">
+                  {String(index + 1).padStart(2, '0')}
+                </span>
+              </span>
+              <span className="mt-4 font-semibold leading-snug text-stone-900 dark:text-stone-100">
+                {lesson.title}
+              </span>
+              <span className="mt-2 flex-1 text-xs leading-relaxed text-stone-500 dark:text-stone-400">
+                {lesson.summary}
+              </span>
+              <span className="mt-4 flex items-center justify-between text-[10px] font-semibold text-amber-800 dark:text-amber-400">
+                <span>Cours, exercices et quiz</span>
+                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
+              </span>
+            </button>
+          ))}
         </div>
       </section>
 

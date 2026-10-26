@@ -1,0 +1,200 @@
+{
+  "titre": "Cours et Banque de Quiz : La Focalisation ou Point de Vue Narratif (1ère BAC)",
+  "description": "Fiche de cours synthétique et banque d'exercices interactifs pour maîtriser la focalisation dans La Boîte à merveilles d'Ahmed Sefrioui et Le Dernier Jour d'un condamné de Victor Hugo.",
+  "module": "Langue et Analyse Textuelle - Examen Régional de Français",
+  "cours": {
+    "definition": "La focalisation (ou point de vue narratif) désigne l'angle de vision à travers lequel le narrateur perçoit et présente les événements, les personnages et les décors d'un récit. Elle définit la quantité d'informations transmises au lecteur.",
+    "les_trois_types_de_focalisation": [
+      {
+        "type": "Focalisation interne (Point de vue interne)",
+        "formule": "Narrateur = Personnage (N = P)",
+        "definition": "Le récit est vu à travers les yeux, la perception et la conscience d'un seul personnage (souvent un narrateur-personnage utilisant la 1ère personne 'Je'). Le lecteur ne sait que ce que ce personnage voit, entend, pense ou ressent.",
+        "indices_de_reperage": [
+          "Emploi de la 1ère personne ('Je', 'Mon', 'Notre')",
+          "Verbes de perception (voir, entendre, sentir, ressentir)",
+          "Présence de jugements subjectifs, d'émotions, de doutes et de monologues intérieurs",
+          "Vision limitée : le narrateur ne peut pas deviner les pensées des autres personnages"
+        ],
+        "exemple_programme": "Dans Le Dernier Jour d'un condamné et La Boîte à merveilles, la focalisation interne est dominante."
+      },
+      {
+        "type": "Focalisation zéro (Point de vue omniscient)",
+        "formule": "Narrateur > Personnage (N > P)",
+        "definition": "Le narrateur sait tout, voit tout et connaît le passé, le présent, le futur ainsi que les pensées intimes de tous les personnages (comme un Dieu créateur). Il est extérieur à l'histoire.",
+        "indices_de_reperage": [
+          "Emploi de la 3ème personne ('Il', 'Elle', 'Ils')",
+          "Accès simultané aux pensées et sentiments de plusieurs personnages",
+          "Explications sur les origines, le passé ou le destin futur des personnages",
+          "Commentaires et interventions du narrateur sur l'action"
+        ],
+        "exemple_programme": "Utilisé dans les récits secondaires ou contes enchâssés (ex: l'histoire de l'Oncle Othman racontée par Rahma/Zhor)."
+      },
+      {
+        "type": "Focalisation externe (Point de vue externe)",
+        "formule": "Narrateur < Personnage (N < P)",
+        "definition": "Le narrateur agit comme une caméra témoin : il décrit les actes, les gestes, les paroles et les décors de l'extérieur sans jamais avoir accès aux pensées ou aux sentiments intimes des personnages.",
+        "indices_de_reperage": [
+          "Emploi de la 3ème personne",
+          "Description purement objective et comportementale ('Il s'assit', 'Elle regarda')",
+          "Absence totale d'accès à la conscience ou aux motivations internes",
+          "Impression de mystère ou d'impartialité"
+        ],
+        "exemple_programme": "Utilisé ponctuellement lors de descriptions de scènes de rue ou d'observations de personnages inconnus."
+      }
+    ],
+    "application_aux_oeuvres_du_programme": {
+      "la_boite_a_merveilles": {
+        "focalisation_dominante": "Focalisation interne",
+        "particularite_narrative": "La double dimension du 'Je' (Narrateur-enfant vs Narrateur-adulte)",
+        "explication": "Le récit est raconté à la 1ère personne par Sidi Mohammed. Cependant, il faut distinguer deux perspectives : le 'Je' enfant (qui vit l'action à 6 ans avec naïveté et émerveillement) et le 'Je' adulte (qui se remémore son enfance avec nostalgie et recul critique).",
+        "effet_produit": "Crée un contraste entre la perception magique/naïve de l'enfant et le regard mûr/mélancolique de l'adulte."
+      },
+      "le_dernier_jour_d_un_condamne": {
+        "focalisation_dominante": "Focalisation interne absolue (Monologue intérieur)",
+        "particularite_narrative": "Le narrateur est le protagoniste lui-même, enfermé dans sa cellule.",
+        "explication": "Le roman est le journal intime de la souffrance morale d'un homme condamné à mort. Le lecteur vit au jour le jour, heure par heure, la peur, le désespoir et les interrogations du condamné.",
+        "effet_produit": "Maximise l'empathie et la compassion du lecteur (registre pathétique) pour servir la thèse abolitionniste de Victor Hugo."
+      }
+    },
+    "methodologie_examen_regional": {
+      "question_type": "Quel est le point de vue (ou la focalisation) adopté dans ce passage ? Justifiez votre réponse.",
+      "modele_de_reponse": "Le point de vue adopté dans ce passage est le POINT DE VUE INTERNE (focalisation interne). Justification : Le récit est mené à la première personne ('je'), et le texte est centré sur les sensations, les pensées intimes et les perceptions subjectives du narrateur (ex: '[Citer un mot ou verbe de perception]')."
+    }
+  },
+  "quiz_interactif": {
+    "qcm": [
+      {
+        "id": 1,
+        "question": "Qu'est-ce que la focalisation en analyse littéraire ?",
+        "options": [
+          "Le temps verbal dominant utilisé dans un texte",
+          "L'angle de vision ou point de vue à travers lequel les événements sont présentés",
+          "Le niveau de langue adopté par le personnage principal",
+          "La figure de style qui exagère la réalité"
+        ],
+        "reponse_correcte": "L'angle de vision ou point de vue à travers lequel les événements sont présentés",
+        "explication": "La focalisation détermine la perspective du narrateur et la quantité d'informations transmises au lecteur."
+      },
+      {
+        "id": 2,
+        "question": "Quelle est la formule mathématique symbolisant la focalisation interne ?",
+        "options": [
+          "Narrateur > Personnage (N > P)",
+          "Narrateur < Personnage (N < P)",
+          "Narrateur = Personnage (N = P)",
+          "Narrateur + Personnage = 0"
+        ],
+        "reponse_correcte": "Narrateur = Personnage (N = P)",
+        "explication": "Dans la focalisation interne, le narrateur en sait autant que le personnage dont il adopte le point de vue."
+      },
+      {
+        "id": 3,
+        "question": "Quelle est la focalisation dominante dans 'Le Dernier Jour d'un condamné' de Victor Hugo ?",
+        "options": [
+          "Focalisation zéro (omnisciente)",
+          "Focalisation externe",
+          "Focalisation interne",
+          "Focalisation neutre"
+        ],
+        "reponse_correcte": "Focalisation interne",
+        "explication": "Le roman est le journal intime et le monologue intérieur d'un condamné à mort qui exprime ses propres sentiments à la 1ère personne."
+      },
+      {
+        "id": 4,
+        "question": "Dans 'La Boîte à merveilles', quelle particularité caractérise le statut du narrateur ?",
+        "options": [
+          "C'est un narrateur omniscient qui connaît l'avenir de Fès",
+          "Il y a une alternance entre le 'Je' enfant (qui vit l'action) et le 'Je' adulte (qui se souvient)",
+          "C'est un narrateur externe qui observe Sidi Mohammed sans intervenir",
+          "Le récit est écrit à la troisième personne 'Il'"
+        ],
+        "reponse_correcte": "Il y a une alternance entre le 'Je' enfant (qui vit l'action) et le 'Je' adulte (qui se souvient)",
+        "explication": "L'œuvre autobiographique superpose la vision naïve de l'enfant de 6 ans et le regard nostalgique de l'adulte qui rédige ses souvenirs."
+      },
+      {
+        "id": 5,
+        "question": "Si un narrateur décrit une scène comme une caméra, sans révéler aucune pensée ni émotion des personnages, quelle est la focalisation ?",
+        "options": [
+          "Focalisation zéro",
+          "Focalisation interne",
+          "Focalisation externe",
+          "Focalisation lyrique"
+        ],
+        "reponse_correcte": "Focalisation externe",
+        "explication": "La focalisation externe se limite aux apparences physiques, aux gestes et aux paroles observables de l'extérieur."
+      },
+      {
+        "id": 6,
+        "question": "Pourquoi Victor Hugo a-t-il choisi la focalisation interne pour son roman contre la peine de mort ?",
+        "options": [
+          "Pour masquer l'identité des juges et du bourreau",
+          "Pour faire vivre au lecteur la souffrance morale intime du condamné et susciter la compassion",
+          "Parce qu'il ne connaissait pas le fonctionnement des prisons",
+          "Pour écrire une biographie historique de la Guillotine"
+        ],
+        "reponse_correcte": "Pour faire vivre au lecteur la souffrance morale intime du condamné et susciter la compassion",
+        "explication": "L'immersion dans la conscience du condamné renforce la visée argumentative abolitionniste en touchant la sensibilité du lecteur."
+      }
+    ],
+    "texte_a_trous": [
+      {
+        "id": 1,
+        "enonce": "Dans la focalisation __________, le narrateur sait tout sur les personnages, y compris leur passé et leurs pensées intimes.",
+        "mot_a_placer": "zéro",
+        "indices": "Aussi appelée omnisciente (N > P)."
+      },
+      {
+        "id": 2,
+        "enonce": "L'utilisation récurrente des pronoms 'Je', 'me', 'mon' et des verbes de perception caractérise le point de vue __________.",
+        "mot_a_placer": "interne",
+        "indices": "Narrateur = Personnage."
+      },
+      {
+        "id": 3,
+        "enonce": "Dans 'La Boîte à merveilles', le narrateur __________ se remémore les événements vécus par le narrateur __________ à l'âge de six ans.",
+        "mot_a_placer": "adulte / enfant",
+        "indices": "Double statut du 'Je' dans le récit autobiographique."
+      },
+      {
+        "id": 4,
+        "enonce": "Lorsque le narrateur en sait moins que les personnages et se contente d'enregistrer les faits de l'extérieur, la focalisation est __________.",
+        "mot_a_placer": "externe",
+        "indices": "Comme un objectif de caméra (N < P)."
+      }
+    ],
+    "identification_et_analyse_extraits": [
+      {
+        "id": 1,
+        "extrait": "« Condamné à mort ! Voilà cinq semaines que je vis avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids ! » (Le Dernier Jour d'un condamné, Ch. I)",
+        "question_focalisation": "Quelle est la focalisation adoptée dans cet extrait ?",
+        "reponse_attendue": "Focalisation interne.",
+        "justification_detaillee": "L'extrait utilise le pronom de la première personne ('je') et exprime les sentiments intimes, la solitude et la détresse psychologique du protagoniste."
+      },
+      {
+        "id": 2,
+        "extrait": "« Ma solitude ne datait pas d'hier. Je me souvenais d'une voix de femme... Mon père ne me parlait guère. Ma mère occupée à ses travaux ménagers me traitait comme un objet sans importance. » (La Boîte à merveilles, Ch. I)",
+        "question_focalisation": "Identifiez le point de vue narratif et précisez quel 'Je' s'exprime ici.",
+        "reponse_attendue": "Focalisation interne. C'est le 'Je' adulte qui se remémore son enfance.",
+        "justification_detaillee": "L'emploi de l'imparfait de souvenir ('se souvenait') et le recul analytique sur la solitude montrent qu'il s'agit du narrateur adulte évoquant son passé d'enfant."
+      },
+      {
+        "id": 3,
+        "extrait": "« L'homme s'avança à pas lents vers la table. Il portait un grand manteau sombre et un chapeau rabattu. Personne ne connaissait ni son nom ni la raison de sa venue en ce lieu. »",
+        "question_focalisation": "Quel est le point de vue narratif dans cette scène ?",
+        "reponse_attendue": "Focalisation externe.",
+        "justification_detaillee": "Le narrateur décrit l'aspect physique et le déplacement du personnage sans connaître son identité ni ses intentions ('Personne ne connaissait...')."
+      },
+      {
+        "id": 4,
+        "extrait": "« Lalla Aïcha avait été victime de l'ingratitude de son associé Abdelkader. Moulay Larbi, son mari, avait dû vendre tous ses meubles pour payer ses dettes. Mais la pauvre femme gardait l'espoir que la justice divine punirait le coupable. »",
+        "question_focalisation": "Quelle est la focalisation adoptée dans cet extrait explicatif ?",
+        "reponse_attendue": "Focalisation zéro (omnisciente).",
+        "justification_detaillee": "Le narrateur résume les faits passés, le contexte financier de la famille et lit dans la pensée intime de Lalla Aïcha ('la pauvre femme gardait l'espoir...')."
+      }
+    ],
+    "exercice_de_redaction_examen": {
+      "consigne": "Rédigez une réponse structurée d'examen régional pour justifier le point de vue narratif dans l'extrait suivant : « Un soir, je rentrai du Msid particulièrement fatigué. Une sensation d'étouffement me prenait à la gorge. Je vis ma mère préparer le dîner à la lumière d'une veilleuse d'huile. Sa silhouette me paraissait géante et menaçante. »",
+      "corrigé_modele": "Dans cet extrait, le point de vue narratif adopté est la FOCALISATION INTERNE. En effet, le récit est mené à la première personne du singulier ('je', 'me', 'ma') et les événements sont filtrés par la perception subjective de l'enfant. Les verbes de sensation et de vision ('sensation d'étouffement', 'Je vis', 'me paraissait') traduisent l'état physique et la peur personnelle du narrateur-personnage."
+    }
+  }
+}
