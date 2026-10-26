@@ -194,57 +194,40 @@ export const HomeView: React.FC<HomeViewProps> = ({
         </div>
       </section>
 
-      <section className="space-y-6">
-        <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-          <div className="space-y-1">
-            <span className="text-xs font-semibold uppercase tracking-wider text-amber-800 dark:text-amber-400">
-              Méthode · Grammaire et analyse
-            </span>
-            <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100 sm:text-3xl">
-              Leçons de langue
-            </h2>
-            <p className="max-w-2xl text-xs leading-relaxed text-stone-600 dark:text-stone-400 sm:text-sm">
-              Huit notions du programme, avec fiches de cours, exemples et exercices interactifs.
-            </p>
-          </div>
-          <button
-            type="button"
-            onClick={() => onNavigate('lessons')}
-            className="inline-flex items-center justify-center gap-2 self-start rounded-xl bg-amber-800 px-4 py-2.5 text-xs font-semibold text-white transition hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600 sm:self-auto"
-          >
-            Toutes les leçons
-            <ArrowRight className="h-4 w-4" />
-          </button>
-        </div>
+      <section>
+        <div className="overflow-hidden rounded-3xl border border-amber-200 bg-gradient-to-br from-white via-amber-50/70 to-orange-50/70 shadow-xs dark:border-amber-900/60 dark:from-stone-900 dark:via-stone-900 dark:to-amber-950/30">
+          <div className="grid gap-6 p-6 sm:p-8 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+            <div className="min-w-0">
+              <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-amber-800 dark:text-amber-400">
+                <BookOpenCheck className="h-4 w-4" />
+                Méthode · Grammaire et analyse
+              </div>
+              <h2 className="mt-2 font-serif text-2xl font-bold text-stone-900 dark:text-stone-100 sm:text-3xl">
+                Leçons de langue
+              </h2>
+              <p className="mt-2 max-w-2xl text-xs leading-relaxed text-stone-600 dark:text-stone-400 sm:text-sm">
+                Retrouvez les huit notions du programme, leurs fiches de cours, exemples et exercices interactifs.
+              </p>
 
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 xl:grid-cols-4">
-          {LESSONS.map((lesson, index) => (
+              <ul className="mt-5 grid grid-cols-1 gap-x-4 gap-y-2 sm:grid-cols-2 xl:grid-cols-4">
+                {LESSONS.map((lesson) => (
+                  <li key={lesson.id} className="flex min-w-0 items-start gap-2 text-xs leading-relaxed text-stone-700 dark:text-stone-300">
+                    <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-amber-600 dark:bg-amber-400" />
+                    <span className="min-w-0 break-words [overflow-wrap:anywhere]">{lesson.title}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
             <button
-              key={lesson.id}
               type="button"
-              onClick={() => onNavigate(`lessons/${lesson.id}`)}
-              className="group flex h-full min-h-[154px] flex-col rounded-2xl border border-stone-200 bg-white p-5 text-left transition-all hover:-translate-y-0.5 hover:border-amber-400 hover:shadow-md dark:border-stone-800 dark:bg-stone-900 dark:hover:border-amber-700"
+              onClick={() => onNavigate('lessons')}
+              className="inline-flex min-h-11 items-center justify-center gap-2 self-start rounded-xl bg-amber-800 px-5 py-3 text-xs font-semibold text-white transition hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600 lg:self-center"
             >
-              <span className="flex w-full items-center justify-between">
-                <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-amber-50 text-amber-900 dark:bg-amber-950/60 dark:text-amber-300">
-                  <BookOpenCheck className="h-4 w-4" />
-                </span>
-                <span className="font-mono text-[10px] font-bold text-stone-400 dark:text-stone-500">
-                  {String(index + 1).padStart(2, '0')}
-                </span>
-              </span>
-              <span className="mt-4 font-semibold leading-snug text-stone-900 dark:text-stone-100">
-                {lesson.title}
-              </span>
-              <span className="mt-2 flex-1 text-xs leading-relaxed text-stone-500 dark:text-stone-400">
-                {lesson.summary}
-              </span>
-              <span className="mt-4 flex items-center justify-between text-[10px] font-semibold text-amber-800 dark:text-amber-400">
-                <span>Cours, exercices et quiz</span>
-                <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
-              </span>
+              Explorer les leçons
+              <ArrowRight className="h-4 w-4" />
             </button>
-          ))}
+          </div>
         </div>
       </section>
 

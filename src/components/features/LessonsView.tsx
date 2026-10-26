@@ -54,7 +54,7 @@ const StructuredContent: React.FC<{
   depth?: number;
 }> = ({ value, revealAnswers = true, omitMultipleChoice = false, depth = 0 }) => {
   if (typeof value === 'string' || typeof value === 'number') {
-    return <p className="whitespace-pre-line text-sm leading-relaxed text-stone-700 dark:text-stone-300">{value}</p>;
+    return <p className="break-words whitespace-pre-line text-sm leading-relaxed [overflow-wrap:anywhere] text-stone-700 dark:text-stone-300">{value}</p>;
   }
 
   if (typeof value === 'boolean' || value === null || value === undefined) {
@@ -149,7 +149,7 @@ const MultipleChoiceQuestion: React.FC<{
   const isCorrect = selectedAnswer === question.answerIndex;
 
   return (
-    <article className="rounded-2xl border border-stone-200 bg-white p-5 shadow-xs dark:border-stone-800 dark:bg-stone-900 sm:p-6">
+    <article className="min-w-0 rounded-2xl border border-stone-200 bg-white p-5 shadow-xs dark:border-stone-800 dark:bg-stone-900 sm:p-6">
       <div className="flex items-start gap-3">
         <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-amber-100 font-mono text-xs font-bold text-amber-900 dark:bg-amber-950/70 dark:text-amber-300">
           {String(number).padStart(2, '0')}
@@ -160,7 +160,7 @@ const MultipleChoiceQuestion: React.FC<{
               {question.consigne}
             </p>
           )}
-          <h4 className="font-semibold leading-relaxed text-stone-900 dark:text-stone-100">
+          <h4 className="break-words font-semibold leading-relaxed [overflow-wrap:anywhere] text-stone-900 dark:text-stone-100">
             {question.question}
           </h4>
         </div>
@@ -181,12 +181,12 @@ const MultipleChoiceQuestion: React.FC<{
               type="button"
               disabled={answered}
               onClick={() => onSelect(index)}
-              className={`flex w-full items-start gap-3 rounded-xl border px-4 py-3 text-left text-sm leading-relaxed transition-colors disabled:cursor-default ${optionClass}`}
+              className={`flex min-w-0 w-full items-start gap-3 rounded-xl border px-4 py-3 text-left text-sm leading-relaxed transition-colors disabled:cursor-default ${optionClass}`}
             >
               <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full border border-current/30 text-[10px] font-bold">
                 {answered && isAnswer ? <Check className="h-3.5 w-3.5" /> : String.fromCharCode(65 + index)}
               </span>
-              <span>{option}</span>
+              <span className="min-w-0 break-words [overflow-wrap:anywhere]">{option}</span>
             </button>
           );
         })}
@@ -194,7 +194,7 @@ const MultipleChoiceQuestion: React.FC<{
 
       {answered && (
         <div
-          className={`mt-4 rounded-xl px-4 py-3 text-sm leading-relaxed ${
+          className={`mt-4 break-words rounded-xl px-4 py-3 text-sm leading-relaxed [overflow-wrap:anywhere] ${
             isCorrect
               ? 'bg-emerald-50 text-emerald-900 dark:bg-emerald-950/40 dark:text-emerald-200'
               : 'bg-amber-50 text-amber-950 dark:bg-amber-950/40 dark:text-amber-200'
@@ -203,11 +203,11 @@ const MultipleChoiceQuestion: React.FC<{
         >
           <p className="font-semibold">{isCorrect ? 'Bonne réponse !' : 'À retenir'}</p>
           {!isCorrect && (
-            <p className="mt-1">
+            <p className="mt-1 break-words [overflow-wrap:anywhere]">
               Réponse : {question.options[question.answerIndex]}
             </p>
           )}
-          {question.explanation && <p className="mt-1">{question.explanation}</p>}
+          {question.explanation && <p className="mt-1 break-words [overflow-wrap:anywhere]">{question.explanation}</p>}
         </div>
       )}
     </article>
@@ -317,7 +317,7 @@ const LessonContent: React.FC<{ lesson: LessonDefinition }> = ({ lesson }) => {
   }, [lesson, retryCount]);
 
   return (
-    <div className="space-y-8">
+    <div className="min-w-0 space-y-8">
       <header className="overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-xs dark:border-stone-800 dark:bg-stone-900">
         <div className="h-1.5 bg-gradient-to-r from-amber-800 via-amber-500 to-orange-300 dark:from-amber-700 dark:via-amber-500 dark:to-orange-900" />
         <div className="p-6 sm:p-8">
@@ -476,7 +476,7 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
   const selectedLesson = LESSONS.find((lesson) => lesson.id === selectedLessonId) || LESSONS[0];
 
   return (
-    <div className="mx-auto max-w-7xl space-y-6 px-4 py-6 sm:px-6 sm:py-8">
+    <div className="mx-auto min-w-0 max-w-7xl space-y-6 px-4 py-6 sm:px-6 sm:py-8">
       <button
         type="button"
         onClick={onBackToHome}
@@ -486,11 +486,13 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
         Retour à l’accueil
       </button>
 
-      <div className="grid items-start gap-6 lg:grid-cols-[260px_minmax(0,1fr)] lg:gap-8">
-        <LessonSelector
-          selectedLesson={selectedLesson}
-          onSelect={onSelectLesson}
-        />
+      <div className="grid min-w-0 grid-cols-1 items-start gap-6 lg:grid-cols-[260px_minmax(0,1fr)] lg:gap-8">
+        <div className="min-w-0">
+          <LessonSelector
+            selectedLesson={selectedLesson}
+            onSelect={onSelectLesson}
+          />
+        </div>
         <LessonContent key={selectedLesson.id} lesson={selectedLesson} />
       </div>
     </div>
