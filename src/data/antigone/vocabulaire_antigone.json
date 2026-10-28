@@ -1,0 +1,215 @@
+{
+  "titre": "Vocabulaire et Lexique d'Antigone de Jean Anouilh",
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "genre": "Tragédie moderne",
+  "niveau": "1ère BAC - Examen Régional",
+  "description": "Lexique thématique, tragique, politique et théâtral tiré du texte et des fiches pédagogiques d'Antigone d'Anouilh.",
+  "categories": [
+    {
+      "nom_categorie": "Vocabulaire de la Tragédie et de la Fatalité",
+      "description": "Termes liés à la mort, au destin inéluctable et au genre tragique.",
+      "termes": [
+        {
+          "id": "T01",
+          "terme": "Tragédie",
+          "definition": "Pièce de théâtre mettant en scène des personnages nobles confrontés à un destin inéluctable (la fatalité) qui se termine généralement de façon sanglante.",
+          "contexte_antigone": "Antigone est une tragédie moderne où la mort de l'héroïne est annoncée dès le Prologue.",
+          "categorie": "Genre littéraire"
+        },
+        {
+          "id": "T02",
+          "terme": "Fatalité (Ananké)",
+          "definition": "Puissance supérieure et inéluctable qui fixe le destin des hommes indépendamment de leur volonté.",
+          "contexte_antigone": "Le Chœur explique que dans la tragédie, 'le ressort est bandé', le piège se referme sans issue.",
+          "categorie": "Thématique tragique"
+        },
+        {
+          "id": "T03",
+          "terme": "Sépulture / Funérailles",
+          "definition": "Ensemble des rites d'inhumation ou d'incinération accordés à un défunt pour le repos de son âme.",
+          "contexte_antigone": "L'interdiction de donner une sépulture au corps de Polynice déclenche le conflit tragique.",
+          "categorie": "Rituels religieux"
+        },
+        {
+          "id": "T04",
+          "terme": "Cadavre",
+          "definition": "Corps d'un homme ou d'un animal mort.",
+          "contexte_antigone": "Le cadavre de Polynice est abandonné au soleil et aux charognards (chiens, oiseaux), voué à la pourriture.",
+          "categorie": "Vocabulaire du drame"
+        },
+        {
+          "id": "T05",
+          "terme": "Murer",
+          "definition": "Enfermer vivante une personne dans un lieu fermé par des murs sans issue.",
+          "contexte_antigone": "Créon condamne Antigone à être murée vivante dans un tombeau de roche.",
+          "categorie": "Châtiment tragique"
+        },
+        {
+          "id": "T06",
+          "terme": "Tombeau (Nuptial)",
+          "definition": "Monument élevé sur la tombe d'un mort. Antigone parle poétiquement de 'son lit nuptial'.",
+          "contexte_antigone": "La grotte de roche devient à la fois le tombeau d'Antigone et le lieu de son union tragique avec Hémon.",
+          "categorie": "Symbole tragique"
+        },
+        {
+          "id": "T07",
+          "terme": "Catharsis",
+          "definition": "Purgation des passions (terreur et pitié) éprouvée par le spectateur lors d'une représentation tragique.",
+          "contexte_antigone": "Le Chœur souligne que la tragédie est reposante car on n'a plus d'espoir d'échapper au drame.",
+          "categorie": "Théorie théâtrale"
+        }
+      ]
+    },
+    {
+      "nom_categorie": "Vocabulaire de la Révolte et du Refus",
+      "description": "Notions caractérisant l'attitude d'Antigone face à l'autorité.",
+      "termes": [
+        {
+          "id": "R01",
+          "terme": "Se dresser",
+          "definition": "Manifester une opposition ferme et ouverte contre une personne ou une loi.",
+          "contexte_antigone": "Antigone se dresse seule face au roi Créon et à toute la cité de Thèbes.",
+          "categorie": "Action héroïque"
+        },
+        {
+          "id": "R02",
+          "terme": "Braver",
+          "definition": "Affronter sans peur un danger, une personne puissante ou une interdiction.",
+          "contexte_antigone": "Antigone brave la loi humaine et la peine de mort pour enterrer son frère.",
+          "categorie": "Comportement"
+        },
+        {
+          "id": "R03",
+          "terme": "Désobéir / Transgresser",
+          "definition": "Refuser de se soumettre à un ordre ou enfreindre une loi établie.",
+          "contexte_antigone": "Créon reproche à Antigone d'avoir consciemment désobéi à son édit.",
+          "categorie": "Opposition"
+        },
+        {
+          "id": "R04",
+          "terme": "Orgueil / Hubris",
+          "definition": "Sentiment exagéré de sa propre valeur ou fierté démesurée défiant l'ordre établi.",
+          "contexte_antigone": "Créon qualifie l'attitude d'Antigone d'orgueil hérité de son père Œdipe.",
+          "categorie": "Trait de caractère"
+        },
+        {
+          "id": "R05",
+          "terme": "L'Absolu",
+          "definition": "Ce qui ne comporte aucune restriction ni compromis ; perfection complète.",
+          "contexte_antigone": "Antigone exige un bonheur pur et immédiat ('tout tout de suite') sans concession.",
+          "categorie": "Quête philosophique"
+        }
+      ]
+    },
+    {
+      "nom_categorie": "Vocabulaire du Pouvoir, de la Politique et de la Cité",
+      "description": "Lexique lié au gouvernement de Créon et à la raison d'État.",
+      "termes": [
+        {
+          "id": "P01",
+          "terme": "Édit",
+          "definition": "Acte législatif ou décret promulgué par un souverain ou une autorité royale.",
+          "contexte_antigone": "La loi proclamée par Créon interdisant d'enterrer le corps du traître Polynice.",
+          "categorie": "Droit royal"
+        },
+        {
+          "id": "P02",
+          "terme": "Raison d'État",
+          "definition": "Principe au nom duquel le gouvernement s'autorise à déroger au droit pour le bien commun de la cité.",
+          "contexte_antigone": "Créon soutient qu'il faut rétablir l'ordre politique à Thèbes après la guerre civile.",
+          "categorie": "Philosophie politique"
+        },
+        {
+          "id": "P03",
+          "terme": "Gouvernail / Métaphore du navire",
+          "definition": "Appareil servant à diriger un navire. Image symbolique du pouvoir royal guidant l'État.",
+          "contexte_antigone": "Créon compare le gouvernement de Thèbes à un navire pris dans la tempête qu'il doit mener à bon port.",
+          "categorie": "Image littéraire"
+        },
+        {
+          "id": "P04",
+          "terme": "Gardes",
+          "definition": "Soldats chargés de la surveillance du cadavre de Polynice et du maintien de l'ordre.",
+          "contexte_antigone": "Personnages vulgaires, indifférents à la tragédie, symbolisant la force aveugle du pouvoir.",
+          "categorie": "Société / Pouvoir"
+        },
+        {
+          "id": "P05",
+          "terme": "Pondéré / Robuste",
+          "definition": "Personne calme, réfléchie, capable de contrôler ses émotions et d'endurer le travail pénible.",
+          "contexte_antigone": "Qualités attribuées à Créon par le Prologue : l'homme d'État 'au métier dur'.",
+          "categorie": "Portrait moral"
+        }
+      ]
+    },
+    {
+      "nom_categorie": "Lexique Spécifique de la Scène Théâtrale",
+      "description": "Vocabulaire technique indispensable pour l'analyse dramaturgique d'Antigone.",
+      "termes": [
+        {
+          "id": "L01",
+          "terme": "Prologue",
+          "definition": "Personnage ou discours liminaire présentant les enjeux, les personnages et le passé avant le début du drame.",
+          "contexte_antigone": "Chez Anouilh, le Prologue casse l'illusion théâtrale en s'adressant directement au public.",
+          "categorie": "Structure théâtrale"
+        },
+        {
+          "id": "L02",
+          "terme": "Chœur",
+          "definition": "Groupe ou voix collective commentant l'action dramatique et représentant la conscience morale ou le peuple.",
+          "contexte_antigone": "Dans Antigone, le Chœur intervient pour définir la tragédie et tenter d'intercéder auprès de Créon.",
+          "categorie": "Personnage collectif"
+        },
+        {
+          "id": "L03",
+          "terme": "Didascalie",
+          "definition": "Indication scénique donnée par l'auteur (ton, gestes, costume, entrées/sorties) écrite en italique.",
+          "contexte_antigone": "Permet de connaître le décor dépouillé du palais et le comportement physique des personnages.",
+          "categorie": "Écriture théâtrale"
+        },
+        {
+          "id": "L04",
+          "terme": "Stichomythie",
+          "definition": "Dialogue théâtral où les répliques sont très courtes et s'enchaînent vers par vers ou phrase par phrase.",
+          "contexte_antigone": "Révèle la tension extrême lors du face-à-face entre Antigone et Créon ou Antigone et Ismène.",
+          "categorie": "Forme du dialogue"
+        },
+        {
+          "id": "L05",
+          "terme": "Anachronisme",
+          "definition": "Erreur ou choix volontaire plaçant un objet, une coutume ou une expression dans une époque qui n'est pas la sienne.",
+          "contexte_antigone": "Anouilh utilise des objets modernes (cartes à jouer, cigarettes, fusils) dans une pièce antique.",
+          "categorie": "Procédé dramatique"
+        }
+      ]
+    },
+    {
+      "nom_categorie": "Vocabulaire de l'Enfance et des Sentiments",
+      "description": "Termes désignant le monde intime d'Antigone face au monde dur des adultes.",
+      "termes": [
+        {
+          "id": "E01",
+          "terme": "Nourrice / Nounou",
+          "definition": "Femme qui garde un enfant et prend soin de lui depuis sa plus tendre enfance.",
+          "contexte_antigone": "Représente le réconfort maternel, les souvenirs d'enfance (le chocolat, les tartines) et l'innocence.",
+          "categorie": "Personnage d'entourage"
+        },
+        {
+          "id": "E02",
+          "terme": "Innocence",
+          "definition": "Pureté de l'âme qui ignore le mal, le compromis et la corruption du monde.",
+          "contexte_antigone": "Antigone cherche à préserver la pureté de son enfance face à la laideur du 'bonheur d'adulte'.",
+          "categorie": "Notion morale"
+        },
+        {
+          "id": "E03",
+          "terme": "S'attifer",
+          "definition": "S'habiller de manière ridicule ou avec mauvais goût (langage familier).",
+          "contexte_antigone": "Utilisé lors des dialogues avec la Nourrice ou Ismène pour évoquer la coquetterie féminine.",
+          "categorie": "Registre familier"
+        }
+      ]
+    }
+  ]
+}

@@ -45,8 +45,8 @@ export const NOVELS: NovelSummary[] = [
     coverImage: '',
     shortDescription:
       'La confrontation intemporelle entre le devoir moral d\'Antigone qui refuse le compromis pour enterrer son frère Polynice, et la raison d\'État implacable incarnée par le roi Créon.',
-    status: 'coming_soon',
-    totalChapters: 1,
-    estimatedStudyTime: 'Structure prête (Module à venir)',
+    status: 'active',
+    totalChapters: 4,
+    estimatedStudyTime: '4 séquences de révision',
   },
 ];

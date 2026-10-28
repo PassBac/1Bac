@@ -1,0 +1,147 @@
+{
+  "titre_oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "genre": "Tragédie moderne (en un acte, sans division en scènes)",
+  "date_ecriture_parution": "Écrite en 1942, représentée en 1944",
+  "arbre_des_personnages": {
+    "protagoniste_heroine": {
+      "nom": "Antigone",
+      "statut_social": "Princesse de Thèbes, fille d'Œdipe et de Jocaste, nièce de Créon",
+      "portrait_physique_et_moral": "Jeune fille maigre, noire, renfermée, physique ingrat comparé à sa sœur Ismène. Caractère obstiné, orgueilleux, passionné et pur. Refuse les compromis de l'âge adulte.",
+      "role_dans_la_tragedie": "Héroïne tragique. Elle décide d'enterrer son frère Polynice malgré l'interdiction royale de Créon, acceptant d'avance la condamnation à mort.",
+      "valeur_symbolique": "Symbole de la révolte absolue, de l'idéalisme de la jeunesse, du refus des concessions et de la résistance à la raison d'État.",
+      "relations_cles": [
+        "Fiancée d'Hémon (son cousin)",
+        "Sœur junior d'Ismène",
+        "Nièce et opposante de Créon",
+        "Élevée par la Nourrice"
+      ]
+    },
+    "famille_royale_et_pouvoir": [
+      {
+        "nom": "Créon",
+        "statut_social": "Roi de Thèbes, frère de Jocaste, oncle d'Antigone et d'Ismène",
+        "portrait_physique_et_moral": "Homme mûr, fatigué, seul face aux responsabilités du pouvoir. Pragmatique, réaliste, autoritaire mais soucieux d'éviter le drame.",
+        "role_dans_la_tragedie": "Antagoniste principal. Il tente de convaincre Antigone de renoncer à son geste pour la sauver, mais se voit contraint de la condamner pour maintenir l'ordre public.",
+        "valeur_symbolique": "Incarne la raison d'État, le pouvoir politique, les compromis de la vie adulte et le devoir d'homme d'État.",
+        "relations_cles": [
+          "Oncle d'Antigone et d'Ismène",
+          "Père d'Hémon",
+          "Époux d'Euridice"
+        ]
+      },
+      {
+        "nom": "Ismène",
+        "statut_social": "Princesse de Thèbes, sœur aînée d'Antigone",
+        "portrait_physique_et_moral": "Belle, blonde, éblouissante, aimant la vie et le bonheur. Craintive et raisonnable au début, puis courageuse par amour pour sa sœur.",
+        "role_dans_la_tragedie": "Tient le rôle du faire-valoir (double opposé d'Antigone). Elle tente d'abord de dissuader Antigone, puis veut partager son châtiment.",
+        "valeur_symbolique": "Incarne le goût de la vie quotidienne, la peur de la souffrance et la conformité aux lois des hommes.",
+        "relations_cles": [
+          "Sœur aînée d'Antigone",
+          "Nièce de Créon"
+        ]
+      },
+      {
+        "nom": "Hémon",
+        "statut_social": "Prince de Thèbes, fils de Créon et d'Euridice",
+        "portrait_physique_et_moral": "Jeune homme passionné, loyal et courageux. Adore son père jusqu'au choc du conflit, profondément épris d'Antigone.",
+        "role_dans_la_tragedie": "Fiancé d'Antigone. Il supplie Créon d'épargner Antigone, se révolte contre lui, puis se suicide à ses côtés dans le tombeau.",
+        "valeur_symbolique": "Incarne l'amour pur, l'amour de la jeunesse brisé par le conflit politique des adultes.",
+        "relations_cles": [
+          "Fiancé d'Antigone",
+          "Fils de Créon et d'Euridice"
+        ]
+      },
+      {
+        "nom": "Euridice",
+        "statut_social": "Reine de Thèbes, épouse de Créon, mère d'Hémon",
+        "portrait_physique_et_moral": "Femme douce, silencieuse, bonne, passant son temps à tricoter pour les pauvres de Thèbes.",
+        "role_dans_la_tragedie": "Personnage muet durant la pièce. À l'annonce de la mort d'Hémon, elle se tranche la gorge dans sa chambre.",
+        "valeur_symbolique": "Victime collatérale et silencieuse de la tragédie du pouvoir.",
+        "relations_cles": [
+          "Épouse de Créon",
+          "Mère d'Hémon"
+        ]
+      }
+    ],
+    "entourage_familial_et_domestique": [
+      {
+        "nom": "La Nourrice (Nounou)",
+        "statut_social": "Servante âgée de la famille royale",
+        "portrait_physique_et_moral": "Femme simple, affectueuse, inquiète, attachée au bien-être physique des jeunes filles.",
+        "role_dans_la_tragedie": "A élevé Antigone et Ismène. Incarne la tendresse maternelle et le quotidien rassurant (propose du café et de la soupe). Ignorante du drame tragique.",
+        "valeur_symbolique": "Représente le monde de l'enfance, du réconfort domestique et de la naïveté usuelle face au destin.",
+        "relations_cles": [
+          "Gouvernante d'Antigone et Ismène"
+        ]
+      },
+      {
+        "nom": "Le Page",
+        "statut_social": "Jeune serviteur personnel du roi Créon",
+        "portrait_physique_et_moral": "Enfant innocent, calme, docile.",
+        "role_dans_la_tragedie": "Accompagne Créon dans ses déplacements. À la fin, Créon s'appuie sur lui pour quitter la scène.",
+        "valeur_symbolique": "Incarne la jeunesse innocente qui grandira à son tour, tout en soulignant la solitude ultime du roi Créon.",
+        "relations_cles": [
+          "Serviteur de Créon"
+        ]
+      }
+    ],
+    "instances_narratives_et_theatrales": [
+      {
+        "nom": "Le Prologue / Le Chœur",
+        "statut_social": "Acteurs/Commentateurs de la représentation théâtrale",
+        "portrait_physique_et_moral": "Figures neutres, lucides et omniscientes.",
+        "role_dans_la_tragedie": "Le Prologue présente les personnages et le contexte en début de pièce. Le Chœur commente le déroulement du drame, définit la nature de la tragédie (Ch. 'La tragédie est propre...') et tente d'intercéder auprès de Créon.",
+        "valeur_symbolique": "Voix de la fatalité, de la conscience collective et métathéâtre (théâtre dans le théâtre).",
+        "relations_cles": [
+          "Intermédiaire entre l'auteur, les personnages et le public"
+        ]
+      },
+      {
+        "nom": "Le Messager",
+        "statut_social": "Agent de transmission de la cour",
+        "portrait_physique_et_moral": "Garçon pâle et solitaire.",
+        "role_dans_la_tragedie": "Pénètre sur scène à la fin de la pièce pour faire le récit poignant et détaillé du suicide d'Antigone, d'Hémon et d'Euridice.",
+        "valeur_symbolique": "Messager de la catastrophe tragique (respect des bienséances du théâtre classique).",
+        "relations_cles": [
+          "Sujet du roi Créon"
+        ]
+      }
+    ],
+    "representants_de_la_force_publique": [
+      {
+        "nom": "Les Gardes (Jonas, Durand, Baudrain)",
+        "statut_social": "Soldats de la garde royale de Thèbes",
+        "portrait_physique_et_moral": "Hommes vulgaires, bornés, insensibles, occupés uniquement par leur solde, leurs promotions et leur vin.",
+        "role_dans_la_tragedie": "Surveillent le cadavre de Polynice. Arrêtent Antigone sur le fait. Le garde Jonas écoute les dernières lettres d'Antigone sans aucune empathie.",
+        "valeur_symbolique": "Représentent l'exécution aveugle des ordres, la bêtise quotidienne et l'indifférence de la masse populaire.",
+        "relations_cles": [
+          "Subordonnés de Créon",
+          "Geôliers temporaires d'Antigone"
+        ]
+      }
+    ],
+    "figures_absentes_declencheuses_du_drame": [
+      {
+        "nom": "Polynice",
+        "statut_social": "Prince de Thèbes, frère d'Antigone et d'Ismène",
+        "portrait_physique_et_moral": "Voyou, révolté, recherchant le plaisir et le pouvoir.",
+        "role_dans_la_tragedie": "Mort en s'entretuant avec son frère Étéocle. Déclaré traître par Créon, son corps est laissé à la pourriture sans sépulture. Son enterrement est l'acte déclencheur du drame.",
+        "valeur_symbolique": "L'enjeu du devoir religieux et fraternel d'Antigone."
+      },
+      {
+        "nom": "Étéocle",
+        "statut_social": "Prince de Thèbes, frère d'Antigone, d'Ismène et de Polynice",
+        "portrait_physique_et_moral": "Considéré comme le 'bon frère' officiel.",
+        "role_dans_la_tragedie": "S'est entretué avec Polynice pour le trône de Thèbes. Reçoit des funérailles nationales pompeuses organisées par Créon à des fins de propagande politique.",
+        "valeur_symbolique": "Le héros de façade utilisé par la raison d'État."
+      },
+      {
+        "nom": "Œdipe et Jocaste",
+        "statut_social": "Anciens souverains de Thèbes, parents d'Antigone",
+        "role_dans_la_tragedie": "Morts avant le début de la pièce. Leur tragique destin familial pèse comme un héritage de malédiction sur Antigone.",
+        "valeur_symbolique": "Le poids de la fatalité tragique des Labdacides."
+      }
+    ]
+  }
+}

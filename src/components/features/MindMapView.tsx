@@ -160,6 +160,10 @@ export const MindMapView: React.FC<MindMapViewProps> = ({
       return 'Reliez ce personnage à la situation du condamné et montrez comment son rôle contribue à la dénonciation de la peine de mort.';
     }
 
+    if (novelId === 'antigone') {
+      return 'Situez ce personnage dans la tragédie et expliquez son rôle dans le conflit entre Antigone et Créon.';
+    }
+
     if (q.includes('sidi mohammed')) {
       return 'Personnage central. Objet de toutes les questions sur la double énonciation (narrateur adulte vs enfant), la solitude, et la fonction salvatrice de la boîte à merveilles.';
     }

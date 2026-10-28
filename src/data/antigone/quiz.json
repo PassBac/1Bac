@@ -1,0 +1,1028 @@
+{
+  "titre": "Quiz - Antigone de Jean Anouilh : Séquence 1 (Le Prologue et l'Exposition)",
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "sequence": "Séquence 1 : Le Prologue, le petit matin, les scènes avec la Nourrice et Ismène",
+  "description": "Banque de 72 questions interactives réparties en quatre séquences : exposition, adieux et profanation, arrestation et confrontation, puis dénouement.",
+  "nombre_questions": 72,
+  "questions": [
+    {
+      "id": 1,
+      "type": "QCM",
+      "categorie": "Le Prologue et la dramaturgie",
+      "question": "Quel est le rôle principal du Prologue au début de la pièce d'Anouilh ?",
+      "options": [
+        "A) Raconter une histoire comique pour divertir les spectateurs.",
+        "B) Présenter les personnages, le cadre de l'action, le contexte politique et annoncer le destin tragique.",
+        "C) Interrompre la pièce pour donner le point de vue du public.",
+        "D) Jouer le rôle d'un garde chargé de surveiller le cadavre."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Le Prologue est un personnage-narrateur qui rompt l'illusion théâtrale en présentant directement les personnages sur scène et en dévoilant la fatalité du drame."
+    },
+    {
+      "id": 2,
+      "type": "QCM",
+      "categorie": "Portraits des personnages",
+      "question": "Comment le Prologue décrit-il Antigone dès les premières lignes de la pièce ?",
+      "options": [
+        "A) Une jeune fille éclatante, blonde, heureuse et courtisée par tous.",
+        "B) Une reine puissante et autoritaire qui gouverne Thèbes.",
+        "C) Une petite maigre, sombre, renfermée, que personne ne prenait au sérieux et qui va mourir.",
+        "D) Une vieille femme épuisée par les malheurs de sa famille."
+      ],
+      "reponse_correcte": "C",
+      "explication": "Antigone est présentée comme physique frêle ('petite maigre'), ténébreuse et solitaire, en opposition directe avec sa sœur Ismène."
+    },
+    {
+      "id": 3,
+      "type": "QCM",
+      "categorie": "Portraits des personnages",
+      "question": "Comment Ismène est-elle caractérisée par rapport à sa sœur Antigone ?",
+      "options": [
+        "A) Elle est laide, timide et vit recluse dans sa chambre.",
+        "B) Elle est la 'blonde, la belle, la brillante Ismène', éblouissante et plus raisonnable.",
+        "C) Elle est une guerrière intrépide prête à braver Créon.",
+        "D) Elle est la fiancée secrète du roi Créon."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Ismène incarne la beauté conventionnelle, la jeunesse épanouie et le goût de la vie, servant de faire-valoir à la figure tragique d'Antigone."
+    },
+    {
+      "id": 4,
+      "type": "QCM",
+      "categorie": "Contexte politique & Édit",
+      "question": "Quel est le motif du conflit sanglant entre les deux frères Étéocle et Polynice ?",
+      "options": [
+        "A) Ils se disputaient l'amour d'Ismène.",
+        "B) Ils devaient régner un an sur deux, mais Étéocle a refusé de céder le trône à la fin de son mandat.",
+        "C) Polynice a volé le trésor royal de Thèbes.",
+        "D) Étéocle voulait abolir la monarchie à Thèbes."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Après la mort d'Œdipe, les deux frères avaient convenu d'une alternance au pouvoir. Le refus d'Étéocle a poussé Polynice à attaquer Thèbes avec une armée étrangère."
+    },
+    {
+      "id": 5,
+      "type": "QCM",
+      "categorie": "Contexte politique & Édit",
+      "question": "Quelle est la décision prise par le roi Créon concernant la sépulture des deux frères ?",
+      "options": [
+        "A) Accorder des funérailles nationales aux deux frères.",
+        "B) Offrir de grandes funérailles à Étéocle et laisser le cadavre de Polynice pourrir au soleil sans sépulture.",
+        "C) Brûler les deux corps sur le même bûcher sacré.",
+        "D) Jeter les deux corps dans la mer."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Créon fait d'Étéocle le héros officiel et de Polynice le traître dont le corps doit être dévoré par les pourceaux et les oiseaux, sous peine de mort pour quiconque l'enterrerait."
+    },
+    {
+      "id": 6,
+      "type": "QCM",
+      "categorie": "Scène 1 : Antigone et la Nourrice",
+      "question": "À quelle heure de la nuit/du matin Antigone rentre-t-elle au palais dans la première scène ?",
+      "options": [
+        "A) À minuit pile.",
+        "B) À quatre heures du matin, à l'aube encore fraîche.",
+        "C) À midi sous un soleil brûlant.",
+        "D) À vingt heures après le coucher du soleil."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone rentre à l'aube, pieds nus et la robe mouillée de rosée, après sa première tentative d'enterrement de Polynice."
+    },
+    {
+      "id": 7,
+      "type": "QCM",
+      "categorie": "Scène 1 : Quiproquo",
+      "question": "Quel soupçon la Nourrice a-t-elle lorsque Antigone rentre si tôt le matin ?",
+      "options": [
+        "A) Elle croit qu'Antigone est allée voler de la nourriture aux cuisines.",
+        "B) Elle s'imagine qu'Antigone a un amoureux secret et qu'elle revient d'un rendez-vous galant.",
+        "C) Elle pense qu'Antigone s'est perdue dans la montagne.",
+        "D) Elle soupçonne Antigone d'avoir comploté contre Créon."
+      ],
+      "reponse_correcte": "B",
+      "explication": "La Nourrice raisonne en femme simple et gronde Antigone comme une enfant, créant un quiproquo comique et touchant par rapport au véritable geste héroïque."
+    },
+    {
+      "id": 8,
+      "type": "QCM",
+      "categorie": "Scène 1 : Symbolique",
+      "question": "Que répond poétiquement Antigone lorsque la Nourrice lui demande où elle était ?",
+      "options": [
+        "A) Qu'elle était au marché acheter des fleurs.",
+        "B) Le monde était tout gris / C'était un jardin qui ne pensait pas encore aux hommes.",
+        "C) Qu'elle s'était cachée dans les écuries du roi.",
+        "D) Qu'elle regardait les étoiles briller au ciel."
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone évoque la fraîcheur virginale de l'aube et son contact avec la nature brute ('j'ai enlevé mes sandales'), avant la présence corrompue des hommes."
+    },
+    {
+      "id": 9,
+      "type": "Texte_a_trous",
+      "categorie": "Scène 2 : Antigone et Ismène",
+      "question": "Complétez le texte à trous sur les arguments d'Ismène :",
+      "texte": "Ismène tente de dissuader sa sœur en lui disant : 'Il faut ______. Créon est le plus ______. Il est le roi. Et toute la ville les ______. Ils ont mille bras et mille visages.' Mais Antigone refuse d'écouter la raison.",
+      "mots_a_placer": [
+        "réfléchir",
+        "fort",
+        "huera"
+      ],
+      "reponse_correcte": "réfléchir | fort | huera",
+      "explication": "Ismène représente la prudence humaine et la peur de la douleur physique (la foule, la lapidation), tandis qu'Antigone rejette la réflexion calculée."
+    },
+    {
+      "id": 10,
+      "type": "QCM",
+      "categorie": "Scène 2 : Attitude d'Antigone",
+      "question": "Quelle est la réplique célèbre d'Antigone face au conseil d'Ismène de 'comprendre' la situation ?",
+      "options": [
+        "A) 'Je comprends très bien et j'obéis à Créon.'",
+        "B) 'Comprendre... Vous n'avez que ce mot-là à la bouche, tous ! Moi, je ne veux pas comprendre.'",
+        "C) 'Je comprendrai quand je serai plus âgée.'",
+        "D) 'Personne ne peut comprendre le roi.'"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Le refus de 'comprendre' est le slogan du refus d'Antigone face au monde des adultes et à la politique réaliste."
+    },
+    {
+      "id": 11,
+      "type": "QCM",
+      "categorie": "Scène 3 : L'animal de compagnie",
+      "question": "Quel est le nom de la chienne qu'Antigone confie tendrement à la Nourrice avant de partir ?",
+      "options": [
+        "A) Blanche",
+        "B) Douce",
+        "C) Calme",
+        "D) Fidèle"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone demande à la Nourrice de veiller sur sa chienne Douce, de lui parler et de ne jamais la punir, préparant implicitement son absence définitive."
+    },
+    {
+      "id": 12,
+      "type": "Identification",
+      "categorie": "Didascalies et mise en scène",
+      "question": "Identifiez le personnage désigné par la didascalie et la description du Prologue : 'Un monsieur mûr avec son page, qui réfléchit au milieu du palais...'",
+      "extrait": "Il a des rides, il est fatigué. Il aime la musique, les belles peintures. Avant, il ne s'occupait pas de politique. Mais aujourd'hui, il est le roi.",
+      "reponse_correcte": "Créon",
+      "explication": "Il s'agit du portrait de Créon, souverain malgré lui, contraint de porter la lourde charge du gouvernement de la cité."
+    },
+    {
+      "id": 13,
+      "type": "QCM",
+      "categorie": "Le Chœur et la fatalité",
+      "question": "D'après le Prologue, qui sont les deux jeunes gens qui s'aiment mais dont l'union sera brisée ?",
+      "options": [
+        "A) Polynice et Ismène",
+        "B) Antigone et Hémon",
+        "C) Créon et Eurydice",
+        "D) Étéocle et la Nourrice"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Hémon est le fils de Créon et le fiancé d'Antigone. Tout le promettait au bonheur avec Ismène, mais il a choisi Antigone."
+    },
+    {
+      "id": 14,
+      "type": "Identification",
+      "categorie": "Analyse d'extrait",
+      "question": "Qui prononce ces paroles adressées à Antigone : 'J'ai bien réfléchi toute la nuit. Je suis l'aînée. Je réfléchis plus que toi.' ?",
+      "options": [
+        "A) La Nourrice",
+        "B) Ismène",
+        "C) Eurydice",
+        "D) La servante"
+      ],
+      "reponse_correcte": "B",
+      "explication": "C'est Ismène qui essaie de faire valoir son rôle de sœur aînée et sa maturité pour empêcher Antigone de risquer sa vie."
+    },
+    {
+      "id": 15,
+      "type": "QCM",
+      "categorie": "Geste héroïque",
+      "question": "Quel objet rudimentaire Antigone a-t-elle utilisé lors de sa première tentative pour recouvrir le corps de son frère ?",
+      "options": [
+        "A) Une pelle en fer prise aux soldats.",
+        "B) Une petite pelle d'enfant en plastique.",
+        "C) Une petite pelle d'enfant rouillée qui appartenait à Polynice et ses propres mains.",
+        "D) Un grand drap blanc."
+      ],
+      "reponse_correcte": "C",
+      "explication": "L'utilisation de la petite pelle d'enfant rouillée souligne la dimension naïve, enfantine et pure du geste d'Antigone."
+    },
+    {
+      "id": 16,
+      "type": "Texte_a_trous",
+      "categorie": "Caractérisation du drame",
+      "question": "Complétez la citation du Prologue sur le rôle de chacun :",
+      "texte": "Antigone va jouer son rôle jusqu'au bout. Et depuis ce matin, une intuition la pousse à être ______. Créon, lui, doit faire exécuter la loi, car il est le ______. Et les gardes, eux, vont jouer aux ______ et sentir la sueur.",
+      "mots_a_placer": [
+        "elle-même",
+        "roi",
+        "cartes"
+      ],
+      "reponse_correcte": "elle-même | roi | cartes",
+      "explication": "Chaque personnage est emprisonné dans son rôle social ou tragique préétabli dès le lever de rideau."
+    },
+    {
+      "id": 17,
+      "type": "QCM",
+      "categorie": "Thématique de la solitude",
+      "question": "Pourquoi Antigone se sent-elle si seule au moment de décider d'enterrer son frère ?",
+      "options": [
+        "A) Parce que ses parents sont morts et que personne dans sa famille ne veut l'aider.",
+        "B) Parce que Créon l'a enfermée dans un donjon.",
+        "C) Parce qu'Hémon a refusé de lui parler.",
+        "D) Parce que les citoyens de Thèbes l'ont dénoncée."
+      ],
+      "reponse_correcte": "A",
+      "explication": "La solitude de l'héroïne tragique est totale : sans père ni mère, rejetée par la raison d'Ismène, elle doit assumer seule son destin."
+    },
+    {
+      "id": 18,
+      "type": "Analyse_redigee",
+      "categorie": "Question de rédaction type Examen",
+      "question": "En vous appuyant sur la Séquence 1, expliquez en quelques lignes le contraste d'attitude et de caractère entre Antigone et Ismène.",
+      "elements_de_reponse": [
+        "Ismène incarne la conformité, la beauté classique, la raison, la peur de la souffrance physique et l'obéissance à l'autorité (Créon).",
+        "Antigone incarne la révolte, la noirceur, la passion, l'entêtement et le refus des compromis au nom du devoir familial et religieux.",
+        "Ismène privilégie le verbe 'réfléchir' et 'comprendre', tandis qu'Antigone privilégie l'action immédiate et l'engagement absolu."
+      ]
+    },
+    {
+  "titre": "Quiz Antigone - Séquence 2 : Adieux à Hémon, 2ème confrontation avec Ismène et 1ère profanation découvrant les Gardes",
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "sequence": "Séquence 2",
+  "nombre_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Hémon)",
+      "titre_sequence": "La scène de pardon et d'adieu avec Hémon",
+      "question": "Que demande Antigone à Hémon au tout début de leur entrevue dramatique ?",
+      "options": [
+        "A) De tuer son père Créon",
+        "B) De lui pardonner sa conduite de la veille et leur dispute",
+        "C) De s'enfuir immédiatement avec elle loin de Thèbes",
+        "D) De l'aider à enterrer le cadavre de Polynice"
+      ],
+      "reponse_correcte": "B) De lui pardonner sa conduite de la veille et leur dispute",
+      "explication": "Antigone demande sincèrement pardon à Hémon pour leur querelle de la veille où elle s'était parée de la robe et du maquillage d'Ismène.",
+      "situation_passage": "Au petit matin, après sa première tentative secrète d'enterrement, Antigone retrouve Hémon pour clore leurs comptes affectifs."
+    },
+    {
+      "id": 2,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Hémon)",
+      "titre_sequence": "Le serment exigé par Antigone",
+      "question": "Quelle promesse absolue Antigone exige-t-elle d'Hémon avant de lui faire son aveu ?",
+      "options": [
+        "A) De ne lui poser aucune question et de quitter la pièce sans dire un mot après son annonce",
+        "B) De l'épouser en secret le soir même",
+        "C) De renoncer à son trône et à ses privilèges princiers",
+        "D) De jurer fidélité à la mémoire de Polynice"
+      ],
+      "reponse_correcte": "A) De ne lui poser aucune question et de quitter la pièce sans dire un mot après son annonce",
+      "explication": "Antigone exige qu'il jure sur leur amour de partir sans demander d'explications afin d'éviter qu'il ne tente de la retenir.",
+      "situation_passage": "Antigone prépare Hémon à la rupture inévitable causée par son acte tragique."
+    },
+    {
+      "id": 3,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Hémon)",
+      "titre_sequence": "L'annonce de la rupture",
+      "question": "Quelle décision douloureuse Antigone annonce-t-elle à Hémon lors de cette scène ?",
+      "options": [
+        "A) Qu'elle ne pourra jamais devenir sa femme",
+        "B) Qu'elle aime un autre homme",
+        "C) Qu'elle part vivre définitivement à Argos",
+        "D) Qu'elle refuse de porter son enfant"
+      ],
+      "reponse_correcte": "A) Qu'elle ne pourra jamais devenir sa femme",
+      "explication": "Antigone lui annonce avec un chagrin immense qu'elle ne pourra jamais l'épouser, brisant leur rêve de bonheur partagé.",
+      "situation_passage": "C'est la scène d'adieu poignante où Antigone renonce à la vie et au bonheur terrestre."
+    },
+    {
+      "id": 4,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Hémon)",
+      "titre_sequence": "La réaction d'Hémon",
+      "question": "Comment Hémon réagit-il immédiatement après l'annonce dramatique d'Antigone ?",
+      "options": [
+        "A) Il entre dans une fureur violente et la menace",
+        "B) Il respecte son serment, demeure abasourdi et sort sans dire un mot",
+        "C) Il la supplie à genoux et refuse catégoriquement de partir",
+        "D) Il va immédiatement avertir son père Créon"
+      ],
+      "reponse_correcte": "B) Il respecte son serment, demeure abasourdi et sort sans dire un mot",
+      "explication": "Fidèle au serment solennel qu'il vient de prêter, Hémon sort lourdement de la pièce sans poser de question.",
+      "situation_passage": "Après le départ d'Hémon, Antigone reste seule avec son secret dramatique."
+    },
+    {
+      "id": 5,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Ismène II)",
+      "titre_sequence": "La deuxième confrontation des deux sœurs",
+      "question": "Lors de leur deuxième discussion, quel argument Ismène avance-t-elle à nouveau pour arrêter Antigone ?",
+      "options": [
+        "A) Le peuple de Thèbes soutient Créon et crachera sur elles lors du supplice",
+        "B) Le corps de Polynice est déjà complètement décomposé",
+        "C) Le roi Créon a gracié Polynice à la dernière minute",
+        "D) Le mariage d'Ismène dépend du silence d'Antigone"
+      ],
+      "reponse_correcte": "A) Le peuple de Thèbes soutient Créon et crachera sur elles lors du supplice",
+      "explication": "Ismène évoque la foule thébaine terrifiante, la haine populaire et la peur de la douleur physique causée par la torture.",
+      "situation_passage": "Ismène tente désespérément d'empêcher sa sœur de commettre l'irréparable."
+    },
+    {
+      "id": 6,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Antigone / Ismène II)",
+      "titre_sequence": "La révélation du forfait consommé",
+      "question": "Quelle révélation stupéfiante Antigone fait-elle à Ismène pour couper court à ses arguments ?",
+      "options": [
+        "A) Qu'elle a déjà accompli son geste à l'aube",
+        "B) Qu'elle renonce définitivement à son projet",
+        "C) Qu'Hémon l'a aidée pendant la nuit",
+        "D) Que Créon est au courant depuis le début"
+      ],
+      "reponse_correcte": "A) Qu'elle a déjà accompli son geste à l'aube",
+      "explication": "Antigone lui apprend qu'il est trop tard : 'C'est fait. Ce matin. J'y suis allée.'",
+      "situation_passage": "Antigone révèle la vérité à Ismène : l'acte de transgression a déjà eu lieu."
+    },
+    {
+      "id": 7,
+      "chapitre_ou_sequence": "Séquence 2 (L'instrument du délit)",
+      "titre_sequence": "La petite pelle d'enfant",
+      "question": "Avec quel objet singulier Antigone a-t-elle recouvert le cadavre de son frère ?",
+      "options": [
+        "A) Une pelle de fer dérobée aux gardes",
+        "B) Une petite pelle d'enfant en fer rouillé",
+        "C) Ses mains nues et un morceau de bois",
+        "D) Un voile en soie noire"
+      ],
+      "reponse_correcte": "B) Une petite pelle d'enfant en fer rouillé",
+      "explication": "Antigone a utilisé une petite pelle d'enfant en fer rouillé ayant appartenu autrefois à Polynice.",
+      "situation_passage": "La pelle symbolise l'enfance partagée et la naïvete du geste tragique d'Antigone."
+    },
+    {
+      "id": 8,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "L'identité des trois gardes",
+      "question": "Quels sont les noms des trois gardes chargés de veiller le corps de Polynice ?",
+      "options": [
+        "A) Jonas, Durand et Baudrain",
+        "B) Jacques, Pierre et Jean",
+        "C) Hector, Achille et Ulysse",
+        "D) Polynice, Étéocle et Ménécée"
+      ],
+      "reponse_correcte": "A) Jonas, Durand et Baudrain",
+      "explication": "Anouilh donne à ces gardes des noms très ordinaires (Jonas, Durand, Baudrain) pour accentuer leur vulgarité quotidienne.",
+      "situation_passage": "Les gardes incarnent l'indifférence morale de la force publique obéissant aveuglément au pouvoir."
+    },
+    {
+      "id": 9,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "Les préoccupations ordinaires des gardes",
+      "question": "Quelle est la principale préoccupation des gardes pendant qu'ils veillent le cadavre ?",
+      "options": [
+        "A) Le respect des lois sacrées et des dieux",
+        "B) Jouer aux cartes, boire du vin et obtenir des primes ou promotions",
+        "C) La souffrance morale de la famille royale",
+        "D) La menace d'une invasion militaire étrangère"
+      ],
+      "reponse_correcte": "B) Jouer aux cartes, boire du vin et obtenir des primes ou promotions",
+      "explication": "Les gardes sont insensibles au drame tragique et ne pensent qu'à leur confort matériel, leur solde et leurs privilèges.",
+      "situation_passage": "Cette scène apporte un contraste saisissant entre le sublime tragique d'Antigone et le prosaïsme vulgaire des gardes."
+    },
+    {
+      "id": 10,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "La découverte du délit",
+      "question": "Comment les gardes découvrent-ils la profanation de l'édit royal ?",
+      "options": [
+        "A) En entendant un bruit suspect pendant la nuit",
+        "B) En faisant une ronde d'inspection au petit matin",
+        "C) En voyant la pelle rouillée abandonnée au pied de la colline",
+        "D) Grâce aux aboiements des chiens de la ville"
+      ],
+      "reponse_correcte": "B) En faisant une ronde d'inspection au petit matin",
+      "explication": "Le garde Jonas remarque lors de sa ronde qu'un peu de terre a été grattée et répandue sur le cadavre de Polynice.",
+      "situation_passage": "C'est l'élément déclencheur de l'enquête menée par la garde royale."
+    },
+    {
+      "id": 11,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "La terreur des gardes",
+      "question": "Pourquoi les gardes sont-ils saisis d'une terreur panique en voyant la terre sur le cadavre ?",
+      "options": [
+        "A) Ils craignent d'être exécutés ou condamnés aux galères par Créon pour faute grave",
+        "B) Ils ont peur d'être hantés par le fantôme de Polynice",
+        "C) Ils craignent une révolte populaire armée",
+        "D) Ils ont peur de perdre leur logement de fonction"
+      ],
+      "reponse_correcte": "A) Ils craignent d'être exécutés ou condamnés aux galères par Créon pour faute grave",
+      "explication": "Créon ne pardonne aucune négligence : si le responsable n'est pas identifié, les gardes paieront de leur propre vie.",
+      "situation_passage": "Les trois gardes paniquent et cherchent un moyen d'échapper au châtiment royal."
+    },
+    {
+      "id": 12,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "La pièce à conviction",
+      "question": "Quel objet laissé sur place sert d'indice majeur aux gardes ?",
+      "options": [
+        "A) Un mouchoir brodé aux armes de la reine",
+        "B) La petite pelle d'enfant en fer rouillé",
+        "C) Une sandale dorée d'Ismène",
+        "D) Une mèche de cheveux blonds"
+      ],
+      "reponse_correcte": "B) La petite pelle d'enfant en fer rouillé",
+      "explication": "Les gardes ramassent la petite pelle d'enfant abandonnée par Antigone près du cadavre.",
+      "situation_passage": "L'objet ramassé par les gardes est la preuve matérielle apportée plus tard à Créon."
+    },
+    {
+      "id": 13,
+      "chapitre_ou_sequence": "Séquence 2 (Scène des Gardes)",
+      "titre_sequence": "L'hypothèse des gardes",
+      "question": "Qui les gardes imaginent-ils d'abord être l'auteur du forfait au vu de l'indice trouvant sur les lieux ?",
+      "options": [
+        "A) Un enfant accomplissant un jeu ou un rite",
+        "B) La princesse Antigone",
+        "C) Un garde traître de leur propre escouade",
+        "D) Un prêtre du temple de Thèbes"
+      ],
+      "reponse_correcte": "A) Un enfant accomplissant un jeu ou un rite",
+      "explication": "Vu la petite quantité de terre et la pelle d'enfant, ils s'imaginent naïvement qu'il s'agit d'un enfant imprudent.",
+      "situation_passage": "Les gardes n'imaginent pas une seconde qu'une princesse royale a bravé le décret."
+    },
+    {
+      "id": 14,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Créon / Garde Jonas)",
+      "titre_sequence": "La désignation du messager",
+      "question": "Comment le garde Jonas est-il désigné pour annoncer la mauvaise nouvelle à Créon ?",
+      "options": [
+        "A) Par tirage au sort au sort du sort de la courte paille entre les trois gardes",
+        "B) Parce qu'il est le plus ancien et le plus gradé",
+        "C) Parce qu'il s'est porté volontaire de son plein gré",
+        "D) Par ordre direct du commandant de la garnison"
+      ],
+      "reponse_correcte": "A) Par tirage au sort au sort du sort de la courte paille entre les trois gardes",
+      "explication": "Le sort désavantage le garde Jonas, qui doit aller affronter la colère de Créon tandis que les deux autres attendent.",
+      "situation_passage": "Jonas se rend au palais en tremblant de peur pour faire son rapport au roi."
+    },
+    {
+      "id": 15,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Créon / Garde Jonas)",
+      "titre_sequence": "L'attitude de Jonas face à Créon",
+      "question": "Dans quel état d'esprit le garde Jonas se présente-t-il devant le roi Créon ?",
+      "options": [
+        "A) Assuré, fier et arrogant",
+        "B) Terrifié, bégayant et craignant d'être exécuté immédiatement",
+        "C) Triste et compatissant envers la famille d'Œdipe",
+        "D) En colère contre l'incompétence de ses camarades"
+      ],
+      "reponse_correcte": "B) Terrifié, bégayant et craignant d'être exécuté immédiatement",
+      "explication": "Jonas multiplie les excuses et bégaye de terreur face à l'autorité intimidante du roi.",
+      "situation_passage": "La confrontation montre le pouvoir absolu et impitoyable de Créon sur ses sujets."
+    },
+    {
+      "id": 16,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Créon / Garde Jonas)",
+      "titre_sequence": "L'interprétation politique de Créon",
+      "question": "Comment Créon interprète-t-il au départ la profanation de son décret ?",
+      "options": [
+        "A) Comme un complot politique d'opposants cherchant à corrompre la garde et corrompre le peuple",
+        "B) Comme une plaisanterie d'étudiants",
+        "C) Comme une manifestation divine solennelle",
+        "D) Comme le geste désespéré d'Antigone"
+      ],
+      "reponse_correcte": "A) Comme un complot politique d'opposants cherchant à corrompre la garde et corrompre le peuple",
+      "explication": "Créon imagine une conspiration d'ennemis politiques cherchant à discréditer son autorité naissante.",
+      "situation_passage": "Créon réagit en homme d'État méfiant qui soupçonne partout la corruption et la trahison."
+    },
+    {
+      "id": 17,
+      "chapitre_ou_sequence": "Séquence 2 (Scène Créon / Garde Jonas)",
+      "titre_sequence": "Les ordres de Créon pour étouffer l'affaire",
+      "question": "Quelle consigne stricte et menaçante Créon donne-t-il au garde Jonas ?",
+      "options": [
+        "A) Garder le silence absolu sur cette profanation et découvrir de nouveau le cadavre",
+        "B) Publier un second édit accordant la grâce à Polynice",
+        "C) Arrêter Ismène et la placer immédiatement au cachot",
+        "D) Faire fermer les portes de la ville"
+      ],
+      "reponse_correcte": "A) Garder le silence absolu sur cette profanation et découvrir de nouveau le cadavre",
+      "explication": "Créon veut éviter la panique et la rumeur : il ordonne le secret total et fait déterrer le corps sous peine de mort pour les gardes.",
+      "situation_passage": "Créon espère étouffer l'affaire avant qu'elle ne prenne une tournure publique incontrôlable."
+    },
+    {
+      "id": 18,
+      "chapitre_ou_sequence": "Séquence 2 (Portée dramatique)",
+      "titre_sequence": "L'engrenage fatal de la Séquence 2",
+      "question": "Quelle est la valeur dramatique majeure de cette Séquence 2 dans l'économie de la pièce d'Anouilh ?",
+      "options": [
+        "A) Elle consacre le point de non-retour tragique où l'acte d'Antigone est accompli et le piège de la fatalité refermé",
+        "B) Elle apporte un dénouement heureux et apaisé",
+        "C) Elle scelle la réconciliation définitive d'Antigone et d'Ismène",
+        "D) Elle annonce le couronnement imminent d'Hémon"
+      ],
+      "reponse_correcte": "A) Elle consacre le point de non-retour tragique où l'acte d'Antigone est accompli et le piège de la fatalité refermé",
+      "explication": "Dès lors que le geste a été posé et découvert par le pouvoir royal, l'engrenage de la tragédie s'enclenche de façon inéluctable.",
+      "situation_passage": "Cette séquence fait basculer la pièce du projet secret à l'affrontement inévitable avec le roi."
+    }
+  ]
+},
+{
+  "titre": "Quiz Séquence 3 : Antigone de Jean Anouilh",
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "sequence": "Séquence 3 : L'arrestation d'Antigone et le grand face-à-face avec Créon",
+  "description": "18 questions interactives (QCM, Vrai/Faux, Textes à trous et questions d'analyse) sur la capture d'Antigone en plein jour, la tentative d'étouffement par Créon, la démystification des frères et le refus du compromis.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "QCM",
+      "question": "Dans quelles circonstances Antigone est-elle arrêtée par les gardes lors de sa seconde tentative ?",
+      "options": [
+        "A) En pleine nuit, cachée derrière les arbres",
+        "B) En plein midi, sous un soleil éclatant, grattant la terre à mains nues ou avec un morceau de tuile",
+        "C) À l'aube, alors qu'elle s'enfuyait du palais avec Hémon",
+        "D) Au coucher du soleil, dénoncée par sa sœur Ismène"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone retourne auprès du corps de Polynice à midi, sous une lumière crue. Sans sa pelle confisquée, elle gratte la terre brûlante à mains nues et avec un morceau de tuile."
+    },
+    {
+      "id": 2,
+      "type": "QCM",
+      "question": "Quelle est la première réaction de Créon lorsque le garde Jonas lui amène Antigone captive ?",
+      "options": [
+        "A) Il ordonne son exécution immédiate sur la place publique",
+        "B) Il croit d'abord à une erreur ou une plaisanterie des gardes",
+        "C) Il éclate de rire et félicite Antigone pour son courage",
+        "D) Il fait emprisonner Ismène à sa place"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Créon refuse d'abord de croire que sa nièce et la fiancée de son fils soit la coupable. Il pense que les gardes se sont trompés ou qu'ils mentent."
+    },
+    {
+      "id": 3,
+      "type": "Vrai_Faux",
+      "question": "Créon propose d'abord d'étouffer l'affaire et de faire disparaître les trois gardes pour sauver la vie d'Antigone.",
+      "reponse_correcte": "Vrai",
+      "explication": "Vrai. Créon propose d'éliminer ou d'enfermer les trois gardes s'ils ont parlé, à condition qu'Antigone réintègre sa chambre et jure de ne plus recommencer."
+    },
+    {
+      "id": 4,
+      "type": "QCM",
+      "question": "Pourquoi Antigone refuse-t-elle le marché proposé par Créon pour sauver sa vie ?",
+      "options": [
+        "A) Car elle veut devenir reine de Thèbes",
+        "B) Car elle refuse le mensonge, le compromis et sait qu'elle recommencera dès cette nuit",
+        "C) Car elle préfère épouser le garde Jonas",
+        "D) Car Ismène l'oblige à se sacrifier"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone affirme en toute franchise qu'elle recommencera dès la nuit tombée, car son geste est un devoir absolu qu'elle doit accomplir jusqu'au bout."
+    },
+    {
+      "id": 5,
+      "type": "Texte_a_trous",
+      "question": "Complétez la comparaison célèbre de Créon sur le métier de roi : 'Pour dire oui, il faut suer et retrousser ses manches, poigner la vie à pleines mains et s'en mettre jusqu'aux coudes. C'est facile de dire non... Mais pour gouverner, il faut être un bon _______.'",
+      "texte_a_trous": "Pour dire oui, il faut suer et retrousser ses manches... Mais pour gouverner, il faut être un bon [cuisinier].",
+      "mot_a_placer": "cuisinier",
+      "explication": "Créon compare le rôle de souverain à celui d'un 'cuisinier' qui doit faire le travail sale quotidien de la politique et de la raison d'État."
+    },
+    {
+      "id": 6,
+      "type": "QCM",
+      "question": "Quelle métaphore politique majeure Créon utilise-t-il pour justifier la rigueur de son édit ?",
+      "options": [
+        "A) La métaphore de la pièce de théâtre où chacun joue son rôle",
+        "B) La métaphore du navire en perdition dans la tempête qu'il faut redresser",
+        "C) La métaphore du jardinier qui taille les mauvaises herbes",
+        "D) La métaphore du berger protégeant son troupeau des loups"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Créon compare Thèbes à un navire désemparé au milieu de la tempête. Pour éviter le naufrage après la guerre civile, il faut imposer l'ordre sans sentimentalisme."
+    },
+    {
+      "id": 7,
+      "type": "QCM",
+      "question": "Quelle révélation troublante Créon fait-il à Antigone sur ses deux frères, Étéocle et Polynice ?",
+      "options": [
+        "A) Qu'ils étaient tous deux des héros saints et vertueux",
+        "B) Qu'ils étaient tous deux des voyous ambitieux, traîtres et qu'on n'a même pas pu identifier leurs corps défigurés",
+        "C) Qu'ils ont fui à l'étranger ensemble",
+        "D) Que Polynice était en réalité le fils d'un roi voisin"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Créon démystifie les deux frères : tous deux ont tenté de faire assassiner leur père Œdipe et la cérémonie officielle pour Étéocle n'était qu'une opération de propagande politique."
+    },
+    {
+      "id": 8,
+      "type": "QCM",
+      "question": "Quel est l'effet immédiat de la révélation sur ses frères chez Antigone ?",
+      "options": [
+        "A) Elle éclate de rire et remercie Créon",
+        "B) Elle est ébranlée, déçue, perd ses moyens et s'apprête à remonter silencieusement dans sa chambre",
+        "C) Elle attaque immédiatement Créon physiquement",
+        "D) Elle demande à être couronnée reine de Thèbes"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Touchée au cœur par l'absurdité du motif fraternel, Antigone vacille. Elle murmure qu'elle va remonter dans sa chambre, vaincue par l'argumentation pragmatique."
+    },
+    {
+      "id": 9,
+      "type": "Texte_a_trous",
+      "question": "Complétez le mot déclencheur de la rechute d'Antigone. Lorsque Créon lui conseille de vivre et de chercher le 'petit [bonheur]', Antigone réagit avec dégoût.",
+      "texte_a_trous": "Créon conseille à Antigone de vivre et de chercher le petit [bonheur].",
+      "mot_a_placer": "bonheur",
+      "explication": "C'est l'évocation par Créon du 'petit bonheur' quotidien, bourgeois et résigné qui scandalise Antigone et relance sa révolte tragique."
+    },
+    {
+      "id": 10,
+      "type": "QCM",
+      "question": "Que reproche exactement Antigone au 'bonheur' tel que le conçoit Créon ?",
+      "options": [
+        "A) Qu'il est trop cher et difficile à obtenir",
+        "B) Qu'il exige des concessions, de la lâcheté, de l'égoïsme et d'accepter des miettes de vie",
+        "C) Qu'il n'est pas réservé aux familles royales",
+        "D) Qu'il empêche les gens de voyager"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone refuse un bonheur d'usure et de compromis où il faut mordre chaque jour sa petite dent de bonheur. Elle exige tout, tout de suite, et intact."
+    },
+    {
+      "id": 11,
+      "type": "Vrai_Faux",
+      "question": "Dans le débat entre Créon et Antigone, la stichomythie (dialogue rapide en courtes répliques) traduit la tension dramatique maximale entre deux logiques inconciliables.",
+      "reponse_correcte": "Vrai",
+      "explication": "Vrai. L'échange de répliques courtes et tranchantes illustre le choc frontal entre la raison d'État pragmatique de Créon et l'exigence d'absolu d'Antigone."
+    },
+    {
+      "id": 12,
+      "type": "QCM",
+      "question": "Quelle attitude adopte Ismène lorsqu'elle survient soudainement pendant la confrontation ?",
+      "options": [
+        "A) Elle vient féliciter Créon d'avoir arrêté sa sœur",
+        "B) Elle veut mourir avec Antigone et affirme qu'elle ira elle aussi enterrer Polynice",
+        "C) Elle supplie Hémon d'épouser une autre femme",
+        "D) Elle s'enfuit de la ville de Thèbes"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Prise de remords et portée par le courage de sa sœur, Ismène change d'avis et déclare qu'elle est complice et veut partager le châtiement d'Antigone."
+    },
+    {
+      "id": 13,
+      "type": "QCM",
+      "question": "Comment Antigone réagit-elle au changement d'attitude tardif d'Ismène ?",
+      "options": [
+        "A) Elle la remercie chaleureusement et l'embrasse",
+        "B) Elle la rejette vivement en disant : 'Pas maintenant. Pas toi ! C'est moi seule.'",
+        "C) Elle lui demande de prendre sa place face à Créon",
+        "D) Elle lui conseille de tuer Créon"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Antigone refuse qu'Ismène s'approprie son martyre à bon marché : Ismène a choisi la vie au début, elle n'a plus le droit de choisir la mort à présent."
+    },
+    {
+      "id": 14,
+      "type": "QCM",
+      "question": "Quel rôle joue le Chœur au terme du face-à-face entre Créon et Antigone ?",
+      "options": [
+        "A) Il encourage Créon à exécuter toute la famille",
+        "B) Il intervient pour avertir Créon qu'Antigone est touchée par la mort et qu'il ne pourra plus la sauver",
+        "C) Il chante des louanges à la gloire du roi",
+        "D) Il ordonne aux gardes de relâcher Antigone"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Le Chœur intervient en disant : 'Tu es fou, Créon ! Qu'as-tu fait ? [...] Elle est marquée.' Il fait prendre conscience au roi que l'engrenage tragique est irréversible."
+    },
+    {
+      "id": 15,
+      "type": "Texte_a_trous",
+      "question": "Complétez la réplique où Antigone résume son opposition à Créon : 'Vous êtes le roi, vous pouvez me faire mourir, mais vous ne pouvez pas me forcer à [comprendre].'",
+      "texte_a_trous": "Vous pouvez me faire mourir, mais vous ne pouvez pas me forcer à [comprendre].",
+      "mot_a_placer": "comprendre",
+      "explication": "'Comprendre' signifie pour Antigone accepter la lâcheté, le compromis politique et les règles morales des adultes."
+    },
+    {
+      "id": 16,
+      "type": "QCM",
+      "question": "Quel registre littéraire domine tout au long du grand affrontement entre Créon et Antigone ?",
+      "options": [
+        "A) Le registre comique et burlesque",
+        "B) Le registre tragique et polémique",
+        "C) Le registre élogieux et pastoral",
+        "D) Le registre fantastique et merveilleux"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Le débat oppose de manière polémique deux visions du monde irréconciliables, sous le sceau de la fatalité tragique."
+    },
+    {
+      "id": 17,
+      "type": "QCM",
+      "question": "Pourquoi Créon qualifie-t-il Antigone d'« orgueilleuse » et d'héritière du sang d'Œdipe ?",
+      "options": [
+        "A) Parce qu'elle porte des bijoux royaux ostentatoires",
+        "B) Parce qu'elle recherche le martyre et le scandale par orgueil familial (l'hubris)",
+        "C) Parce qu'elle veut dominer le peuple de Thèbes",
+        "D) Parce qu'elle refuse de parler à son fiancé Hémon"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Créon voit en elle l'orgueil tragique (hubris) d'Œdipe : la fascination pour le malheur, la mort et l'impossibilité d'être satisfaite de la vie humaine ordinaire."
+    },
+    {
+      "id": 18,
+      "type": "QCM",
+      "question": "Quelle est la décision finale de Créon à la fin de cette confrontation ?",
+      "options": [
+        "A) Il la pardonne et prépare les noces avec Hémon",
+        "B) Il cède à son obstination et la livre aux gardes pour l'exécution du châtiment prévu",
+        "C) Il l'exile dans une île lointaine",
+        "D) Il abdique en sa faveur"
+      ],
+      "reponse_correcte": "B",
+      "explication": "Poussé à bout par les insultes d'Antigone et le risque d'émeute de la foule qui a tout entendu, Créon appelle les gardes et ordonne qu'on l'emmène."
+    }
+  ]
+},
+{
+  "titre_oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "sequence": "Séquence 4 : La supplication d'Hémon, la lettre au garde et le dénouement tragique",
+  "description": "Quiz d'évaluation et de révision sur le dénouement d'Antigone : l'affrontement Hémon/Créon, la solitude d'Antigone face au garde, la dictée de la lettre, le récit du Messager, la triple mort (Antigone, Hémon, Eurydice) et la solitude finale de Créon.",
+  "nombre_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "qcm",
+      "theme": "L'intervention d'Hémon",
+      "question": "Que vient faire Hémon auprès de son père Créon après l'arrestation d'Antigone ?",
+      "options": [
+        "Il vient lui annoncer qu'il renonce à marier Antigone.",
+        "Il vient le supplier éperdument d'épargner et de sauver Antigone.",
+        "Il vient lui proposer de prendre la place d'Antigone dans le cachot.",
+        "Il vient lui annoncer qu'il quitte Thèbes définitivement."
+      ],
+      "reponse_correcte": "Il vient le supplier éperdument d'épargner et de sauver Antigone.",
+      "explication": "Hémon entre affolé et supplie son père de trouver un moyen d'empêcher l'exécution d'Antigone, la femme qu'il aime."
+    },
+    {
+      "id": 2,
+      "type": "qcm",
+      "theme": "L'argumentation de Créon face à Hémon",
+      "question": "Pourquoi Créon affirme-t-il à Hémon qu'il lui est désormais impossible de sauver Antigone ?",
+      "options": [
+        "Parce qu'Antigone a déjà été exécutée secrètement.",
+        "Parce que la foule de Thèbes sait tout et exige le châtiment pour maintenir l'ordre.",
+        "Parce que la loi thébaine interdit au roi d'accorder la grâce royale.",
+        "Parce qu'Ismène s'est dénoncée à la place d'Antigone."
+      ],
+      "reponse_correcte": "Parce que la foule de Thèbes sait tout et exige le châtiment pour maintenir l'ordre.",
+      "explication": "Créon explique que le secret a volé en éclats : la foule hurle autour du palais et le roi ne peut plus reculer sans provoquer l'émeute."
+    },
+    {
+      "id": 3,
+      "type": "qcm",
+      "theme": "La rupture entre Hémon et Créon",
+      "question": "Quelle image d'enfance d'Hémon est détruite lors de son affrontement avec Créon ?",
+      "options": [
+        "L'image de son père comme un dieu tout-puissant capable de tout protéger.",
+        "L'image de sa mère Eurydice.",
+        "Le souvenir de ses jeux avec Polynice et Étéocle.",
+        "L'image du palais royal de Thèbes."
+      ],
+      "reponse_correcte": "L'image de son père comme un dieu tout-puissant capable de tout protéger.",
+      "explication": "Hémon réalise avec horreur l'impouvoir et le pragmatique cynisme de son père, qu'il croyait autrefois invincible."
+    },
+    {
+      "id": 4,
+      "type": "qcm",
+      "theme": "La condamnation",
+      "question": "Quel châtiment particulier Créon réserve-t-il à Antigone ?",
+      "options": [
+        "La décapitation publique sur la place du palais.",
+        "L'exil définitif hors de Grèce.",
+        "Être murée vivante dans un tombeau de pierre.",
+        "La pendaison sur le cadavre de Polynice."
+      ],
+      "reponse_correcte": "Être murée vivante dans un tombeau de pierre.",
+      "explication": "Créon ordonne qu'elle soit enfermée vivante dans une caverne rocheuse (le tombeau des Labdacides) pour mourir de faim sans que la ville ne souille ses mains de son sang."
+    },
+    {
+      "id": 5,
+      "type": "qcm",
+      "theme": "Antigone et le Garde",
+      "question": "Seule avec le Garde Jonas avant son exécution, de quoi le garde lui parle-t-il principalement ?",
+      "options": [
+        "De sa compassion pour sa jeunesse et de sa tristesse.",
+        "De ses soucis administratifs, de son solde, de sa promotion et de la cantine.",
+        "Des détails du procès et de la politique de Créon.",
+        "De la beauté du soleil qui se lève sur Thèbes."
+      ],
+      "reponse_correcte": "De ses soucis administratifs, de son solde, de sa promotion et de la cantine.",
+      "explication": "Le Garde fait preuve d'une indifférence totale face au drame d'Antigone, ne se préoccupant que de ses avantages corporatifs et de son avancement."
+    },
+    {
+      "id": 6,
+      "type": "qcm",
+      "theme": "La lettre à Hémon",
+      "question": "Que donne Antigone au Garde pour qu'il accepte d'écrire et de remettre sa dernière lettre à Hémon ?",
+      "options": [
+        "Une bourse remplie d'or.",
+        "Son anneau en or (sa bague).",
+        "Son collier de perles.",
+        "Une promesse de grâce royale."
+      ],
+      "reponse_correcte": "Son anneau en or (sa bague).",
+      "explication": "Antigone offre sa seule richesse restante, son anneau en or, pour corrompre le garde et faire transmettre son dernier message."
+    },
+    {
+      "id": 7,
+      "type": "qcm",
+      "theme": "Le contenu de la lettre",
+      "question": "Quelle aveu bouleversant Antigone dicte-t-elle dans sa dernière lettre ?",
+      "options": [
+        "« Je meurs pour la patrie et pour l'honneur des miens. »",
+        "« Je ne sais plus pourquoi je meurs... Pardon, mon chéri. »",
+        "« Je regrette d'avoir désobéi à mon oncle le Roi. »",
+        "« Demande à Ismène de m'avenger après ma mort. »"
+      ],
+      "reponse_correcte": "« Je ne sais plus pourquoi je meurs... Pardon, mon chéri. »",
+      "explication": "Dans un moment de lucidité tragique et de grande solitude, Antigone avoue qu'au moment de mourir, toutes les raisons abstraites s'effacent devant l'angoisse."
+    },
+    {
+      "id": 8,
+      "type": "qcm",
+      "theme": "Le récit du Messager",
+      "question": "Quel personnage théâtral vient raconter sur scène la mort d'Antigone et d'Hémon ?",
+      "options": [
+        "Le Chœur.",
+        "Le Messager.",
+        "Le Page.",
+        "Ismène."
+      ],
+      "reponse_correcte": "Le Messager.",
+      "explication": "Conformément aux règles du théâtre classique et de la tragédie, les morts violentes ne sont pas montrées sur scène mais rapportées par le Messager."
+    },
+    {
+      "id": 9,
+      "type": "qcm",
+      "theme": "La mort d'Antigone",
+      "question": "Comment Antigone s'est-elle donnée la mort dans le tombeau ?",
+      "options": [
+        "En avalant du poison fourni par la Nourrice.",
+        "En se pendant avec les fils de sa ceinture multicolore.",
+        "En se laissant mourir de soif.",
+        "En se poignardant avec l'épée d'Hémon."
+      ],
+      "reponse_correcte": "En se pendant avec les fils de sa ceinture multicolore.",
+      "explication": "Antigone s'est pendue aux fils rouges, bleus et verts de sa ceinture d'enfant au fond de la caverne."
+    },
+    {
+      "id": 10,
+      "type": "qcm",
+      "theme": "La mort d'Hémon",
+      "question": "Quelle est la réaction d'Hémon lorsque Créon arrive dans le tombeau d'Antigone ?",
+      "options": [
+        "Il crache au visage de son père puis se poignarde auprès d'Antigone.",
+        "Il embrasse son père et lui demande pardon.",
+        "Il s'enfuit en courant dans la montagne.",
+        "Il attaque Créon avec son épée et le blesse à la main."
+      ],
+      "reponse_correcte": "Il crache au visage de son père puis se poignarde auprès d'Antigone.",
+      "explication": "Hémon regarde son père avec des yeux d'enfant effrayé, lui crache au visage, puis s'enfonce son épée dans le ventre pour mourir en enlaçant Antigone."
+    },
+    {
+      "id": 11,
+      "type": "qcm",
+      "theme": "La mort d'Eurydice",
+      "question": "Comment la reine Eurydice meurt-elle après avoir appris la mort de son fils Hémon ?",
+      "options": [
+        "Elle se jette du haut du palais de Thèbes.",
+        "Elle se tranche la gorge avec un rasoir après avoir bordé la chambre d'Hémon.",
+        "Elle s'empoisonne avec de la ciguë.",
+        "Elle meurt de chagrin dans son lit."
+      ],
+      "reponse_correcte": "Elle se tranche la gorge avec un rasoir après avoir bordé la chambre d'Hémon.",
+      "explication": "Eurydice se coupe la gorge après avoir soigneusement posé ses aiguilles à tricoter, mourant en mère dévastée."
+    },
+    {
+      "id": 12,
+      "type": "qcm",
+      "theme": "La solitude de Créon",
+      "question": "À la fin de la pièce, qui reste aux côtés de Créon pour l'accompagner au conseil royal ?",
+      "options": [
+        "Le Chœur et Ismène.",
+        "Le Page.",
+        "Le Garde Jonas.",
+        "La Nourrice."
+      ],
+      "reponse_correcte": "Le Page.",
+      "explication": "Créon se retrouve seul avec son jeune Page, symbole de l'innocence face au vieillard usé par le pouvoir."
+    },
+    {
+      "id": 13,
+      "type": "qcm",
+      "theme": "L'attitude finale des Gardes",
+      "question": "Que font les Gardes à la toute fin de la tragédie pendant que la famille royale est détruite ?",
+      "options": [
+        "Ils pleurent la mort de la princesse Antigone.",
+        "Ils jouent aux cartes et boivent du vin comme si de rien n'était.",
+        "Ils organisent les funérailles nationales.",
+        "Ils s'enfuient de la ville de Thèbes."
+      ],
+      "reponse_correcte": "Ils jouent aux cartes et boivent du vin comme si de rien n'était.",
+      "explication": "Les Gardes continuent indifféremment leur partie de cartes, incarnant la masse anonyme et insensible qui continue de vivre malgré la tragédie."
+    },
+    {
+      "id": 14,
+      "type": "texte_a_trous",
+      "theme": "Mots clés du dénouement",
+      "question": "Complétez le texte résumant la fin de la pièce avec les mots appropriés :",
+      "texte": "Après le suicide d'Antigone et d'Hémon, la reine Eurydice se tranche la [trou1]. Créon se retrouve totalement [trou2] pour assumer son métier de roi. Pendant ce temps, les [trou3] continuent indifféremment de jouer aux [trou4].",
+      "reponses_possibles": {
+        "trou1": [
+          "gorge",
+          "main",
+          "langue"
+        ],
+        "trou2": [
+          "seul",
+          "heureux",
+          "entouré"
+        ],
+        "trou3": [
+          "gardes",
+          "citoyens",
+          "prêtres"
+        ],
+        "trou4": [
+          "cartes",
+          "échecs",
+          "dés"
+        ]
+      },
+      "reponses_correctes": {
+        "trou1": "gorge",
+        "trou2": "seul",
+        "trou3": "gardes",
+        "trou4": "cartes"
+      },
+      "explication": "La tragédie s'achève sur le vide absolu autour de Créon et le retour à la routine vulgaire des gardes."
+    },
+    {
+      "id": 15,
+      "type": "identification_extrait",
+      "theme": "Analyse d'extrait",
+      "extrait": "« Un grand apaisement morne se répand sur Thèbes [...] Tous ceux qui devaient mourir sont morts. Ceux qui croyaient une chose, et puis ceux qui croyaient l'autre [...] Et ceux qui ne croyaient rien et qui se sont trouvés pris dans l'histoire sans rien y comprendre. »",
+      "question": "Qui prononce ces paroles à la fin de la pièce et quel est le registre dominant ?",
+      "options": [
+        "Créon / Registre comique",
+        "Le Chœur / Registre tragique et élégiaque",
+        "Le Messager / Registre épidictique",
+        "Ismène / Registre lyrique"
+      ],
+      "reponse_correcte": "Le Chœur / Registre tragique et élégiaque",
+      "explication": "C'est la tirade finale du Chœur qui tire le bilan de la tragédie : l'apaisement par la mort et la fermeture du destin."
+    },
+    {
+      "id": 16,
+      "type": "identification_extrait",
+      "theme": "Analyse d'extrait",
+      "extrait": "« C'est vrai. Vous m'écoeuriez tous avec votre bonheur ! Avec votre vie qu'il faut aimer coûte que coûte [...] Moi, je veux tout, tout de suite, - et que ce soit entier - ou alors je refuse ! »",
+      "question": "Quelle notion philosophique clé d'Antigone s'exprime dans cette citation récurrente ?",
+      "options": [
+        "La recherche du bonheur bourgeois et paisible.",
+        "Le refus du compromis et la quête de l'Absolu.",
+        "L'acceptation de la sagesse de l'âge adulte.",
+        "Le désir de devenir reine de Thèbes."
+      ],
+      "reponse_correcte": "Le refus du compromis et la quête de l'Absolu.",
+      "explication": "Antigone rejette le bonheur fait de petites concessions et exige l'absolu, ce qui la condamne inévitablement à la mort tragique."
+    },
+    {
+      "id": 17,
+      "type": "question_ouverte",
+      "theme": "Situation de passage type Examen Régional",
+      "question": "Situez la scène où le Messager annonce les morts de la pièce par rapport aux événements qui précèdent et qui suivent.",
+      "modele_reponse": "Ce passage se situe vers la fin d'Antigone. Après le grand face-à-face où Antigone refuse le compromis de Créon, elle est condamnée à être murée vivante. Hémon supplie vainement son père puis s'enfuit. Antigone dicte sa lettre au garde. Juste après l'exécution, le Messager vient annoncer à Créon et au Chœur le pendaison d'Antigone et le suicide d'Hémon. Cette annonce sera immédiatement suivie du suicide d'Eurydice et de la solitude finale de Créon.",
+      "explication": "Exemple de réponse structurée pour l'épreuve de compréhension (Situation de passage)."
+    },
+    {
+      "id": 18,
+      "type": "qcm",
+      "theme": "Bilan de l'œuvre",
+      "question": "Quelle est la principale différence entre la tragédie grecque classique (Sophocle) et la tragédie moderne de Jean Anouilh ?",
+      "options": [
+        "Anouilh a supprimé tous les personnages familiaux.",
+        "Anouilh utilise la prose, un langage moderne et intègre des anachronismes (cartes, tricot, cigarettes) tout en conservant la fatalité.",
+        "Chez Anouilh, Antigone ne meurt pas à la fin.",
+        "Créon devient le héros positif et admiré de l'histoire."
+      ],
+      "reponse_correcte": "Anouilh utilise la prose, un langage moderne et intègre des anachronismes (cartes, tricot, cigarettes) tout en conservant la fatalité.",
+      "explication": "Anouilh réécrit le mythe antique avec un langage contemporain et des objets modernes pour rapprocher la fatalité du public du XXe siècle."
+    }
+  ]
+}
+  ]
+}

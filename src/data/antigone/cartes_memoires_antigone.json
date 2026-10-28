@@ -1,0 +1,309 @@
+{
+  "titre": "Cartes Mémoires de Révision - Antigone de Jean Anouilh",
+  "œuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "genre": "Tragédie moderne",
+  "annee_ecriture_parution": "1942 / 1944",
+  "nombre_cartes": 25,
+  "cartes": [
+    {
+      "id": 1,
+      "categorie": "Repères Littéraires",
+      "recto": "Qui est l'auteur d'Antigone et quelles sont ses dates clés ?",
+      "verso": "Jean Anouilh (1910 - 1987), dramaturge français du XXe siècle. L'œuvre a été écrite en 1942 et représentée pour la première fois en 1944 au théâtre de l'Atelier à Paris.",
+      "mots_cles": [
+        "Jean Anouilh",
+        "1942",
+        "1944",
+        "XXe siècle"
+      ]
+    },
+    {
+      "id": 2,
+      "categorie": "Repères Littéraires",
+      "recto": "Quel est le genre d'Antigone et sa particularité structurelle ?",
+      "verso": "C'est une tragédie moderne réécrite à partir du mythe antique de Sophocle. Elle est écrite en prose, sans actes ni scènes, et comporte des anachronismes (éléments modernes).",
+      "mots_cles": [
+        "Tragédie moderne",
+        "Prose",
+        "Sans actes ni scènes",
+        "Anachronismes"
+      ]
+    },
+    {
+      "id": 3,
+      "categorie": "Contexte Historique",
+      "recto": "Quel est le contexte historique de la création d'Antigone en 1944 ?",
+      "verso": "L'occupation allemande de la France pendant la Seconde Guerre mondiale. La pièce met en scène l'affrontement entre la Résistance (refus du compromis / Antigone) et la Collaboration ou l'Ordre établi (Créon).",
+      "mots_cles": [
+        "Occupation",
+        "Seconde Guerre mondiale",
+        "Résistance",
+        "Collaboration"
+      ]
+    },
+    {
+      "id": 4,
+      "categorie": "Personnages",
+      "recto": "Quelles sont les caractéristiques physiques et morales d'Antigone au début de la pièce ?",
+      "verso": "Noiraude, petite, renfermée et maigre. Elle s'oppose à sa sœur Ismène. Sur le plan moral, elle est entière, passionnée, obstinée et refuse tout compromis.",
+      "mots_cles": [
+        "Noiraude",
+        "Petite",
+        "Obstinée",
+        "Refus du compromis"
+      ]
+    },
+    {
+      "id": 5,
+      "categorie": "Personnages",
+      "recto": "Qui est Créon et quelle est sa vision du pouvoir ?",
+      "verso": "Oncle d'Antigone et roi de Thèbes. C'est un homme politique pragmatique, mûr et fatigué qui assume le 'sale boulot' du pouvoir au nom de la raison d'État et de l'ordre social.",
+      "mots_cles": [
+        "Roi de Thèbes",
+        "Pragmatique",
+        "Raison d'État",
+        "Ordre social"
+      ]
+    },
+    {
+      "id": 6,
+      "categorie": "Personnages",
+      "recto": "En quoi Ismène sert-elle de 'faire-valoir' à Antigone ?",
+      "verso": "Ismène est belle, éblouissante, pondérée et craintive. Son acceptation des lois de Créon fait ressortir par contraste l'intransigeance et le courage tragique d'Antigone.",
+      "mots_cles": [
+        "Belle",
+        "Raisonnable",
+        "Pondérée",
+        "Faire-valoir"
+      ]
+    },
+    {
+      "id": 7,
+      "categorie": "Personnages",
+      "recto": "Quel est le rôle d'Hémon dans la pièce ?",
+      "verso": "Fils de Créon et fiancé d'Antigone. Il aime passionnément Antigone et supplie son père de la sauver. Face au refus irréductible de Créon, il se suicide aux côtés d'Antigone.",
+      "mots_cles": [
+        "Fiancé d'Antigone",
+        "Fils de Créon",
+        "Amour passionné",
+        "Suicide"
+      ]
+    },
+    {
+      "id": 8,
+      "categorie": "Personnages",
+      "recto": "Quel est le rôle du Prologue dans la structure théâtrale ?",
+      "verso": "Le Prologue présente les personnages sur scène au début de la pièce, raconte le passé de la famille des Labdacides et annonce à l'avance le destin tragique de chacun.",
+      "mots_cles": [
+        "Présentation",
+        "Exposition",
+        "Mise en abyme",
+        "Fatalité"
+      ]
+    },
+    {
+      "id": 9,
+      "categorie": "Personnages",
+      "recto": "Comment sont caractérisés les Gardes (Jonas, Durand, Baudrain) ?",
+      "verso": "Insensibles, vulgaires et uniquement préoccupés par leur solde, leur avancement et leur repas. Ils incarnent l'obéissance aveugle au pouvoir en place sans conscience morale.",
+      "mots_cles": [
+        "Vulgaires",
+        "Obéissance aveugle",
+        "Incapables de réflexion",
+        "Pouvoir en place"
+      ]
+    },
+    {
+      "id": 10,
+      "categorie": "Intrigue",
+      "recto": "Quel événement déclenche le conflit tragique de la pièce ?",
+      "verso": "L'édit de Créon interdisant de donner une sépulture au corps de Polynice sous peine de mort, alors qu'Étéocle a eu droit à des funérailles nationales.",
+      "mots_cles": [
+        "Édit de Créon",
+        "Polynice",
+        "Interdiction de sépulture",
+        "Étéocle"
+      ]
+    },
+    {
+      "id": 11,
+      "categorie": "Intrigue",
+      "recto": "Que fait Antigone à quatre heures du matin (1ère tentative) ?",
+      "verso": "Elle sort en cachette au petit matin pour recouvrir le corps de son frère Polynice avec une petite pelle d'enfant, bravant l'interdiction royale.",
+      "mots_cles": [
+        "Quatre heures du matin",
+        "Petite pelle",
+        "Première tentative",
+        "Recouvrir le corps"
+      ]
+    },
+    {
+      "id": 12,
+      "categorie": "Intrigue",
+      "recto": "Comment Antigone est-elle capturée lors de sa deuxième tentative ?",
+      "verso": "Les gardes ayant dégagé la terre du cadavre, Antigone revient en plein midi pour gratter la terre à mains nues. Elle est prise sur le fait par les trois gardes.",
+      "mots_cles": [
+        "En plein midi",
+        "Mains nues",
+        "Arrestation par les gardes",
+        "Deuxième tentative"
+      ]
+    },
+    {
+      "id": 13,
+      "categorie": "Intrigue",
+      "recto": "Quelle est l'attitude initiale de Créon après l'arrestation d'Antigone ?",
+      "verso": "Il tente de l'épargner et de étouffer l'affaire. Il lui propose de faire disparaître les gardes et de se taire à condition qu'elle renonce à son acte.",
+      "mots_cles": [
+        "Étouffer l'affaire",
+        "Tenter de la sauver",
+        "Silence",
+        "Pragmatisme de Créon"
+      ]
+    },
+    {
+      "id": 14,
+      "categorie": "Intrigue",
+      "recto": "Quel révélation sur Étéocle et Polynice fait basculer la défense de Créon ?",
+      "verso": "Créon révèle qu'Étéocle et Polynice étaient deux voyous opportunistes, et qu'il a choisi d'honorer Étéocle au hasard pour des raisons de stratégie politique.",
+      "mots_cles": [
+        "Deux voyous",
+        "Mensonge politique",
+        "Propagande",
+        "Révélation de Créon"
+      ]
+    },
+    {
+      "id": 15,
+      "categorie": "Intrigue",
+      "recto": "Pourquoi Antigone refuse-t-elle le 'bonheur' proposé par Créon ?",
+      "verso": "Parce qu'elle rejette le bonheur bourgeois fait de petits compromis, de résignation et de tiédeur. Elle veut un bonheur absolu ou rien.",
+      "mots_cles": [
+        "Refus du bonheur médiocre",
+        "Exigence d'absolu",
+        "Compromis",
+        "Non !"
+      ]
+    },
+    {
+      "id": 16,
+      "categorie": "Intrigue",
+      "recto": "Comment meurt Antigone et quels sont les événements tragiques qui suivent ?",
+      "verso": "Antigone est murée vivante dans un tombeau où elle se pend avec sa ceinture. Hémon se crève le cœur à ses côtés avec sa propre épée, et Eurydice se tranche la gorge d'indignation.",
+      "mots_cles": [
+        "Murée vivante",
+        "Pendaison/Ceinture",
+        "Suicide d'Hémon",
+        "Suicide d'Eurydice"
+      ]
+    },
+    {
+      "id": 17,
+      "categorie": "Thèmes Majeurs",
+      "recto": "Quelle est la définition de la Tragédie selon le Chœur chez Anouilh ?",
+      "verso": "La tragédie est 'propre, reposante et sûre'. Il n'y a plus d'espoir, le ressort est bandé, les jeux sont faits et cela tourne tout seul sans rémission.",
+      "mots_cles": [
+        "Propre et reposante",
+        "Engrenage",
+        "Absence d'espoir",
+        "Fatalité"
+      ]
+    },
+    {
+      "id": 18,
+      "categorie": "Thèmes Majeurs",
+      "recto": "Quelle différence le Chœur établit-il entre le Drame et la Tragédie ?",
+      "verso": "Dans le drame, on lutte avec l'espoir de s'en sortir (il y a du traître, du méchant). Dans la tragédie, il n'y a pas d'espoir, le destin est scellé d'avance et tout le monde est innocent.",
+      "mots_cles": [
+        "Drame vs Tragédie",
+        "Espoir vs Fatalité",
+        "Innocence des personnages"
+      ]
+    },
+    {
+      "id": 19,
+      "categorie": "Thèmes Majeurs",
+      "recto": "Que symbolise le motif du 'Non' chez Antigone ?",
+      "verso": "Le 'Non' d'Antigone symbolise le refus de l'injustice, le rejet de l'âge adulte hypocrite, la résistance spirituelle et le refus absolu des concessions.",
+      "mots_cles": [
+        "Le 'Non'",
+        "Refus de l'injustice",
+        "Résistance",
+        "Refus de grandir"
+      ]
+    },
+    {
+      "id": 20,
+      "categorie": "Thèmes Majeurs",
+      "recto": "Que représente la métaphore du 'navire et du gouvernail' utilisée par Créon ?",
+      "verso": "Elle illustre la charge du pouvoir politique : guider la cité en pleine tempête (l'anarchie) en prenant des décisions dures et nécessaires pour la survie du groupe.",
+      "mots_cles": [
+        "Métaphore du navire",
+        "Gouvernail",
+        "Maintien de l'ordre",
+        "Responsabilité du roi"
+      ]
+    },
+    {
+      "id": 21,
+      "categorie": "Style & Forme",
+      "recto": "Donnez des exemples d'anachronismes présents dans la pièce Antigone.",
+      "verso": "Les cartes à jouer des gardes, le tricot d'Eurydice, les balais, les cigarettes, le café, la voiture du roi et le garde du corps. Ils rapprochent le mythe de l'époque moderne.",
+      "mots_cles": [
+        "Anachronismes",
+        "Cartes à jouer",
+        "Tricot",
+        "Cigarettes",
+        "Modernité"
+      ]
+    },
+    {
+      "id": 22,
+      "categorie": "Style & Forme",
+      "recto": "Qu'est-ce qu'une stichomythie et où la retrouve-t-on particulièrement dans la pièce ?",
+      "verso": "Un échange de répliques très courtes vers par vers ou phrase par phrase. On la retrouve lors du grand affrontement verbal entre Antigone et Créon, accélérant le rythme dramatique.",
+      "mots_cles": [
+        "Stichomythie",
+        "Répliques courtes",
+        "Face-à-face Antigone/Créon",
+        "Tension"
+      ]
+    },
+    {
+      "id": 23,
+      "categorie": "Style & Forme",
+      "recto": "Quels sont les registres littéraires dominants dans Antigone ?",
+      "verso": "Le registre tragique (l'issue fatale inévitable) et le registre pathétique (la souffrance de la solitude d'Antigone et la douleur d'Hémon et de la Nourrice).",
+      "mots_cles": [
+        "Registre tragique",
+        "Registre pathétique",
+        "Pitié et terreur",
+        "Solitude"
+      ]
+    },
+    {
+      "id": 24,
+      "categorie": "Style & Forme",
+      "recto": "Quelle est la dernière phrase dictée par Antigone au garde dans sa lettre ?",
+      "verso": "Elle dicte : 'Je ne sais plus pourquoi je meurs'. Cela montre son désarroi final et la solitude absolue de l'héroïne face à la mort.",
+      "mots_cles": [
+        "Lettre d'Antigone",
+        "Je ne sais plus pourquoi je meurs",
+        "Solitude ultime"
+      ]
+    },
+    {
+      "id": 25,
+      "categorie": "Style & Forme",
+      "recto": "Quelle est la situation finale de Créon à la fin de la pièce ?",
+      "verso": "Créon reste seul dans son palais désert avec son petit page. Il va continuer son travail quotidien d'homme d'État ('À cinq heures, nous avons un conseil'), brisé mais fidèle à sa tâche.",
+      "mots_cles": [
+        "Solitude de Créon",
+        "Le petit page",
+        "Conseil de cinq heures",
+        "Routine du pouvoir"
+      ]
+    }
+  ]
+}

@@ -77,12 +77,12 @@ export const LexiqueTab: React.FC<LexiqueTabProps> = ({ data }) => {
             className="bg-white dark:bg-stone-900 rounded-xl border border-stone-200 dark:border-stone-800 p-5 shadow-xs hover:border-amber-300 dark:hover:border-amber-700 transition-colors flex flex-col justify-between space-y-3"
           >
             <div className="space-y-2">
-              <div className="flex items-start justify-between gap-2">
-                <h3 className="font-serif font-bold text-lg text-stone-900 dark:text-stone-100">
+              <div className="flex items-start justify-between gap-2 min-w-0">
+                <h3 className="min-w-0 break-words font-serif font-bold text-lg text-stone-900 dark:text-stone-100">
                   {item.word}
                 </h3>
                 {item.category && (
-                  <span className="text-[10px] uppercase font-mono text-stone-600 dark:text-stone-300 bg-stone-100 dark:bg-stone-800 px-2 py-0.5 rounded shrink-0">
+                  <span className="max-w-[52%] min-w-0 whitespace-normal break-words text-right text-[10px] uppercase font-mono text-stone-600 dark:text-stone-300 bg-stone-100 dark:bg-stone-800 px-2 py-0.5 rounded">
                     {item.category}
                   </span>
                 )}

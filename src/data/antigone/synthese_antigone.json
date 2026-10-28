@@ -1,0 +1,59 @@
+{
+  "titre_general": "Synthèse Globale et Fiche de Révision - Antigone de Jean Anouilh",
+  "niveau": "1ère Année du Baccalauréat (Examen Régional - Maroc)",
+  "fiche_de_lecture": {
+    "titre_oeuvre": "Antigone",
+    "auteur": "Jean Anouilh (1910-1987)",
+    "date_ecriture": "1942",
+    "date_publication_et_representation": "1944 (Théâtre de l'Atelier à Paris)",
+    "contexte_historique": "La Seconde Guerre mondiale, l'Occupation allemande de la France et la Résistance (conflit entre la révolte/l'absolu et la collaboration/le pragmatisme).",
+    "genre_litteraire": "Tragédie moderne (en prose, sans division en actes ni en scènes).",
+    "source_inspiration": "Le mythe antique grec d'Antigone, notamment la pièce éponyme de Sophocle (Ve siècle av. J.-C.).",
+    "cadre_spatio_temporel": "Le palais royal de Thèbes. L'action se déroule en une seule journée (du lever du soleil jusqu'au soir).",
+    "structure_de_la_piece": "Continuum théâtral sans entracte, structuré par les entrées/sorties des personnages et les interventions du Prologue et du Chœur."
+  },
+  "galerie_des_personnages": {
+    "Antigone": "Protagoniste, fille d'Œdipe. Jeune fille « noire, maigre, renfermée ». Elle incarne le refus des compromis, la quête d'absolu, le devoir familial/divin et la révolte contre le pouvoir établi.",
+    "Créon": "Oncle d'Antigone, roi de Thèbes. Homme mûr, robuste et pragmatique. Il incarne la raison d'État, la responsabilité politique et la recherche de l'ordre social au prix du compromis.",
+    "Ismène": "Sœur aînée d'Antigone. Belle, blonde, éblouissante et raisonnable. Elle craint la mort et la souffrance et tente de dissuader sa sœur.",
+    "Hémon": "Fils de Créon et fiancé d'Antigone. Jeune homme passionné, déchiré entre son amour pour Antigone et sa fidélité envers son père.",
+    "La_Nourrice": "Personnage d'invention moderne par Anouilh. Symbole de la tendresse maternelle, du réconfort physique et des souvenirs d'enfance.",
+    "Les_Gardes": "Jonas, Durand et Baudrain. Personnages vulgaires, indifférents aux enjeux tragiques, préoccupés uniquement par leur solde, leur avancement et le jeu de cartes. Ils représentent la masse aveugle au service du pouvoir.",
+    "Le_Prologue_et_le_Choeur": "Instances théâtrales. Le Prologue présente les personnages et rompt l'illusion théâtrale ; le Chœur commente la fatalité et distingue la tragédie du drame.",
+    "Eurydice": "Reine de Thèbes, épouse de Créon. Femme douce qui passe son temps à tricoter pour les pauvres jusqu'à son suicide tragique."
+  },
+  "resumes_synthetiques_par_sequence": [
+    {
+      "sequence": "Séquence 1 : Exposition et Présentation (Prologue jusqu'au départ d'Ismène)",
+      "contenu": "Le Prologue présente tous les personnages sur scène et annonce d'emblée la mort d'Antigone, Hémon et Eurydice. À 4h du matin, Antigone rentre au palais après avoir tenté une première fois d'enterrer le corps de Polynice. Elle affronte la Nourrice puis sa sœur Ismène qui refuse de braver l'édit de Créon."
+    },
+    {
+      "sequence": "Séquence 2 : L'Engagement et le Rapport des Gardes",
+      "contenu": "Antigone fait des adieux poignants mais mystérieux à son fiancé Hémon. Elle avoue ensuite à Ismène qu'elle a déjà accompli son geste. Les gardes découvrent la terre grattée sur le cadavre avec une petite pelle d'enfant. Le garde Jonas vient rapporter la nouvelle à Créon qui exige le secret sous peine de mort."
+    },
+    {
+      "sequence": "Séquence 3 : L'Arrestation et le Grand Face-à-Face (L'Agôn)",
+      "contenu": "Antigone est arrêtée en plein midi lors de sa seconde tentative. S'en suit le grand débat idéologique entre Créon (qui veut la sauver en étouffant l'affaire) et Antigone. Créon démontre la vilenie de Polynice et d'Étéocle, mais Antigone refuse son « bonheur » bourgeois et exige son exécution."
+    },
+    {
+      "sequence": "Séquence 4 : Le Dénouement Tragique",
+      "contenu": "Hémon supplie son père en vain. Antigone, seule avec un garde indifférent, lui dicte une dernière lettre. Elle est condamnée à être murée vivante. Le Messager annonce ensuite la pendaison d'Antigone et le suicide d'Hémon sur son corps. Apprenant la mort de son fils, Eurydice se tranche la gorge. Créon reste seul avec son jeune Page."
+    }
+  ],
+  "conflit_central_et_enjeux": {
+    "opposition_fondamentale": "Conflit entre deux logiques irréconciliables : l'Absolu/Morale individuelle (Antigone) contre le Pragmatisme/Raison d'État (Créon).",
+    "la_metaphore_du_navire": "Créon compare Thèbes à un bateau en perdition qu'il doit gouverner avec fermeté, quitte à faire des compromis pénibles.",
+    "le_declin_du_bonheur": "Le mot 'bonheur' prononcé par Créon déclenche le refus définitif d'Antigone, qui rejette la vie ordinaire faite de petites concessions."
+  },
+  "specificites_de_la_tragedie_moderne": {
+    "anachronismes": "Présence d'éléments modernes volontaires (cigarettes, cartes à jouer, tricot, bal, fusils des gardes) pour universaliser le propos.",
+    "registres_dominants": "Registres tragique (fatalité inexorable), pathétique (souffrance d'Antigone et d'Hémon) et polémique (duel verbal entre Antigone et Créon).",
+    "langue_et_style": "Utilisation d'un langage moderne, direct et familier mélangé à un lyrisme poétique. Emploi fréquent de stichomythies (repliques courtes et vives)."
+  },
+  "axes_de_production_ecrite": [
+    "L'obéissance aux lois de la société vs la fidélité à ses convictions personnelles.",
+    "Le conflit de générations (parents / enfants) et le besoin d'autonomie.",
+    "La quête du bonheur : faut-il accepter les compromis ou chercher l'absolu ?",
+    "La peine de mort et la justice autoritaire."
+  ]
+}

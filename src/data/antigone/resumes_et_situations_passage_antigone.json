@@ -1,0 +1,104 @@
+{
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "genre": "Tragédie moderne (en un acte et en prose)",
+  "date_ecriture_parution": "1942 / 1944 (sous l'Occupation)",
+  "cadre_spatio_temporel": "Le palais de Créon à Thèbes (Grèce antique) ; unité de lieu et de temps (une journée, du petit matin jusqu'au soir).",
+  "visee_pedagogique": "Révision synthétique pour l'Examen Régional du Baccalauréat (1ère BAC Maroc) : résumés de séquences, modélisation des Situations de passage, thèmes et procédés littéraires.",
+  "sequences": [
+    {
+      "sequence_numero": 1,
+      "titre_sequence": "Séquence 1 : Le Prologue et la Scène d'Exposition (L'aube tragique)",
+      "scenes_couvertes": "Du Prologue au départ d'Ismène (Prologue, Scène 1 avec la Nourrice, Scène 2 avec Ismène)",
+      "resume_detaille": "Le Prologue présente les personnages réunis sur scène, brise l'illusion théâtrale et énonce la fatalité : Antigone va mourir pour avoir enterré son frère Polynice, malgré l'édit du roi Créon. À 4 heures du matin, Antigone rentre au palais les pieds nus. Sa Nourrice la surprend et la soupçonne d'avoir un rendez-vous galant. Antigone dément sans révéler son vrai geste. Ismène, sa sœur aînée belle et raisonnable, tente ensuite de la dissuader d'enfreindre la loi, affirmant que Créon est le plus fort et que la foule Thébaine est effrayante. Antigone refuse toute prudence et annonce subtilement qu'il est déjà trop tard.",
+      "situation_de_passage": {
+        "cadre_general": "Scène d'ouverture et d'exposition de la tragédie moderne 'Antigone' de Jean Anouilh.",
+        "evenements_precedents": "La guerre civile entre les deux frères Étéocle et Polynice, leur mort réciproque au combat, la prise du pouvoir par leur oncle Créon et la proclamation de l'édit interdisant d'accorder des funérailles à Polynice sous peine de mort.",
+        "evenement_cle": "La présentation des personnages et de la fatalité par le Prologue, suivie de la première tentative d'Ismène pour empêcher Antigone de se sacrifier.",
+        "suite_narrative": "Antigone fait ses adieux poignants et mystérieux à son fiancé Hémon avant d'exécuter définitivement son projet."
+      },
+      "themes_principaux": [
+        "La fatalité et le destin tragique",
+        "Le devoir familial et religieux vs la loi des hommes",
+        "L'innocence de l'enfance vs la maturité raisonnable",
+        "La dualité des deux sœurs (Antigone l'obstinée vs Ismène la prudente)"
+      ],
+      "registres_et_procedes": [
+        "Registre tragique (annonce de la mort inéluctable par le Prologue)",
+        "Double énonciation dramatique",
+        "Didascalies explicatives et anachronismes (cartes, tricot)",
+        "Antithèse marquée entre le portrait physique et moral d'Antigone et d'Ismène"
+      ]
+    },
+    {
+      "sequence_numero": 2,
+      "titre_sequence": "Séquence 2 : Les Adieux, la Révélation et le Rapport du Garde (Le piège se referme)",
+      "scenes_couvertes": "Des adieux à Hémon à la découverte du premier acte par Créon (Scène 3 avec Hémon, Scène 4 avec Ismène, Scène 5 avec Créon et le Garde Jonas)",
+      "resume_detaille": "Antigone retrouve son fiancé Hémon. Elle lui demande pardon pour leur dispute de la veille, lui fait jurer de ne poser aucune question et rompt brusquement leurs fiançailles, lui demandant de quitter la pièce sans se retourner. Ismène revient supplier sa sœur, mais Antigone lui révèle avec calme qu'elle a déjà recouvert le cadavre de Polynice au petit matin avec une petite pelle d'enfant. Peu après, le garde Jonas, terrorisé, vient rapporter à Créon que la terre a été grattée sur le cadavre de Polynice. Créon, redoutant un complot politique d'opposants, ordonne au garde de garder le secret absolu sous peine de torture et d'exécution.",
+      "situation_de_passage": {
+        "cadre_general": "Deuxième séquence dramatique de l'œuvre d'Anouilh.",
+        "evenements_precedents": "Le retour d'Antigone au palais au petit matin et l'échec d'Ismène à la convaincre de renoncer.",
+        "evenement_cle": "La rupture inexplicable pour Hémon et la découverte par Créon de la première violation de son édit sur le corps de Polynice.",
+        "suite_narrative": "Antigone retourne une seconde fois en plein jour sur les lieux du crime et se fait capturer par les trois gardes."
+      },
+      "themes_principaux": [
+        "Le sacrifice de l'amour personnel au profit du devoir",
+        "La peur du pouvoir et la terreur des subordonnés (le Garde Jonas)",
+        "L'obsession politique et la paranoia de Créon",
+        "Le symbole de la petite pelle d'enfant"
+      ],
+      "registres_et_procedes": [
+        "Registre pathétique (les adieux poignants à Hémon)",
+        "Registre comique / vulgaire (l'attitude trouillarde et intéressée du garde Jonas)",
+        "Quiproquo tragique (Hémon ne comprend pas les vraies raisons de la rupture)"
+      ]
+    },
+    {
+      "sequence_numero": 3,
+      "titre_sequence": "Séquence 3 : L'Arrestation et le Grand Face-à-Face (L'Agôn tragique entre Antigone et Créon)",
+      "scenes_couvertes": "Du retour des gardes à la rupture finale (Capture, confrontation Antigone/Créon, métaphore du navire, le mot 'bonheur')",
+      "resume_detaille": "Antigone est arrêtée en plein midi alors qu'elle grattait la terre à mains nues sur le cadavre. Les gardes la mènent devant Créon. Une fois seul avec elle, le roi tente désespérément de la sauver : il propose de tuer les trois gardes témoins et de faire étouffer l'affaire si elle promet de se taire. Antigone refuse fermement. Créon tente alors de démystifier son geste : il qualifie le rite de 'cuisine' absurde et lui révèle que ses deux frères, Étéocle et Polynice, étaient deux voyous ambitieux et traîtres qui ont tous deux tenté d'assassiner leur père Œdipe. Ébranlée, Antigone accepte un instant de remonter dans sa chambre. Mais lorsque Créon lui parle de se marier, d'être heureuse et d'accepter le 'petit bonheur' quotidien fait de compromis bourgeois, Antigone a un sursaut de dégoût. Elle rejette cette vie usée, insulte le roi et le force à appliquer la sentence de mort.",
+      "situation_de_passage": {
+        "cadre_general": "Le sommet dramatique et le duel idéologique majeur d'Antigone.",
+        "evenements_precedents": "La découverte du cadavre recouvert au matin et la panique de Créon face au complot.",
+        "evenement_cle": "Le grand affrontement entre la révolte absolutiste d'Antigone et le pragmatisme politique de Créon.",
+        "suite_narrative": "Créon, poussé à bout et face à l'arrivée d'Ismène prête à mourir avec sa sœur, est contraint de livrer Antigone aux gardes."
+      },
+      "themes_principaux": [
+        "Le refus du compromis et du 'petit bonheur' bourgeois",
+        "La raison d'État et le rôle d'homme d'État (Créon)",
+        "La démystification des héros et de la religion",
+        "Le désir d'absolu et la solitude de l'héroïne"
+      ],
+      "registres_et_procedes": [
+        "Registre tragique et polémique",
+        "Emploi abondant de stichomythies (dialogues rapides et percutants)",
+        "Métaphore suivie de la 'cuisine politique' et du 'navire Thébain'",
+        "Champ lexical du dégoût, de la pureté et de l'absolu"
+      ]
+    },
+    {
+      "sequence_numero": 4,
+      "titre_sequence": "Séquence 4 : La Solitude, le Dénouement et le Récit du Messager (La catastrophe générale)",
+      "scenes_couvertes": "De la supplication d'Hémon à la scène finale (Supplication d'Hémon, monologue/lettre d'Antigone, récit du Messager, morts d'Eurydice et d'Hémon, solitude de Créon)",
+      "resume_detaille": "Hémon supplie son père d'épargner Antigone, mais Créon affirme qu'il ne peut plus rien faire car la foule exige le châtiment. Antigone attend son exécution (murée vivante dans un tombeau de pierre) gardée par Jonas, indifférent à son drame et ne pensant qu'à son avancement. Elle lui donne une bague en or pour qu'il dicte une dernière lettre à Hémon où elle exprime son doute poignant ('Je ne sais plus pourquoi je meurs'). Le Messager arrive au palais et fait le récit de la catastrophe : Antigone s'est pendue avec sa ceinture multicolore dans le tombeau ; Hémon, fou de douleur, a craché au visage de son père puis s'est enfoncé son épée dans le ventre. En l'apprenant, la reine Eurydice se tranche la gorge au rasoir. Créon reste seul avec son jeune page, brisé mais contraint de continuer à régner. Le Chœur conclut la pièce sur la solitude des survivants et l'indifférence des gardes qui rejouent aux cartes.",
+      "situation_de_passage": {
+        "cadre_general": "Le dénouement tragique de la réécriture moderne d'Anouilh.",
+        "evenements_precedents": "L'échec irréversible du dialogue entre Antigone et Créon et la condamnation officielle à être murée vivante.",
+        "evenement_cle": "La chaîne inéluctable des trois morts tragiques (Antigone, Hémon, Eurydice) et l'effondrement moral de la famille royale.",
+        "suite_narrative": "Fin de la pièce ; Thèbes retombe dans le calme et l'oubli, tandis que la fatalité a accompli son œuvre."
+      },
+      "themes_principaux": [
+        "La solitude absolue de l'être humain face à la mort",
+        "L'incompabilité entre l'amour pur et la réalité du monde",
+        "L'inutilité absurde du sacrifice (l'aveu dans la lettre)",
+        "L'indifférence du monde et la poursuite de la routine (les gardes)"
+      ],
+      "registres_et_procedes": [
+        "Registre tragique, pathétique et élégiaque",
+        "Récit du Messager (technique classique du récit de la mort hors scène)",
+        "Ironie tragique et contraste avec le calme indifférent de la fin"
+      ]
+    }
+  ]
+}
