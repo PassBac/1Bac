@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Heart, GraduationCap } from 'lucide-react';
+import { BookOpen, Heart, GraduationCap, MessageSquareText } from 'lucide-react';
 import syntheseData from '../../data/boite-a-merveilles/synthese.json';
 
 interface FooterProps {
@@ -93,6 +93,15 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                   className="hover:text-amber-800 dark:hover:text-amber-400 transition-colors text-left"
                 >
                   Projet & Architecture modulaire
+                </button>
+              </li>
+              <li>
+                <button
+                  onClick={() => onNavigate('feedback')}
+                  className="inline-flex items-center gap-1.5 text-left hover:text-amber-800 dark:hover:text-amber-400 transition-colors"
+                >
+                  <MessageSquareText className="h-4 w-4" />
+                  Avis et évaluation de la plateforme
                 </button>
               </li>
             </ul>

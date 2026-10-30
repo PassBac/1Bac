@@ -45,7 +45,7 @@ export const AboutPage: React.FC = () => {
           </div>
           <h3 className="font-serif font-bold text-lg text-stone-900 dark:text-stone-100">Confidentialité & Autonomie</h3>
           <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed">
-            Votre progression et vos scores aux quiz restent enregistrés localement sur votre appareil (localStorage). Aucune donnée personnelle n'est transmise ni collectée.
+            Votre progression et vos scores restent enregistrés sur votre appareil. Si vous envoyez le formulaire Avis, votre évaluation anonyme est transmise à la feuille Google privée de la plateforme. Aucun renseignement personnel n’est demandé.
           </p>
         </div>
       </div>

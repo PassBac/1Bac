@@ -1,23 +1,16 @@
 import React, { useState } from 'react';
-import { BookOpen, Menu, X, CheckCircle2, Sun, Moon } from 'lucide-react';
-import { NovelId } from '../../types';
+import { Menu, X, Sun, Moon } from 'lucide-react';
 
 interface NavbarProps {
   currentView: string;
-  selectedNovelId?: NovelId;
   onNavigate: (view: string, novelId?: string) => void;
-  completedChapterCount: number;
-  chapterCount: number;
   isDarkMode: boolean;
   onToggleTheme: () => void;
 }
 
 export const Navbar: React.FC<NavbarProps> = ({
   currentView,
-  selectedNovelId = 'boite-a-merveilles',
   onNavigate,
-  completedChapterCount,
-  chapterCount,
   isDarkMode,
   onToggleTheme,
 }) => {
@@ -28,9 +21,8 @@ export const Navbar: React.FC<NavbarProps> = ({
     onNavigate(view, novelId);
   };
 
-  const isNovelActive = (id: string) => {
-    return currentView === 'novel' && selectedNovelId === id;
-  };
+  const isRomansActive = currentView === 'romans' || currentView === 'novel';
+  const isLanguagesActive = currentView === 'lessons' || currentView === 'lexicon';
 
   return (
     <header className="sticky top-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-b border-stone-200 dark:border-stone-800 transition-colors duration-200">
@@ -49,8 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         </button>
 
-        {/* Desktop Navigation Links with all 3 novel titles */}
-        <nav className="hidden lg:flex items-center gap-6 text-xs sm:text-sm font-medium text-stone-600 dark:text-stone-300">
+        <nav className="hidden lg:flex items-center gap-5 text-sm font-medium text-stone-600 dark:text-stone-300">
           <button
             onClick={() => handleNavClick('home')}
             className={`transition-colors whitespace-nowrap relative py-1 ${
@@ -65,47 +56,16 @@ export const Navbar: React.FC<NavbarProps> = ({
             )}
           </button>
 
-          {/* Roman 1 */}
           <button
-            onClick={() => handleNavClick('novel', 'boite-a-merveilles')}
+            onClick={() => handleNavClick('romans')}
             className={`transition-colors whitespace-nowrap relative py-1 ${
-              isNovelActive('boite-a-merveilles')
+              isRomansActive
                 ? 'text-amber-900 dark:text-amber-400 font-bold'
                 : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
             }`}
           >
-            La Boîte à merveilles
-            {isNovelActive('boite-a-merveilles') && (
-              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
-            )}
-          </button>
-
-          {/* Roman 2 */}
-          <button
-            onClick={() => handleNavClick('novel', 'dernier-jour')}
-            className={`transition-colors whitespace-nowrap relative py-1 ${
-              isNovelActive('dernier-jour')
-                ? 'text-amber-900 dark:text-amber-400 font-bold'
-                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
-            }`}
-          >
-            Le Dernier Jour d'un Condamné
-            {isNovelActive('dernier-jour') && (
-              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
-            )}
-          </button>
-
-          {/* Roman 3 */}
-          <button
-            onClick={() => handleNavClick('novel', 'antigone')}
-            className={`transition-colors whitespace-nowrap relative py-1 ${
-              isNovelActive('antigone')
-                ? 'text-amber-900 dark:text-amber-400 font-bold'
-                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
-            }`}
-          >
-            Antigone
-            {isNovelActive('antigone') && (
+            Romans
+            {isRomansActive && (
               <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
             )}
           </button>
@@ -113,28 +73,14 @@ export const Navbar: React.FC<NavbarProps> = ({
           <button
             onClick={() => handleNavClick('lessons')}
             className={`transition-colors whitespace-nowrap relative py-1 ${
-              currentView === 'lessons'
+              isLanguagesActive
                 ? 'text-amber-900 dark:text-amber-400 font-bold'
                 : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
             }`}
           >
-            Leçons de langue
-            {currentView === 'lessons' && (
+            Langues
+            {isLanguagesActive && (
               <span className="absolute bottom-0 left-0 right-0 h-0.5 rounded-full bg-amber-800 dark:bg-amber-500" />
-            )}
-          </button>
-
-          <button
-            onClick={() => handleNavClick('lexicon')}
-            className={`transition-colors whitespace-nowrap relative py-1 ${
-              currentView === 'lexicon'
-                ? 'text-amber-900 dark:text-amber-400 font-bold'
-                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
-            }`}
-          >
-            Lexique
-            {currentView === 'lexicon' && (
-              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
             )}
           </button>
 
@@ -151,20 +97,25 @@ export const Navbar: React.FC<NavbarProps> = ({
               <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
             )}
           </button>
-        </nav>
 
-        {/* Medium Screen & Desktop Action Bar with Theme Toggle */}
-        <div className="flex items-center gap-2.5 shrink-0">
-          {/* Active study badge */}
           <button
-            onClick={() => handleNavClick('novel', 'boite-a-merveilles')}
-            className="hidden sm:flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-xl border border-amber-200 dark:border-amber-900/60 bg-amber-50 dark:bg-amber-950/60 hover:bg-amber-100 dark:hover:bg-amber-900/80 text-amber-900 dark:text-amber-200 transition-colors whitespace-nowrap shadow-2xs"
-            title="Étudier La Boîte à merveilles"
+            onClick={() => handleNavClick('feedback')}
+            className={`transition-colors whitespace-nowrap relative py-1 ${
+              currentView === 'feedback'
+                ? 'text-amber-900 dark:text-amber-400 font-bold'
+                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
+            }`}
           >
-            <CheckCircle2 className="w-3.5 h-3.5 text-amber-800 dark:text-amber-400" />
-            <span>Étude active ({completedChapterCount}/{chapterCount} chap.)</span>
+            Avis
+            {currentView === 'feedback' && (
+              <span className="absolute bottom-0 left-0 right-0 h-0.5 bg-amber-800 dark:bg-amber-500 rounded-full" />
+            )}
           </button>
 
+        </nav>
+
+        {/* Theme toggle and mobile navigation */}
+        <div className="flex items-center gap-2.5 shrink-0">
           {/* Theme Toggle Button */}
           <button
             onClick={onToggleTheme}
@@ -195,11 +146,6 @@ export const Navbar: React.FC<NavbarProps> = ({
       {/* Mobile Drawer */}
       {mobileMenuOpen && (
         <div className="lg:hidden border-b border-stone-200 dark:border-stone-800 bg-white dark:bg-stone-900 px-4 pt-2 pb-5 space-y-1 shadow-lg animate-in fade-in slide-in-from-top duration-200">
-          <div className="py-2 px-3 mb-2 rounded-xl bg-amber-50 dark:bg-amber-950/60 border border-amber-200/70 dark:border-amber-900/60 text-xs text-amber-950 dark:text-amber-200 flex items-center justify-between">
-            <span className="font-semibold">Français · 1ère Bac Maroc</span>
-            <span>            {completedChapterCount}/{chapterCount} chapitres étudiés</span>
-          </div>
-
           <button
             onClick={() => handleNavClick('home')}
             className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
@@ -211,66 +157,26 @@ export const Navbar: React.FC<NavbarProps> = ({
             Accueil
           </button>
 
-          <div className="pt-2 pb-1 px-3 text-[10px] font-mono uppercase tracking-wider text-stone-400 dark:text-stone-500 font-bold">
-            Les 3 Romans au Programme
-          </div>
-
           <button
-            onClick={() => handleNavClick('novel', 'boite-a-merveilles')}
-            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors flex items-center justify-between ${
-              isNovelActive('boite-a-merveilles')
-                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
-                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
-            }`}
-          >
-            <span>La Boîte à merveilles</span>
-            <span className="text-[10px] font-bold text-amber-800 dark:text-amber-300 bg-amber-100 dark:bg-amber-900/60 px-2 py-0.5 rounded">Complet</span>
-          </button>
-
-          <button
-            onClick={() => handleNavClick('novel', 'dernier-jour')}
+            onClick={() => handleNavClick('romans')}
             className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-              isNovelActive('dernier-jour')
+              isRomansActive
                 ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
                 : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
             }`}
           >
-            Le Dernier Jour d'un Condamné
+            Romans
           </button>
-
-          <button
-            onClick={() => handleNavClick('novel', 'antigone')}
-            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-              isNovelActive('antigone')
-                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
-                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
-            }`}
-          >
-            Antigone
-          </button>
-
-          <div className="pt-2 border-t border-stone-100 dark:border-stone-800 my-1" />
 
           <button
             onClick={() => handleNavClick('lessons')}
             className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-              currentView === 'lessons'
+              isLanguagesActive
                 ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
                 : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
             }`}
           >
-            Leçons de langue
-          </button>
-
-          <button
-            onClick={() => handleNavClick('lexicon')}
-            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-              currentView === 'lexicon'
-                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
-                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
-            }`}
-          >
-            Lexique du Souvenir
+            Langues
           </button>
 
           <button
@@ -281,7 +187,18 @@ export const Navbar: React.FC<NavbarProps> = ({
                 : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
             }`}
           >
-            À propos de PassBac
+            À propos
+          </button>
+
+          <button
+            onClick={() => handleNavClick('feedback')}
+            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+              currentView === 'feedback'
+                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
+                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
+            }`}
+          >
+            Avis
           </button>
 
           {/* Mobile Theme Toggle Row */}

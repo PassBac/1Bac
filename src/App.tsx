@@ -16,7 +16,7 @@ import { NovelView } from './components/novel/NovelView';
 import { LexiqueGlobalPage } from './components/lexicon/LexiqueGlobalPage';
 import { AboutPage } from './components/about/AboutPage';
 import { LessonsView } from './components/features/LessonsView';
-import { getNovelStudyData } from './data/novelStudyData';
+import { FeedbackPage } from './components/feedback/FeedbackPage';
 import { LESSONS } from './data/lessons';
 
 const getInitialDarkMode = (): boolean => {
@@ -79,7 +79,7 @@ export default function App() {
             : LESSONS[0].id
         );
         setCurrentView('lessons');
-      } else if (hash === 'lexicon' || hash === 'about') {
+      } else if (hash === 'romans' || hash === 'lexicon' || hash === 'about' || hash === 'feedback') {
         setCurrentView(hash);
       }
     };
@@ -89,6 +89,18 @@ export default function App() {
     return () => window.removeEventListener('hashchange', handleHashChange);
   }, []);
 
+  useEffect(() => {
+    if (currentView !== 'romans') return;
+
+    const frame = window.requestAnimationFrame(() => {
+      document.getElementById('romans')?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    });
+    return () => window.cancelAnimationFrame(frame);
+  }, [currentView]);
+
   const showToast = (msg: string) => {
     setToastMessage(msg);
     setTimeout(() => {
@@ -97,7 +109,10 @@ export default function App() {
   };
 
   const handleNavigate = (view: string, novelId?: string) => {
-    if (view === 'novel') {
+    if (view === 'romans') {
+      setCurrentView('romans');
+      window.location.hash = 'romans';
+    } else if (view === 'novel') {
       const id = (novelId as NovelId) || selectedNovelId;
       setSelectedNovelId(id);
       window.location.hash = `novel/${id}`;
@@ -114,7 +129,9 @@ export default function App() {
       }
       window.location.hash = view === 'home' ? '' : view;
     }
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (view !== 'romans') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   };
 
   const handleSelectNovel = (novelId: NovelId) => {
@@ -165,29 +182,20 @@ export default function App() {
 
   const selectedNovel =
     NOVELS.find((n) => n.id === selectedNovelId) || NOVELS[0];
-  const selectedStudyData = getNovelStudyData(selectedNovelId);
-  const selectedUnitIds = selectedStudyData?.chaptersSyllabus.length
-    ? selectedStudyData.chaptersSyllabus.map((chapter) => chapter.id)
-    : selectedStudyData?.quizBanks.map((bank) => bank.chapterId) || [];
 
   return (
     <div className="min-h-screen flex flex-col bg-stone-50 dark:bg-stone-950 text-stone-900 dark:text-stone-100 transition-colors duration-200 selection:bg-amber-100 dark:selection:bg-amber-950/80 selection:text-amber-900 dark:selection:text-amber-200">
       {/* Navbar with PassBac branding and dark mode toggle */}
       <Navbar
         currentView={currentView}
-        selectedNovelId={selectedNovelId}
         onNavigate={handleNavigate}
-        completedChapterCount={progress.completedChapters.filter((id) =>
-          selectedUnitIds.includes(id)
-        ).length}
-        chapterCount={selectedUnitIds.length}
         isDarkMode={isDarkMode}
         onToggleTheme={handleToggleTheme}
       />
 
       {/* Main View Area */}
       <main className="flex-1">
-        {currentView === 'home' && (
+        {(currentView === 'home' || currentView === 'romans') && (
           <HomeView
             novels={NOVELS}
             progress={progress}
@@ -220,6 +228,8 @@ export default function App() {
         {currentView === 'lexicon' && <LexiqueGlobalPage />}
 
         {currentView === 'about' && <AboutPage />}
+
+        {currentView === 'feedback' && <FeedbackPage />}
       </main>
 
       {/* Clean quiet toast notification */}

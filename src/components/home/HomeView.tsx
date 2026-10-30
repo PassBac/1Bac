@@ -85,7 +85,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
       </section>
 
       {/* Les Trois Romans au Programme */}
-      <section className="space-y-6">
+      <section id="romans" className="scroll-mt-24 space-y-6">
         <div className="space-y-1">
           <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider font-mono">
             Examen Régional · 1ère Année du Baccalauréat
