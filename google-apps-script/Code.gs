@@ -147,7 +147,13 @@ function feedbackResponse(result) {
     type: 'PASSBAC_FEEDBACK_RESULT',
     ...result,
   }).replace(/</g, '\\u003c');
-  const html = `<!doctype html><html><head><meta charset="utf-8"></head><body><script>window.parent.postMessage(${message}, '*');</script></body></html>`;
+  const html = `<!doctype html><html><head><meta charset="utf-8"></head><body><script>
+    const result = ${message};
+    window.parent.postMessage(result, '*');
+    if (window.top !== window.parent) {
+      window.top.postMessage(result, '*');
+    }
+  </script></body></html>`;
   return HtmlService.createHtmlOutput(html)
     .setXFrameOptionsMode(HtmlService.XFrameOptionsMode.ALLOWALL);
 }

@@ -15,13 +15,22 @@ export interface FeedbackCriterion {
 const STORAGE_KEY = 'passbac_student_feedback_v1';
 const validRatings: FeedbackRating[] = ['bien', 'passable', 'non'];
 
+export class FeedbackSubmissionError extends Error {
+  constructor(message: string, public readonly deliveryUnknown = false) {
+    super(message);
+    this.name = 'FeedbackSubmissionError';
+  }
+}
+
 export const sendStudentFeedbackToGoogle = (
   endpoint: string,
   ratings: Record<string, FeedbackRating>,
   comment: string
 ): Promise<void> => {
   if (!/^https:\/\/script\.google\.com\/macros\/s\/[^/]+\/exec$/.test(endpoint)) {
-    return Promise.reject(new Error('L’adresse du récepteur Google Apps Script est invalide.'));
+    return Promise.reject(
+      new FeedbackSubmissionError('L’adresse du récepteur Google Apps Script est invalide.')
+    );
   }
 
   const submissionId = crypto.randomUUID();
@@ -62,10 +71,12 @@ export const sendStudentFeedbackToGoogle = (
     };
 
     const handleMessage = (event: MessageEvent) => {
+      const isGoogleOrigin =
+        event.origin === 'https://script.google.com' ||
+        event.origin === 'https://script.googleusercontent.com' ||
+        event.origin.endsWith('.script.googleusercontent.com');
       if (
-        event.source !== frame.contentWindow ||
-        !(event.origin === 'https://script.google.com' ||
-          event.origin.endsWith('.googleusercontent.com')) ||
+        !isGoogleOrigin ||
         event.data?.type !== 'PASSBAC_FEEDBACK_RESULT' ||
         event.data.submissionId !== submissionId
       ) {
@@ -73,7 +84,7 @@ export const sendStudentFeedbackToGoogle = (
       }
 
       if (event.data.success !== true) {
-        finish(new Error(
+        finish(new FeedbackSubmissionError(
           typeof event.data.message === 'string'
             ? event.data.message
             : 'Google n’a pas pu enregistrer votre réponse.'
@@ -86,8 +97,9 @@ export const sendStudentFeedbackToGoogle = (
 
     const timeout = window.setTimeout(() => {
       finish(
-        new Error(
-          'Aucune confirmation de Google n’a été reçue. Vérifiez votre connexion avant de réessayer.'
+        new FeedbackSubmissionError(
+          'La page n’a pas reçu la confirmation de Google à temps.',
+          true
         )
       );
     }, 25000);

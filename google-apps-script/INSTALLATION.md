@@ -39,4 +39,4 @@ Enregistrez, vérifiez le site avec `npm run build`, puis publiez la mise à jou
 - Les réponses sont envoyées à votre feuille Google privée. Le tableau affiché dans le navigateur de l’élève ne contient que les avis enregistrés sur cet appareil.
 - La publication de l’application Web dépend des quotas et conditions gratuits Google Apps Script ; Google peut imposer des limites ou suspendre le service en cas d’utilisation abusive.
 - Cette version inclut validation côté serveur et un champ anti-robot discret, mais pas de CAPTCHA ni de garantie contre les abus. Pour une classe, gardez l’URL de déploiement et le tableur privés et surveillez les soumissions.
-- Après avoir modifié le code serveur, créez une nouvelle version depuis **Déployer > Gérer les déploiements > Modifier** pour que l’application Web utilise ces changements.
+- Après avoir modifié `Code.gs`, ouvrez **Déployer > Gérer les déploiements**, cliquez sur le crayon du déploiement, sélectionnez **Nouvelle version**, puis cliquez sur **Déployer**. Gardez les mêmes paramètres d’accès et utilisez l’URL `/exec` affichée pour le déploiement.

@@ -3,6 +3,7 @@ import { MessageSquareText, Send } from 'lucide-react';
 import {
   FeedbackCriterion,
   FeedbackRating,
+  FeedbackSubmissionError,
   getStudentFeedback,
   sendStudentFeedbackToGoogle,
   saveStudentFeedback,
@@ -90,10 +91,14 @@ export const FeedbackPage: React.FC = () => {
         setRatings({});
         setComment('');
       } else if (GOOGLE_APPS_SCRIPT_URL) {
+        const deliveryUnknown =
+          error instanceof FeedbackSubmissionError && error.deliveryUnknown;
         try {
           setFeedback(saveStudentFeedback(ratings, comment));
           setStorageError(
-            'Google n’a pas confirmé la réception. Une copie de secours est conservée sur cet appareil uniquement ; elle n’a pas été envoyée à l’enseignante.'
+            deliveryUnknown
+              ? 'La page n’a pas reçu la confirmation de Google à temps. Votre réponse peut toutefois être déjà dans la feuille Google : vérifiez-la avant de renvoyer le formulaire, afin d’éviter un doublon. Une copie de secours est aussi conservée sur cet appareil.'
+              : 'Google n’a pas accepté la réponse. Une copie de secours est conservée sur cet appareil uniquement ; vérifiez le message et réessayez plus tard.'
           );
         } catch (storageError) {
           console.error('Erreur d’enregistrement local de secours :', storageError);
