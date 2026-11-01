@@ -85,6 +85,20 @@ export const Navbar: React.FC<NavbarProps> = ({
           </button>
 
           <button
+            onClick={() => handleNavClick('production-ecrite')}
+            className={`transition-colors whitespace-nowrap relative py-1 ${
+              currentView === 'production-ecrite'
+                ? 'text-amber-900 dark:text-amber-400 font-bold'
+                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
+            }`}
+          >
+            Production écrite
+            {currentView === 'production-ecrite' && (
+              <span className="absolute bottom-0 left-0 right-0 h-0.5 rounded-full bg-amber-800 dark:bg-amber-500" />
+            )}
+          </button>
+
+          <button
             onClick={() => handleNavClick('about')}
             className={`transition-colors whitespace-nowrap relative py-1 ${
               currentView === 'about'
@@ -177,6 +191,17 @@ export const Navbar: React.FC<NavbarProps> = ({
             }`}
           >
             Langues
+          </button>
+
+          <button
+            onClick={() => handleNavClick('production-ecrite')}
+            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+              currentView === 'production-ecrite'
+                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
+                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
+            }`}
+          >
+            Production écrite
           </button>
 
           <button

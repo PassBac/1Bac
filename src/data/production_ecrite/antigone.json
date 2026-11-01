@@ -1,0 +1,656 @@
+{
+  "titre_general": "Banque de Sujets de Production Écrite - Antigone de Jean Anouilh",
+  "oeuvre": "Antigone",
+  "auteur": "Jean Anouilh",
+  "niveau": "1ère Année du Baccalauréat (Examen Régional - Maroc)",
+  "bareme_officiel_10_points": {
+    "critères_du_discours_5_pts": {
+      "conformité_à_la_consigne": "2 points (Respect du sujet, du type de texte et du plan requis)",
+      "cohérence_argumentative": "1.5 point (Enchaînement logique des idées, pertinence des arguments et exemples)",
+      "structure_et_organisation": "1.5 point (Présence claire de l'introduction, du développement et de la conclusion, emploi des connecteurs)"
+    },
+    "critères_de_la_langue_5_pts": {
+      "vocabulaire_et_lexique": "1 point (Richesse, précision et registre de langue approprié)",
+      "syntaxe_et_construction": "1 point (Phrases correctes, respect des structures grammaticales)",
+      "orthographe_dusage_et_grammaticale": "1 point (Absence de fautes d'orthographe et d'accord)",
+      "conjugaison_et_temps": "1 point (Maîtrise de la concordance des temps)",
+      "ponctuation_et_présentation": "1 point (Mise en page, paragraphes, ponctuation adéquate)"
+    }
+  },
+  "sujets": [
+    {
+      "id": 1,
+      "theme": "L'obéissance à l'autorité parentale et le conflit de générations",
+      "titre_sujet": "La liberté de décision des jeunes face à l'autorité des parents et des aînés",
+      "énoncé_type_examen": "Dans la pièce Antigone de Jean Anouilh, l'héroïne refuse de renoncer à sa décision malgré les avertissements de Créon, tandis que celui-ci veut la détourner de son geste et lui imposer une autre voie. Dans la vie quotidienne, certains parents estiment qu'ils doivent décider de l'avenir de leurs enfants grâce à leur expérience ; d'autres pensent que les jeunes doivent choisir seuls pour devenir responsables. Les parents doivent-ils guider les choix des jeunes ou leur laisser une entière liberté ? Rédigez un texte argumentatif organisé dans lequel vous défendez votre point de vue à l'aide d'arguments et d'exemples précis, tirés de la pièce et de la vie courante.",
+      "type_de_plan": "Plan dialectique (Thèse / Antithèse / Synthèse)",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Dans toutes les sociétés, la relation entre les jeunes et les parents est au cœur des débats éducatifs et moraux.",
+          "positer_le_sujet": "Alors que certains préconisent l'obéissance stricte à l'autorité parentale, d'autres revendiquent l'autonomie et l'indépendance des jeunes.",
+          "problématique": "Dans quelle mesure les enfants doivent-ils obéir à leurs parents tout en affirmant leur propre personnalité ?",
+          "annonce_du_plan": "Nous examinerons d'abord les raisons qui justifient le respect de l'autorité parentale, puis nous analyserons la nécessité de l'autonomie des jeunes, avant de proposer une vision équilibrée."
+        },
+        "développement": {
+          "partie_1_pour_l_autorité_parentale": {
+            "thèse": "L'autorité parentale est une protection essentielle fondée sur l'expérience et l'affection.",
+            "arguments": [
+              "L'expérience de la vie permet aux parents d'anticiper les dangers et d'éviter aux enfants des erreurs irréparables.",
+              "L'amour parental est désintéressé ; les décisions des parents visent avant tout le bien-être et la sécurité de leurs enfants."
+            ],
+            "exemples": [
+              "Créon tente de protéger Antigone en étouffant l'affaire de la sépulture pour lui éviter la peine de mort.",
+              "La Nourrice entoure Antigone de soins attentifs et maternels pour veiller sur sa santé et son bonheur."
+            ]
+          },
+          "partie_2_pour_l_indépendance_des_jeunes": {
+            "thèse": "L'autonomie et la liberté de choix sont indispensables à l'épanouissement et à la responsabilité des jeunes.",
+            "arguments": [
+              "Imposer des choix aux jeunes peut étouffer leur personnalité et générer de la frustration ou de la révolte.",
+              "Chaque génération doit vivre sa propre époque et assumer ses propres convictions pour mûrir."
+            ],
+            "exemples": [
+              "Antigone refuse de se soumettre aveuglément à la volonté de Créon, affirmant sa liberté de conscience jusqu'au sacrifice suprême.",
+              "Hémon se dresse contre la décision tyrannique de son père Créon pour défendre son amour et sa conception de la justice."
+            ]
+          },
+          "partie_3_synthèse": {
+            "point_de_vue_médian": "Le dialogue intergénérationnel et le respect mutuel sont les clés d'une relation saine entre parents et enfants.",
+            "explication": "Il ne s'agit ni de soumission aveugle ni de rébellion destructrice, mais d'une concertation fondée sur l'écoute, où les conseils des parents guident la liberté responsable des jeunes."
+          }
+        },
+        "conclusion": {
+          "bilan": "En somme, l'autorité parentale et la liberté des enfants ne doivent pas s'affronter mais se compléter.",
+          "ouverture": "Ne faudrait-il pas encourager davantage le dialogue au sein de la famille pour éviter les tragédies d'incompréhension comme celle d'Antigone ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "D'une part / D'autre part",
+        "Certes... néanmoins",
+        "L'autorité tutélaire",
+        "L'émancipation",
+        "Le dialogue intergénérationnel"
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "Le bonheur : compromis ou idéal d'absolu ?",
+      "titre_sujet": "La conception du bonheur : accepter les compromis de la vie ou exiger l'absolu ?",
+      "énoncé_type_examen": "Au cours de son échange avec Créon, Antigone rejette le bonheur quotidien que celui-ci lui propose, car elle craint qu'il exige des concessions incompatibles avec ses convictions. Créon, au contraire, défend une vie faite de responsabilités, de compromis et de joies simples. Certains pensent qu'il faut rester fidèle à ses idéaux, même lorsque cela entraîne des sacrifices ; d'autres estiment qu'il faut accepter les imperfections de la vie pour construire son bonheur. Peut-on être heureux sans renoncer à ses principes ? Rédigez un texte argumentatif nuancé dans lequel vous confrontez ces deux conceptions et justifiez votre opinion par des exemples tirés de la pièce et de la vie courante.",
+      "type_de_plan": "Plan dialectique / Concessif",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "La quête du bonheur est une aspiration universelle qui définit les choix fondamentaux de chaque être humain.",
+          "positer_le_sujet": "Deux conceptions s'affrontent : l'une idéaliste exige l'absolu sans concession, tandis que l'autre pragmatique accepte les compromis de l'existence.",
+          "problématique": "Faut-il refuser le bonheur s'il exige des concessions morales, ou faut-il apprécier la vie telle qu'elle est avec ses imperfections ?",
+          "annonce_du_plan": "Nous verrons la valeur du bonheur pragmatique basé sur la réalité, puis la noblesse du refus du compromis, avant de concilier ces deux visions."
+        },
+        "développement": {
+          "partie_1_la_vision_pragmatique_du_bonheur_Créon": {
+            "thèse": "Le bonheur réel repose sur l'acceptation de la vie quotidienne et des compromis nécessaires.",
+            "arguments": [
+              "La vie parfaite n'existe pas ; chercher l'absolu mène souvent au désenchantement et à la souffrance.",
+              "Savoir se contenter des petites joies de l'existence (famille, santé, paix) garantit une stabilité émotionnelle."
+            ],
+            "exemples": [
+              "Créon invite Antigone à se marier avec Hémon, à élever des enfants et à savourer le bonheur simple de vivre.",
+              "Ismène incarne le désir de vivre, d'aimer et d'être heureuse sans affronter la mort inutilement."
+            ]
+          },
+          "partie_2_la_vision_idéaliste_du_bonheur_Antigone": {
+            "thèse": "Le vrai bonheur exige la pureté morale et le refus des lâchetés du quotidien.",
+            "arguments": [
+              "Accepter des compromis dishonorants, c'est trahir ses valeurs et vivre dans le mensonge.",
+              "L'exigence de l'absolu donne un sens noble à l'existence et préserve la dignité humaine."
+            ],
+            "exemples": [
+              "Antigone rejette le « bonheur bourgeois » proposé par Créon, qu'elle qualifie de « pauvreté » et d'usure morale.",
+              "Le refus d'Antigone symbolise la jeunesse qui refuse de s'asservir aux calculs des adultes."
+            ]
+          },
+          "partie_3_synthèse": {
+            "point_de_vue_médian": "Le bonheur accompli réside dans un équilibre entre idéaux élevés et réalisme quotidien.",
+            "explication": "Sans idéaux, la vie devient fade et matérialiste ; sans réalisme, elle devient destructrice. Il faut garder des principes fermes tout en sachant être indulgent envers les aléas de la vie."
+          }
+        },
+        "conclusion": {
+          "bilan": "Le bonheur n'est ni une capitulation totale ni un suicide sacrificiel, mais un art de vivre avec intégrité.",
+          "ouverture": "Est-il possible de rester fidèle à ses principes de jeunesse à l'âge adulte sans perdre sa joie de vivre ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "L'exigence d'absolu",
+        "Le pragmatisme",
+        "Les concessions morales",
+        "La pureté des idéaux",
+        "À mon sens / En définitive"
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "Loi morale vs Loi politique (Raison d'État)",
+      "titre_sujet": "Faut-il toujours obéir aux lois de la société, même si elles semblent injustes ?",
+      "énoncé_type_examen": "Après la mort des deux frères d'Antigone, Créon interdit que Polynice reçoive une sépulture, invoquant la défense de l'ordre de la cité. Antigone transgresse cet édit au nom de son devoir envers son frère et de sa conscience. Dans toute société, les lois assurent la sécurité collective, mais certaines décisions peuvent être perçues comme injustes. Un citoyen doit-il toujours obéir à la loi ou peut-il lui désobéir lorsque sa conscience la condamne ? Rédigez un texte argumentatif structuré : présentez les raisons de respecter les lois, examinez les limites de l'obéissance et défendez votre point de vue à l'aide d'exemples précis.",
+      "type_de_plan": "Plan dialectique",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Les lois et les règles de droit constituent le socle de toute vie en communauté.",
+          "positer_le_sujet": "Toutefois, lorsque la loi humaine entre en conflit avec la conscience morale, la question de l'obéissance se pose avec acuité.",
+          "problématique": "La désobéissance civile ou morale est-elle légitime face à une loi perçue comme injuste ?",
+          "annonce_du_plan": "Nous analyserons l'importance du respect des lois pour la stabilité sociale, puis les cas où la résistance morale devient un devoir, avant de dresser un bilan."
+        },
+        "développement": {
+          "partie_1_la_nécessité_du_respect_des_lois": {
+            "thèse": "Le respect des lois est indispensable pour éviter l'anarchie et garantir le vivre-ensemble.",
+            "arguments": [
+              "Sans lois et sans autorité, la société sombrerait dans le chaos et la loi du plus fort.",
+              "Les dirigeants doivent maintenir l'ordre public parfois en prenant des décisions impopulaires ou sévères."
+            ],
+            "exemples": [
+              "Créon compare la cité de Thèbes à un navire en tempête qu'il faut gouverner d'une main ferme pour éviter le naufrage.",
+              "L'édit de Créon vise à donner un exemple dissuasif pour éviter de nouvelles guerres civiles."
+            ]
+          },
+          "partie_2_la_légitimité_de_la_désobéissance_morale": {
+            "thèse": "La conscience humaine et la justice morale sont supérieures aux décrets politiques injustes.",
+            "arguments": [
+              "Une loi qui viole la dignité humaine, la religion ou la morale élémentaire perd sa légitimité.",
+              "Les grands progrès historiques (abolition de l'esclavage, droits civiques) ont été obtenus par des actes de désobéissance légitime."
+            ],
+            "exemples": [
+              "Antigone accomplit le devoir sacré de sépulture pour son frère, estimant que la justice humaine ne peut bafouer les lois divines et fraternelles.",
+              "Les résistants durant l'Occupation (période de création de la pièce en 1942) ont refusé d'obéir aux lois scélérates de Vichy."
+            ]
+          },
+          "partie_3_synthèse": {
+            "point_de_vue_médian": "La désobéissance doit rester un ultime recours exceptionnel et pacifique.",
+            "explication": "Le citoyen responsable doit privilégier les voies démocratiques pour réformer les lois injustes, mais garder le droit d'alerter sa conscience face à la tyrannie."
+          }
+        },
+        "conclusion": {
+          "bilan": "Si la loi est garante de l'ordre, la justice morale en est l'âme.",
+          "ouverture": "Comment concilier le maintien de l'ordre public avec le respect des droits fondamentaux de l'individu ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "La raison d'État",
+        "La conscience morale",
+        "L'anarchie vs l'ordre",
+        "La désobéissance civile",
+        "Somme toute / Il ressort que"
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "La solitude et le sentiment d'incompréhension",
+      "titre_sujet": "La solitude de l'individu face à une foule indifférente ou hostile",
+      "énoncé_type_examen": "Dans la pièce, Antigone se retrouve isolée face à Créon, aux gardes et même à sa sœur Ismène, qui ne partage pas d'abord son choix. À l'approche de sa fin, elle laisse paraître sa peur et son besoin d'être comprise. Aujourd'hui, un jeune peut éprouver de la solitude malgré la présence de sa famille, de ses camarades ou des réseaux sociaux. Quelles sont les principales causes de ce sentiment d'isolement et quelles actions peuvent aider une personne à retrouver des liens de confiance ? Rédigez un texte organisé en présentant des causes, des conséquences et des solutions, illustrées par des exemples.",
+      "type_de_plan": "Plan analytique (Causes / Conséquences / Solutions)",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "À l'ère de l'hyper-connexion, le sentiment d'isolement paradoxal n'a jamais été aussi vif.",
+          "positer_le_sujet": "L'incompréhension et la solitude affective touchent particulièrement les personnalités idéalistes ou marginales.",
+          "problématique": "Quelles sont les origines de cette solitude douloureuse et comment retisser des liens humains solides ?",
+          "annonce_du_plan": "Nous examinerons d'abord les causes de l'isolement, puis ses répercussions psychologiques, avant d'envisager des moyens d'action."
+        },
+        "développement": {
+          "partie_1_les_causes_de_la_solitude": {
+            "thèse": "La solitude découle de l'individualisme moderne, de la peur du jugement et du manque de communication authentique.",
+            "arguments": [
+              "L'absence d'écoute attentive au sein de la famille et des institutions isole les personnes en souffrance.",
+              "Le rejet de la différence et la pression du conformisme social poussent les idéalistes au repli sur soi."
+            ],
+            "exemples": [
+              "Antigone se sent désespérément seule face à Ismène qui doute, à Créon qui raisonne politiquement et aux gardes indifférents.",
+              "Les réseaux sociaux créent une illusion de communauté tout en accentuant la solitude réelle."
+            ]
+          },
+          "partie_2_les_conséquences_sur_l_individu": {
+            "thèse": "L'isolement prolongé engendre la perte de repères, l'angoisse et le désespoir.",
+            "arguments": [
+              "Le doute s'installe chez l'individu seul qui finit par remettre en question le sens de ses propres actions.",
+              "La solitude extrême peut conduire à des comportements autodestructeurs ou au repli définitif."
+            ],
+            "exemples": [
+              "Dans sa dernière lettre, Antigone avoue au garde sa terreur et son sentiment d'abandon total avant de mourir."
+            ]
+          },
+          "partie_3_les_solutions_envisageables": {
+            "thèse": "Favoriser l'empathie, l'écoute active et la solidarité communautaire.",
+            "arguments": [
+              "Développer une culture de la bienveillance où la parole des jeunes est accueillie sans jugement.",
+              "Encourager l'engagement associatif et culturel pour créer des communautés de valeurs réelles."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La solitude n'est pas une fatalité si l'on apprend à tendre la main vers l'autre.",
+          "ouverture": "La société moderne saura-t-elle placer l'humain au-dessus de l'indifférence ambiante ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "L'isolement affectif",
+        "Le conformisme social",
+        "L'hyper-connexion paradoxale",
+        "L'empathie",
+        "En résumé / Par conséquent"
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "Le rôle et l'attitude des forces de l'ordre (Les Gardes)",
+      "titre_sujet": "L'indifférence et le respect aveugle des ordres : danger du manque de conscience professionnelle",
+      "énoncé_type_examen": "Dans Antigone, les gardes exécutent les ordres et se préoccupent surtout de leur service quotidien, même lorsque le sort de l'héroïne est en jeu. Dans la vie professionnelle, le respect des consignes et de la hiérarchie est nécessaire au fonctionnement d'une organisation ; cependant, l'obéissance peut devenir problématique lorsqu'un ordre porte atteinte à la dignité ou aux droits d'une personne. Un employé peut-il se dégager de sa responsabilité en affirmant qu'il ne faisait qu'obéir ? Rédigez un texte argumentatif dans lequel vous examinez le rôle de la conscience et du devoir professionnel et défendez votre opinion à l'aide d'exemples précis.",
+      "type_de_plan": "Plan thématique / Plaidoyer",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "L'exercice d'une fonction professionnelle exige de la rigueur, mais soulève aussi des questions éthiques.",
+          "positer_le_sujet": "Certains s'exécutent sans réfléchir en prétextant « qu'ils obéissent aux ordres », refusant toute responsabilité personnelle.",
+          "problématique": "Est-il acceptable de renoncer à sa conscience morale sous prétexte du devoir professionnel ?",
+          "annonce_du_plan": "Nous dénoncerons d'abord les dangers du fonctionnement aveugle, puis nous rappellerons l'importance de l'éthique personnelle dans le travail."
+        },
+        "développement": {
+          "partie_1_les_dangers_de_l_obéissance_aveugle": {
+            "thèse": "L'obéissance passive transforme l'être humain en un simple rouage mécanique sans empathie.",
+            "arguments": [
+              "Le refus d'exercer son sens critique conduit à se faire le complice de l'injustice et de la tyrannie.",
+              "L'indifférence envers la souffrance humaine détruit les valeurs fondamentales de la société."
+            ],
+            "exemples": [
+              "Le garde Jonas est préoccupé par sa promotion et le jeu de cartes alors qu'Antigone va être murée vivante.",
+              "Les gardes arrêtent et maltraitent Antigone sans chercher à comprendre la noblesse de son geste."
+            ]
+          },
+          "partie_2_la_nécessité d_une_conscience_éthique": {
+            "thèse": "Chaque individu demeure responsable de ses actes, quelle que soit sa position hiérarchique.",
+            "arguments": [
+              "Le devoir professionnel ne doit jamais primer sur le respect de la vie et de la dignité humaine.",
+              "Le sens du devoir éclairé suppose le courage de refuser des ordres manifestement illégaux ou inhumains."
+            ],
+            "exemples": [
+              "Les procès historiques ont confirmé que l'obéissance aux ordres n'exonère pas de la responsabilité des crimes."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Un professionnel digne de ce nom conjugue compétences techniques et conscience éthique.",
+          "ouverture": "Comment former les citoyens de demain à exercer leur sens critique dans leur vie professionnelle ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "L'obéissance mécanique",
+        "La conscience éthique",
+        "L'insensibilité",
+        "La responsabilité individuelle",
+        "Il est indéniable que"
+      ]
+    },
+    {
+      "id": 6,
+      "theme": "Le courage et le sacrifice",
+      "titre_sujet": "Faut-il avoir du courage pour défendre ses convictions ?",
+      "énoncé_type_examen": "Antigone connaît les risques de son geste, mais elle maintient sa décision de donner une sépulture à son frère. Son attitude pose une question qui dépasse la pièce : faut-il parfois accepter des difficultés ou des sacrifices pour rester fidèle à ses convictions ? Certains admirent ceux qui défendent leurs principes malgré les conséquences ; d'autres pensent qu'il est plus raisonnable d'éviter les sacrifices inutiles. Le courage consiste-t-il toujours à tenir tête aux autres, ou peut-il aussi se manifester par la prudence et le dialogue ? Rédigez un texte argumentatif nuancé, appuyé sur des exemples tirés de la pièce et de la vie courante.",
+      "type_de_plan": "Plan dialectique / Concessif",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Chacun peut être amené à choisir entre sa tranquillité et la défense d'une valeur importante.",
+          "poser_le_sujet": "Antigone choisit d'agir malgré les conséquences, tandis que d'autres personnages privilégient la prudence et la survie.",
+          "problématique": "Le courage exige-t-il de défendre ses convictions à tout prix ?",
+          "annonce_du_plan": "Nous présenterons d'abord l'importance de rester fidèle à ses principes, puis les limites du sacrifice, avant de proposer une conception réfléchie du courage."
+        },
+        "développement": {
+          "partie_1_la_fidelite_aux_convictions": {
+            "thèse": "Défendre une conviction peut protéger la dignité et donner un sens à l'action.",
+            "arguments": [
+              "Une personne qui défend ce qu'elle juge juste refuse de se laisser guider uniquement par la peur.",
+              "Les prises de position courageuses peuvent éveiller les consciences et faire évoluer la société.",
+              "La fidélité à ses valeurs renforce le respect de soi."
+            ],
+            "exemples": [
+              "Antigone maintient son devoir envers Polynice malgré l'interdiction de Créon.",
+              "Dans la vie quotidienne, un élève peut signaler une injustice ou défendre un camarade victime d'exclusion."
+            ]
+          },
+          "partie_2_les_limites_du_sacrifice": {
+            "thèse": "Le courage ne signifie pas rechercher le danger ni ignorer les conséquences de ses actes.",
+            "arguments": [
+              "Une action irréfléchie peut entraîner des souffrances pour soi-même et pour ses proches.",
+              "La négociation et les moyens légaux permettent parfois de défendre une cause sans violence.",
+              "La prudence peut être une forme de responsabilité lorsqu'elle protège des personnes vulnérables."
+            ],
+            "exemples": [
+              "Ismène hésite à suivre Antigone parce qu'elle mesure le pouvoir de Créon et le danger encouru.",
+              "Une personne peut défendre ses droits en sollicitant un médiateur ou une institution compétente."
+            ]
+          },
+          "partie_3_une_conception_reflechie_du_courage": {
+            "thèse": "Le courage véritable associe fermeté morale, réflexion et responsabilité.",
+            "arguments": [
+              "Il faut distinguer la défense d'un principe de l'entêtement qui empêche tout dialogue.",
+              "Choisir les moyens les plus justes rend une action plus efficace et plus responsable."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Rester fidèle à ses convictions demande du courage, mais cette fidélité gagne à s'accompagner de discernement et de responsabilité.",
+          "ouverture": "Comment l'école peut-elle aider les jeunes à défendre leurs idées sans recourir à l'agressivité ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "Le courage moral",
+        "La fidélité aux principes",
+        "Le sacrifice",
+        "Le discernement",
+        "Certes... toutefois",
+        "En définitive"
+      ]
+    },
+    {
+      "id": 7,
+      "theme": "Le pouvoir et la responsabilité du dirigeant",
+      "titre_sujet": "Un dirigeant doit-il privilégier l'ordre ou écouter les citoyens ?",
+      "énoncé_type_examen": "Créon affirme qu'il doit gouverner Thèbes et préserver la stabilité de la cité après une guerre. Pourtant, sa décision concernant Polynice provoque un conflit avec Antigone et entraîne de lourdes conséquences pour sa famille. Dans une société, un dirigeant doit-il avant tout faire respecter l'ordre, ou doit-il aussi écouter les citoyens et tenir compte des principes de justice ? Rédigez un texte argumentatif dans lequel vous examinez les responsabilités d'un chef et proposez votre point de vue, en vous appuyant sur des exemples précis.",
+      "type_de_plan": "Plan dialectique",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Gouverner une communauté oblige à prendre des décisions qui concernent la sécurité et les droits de tous.",
+          "poser_le_sujet": "Créon défend l'autorité et la stabilité de Thèbes, mais son inflexibilité met en évidence les limites d'un pouvoir qui n'écoute pas.",
+          "problématique": "Un dirigeant peut-il garantir l'ordre sans dialoguer avec les citoyens et respecter les principes de justice ?",
+          "annonce_du_plan": "Nous montrerons d'abord l'utilité de l'autorité, puis les dangers d'un pouvoir fermé au dialogue, avant de définir les qualités d'un dirigeant responsable."
+        },
+        "développement": {
+          "partie_1_la_necessite_de_l_autorite": {
+            "thèse": "Une autorité légitime est nécessaire pour protéger la population et faire appliquer des règles communes.",
+            "arguments": [
+              "Les lois contribuent à la sécurité et préviennent les conflits entre citoyens.",
+              "Après une crise, des décisions organisées peuvent aider une communauté à retrouver une stabilité.",
+              "Un dirigeant doit assumer la responsabilité des choix difficiles."
+            ],
+            "exemples": [
+              "Créon compare la cité à un navire qu'il faut gouverner pour éviter le désordre.",
+              "Dans un établissement scolaire, des règles communes protègent les élèves et organisent la vie collective."
+            ]
+          },
+          "partie_2_les_dangers_d_un_pouvoir_inflexible": {
+            "thèse": "L'autorité devient injuste lorsqu'elle refuse toute contradiction et place l'obéissance au-dessus des droits.",
+            "arguments": [
+              "L'absence de dialogue prive le dirigeant d'informations nécessaires pour mesurer les conséquences d'une décision.",
+              "Une sanction excessive peut créer la peur, la révolte et la perte de confiance.",
+              "Le pouvoir doit respecter la dignité et les libertés fondamentales."
+            ],
+            "exemples": [
+              "Créon maintient son édit malgré les appels d'Antigone et les avertissements d'Hémon et de Tirésias.",
+              "Une institution qui refuse les recours risque de transformer une règle commune en instrument d'abus."
+            ]
+          },
+          "partie_3_les_qualites_d_un_dirigeant_responsable": {
+            "thèse": "Un bon dirigeant unit fermeté, écoute et respect de la justice.",
+            "arguments": [
+              "La consultation et le dialogue permettent de corriger les décisions mal informées.",
+              "Une autorité qui explique ses règles inspire davantage confiance."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "L'ordre est indispensable à la vie collective, mais il ne peut être durable sans écoute, responsabilité et respect de la justice.",
+          "ouverture": "Quels moyens permettent aux citoyens de demander des comptes à ceux qui les gouvernent ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "L'autorité légitime",
+        "La responsabilité politique",
+        "Le dialogue",
+        "L'arbitraire",
+        "D'une part... d'autre part",
+        "Par conséquent"
+      ]
+    },
+    {
+      "id": 8,
+      "theme": "La vérité, le mensonge et la transparence",
+      "titre_sujet": "Faut-il toujours dire la vérité, même lorsqu'elle fait souffrir ?",
+      "énoncé_type_examen": "Dans la pièce, Créon tente de détourner Antigone de sa décision et cherche à maîtriser les conséquences de l'affaire pour préserver l'ordre politique. Les échanges entre les personnages montrent combien la vérité, le silence et les justifications influencent leurs choix. Dans la vie quotidienne, dire la vérité peut blesser, mais mentir peut détruire la confiance. Faut-il toujours dire la vérité, quelles que soient les circonstances, ou existe-t-il des situations où il vaut mieux se taire ? Rédigez un texte argumentatif nuancé, illustré par des exemples.",
+      "type_de_plan": "Plan dialectique / Concessif",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "La vérité est souvent considérée comme la base de la confiance, mais elle peut parfois être difficile à entendre.",
+          "poser_le_sujet": "Les personnages d'Antigone sont confrontés à des décisions où la parole, le silence et les conséquences politiques s'entremêlent.",
+          "problématique": "Faut-il toujours dire toute la vérité, même si elle risque de blesser ou de mettre quelqu'un en danger ?",
+          "annonce_du_plan": "Nous examinerons d'abord les raisons de dire la vérité, puis les circonstances qui demandent de la prudence, avant de proposer une position équilibrée."
+        },
+        "développement": {
+          "partie_1_la_verite_comme_fondement_de_la_confiance": {
+            "thèse": "La vérité permet des relations sincères et des décisions fondées sur la réalité.",
+            "arguments": [
+              "La transparence évite les malentendus et les conséquences de la découverte d'un mensonge.",
+              "Reconnaître ses erreurs permet de réparer une relation et d'assumer ses responsabilités.",
+              "Dans la vie collective, l'accès à une information fiable aide les citoyens à faire des choix éclairés."
+            ],
+            "exemples": [
+              "Un élève qui reconnaît une erreur peut chercher avec son professeur une manière de la corriger.",
+              "Une famille qui parle ouvertement d'un problème peut mieux organiser une solution commune."
+            ]
+          },
+          "partie_2_la_necessite_de_tact_et_de_prudence": {
+            "thèse": "Dire la vérité ne dispense pas de choisir le bon moment et une manière respectueuse.",
+            "arguments": [
+              "Une parole brutale peut humilier alors qu'une formulation attentive permet d'être compris.",
+              "Certaines informations personnelles ne doivent pas être divulguées sans l'accord des personnes concernées.",
+              "En cas de danger, il peut être nécessaire de protéger une personne avant de révéler une information."
+            ],
+            "exemples": [
+              "Un conseil sincère est plus utile lorsqu'il est formulé avec respect et proposé au bon moment.",
+              "Une confidence reçue doit être traitée avec discrétion, sauf si la sécurité d'une personne est menacée."
+            ]
+          },
+          "partie_3_une_parole_sincere_et_responsable": {
+            "thèse": "Il faut rechercher la vérité tout en assumant la responsabilité de sa parole.",
+            "arguments": [
+              "La sincérité peut s'allier à la bienveillance et au respect de la vie privée.",
+              "Le silence prudent ne doit pas devenir un moyen de dissimuler une injustice."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La vérité est essentielle à la confiance, mais elle doit être exprimée avec tact et responsabilité.",
+          "ouverture": "Comment apprendre aux jeunes à distinguer la discrétion nécessaire du silence qui protège une injustice ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "La sincérité",
+        "La transparence",
+        "La confiance",
+        "La discrétion",
+        "Cependant",
+        "En somme"
+      ]
+    },
+    {
+      "id": 9,
+      "theme": "La place des femmes et l'émancipation",
+      "titre_sujet": "Une jeune femme doit-elle pouvoir choisir librement sa vie ?",
+      "énoncé_type_examen": "Antigone refuse que son avenir soit décidé par les autres et ne se conforme pas au rôle que Créon voudrait lui faire accepter. La pièce met aussi en scène Ismène, qui hésite entre la peur et la solidarité, ainsi que la Nourrice, attentive à la vie quotidienne de la jeune fille. Aujourd'hui, certaines personnes pensent que les traditions et la famille doivent guider les choix des jeunes femmes ; d'autres défendent leur liberté d'étudier, de travailler et de décider de leur avenir. Comment concilier respect des liens familiaux et liberté de choix ? Rédigez un texte argumentatif équilibré, avec des arguments et des exemples précis.",
+      "type_de_plan": "Plan dialectique / Concessif",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "La liberté de choisir son avenir est une question centrale dans la construction de toute personne.",
+          "poser_le_sujet": "Le comportement d'Antigone met en lumière la tension entre les attentes sociales et la volonté individuelle.",
+          "problématique": "Comment garantir aux jeunes femmes la liberté de construire leur vie tout en maintenant le dialogue avec leur famille et leur société ?",
+          "annonce_du_plan": "Nous présenterons l'importance de la liberté individuelle, puis la place des repères familiaux et culturels, avant de proposer une conciliation fondée sur le respect."
+        },
+        "développement": {
+          "partie_1_la_liberte_de_choisir_son_avenir": {
+            "thèse": "Une jeune femme doit pouvoir développer ses capacités et participer aux décisions qui concernent sa vie.",
+            "arguments": [
+              "L'accès à l'éducation et au travail favorise l'autonomie et la confiance en soi.",
+              "Une décision choisie permet de s'engager et d'assumer plus pleinement ses responsabilités.",
+              "L'égalité des droits contribue au progrès de la famille et de la société."
+            ],
+            "exemples": [
+              "Antigone revendique la responsabilité de ses actes au lieu d'accepter un avenir décidé par Créon.",
+              "Une jeune femme qui poursuit des études peut contribuer à sa communauté grâce à ses compétences."
+            ]
+          },
+          "partie_2_le_role_des_repères_familiaux_et_sociaux": {
+            "thèse": "La famille et la culture peuvent apporter soutien, expérience et sentiment d'appartenance.",
+            "arguments": [
+              "Les conseils des proches aident à évaluer les risques et les possibilités.",
+              "Les valeurs partagées créent des liens entre générations.",
+              "Le dialogue avec la famille peut éviter des décisions prises dans la précipitation."
+            ],
+            "exemples": [
+              "Ismène exprime la peur du danger et rappelle à Antigone leur vulnérabilité face au pouvoir.",
+              "Un échange respectueux entre parents et enfants peut permettre de confronter les points de vue sans imposer une décision."
+            ]
+          },
+          "partie_3_une_conciliation_fondee_sur_le_respect": {
+            "thèse": "Les conseils sont utiles lorsqu'ils éclairent un choix sans remplacer la volonté de la personne concernée.",
+            "arguments": [
+              "Le respect mutuel permet de discuter des traditions et de les faire évoluer.",
+              "L'autonomie se construit avec des possibilités réelles d'éducation, d'information et de participation."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La famille peut accompagner les choix d'une jeune femme, mais ne devrait pas lui retirer la possibilité de construire librement son avenir.",
+          "ouverture": "Quelles actions éducatives et sociales peuvent rendre cette liberté concrète pour toutes les jeunes filles ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "L'émancipation",
+        "L'autonomie",
+        "L'égalité",
+        "Les repères culturels",
+        "Toutefois",
+        "Ainsi"
+      ]
+    },
+    {
+      "id": 10,
+      "theme": "La guerre, la paix et la fraternité",
+      "titre_sujet": "Comment reconstruire la paix après un conflit entre proches ou entre peuples ?",
+      "énoncé_type_examen": "L'histoire d'Antigone se déroule après un affrontement entre ses deux frères, Étéocle et Polynice. La guerre laisse la cité divisée et Créon cherche à rétablir l'ordre par une décision qui provoque un nouveau conflit. Dans la vie des familles comme dans celle des peuples, les désaccords peuvent devenir violents et laisser des blessures durables. Quelles démarches permettent de reconstruire la paix après un conflit sans oublier les victimes ni alimenter la vengeance ? Rédigez un texte argumentatif structuré, en développant des moyens de prévenir la violence et de rétablir la confiance.",
+      "type_de_plan": "Plan analytique / Problème-Solutions",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Un conflit peut prendre fin sans que la méfiance et les blessures disparaissent immédiatement.",
+          "poser_le_sujet": "Après le combat entre les frères d'Antigone, Thèbes doit retrouver la paix, mais les décisions de Créon ravivent les tensions.",
+          "problématique": "Comment construire une paix durable après une violence ou une rupture ?",
+          "annonce_du_plan": "Nous analyserons d'abord les conséquences des conflits, puis les conditions du dialogue et de la réparation, avant de souligner le rôle de la prévention."
+        },
+        "développement": {
+          "partie_1_les_consequences_d_un_conflit": {
+            "thèse": "La violence détruit les liens et peut prolonger les souffrances au-delà de la fin des combats.",
+            "arguments": [
+              "Les pertes humaines et les humiliations nourrissent le deuil et le désir de revanche.",
+              "La peur et la méfiance rendent difficile le retour à une vie collective normale.",
+              "Une décision perçue comme injuste peut rouvrir les blessures au lieu de les apaiser."
+            ],
+            "exemples": [
+              "La mort des deux frères laisse Thèbes dans une situation fragile et divisée.",
+              "L'interdiction de sépulture imposée à Polynice transforme le deuil familial en affrontement politique."
+            ]
+          },
+          "partie_2_les_moyens_de_reconstruire_la_paix": {
+            "thèse": "Une paix durable exige la reconnaissance des souffrances, le dialogue et des règles équitables.",
+            "arguments": [
+              "Écouter les différentes parties permet de comprendre les causes du conflit.",
+              "La justice et la réparation empêchent que les victimes soient oubliées.",
+              "La médiation aide à négocier des solutions et à éviter de nouveaux affrontements."
+            ],
+            "exemples": [
+              "Dans une dispute scolaire, un médiateur peut aider les élèves à exprimer leurs torts et à convenir d'une réparation.",
+              "Après un conflit, des règles acceptées par tous renforcent la confiance dans la communauté."
+            ]
+          },
+          "partie_3_la_prevention_de_nouvelles_violences": {
+            "thèse": "La paix se prépare en apprenant à résoudre les désaccords avant qu'ils ne deviennent violents.",
+            "arguments": [
+              "L'éducation au dialogue et au respect des différences limite les réactions de haine.",
+              "Des institutions équitables offrent des recours lorsque les citoyens se sentent lésés."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La paix ne consiste pas seulement à arrêter les combats : elle suppose justice, écoute, réparation et prévention.",
+          "ouverture": "Quel rôle les jeunes peuvent-ils jouer dans la résolution pacifique des conflits autour d'eux ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "La réconciliation",
+        "La médiation",
+        "La réparation",
+        "La fraternité",
+        "D'abord... ensuite",
+        "En définitive"
+      ]
+    },
+    {
+      "id": 11,
+      "theme": "La responsabilité et les conséquences des choix",
+      "titre_sujet": "Sommes-nous responsables des conséquences de nos décisions ?",
+      "énoncé_type_examen": "Antigone assume la responsabilité de son geste et refuse de nier ce qu'elle a fait. Créon, de son côté, doit répondre de la décision qu'il prend en tant que roi, même s'il prétend agir pour protéger la cité. Dans la vie courante, une décision individuelle peut avoir des conséquences sur la famille, les camarades ou la société. Chacun doit-il assumer les résultats de ses choix, même lorsque ses intentions étaient bonnes ? Rédigez un texte argumentatif en distinguant l'intention, les conséquences et la responsabilité, et appuyez votre réflexion par des exemples.",
+      "type_de_plan": "Plan analytique / Concessif",
+      "plan_détaillé": {
+        "introduction": {
+          "amorce": "Toute décision peut produire des effets inattendus pour la personne qui la prend et pour son entourage.",
+          "poser_le_sujet": "Antigone assume son acte, tandis que Créon doit faire face aux conséquences de son édit.",
+          "problématique": "Une bonne intention suffit-elle à nous dégager de la responsabilité des conséquences de nos choix ?",
+          "annonce_du_plan": "Nous montrerons d'abord pourquoi chacun doit répondre de ses actes, puis nous examinerons les limites liées aux conséquences imprévues, avant de définir une attitude responsable."
+        },
+        "développement": {
+          "partie_1_l_assomption_des_actes": {
+            "thèse": "Assumer ses décisions est nécessaire au respect de soi et à la confiance entre les personnes.",
+            "arguments": [
+              "Reconnaître une erreur permet de réparer le tort causé et d'éviter qu'il se répète.",
+              "La responsabilité personnelle empêche de faire porter systématiquement la faute aux autres.",
+              "Les personnes qui exercent une autorité ont un devoir accru de mesurer l'effet de leurs décisions."
+            ],
+            "exemples": [
+              "Antigone reconnaît son geste devant Créon au lieu de le dissimuler.",
+              "Créon constate trop tard les conséquences de sa décision sur Antigone, Hémon et Eurydice."
+            ]
+          },
+          "partie_2_les_limites_des_consequences_previsibles": {
+            "thèse": "Il est parfois impossible de prévoir tous les effets d'une décision.",
+            "arguments": [
+              "Des circonstances nouvelles peuvent modifier le résultat d'un choix raisonnable.",
+              "La responsabilité doit tenir compte des informations et des moyens dont la personne disposait.",
+              "L'intention compte, mais elle n'efface pas automatiquement le dommage causé."
+            ],
+            "exemples": [
+              "Un élève peut prendre une décision de groupe sans prévoir qu'elle exclura un camarade.",
+              "Une erreur commise de bonne foi appelle une explication et une réparation adaptées plutôt qu'une condamnation automatique."
+            ]
+          },
+          "partie_3_une_attitude_responsable": {
+            "thèse": "Agir de manière responsable consiste à réfléchir, écouter les personnes concernées et corriger ses erreurs.",
+            "arguments": [
+              "Prendre conseil et vérifier les informations réduit les risques d'une décision hâtive.",
+              "Reconnaître les conséquences permet de réparer et d'apprendre de l'expérience."
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Nous devons assumer nos choix en tenant compte de nos intentions, des conséquences prévisibles et des possibilités de réparation.",
+          "ouverture": "Comment apprendre dès l'école à prendre des décisions collectives de manière responsable ?"
+        }
+      },
+      "vocabulaire_et_connecteurs_conseillés": [
+        "La responsabilité",
+        "Les conséquences",
+        "L'intention",
+        "La réparation",
+        "Néanmoins",
+        "C'est pourquoi"
+      ]
+    }
+  ],
+  "conseils_pour_le_jour_de_l_examen": [
+    "Bien lire la consigne pour identifier le sujet, le type de plan exigé et les mots-clés.",
+    "Rédiger au brouillon le plan détaillé (Introduction, 2 ou 3 parties avec arguments/exemples, Conclusion).",
+    "Utiliser des connecteurs logiques variés pour assurer la fluidité de la rédaction.",
+    "Varier les exemples en puisant dans l'œuvre d'Antigone, les autres œuvres du programme et l'actualité.",
+    "Garder 10 minutes à la fin pour relire attentivement et corriger les fautes d'orthographe, d'accord et de ponctuation."
+  ]
+}

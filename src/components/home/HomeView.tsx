@@ -1,8 +1,9 @@
 import React from 'react';
 import { NovelSummary, NovelId, UserStudyProgress } from '../../types';
-import { ArrowRight, RotateCcw, BookOpen, BookOpenCheck, CheckCircle2 } from 'lucide-react';
+import { ArrowRight, RotateCcw, BookOpen, BookOpenCheck, CheckCircle2, Feather } from 'lucide-react';
 import { getNovelStudyData } from '../../data/novelStudyData';
 import { LESSONS } from '../../data/lessons';
+import { PRODUCTION_WRITING_WORKS } from '../../data/productionEcrite';
 
 interface HomeViewProps {
   novels: NovelSummary[];
@@ -191,6 +192,50 @@ export const HomeView: React.FC<HomeViewProps> = ({
               </article>
             );
           })}
+        </div>
+      </section>
+
+      <section>
+        <div className="relative overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-xs dark:border-stone-800 dark:bg-stone-900">
+          <div className="absolute inset-y-0 left-0 w-1.5 bg-gradient-to-b from-amber-700 via-amber-500 to-orange-300 dark:from-amber-500 dark:via-amber-700 dark:to-orange-950" />
+          <div className="grid gap-6 p-6 sm:p-8 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+            <div className="min-w-0">
+              <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-amber-800 dark:text-amber-400">
+                <Feather className="h-4 w-4" />
+                Atelier · Méthode d'examen
+              </div>
+              <h2 className="mt-2 font-serif text-2xl font-bold text-stone-900 dark:text-stone-100 sm:text-3xl">
+                Production écrite
+              </h2>
+              <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone-600 dark:text-stone-400">
+                Entraînez-vous à développer vos idées avec des sujets détaillés,
+                des pistes de plan et du vocabulaire liés aux œuvres du programme.
+              </p>
+              <div className="mt-5 grid grid-cols-1 gap-2 sm:grid-cols-3">
+                {PRODUCTION_WRITING_WORKS.map((work) => (
+                  <div
+                    key={work.id}
+                    className="min-w-0 rounded-xl border border-stone-200 bg-stone-50/80 px-3 py-2.5 dark:border-stone-700 dark:bg-stone-800/60"
+                  >
+                    <p className="break-words text-xs font-semibold text-stone-800 dark:text-stone-200">
+                      {work.title}
+                    </p>
+                    <p className="mt-1 text-[10px] text-stone-500 dark:text-stone-400">
+                      {work.subjects.length} sujets · {work.author}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+            <button
+              type="button"
+              onClick={() => onNavigate('production-ecrite')}
+              className="inline-flex min-h-11 items-center justify-center gap-2 self-start rounded-xl bg-amber-800 px-5 py-3 text-xs font-semibold text-white transition hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600 lg:self-center"
+            >
+              Explorer les sujets
+              <ArrowRight className="h-4 w-4" />
+            </button>
+          </div>
         </div>
       </section>
 

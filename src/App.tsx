@@ -17,6 +17,7 @@ import { LexiqueGlobalPage } from './components/lexicon/LexiqueGlobalPage';
 import { AboutPage } from './components/about/AboutPage';
 import { LessonsView } from './components/features/LessonsView';
 import { FeedbackPage } from './components/feedback/FeedbackPage';
+import { ProductionEcriteView } from './components/features/ProductionEcriteView';
 import { LESSONS } from './data/lessons';
 
 const getInitialDarkMode = (): boolean => {
@@ -79,7 +80,13 @@ export default function App() {
             : LESSONS[0].id
         );
         setCurrentView('lessons');
-      } else if (hash === 'romans' || hash === 'lexicon' || hash === 'about' || hash === 'feedback') {
+      } else if (
+        hash === 'romans' ||
+        hash === 'lexicon' ||
+        hash === 'about' ||
+        hash === 'feedback' ||
+        hash === 'production-ecrite'
+      ) {
         setCurrentView(hash);
       }
     };
@@ -230,6 +237,8 @@ export default function App() {
         {currentView === 'about' && <AboutPage />}
 
         {currentView === 'feedback' && <FeedbackPage />}
+
+        {currentView === 'production-ecrite' && <ProductionEcriteView />}
       </main>
 
       {/* Clean quiet toast notification */}

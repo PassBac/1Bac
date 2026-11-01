@@ -1,0 +1,582 @@
+{
+  "titre_module": "Banque de Sujets de Production Écrite - La Boîte à merveilles (Ahmed Sefrioui)",
+  "description": "Fichier pédagogique complet regroupant les sujets d'expression écrite inspirés des thèmes majeurs de La Boîte à merveilles, accompagnés du barème officiel de l'Examen Régional au Maroc, des pistes de plans (dialectique, analytique, thématique), des banques d'arguments et du vocabulaire clé.",
+  "bareme_officiel_examen_regional": {
+    "total_points": 10,
+    "partie_1_criteres_du_discours": {
+      "total": "5 points",
+      "criteres": [
+        {
+          "critere": "Conformité de la production à la consigne d'écriture",
+          "points": 2.0,
+          "explication": "Respect du sujet, du type de texte demandé (texte argumentatif) et de la consigne."
+        },
+        {
+          "critere": "Cohérence de l'argumentation",
+          "points": 1.5,
+          "explication": "Enchaînement logique des idées, clarté de la thèse et pertinence des arguments et exemples."
+        },
+        {
+          "critere": "Structure et organisation du texte",
+          "points": 1.5,
+          "explication": "Présence claire de l'introduction, du développement (paragraphes structurés) et de la conclusion avec connecteurs logiques."
+        }
+      ]
+    },
+    "partie_2_criteres_de_la_langue": {
+      "total": "5 points",
+      "criteres": [
+        {
+          "critere": "Syntaxe",
+          "points": 1.0,
+          "explication": "Construction correcte des phrases (simples et complexes)."
+        },
+        {
+          "critere": "Vocabulaire",
+          "points": 1.0,
+          "explication": "Utilisation d'un lexique précis, riche et varié."
+        },
+        {
+          "critere": "Orthographe",
+          "points": 1.0,
+          "explication": "Respect de l'orthographe grammaticale et d'usage."
+        },
+        {
+          "critere": "Conjugaison",
+          "points": 1.0,
+          "explication": "Emploi adéquat et cohérent des temps verbaux."
+        },
+        {
+          "critere": "Ponctuation",
+          "points": 1.0,
+          "explication": "Usage correct et efficace de la ponctuation."
+        }
+      ]
+    },
+    "recommandations_aux_correcteurs": [
+      "Accepter tout plan argumentatif cohérent (dialectique, analytique, concessif, thématique).",
+      "Éviter le recours injustifié à la mention 'hors sujet'.",
+      "Attribuer les points de langue de manière analytique et rigoureuse."
+    ]
+  },
+  "sujets_par_theme": [
+    {
+      "id_theme": "THEME_01",
+      "nom_theme": "La Solitude et l'isolement",
+      "lien_oeuvre": "Sidi Mohammed est un enfant solitaire de 6 ans qui se sent incompris par les adultes et se réfugie dans sa Boîte à merveilles.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_01",
+          "titre": "La solitude chez les jeunes : fléau ou besoin d'épanouissement ?",
+          "enonce": "Dans La Boîte à merveilles, Sidi Mohammed, enfant unique et souvent incompris, se sent seul parmi les adultes. Pour échapper à cet isolement, il se réfugie dans son imagination et dans les objets de sa boîte. Certains considèrent que les moments de solitude aident l'enfant à réfléchir et à développer sa créativité ; d'autres pensent qu'un enfant a surtout besoin de compagnie et d'échanges pour s'épanouir. À votre avis, la solitude est-elle nécessaire ou dangereuse pour un jeune ? Rédigez un texte argumentatif dans lequel vous présentez votre point de vue, en l'appuyant par des arguments et des exemples précis.",
+          "type_plan": "Plan dialectique (Thèse / Antithèse / Synthèse)",
+          "structure_recommandee": {
+            "introduction": "Accroche sur le sentiment de solitude (référence à Sidi Mohammed) + Présentation du débat + Problématique + Annonce du plan.",
+            "developpement": {
+              "partie_1_thèse_les_bienfaits_de_la_solitude": [
+                "Permet le développement de la créativité et de l'imagination (ex: la boîte à merveilles de Sidi Mohammed).",
+                "Offre un moment d'auto-réflexion et de connaissance de soi loin du bruit extérieur.",
+                "Protège contre les mauvaises fréquentations et la pression sociale."
+              ],
+              "partie_2_antithèse_les_dangers_de_la_solitude": [
+                "Engendre le repli sur soi, la dépression et la mélancolie.",
+                "Nuit à la sociabilisation et au développement des compétences relationnelles.",
+                "Peut conduire à un sentiment d'incompréhension et d'exclusion sociale."
+              ]
+            },
+            "conclusion": "Bilan équilibré : la solitude est bénéfique lorsqu'elle est un choix momentané, mais néfaste lorsqu'elle devient un isolement subi et permanent."
+          },
+          "vocabulaire_utile": [
+            "isolement",
+            "repli sur soi",
+            "épanouissement",
+            "méditation",
+            "sociabilité",
+            "mélancolie"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_02",
+      "nom_theme": "Les Superstitions, la Voyance et les Marabouts",
+      "lien_oeuvre": "Lalla Zoubida et Lalla Aïcha fréquentent les voyants (Sidi Ali Boughaleb, Sidi El Arafi, Kanza la Chouafa) pour chercher la guérison ou la protection.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_02",
+          "titre": "Le recours aux voyants et marabouts dans la société moderne",
+          "enonce": "Dans le roman, lorsque les difficultés et l'inquiétude envahissent sa famille, Lalla Zoubida cherche du réconfort auprès de pratiques traditionnelles et de personnes auxquelles elle prête des pouvoirs particuliers. Aujourd'hui encore, certaines personnes consultent des voyants ou des guérisseurs pour obtenir une réponse à leurs problèmes de santé, de famille ou d'argent. Selon vous, pourquoi ces pratiques attirent-elles des personnes en difficulté ? Comment peut-on respecter les traditions tout en se protégeant du charlatanisme et en privilégiant les soins et les conseils compétents ? Développez votre réflexion dans un texte argumentatif illustré d'exemples.",
+          "type_plan": "Plan analytique ou réquisitoire (Critique argumentée)",
+          "structure_recommandee": {
+            "introduction": "Constat sur la persistance des croyances populaires superstitieuses + Prise de position claire (condamnation de l'escroquerie).",
+            "developpement": {
+              "causes_du_phenomene": [
+                "L'ignorance, l'analphabétisme et le manque de conscience scientifique.",
+                "La détresse psychologique et le désespoir face à la maladie ou la pauvreté (comme Lalla Zoubida lors du départ de son mari).",
+                "L'influence des traditions orales et de l'héritage culturel superstitieux."
+              ],
+              "consequences_et_critique": [
+                "L'arnaque financière et l'exploitation de la faiblesse des gens crédules.",
+                "L'aggravation des problèmes de santé par le retard de prise en charge médicale réelle.",
+                "La propagation d'une mentalité fataliste au détriment du travail et de la raison."
+              ]
+            },
+            "conclusion": "Nécessité de sensibiliser la population, de promouvoir la science et l'accès aux soins médicaux modernes pour éradiquer le charlatanisme."
+          },
+          "vocabulaire_utile": [
+            "superstition",
+            "charlatanisme",
+            "crédulité",
+            "obscurantisme",
+            "sensibilisation",
+            "médecine moderne"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_03",
+      "nom_theme": "La Solidarité, l'Entraide et la Générosité",
+      "lien_oeuvre": "La disparition de Zineb réunit la maison, Rahma offre une charité aux pauvres, et les voisines soutiennent Lalla Zoubida pendant l'absence de Maâlem Abdeslam.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_03",
+          "titre": "La solidarité dans la société : valeur vivante ou tradition perdue ?",
+          "enonce": "Dans Dar Chouafa, les habitants partagent le même espace, se parlent et se mobilisent lorsque l'un d'eux traverse une épreuve. De nos jours, certains regrettent que les voisins se connaissent moins et que l'individualisme prenne le dessus ; d'autres estiment que l'entraide existe toujours, mais qu'elle s'organise autrement, par exemple dans les associations ou lors des crises. La solidarité a-t-elle réellement disparu de la société moderne ? Rédigez un texte argumentatif où vous confrontez ces deux points de vue et donnez des exemples de gestes qui peuvent renforcer la vie collective.",
+          "type_plan": "Plan dialectique",
+          "structure_recommandee": {
+            "introduction": "Définition de la solidarité traditionnelle + Questionnement sur son évolution moderne.",
+            "developpement": {
+              "argument_1_declin_de_la_solidarite_de_quartier": [
+                "L'urbanisation moderne et le rythme de vie individualiste isolent les voisins.",
+                "La recherche du profit matériel personnel prime souvent sur les relations humaines.",
+                "Méfiance accrue entre les gens dans les grandes villes."
+              ],
+              "argument_2_nouvelles_formes_de_solidarite": [
+                "Émergence des associations caritatives et de la société civile organisée.",
+                "Mobilisation lors des crises et catastrophes naturelles (élan national de générosité).",
+                "Solidarité numérique et campagnes de collecte de dons en ligne."
+              ]
+            },
+            "conclusion": "La solidarité n'a pas disparu, elle a simplement changé de forme, passant du cadre de voisinage informel à des structures organisées."
+          },
+          "vocabulaire_utile": [
+            "solidarité",
+            "entraide",
+            "individualisme",
+            "altruisme",
+            "générosité",
+            "cohésion sociale"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_04",
+      "nom_theme": "L'Éducation, l'Autorité et la Sévérité",
+      "lien_oeuvre": "Le Fqih du Msid utilise la baguette de cognassier et la terreur pour faire apprendre le Coran à Sidi Mohammed.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_04",
+          "titre": "La punition corporelle et la sévérité dans l'éducation des enfants",
+          "enonce": "Le passage de Sidi Mohammed au Msid est marqué par la peur du Fqih et par les punitions. Aujourd'hui, certains adultes pensent qu'une éducation sévère est indispensable pour apprendre le respect et la discipline ; d'autres affirment que les punitions, surtout lorsqu'elles sont violentes, découragent l'enfant et nuisent à sa confiance. La peur est-elle un moyen efficace d'éduquer ? Présentez votre avis dans un texte argumentatif organisé, en évoquant les limites de la punition et les méthodes qui permettent à l'enfant d'apprendre dans un cadre juste et bienveillant.",
+          "type_plan": "Plan dialectique ou concessif",
+          "structure_recommandee": {
+            "introduction": "Évolution des méthodes pédagogiques (du Msid traditionnel à l'école moderne) + Annonce du point de vue favorable au dialogue.",
+            "developpement": {
+              "partie_1_critique_de_la_severite_excessive": [
+                "La violence physique et verbale engendre la peur, la rancœur et les traumatismes (ex: le cauchemar du Fqih).",
+                "Elle étouffe la personnalité de l'enfant et bloque son esprit critique.",
+                "Elle produit un apprentissage basé sur la crainte et non sur le plaisir de savoir."
+              ],
+              "partie_2_plaidoirie_pour_un_dialogue_constructif": [
+                "Le dialogue développe la confiance en soi, l'autonomie et le respect mutuel.",
+                "La discipline doit être basée sur des règles claires et la compréhension des erreurs.",
+                "L'encouragement et la récompense motivent davantage l'enfant que le châtiment."
+              ]
+            },
+            "conclusion": "Une éducation réussie allie la fermeté bienveillante au dialogue respectueux sans jamais recourir à la violence."
+          },
+          "vocabulaire_utile": [
+            "pédagogie",
+            "sévérité",
+            "châtiment corporel",
+            "dialogue",
+            "épanouissement",
+            "bienveillance"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_05",
+      "nom_theme": "L'Amitié et la Fidélité",
+      "lien_oeuvre": "L'amitié solide entre Lalla Zoubida et Lalla Aïcha résiste aux épreuves et aux déboires financiers de leurs maris.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_05",
+          "titre": "L'amitié à l'ère numérique : les amis virtuels vs les amis réels",
+          "enonce": "Dans le roman, Lalla Aïcha apporte à Lalla Zoubida une écoute et un soutien précieux dans les moments difficiles. Aujourd'hui, les réseaux sociaux permettent aux jeunes de rencontrer de nombreuses personnes et de garder le contact à distance. Cependant, un grand nombre de contacts en ligne suffit-il à créer une amitié sincère ? Les relations virtuelles peuvent-elles remplacer la présence, la confiance et la fidélité d'un ami dans les épreuves ? Rédigez un texte argumentatif où vous comparez ces formes de relations et justifiez votre opinion par des exemples.",
+          "type_plan": "Plan comparatif / dialectique",
+          "structure_recommandee": {
+            "introduction": "Montée en puissance des réseaux sociaux + Définition de l'amitié sincère.",
+            "developpement": {
+              "limites_des_amities_virtuelles": [
+                "Superficialité et illusion de ne pas être seul.",
+                "Absence de soutien réel dans les moments de crise (contrairement à Lalla Aïcha soutenant son amie).",
+                "Risque de tromperie et d'hypocrisie derrière les écrans."
+              ],
+              "valeur_de_l_amitie_réelle": [
+                "Partage d'expériences concrètes, d'émotions sincères et de moments de vie.",
+                "Fidélité, écoute active et sacrifice mutuel.",
+                "Ancrage dans le monde réel et stabilité psychologique."
+              ]
+            },
+            "conclusion": "Les réseaux sociaux sont d'excellents outils de contact, mais la véritable amitié exige la présence physique et la preuve des actes."
+          },
+          "vocabulaire_utile": [
+            "amitié sincère",
+            "réseaux sociaux",
+            "virtualité",
+            "fidélité",
+            "hypocrisie",
+            "soutien moral"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_06",
+      "nom_theme": "Les Fêtes, les Traditions et les Dépenses",
+      "lien_oeuvre": "La préparation joyeuse de l'Achoura (nettoyage du Msid, achat d'habits neufs à la Kissaria, tambourins et trompette).",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_06",
+          "titre": "Les fêtes traditionnelles et la tentation du gaspillage",
+          "enonce": "La préparation de l'Achoura apporte à Sidi Mohammed des moments de joie et des souvenirs liés aux jouets, aux habits et aux traditions de son quartier. Aujourd'hui, les fêtes restent des occasions de réunir la famille, mais les achats et les dépenses peuvent devenir excessifs et peser sur le budget de certains foyers. Faut-il dépenser beaucoup pour réussir une fête ? Expliquez comment on peut préserver la joie et la valeur culturelle des célébrations tout en évitant le gaspillage et la comparaison sociale. Appuyez votre réflexion par des arguments et des exemples.",
+          "type_plan": "Plan analytique / réquisitoire",
+          "structure_recommandee": {
+            "introduction": "Importance culturelle des fêtes traditionnelles au Maroc + Problématique des excès financiers.",
+            "developpement": {
+              "l_importance_de_preserver_la_joie_des_fetes": [
+                "Créer des souvenirs impérissables pour les enfants (ex: la joie de Sidi Mohammed à l'Achoura).",
+                "Renforcer les liens familiaux et le sentiment d'appartenance culturelle.",
+                "Entretenir la générosité et le partage."
+              ],
+              "les_dangers_du_gaspillage_et_de_l_ostentation": [
+                "L'endettement des ménages modestes pour 'faire comme les autres'.",
+                "La dérive vers le matérialisme au détriment du sens spirituel ou familial de la fête.",
+                "Le stress et la ruine financière inutile."
+              ]
+            },
+            "conclusion": "Il faut fêter dans la simplicité et la mesure, en privilégiant la chaleur humaine et les valeurs plutôt que l'ostentation matérielle."
+          },
+          "vocabulaire_utile": [
+            "fête traditionnelle",
+            "gaspillage",
+            "ostentation",
+            "simplicité",
+            "endettement",
+            "patrimoine culturel"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_07",
+      "nom_theme": "L'Argent, la Pauvreté et la Dignité",
+      "lien_oeuvre": "Maâlem Abdeslam perd son capital au souk mais refuse de mendier ou de demander crédit ; il préfère partir travailler durement comme moissonneur.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_07",
+          "titre": "Face à la pauvreté : la dignité par le travail vs le recours à la facilité",
+          "enonce": "Après avoir perdu son capital au souk, Maâlem Abdeslam choisit de partir travailler comme moissonneur afin de subvenir aux besoins de sa famille. Son attitude met en valeur le courage et le travail, mais elle invite aussi à réfléchir aux difficultés que rencontrent les familles pauvres et à l'importance de l'entraide. Le travail suffit-il toujours à sortir une famille de la précarité ? Quel rôle la solidarité peut-elle jouer sans porter atteinte à la dignité de ceux qui reçoivent de l'aide ? Rédigez un texte argumentatif nuancé, illustré par des exemples.",
+          "type_plan": "Plan plaidoyer / thématique",
+          "structure_recommandee": {
+            "introduction": "Référence à l'épreuve de la ruine de Maâlem Abdeslam au Chapitre IX + Valorisation du travail digne.",
+            "developpement": {
+              "la_dignite_par_le_labeur": [
+                "Le travail honnête préserve l'honneur, le respect de soi et la considération de la société.",
+                "L'effort personnel permet de surmonter la crise sans s'abaisser devant autrui.",
+                "Donner l'exemple de la responsabilité à sa famille."
+              ],
+              "critique_de_la_dependance_et_de_la_facilite": [
+                "La mendicité et l'endettement excessif détruisent la fierté individuelle.",
+                "S'en remettre à la charité crée une dépendance humiliante.",
+                "La vraie richesse réside dans l'honnêteté et la force de caractère."
+              ]
+            },
+            "conclusion": "L'attitude de Maâlem Abdeslam est une leçon de courage et de dignité universelle face aux épreuves de la vie."
+          },
+          "vocabulaire_utile": [
+            "dignité",
+            "labeur",
+            "honneur",
+            "endettement",
+            "courage",
+            "responsabilité paternelle"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_08",
+      "nom_theme": "La Polygamie et la Vie de Couple",
+      "lien_oeuvre": "Moulay Larbi épouse la fille du coiffeur en seconde noces pour avoir des enfants, provoquant le malheur de Lalla Aïcha avant le divorce final.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_08",
+          "titre": "Le mariage de convenance et le respect au sein du couple",
+          "enonce": "L'histoire de Moulay Larbi et de Lalla Aïcha montre qu'une décision importante prise au sein d'un couple peut provoquer de la souffrance lorsqu'elle néglige les sentiments et la parole de l'autre. Dans la société actuelle, quelles sont, selon vous, les conditions nécessaires à une vie de couple équilibrée ? Discutez du rôle du respect, du dialogue, de la confiance et du partage des responsabilités dans un texte argumentatif structuré, en donnant des exemples pertinents.",
+          "type_plan": "Plan explicatif / thématique",
+          "structure_recommandee": {
+            "introduction": "Mention de l'épisode de Moulay Larbi et Lalla Aïcha + Évolution de la conception du couple.",
+            "developpement": {
+              "piliers_d_un_couple_solide": [
+                "Le respect mutuel et l'égalité entre les conjoints.",
+                "La communication ouverte et la transparence dans la gestion des problèmes.",
+                "La fidélité et le soutien inconditionnel dans les moments difficiles."
+              ],
+              "facteurs_de_rupture_ou_de_souffrance": [
+                "L'égoïsme et la pression sociale ou familiale.",
+                "L'absence de dialogue et la trahison des engagements.",
+                "La négligence des sentiments du partenaire."
+              ]
+            },
+            "conclusion": "Le mariage moderne doit reposer sur un partenariat sincère, l'amour et le respect réciproque pour garantir la stabilité de la famille."
+          },
+          "vocabulaire_utile": [
+            "vie de couple",
+            "respect mutuel",
+            "dialogue",
+            "fidélité",
+            "stabilité familiale",
+            "engagement"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_09",
+      "nom_theme": "L'Imagination et le Jeu dans la Vie de l'Enfant",
+      "lien_oeuvre": "Sidi Mohammed transforme les objets de sa boîte en compagnons imaginaires et trouve dans le jeu un moyen d'échapper à la solitude.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_09",
+          "titre": "Le jeu et l'imagination sont-ils indispensables à l'enfant ?",
+          "enonce": "La boîte de Sidi Mohammed ne contient que des objets ordinaires, mais l'enfant leur donne une valeur exceptionnelle grâce à son imagination. Aujourd'hui, certains enfants passent beaucoup de temps devant les écrans, tandis que d'autres continuent à inventer des jeux et des histoires. Le jeu libre et l'imagination sont-ils essentiels au développement de l'enfant, ou les activités numériques peuvent-elles leur offrir les mêmes bienfaits ? Présentez votre point de vue dans un texte argumentatif organisé, en vous appuyant sur des exemples précis.",
+          "type_plan": "Plan dialectique",
+          "structure_recommandee": {
+            "introduction": "Partir de la boîte de Sidi Mohammed et de sa capacité à inventer des histoires, puis poser la question de la place du jeu et de l'imagination dans l'enfance.",
+            "developpement": {
+              "les_bienfaits_du_jeu_et_de_l_imagination": [
+                "Le jeu stimule la créativité, la curiosité et la capacité à résoudre des problèmes.",
+                "Les jeux partagés apprennent à respecter des règles, à coopérer et à gérer les désaccords.",
+                "L'imagination permet à l'enfant d'exprimer ses émotions et de créer un univers rassurant."
+              ],
+              "les_limites_d_un_usage_excessif_des_ecrans": [
+                "Un temps d'écran trop important peut réduire l'activité physique et les échanges directs.",
+                "Les contenus passifs laissent parfois moins de place à l'invention personnelle.",
+                "Les écrans peuvent cependant proposer des activités éducatives lorsqu'ils sont choisis et utilisés avec mesure."
+              ]
+            },
+            "conclusion": "Les écrans peuvent compléter les activités de l'enfant, mais ils ne remplacent ni le jeu libre, ni les relations, ni le temps nécessaire à l'imagination."
+          },
+          "vocabulaire_utile": [
+            "imagination",
+            "jeu libre",
+            "créativité",
+            "développement",
+            "écran",
+            "épanouissement"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_10",
+      "nom_theme": "Les Souvenirs d'Enfance et la Mémoire",
+      "lien_oeuvre": "Le narrateur adulte raconte son enfance à Dar Chouafa et fait revivre les lieux, les personnes et les émotions qui ont marqué sa mémoire.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_10",
+          "titre": "Les souvenirs d'enfance construisent-ils notre identité ?",
+          "enonce": "Dans La Boîte à merveilles, le narrateur adulte revient sur des scènes de son enfance et leur donne une place importante dans le récit de sa vie. Pour certaines personnes, les souvenirs d'enfance permettent de comprendre qui l'on est et de garder un lien avec sa famille et son passé ; pour d'autres, il vaut mieux regarder vers l'avenir sans rester attaché au passé. Les souvenirs d'enfance jouent-ils un rôle essentiel dans la construction de la personnalité ? Rédigez un texte argumentatif nuancé, illustré par des exemples.",
+          "type_plan": "Plan dialectique",
+          "structure_recommandee": {
+            "introduction": "Évoquer le retour du narrateur sur son enfance et introduire le débat sur l'influence des souvenirs dans la vie présente.",
+            "developpement": {
+              "l_importance_des_souvenirs": [
+                "Les souvenirs aident à comprendre son histoire personnelle et ses origines.",
+                "Ils entretiennent les liens affectifs avec les proches et les lieux de l'enfance.",
+                "Les expériences passées peuvent transmettre des leçons et aider à faire des choix."
+              ],
+              "les_risques_d_un_attachement_excessif_au_passe": [
+                "La nostalgie peut empêcher de profiter du présent et de construire l'avenir.",
+                "La mémoire est sélective et transforme parfois les événements avec le temps.",
+                "Certaines expériences douloureuses nécessitent d'être comprises plutôt que revécues sans cesse."
+              ]
+            },
+            "conclusion": "Les souvenirs participent à l'identité, à condition de les accueillir avec recul et de ne pas laisser le passé empêcher d'avancer."
+          },
+          "vocabulaire_utile": [
+            "souvenir",
+            "mémoire",
+            "enfance",
+            "identité",
+            "nostalgie",
+            "expérience"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_11",
+      "nom_theme": "La Relation entre la Mère et l'Enfant",
+      "lien_oeuvre": "Lalla Zoubida protège son fils, l'accompagne dans la vie quotidienne et partage ses inquiétudes comme ses moments de joie.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_11",
+          "titre": "L'affection et l'écoute des parents aident-elles l'enfant à grandir ?",
+          "enonce": "Dans le récit, Sidi Mohammed observe sa mère, reçoit son affection et cherche auprès d'elle une présence rassurante, même si leurs inquiétudes ne sont pas toujours les mêmes. Certains pensent qu'un enfant a surtout besoin de règles strictes pour devenir autonome ; d'autres mettent au premier plan l'écoute et l'affection des parents. Comment trouver un équilibre entre protection, dialogue et autonomie ? Rédigez un texte argumentatif en développant votre opinion à l'aide d'arguments et d'exemples.",
+          "type_plan": "Plan analytique / thématique",
+          "structure_recommandee": {
+            "introduction": "Présenter le rôle affectif de Lalla Zoubida auprès de son fils et poser la question de l'équilibre entre encadrement et autonomie.",
+            "developpement": {
+              "les_bienfaits_de_l_ecoute_parentale": [
+                "L'enfant se sent en sécurité lorsqu'il peut parler de ses peurs et de ses difficultés.",
+                "Le dialogue renforce la confiance et aide les parents à comprendre les besoins de l'enfant.",
+                "L'affection donne à l'enfant le courage d'essayer, d'apprendre et de surmonter les échecs."
+              ],
+              "l_importance_d_un_cadre_et_de_l_autonomie": [
+                "Des règles cohérentes aident l'enfant à distinguer ses droits et ses responsabilités.",
+                "Une protection excessive peut freiner la prise d'initiative et la confiance en soi.",
+                "L'autonomie se construit progressivement grâce à des responsabilités adaptées à l'âge."
+              ]
+            },
+            "conclusion": "L'enfant grandit mieux lorsque l'affection et l'écoute s'accompagnent de limites justes et d'une autonomie progressive."
+          },
+          "vocabulaire_utile": [
+            "affection",
+            "écoute",
+            "protection",
+            "autonomie",
+            "confiance",
+            "responsabilité"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_12",
+      "nom_theme": "La Transmission des Traditions",
+      "lien_oeuvre": "Les célébrations de l'Achoura, les habitudes du quartier et les récits des adultes transmettent à Sidi Mohammed une partie de la culture de son milieu.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_12",
+          "titre": "Comment transmettre les traditions aux nouvelles générations ?",
+          "enonce": "Les fêtes et les habitudes de Dar Chouafa occupent une place importante dans les souvenirs de Sidi Mohammed. Aujourd'hui, les modes de vie changent rapidement et les jeunes découvrent d'autres cultures grâce aux médias et aux voyages. Certains craignent que les traditions disparaissent ; d'autres pensent qu'elles doivent évoluer pour rester vivantes. Pourquoi est-il important de transmettre le patrimoine culturel et comment le faire sans empêcher les nouvelles générations de choisir leur propre manière de vivre ? Développez votre réflexion dans un texte argumentatif.",
+          "type_plan": "Plan concessif",
+          "structure_recommandee": {
+            "introduction": "Évoquer une tradition présente dans le roman, puis présenter le débat entre préservation du patrimoine et évolution des modes de vie.",
+            "developpement": {
+              "les_raisons_de_transmettre_les_traditions": [
+                "Les traditions entretiennent la mémoire collective et le sentiment d'appartenance.",
+                "Les fêtes et les pratiques partagées créent des occasions de rencontre entre générations.",
+                "La connaissance de ses propres traditions aide à comprendre son histoire et sa culture."
+              ],
+              "la_necessite_de_faire_evoluer_les_pratiques": [
+                "Certaines habitudes peuvent être adaptées aux réalités et aux besoins actuels.",
+                "La transmission doit se faire par l'explication et l'exemple, non par la contrainte.",
+                "La découverte d'autres cultures peut enrichir les traditions sans effacer les repères locaux."
+              ]
+            },
+            "conclusion": "Un patrimoine vivant se transmet avec respect et ouverture : il conserve ses valeurs tout en s'adaptant aux générations qui le font vivre."
+          },
+          "vocabulaire_utile": [
+            "tradition",
+            "patrimoine culturel",
+            "transmission",
+            "génération",
+            "appartenance",
+            "évolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_13",
+      "nom_theme": "La Valeur Sentimentale des Objets",
+      "lien_oeuvre": "La boîte de Sidi Mohammed contient des objets simples auxquels l'enfant attribue une valeur affective et une histoire personnelle.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_13",
+          "titre": "Un objet peut-il avoir plus de valeur par le souvenir qu'il porte ?",
+          "enonce": "La boîte de Sidi Mohammed renferme des objets modestes, mais chacun devient précieux parce qu'il est lié à l'imagination et à la vie intérieure de l'enfant. Dans notre société, la valeur d'un objet est souvent associée à son prix ou à sa marque. Pourtant, un cadeau ancien, une photographie ou un objet transmis par un proche peut avoir une grande valeur sentimentale. Qu'est-ce qui rend un objet réellement précieux ? Rédigez un texte argumentatif où vous comparez la valeur matérielle et la valeur affective, en donnant des exemples.",
+          "type_plan": "Plan comparatif",
+          "structure_recommandee": {
+            "introduction": "Partir des objets de la boîte de Sidi Mohammed et opposer la valeur marchande à la valeur liée aux souvenirs.",
+            "developpement": {
+              "la_valeur_materielle_des_objets": [
+                "Le prix peut refléter la rareté, la qualité ou l'utilité d'un objet.",
+                "La publicité et les tendances peuvent pousser à acheter pour montrer sa réussite.",
+                "Un objet coûteux n'assure pas nécessairement le bonheur ni l'attachement."
+              ],
+              "la_valeur_affective_et_symbolique": [
+                "Un objet devient précieux lorsqu'il rappelle une personne ou un moment important.",
+                "Les objets transmis dans une famille gardent une trace de son histoire.",
+                "L'imagination peut donner du sens à des choses simples, comme le montre la boîte de l'enfant."
+              ]
+            },
+            "conclusion": "Le prix définit la valeur commerciale, mais les souvenirs, les liens humains et le sens personnel donnent souvent à un objet sa valeur la plus durable."
+          },
+          "vocabulaire_utile": [
+            "valeur matérielle",
+            "valeur sentimentale",
+            "souvenir",
+            "attachement",
+            "objet symbolique",
+            "consommation"
+          ]
+        }
+      ]
+    },
+    {
+      "id_theme": "THEME_14",
+      "nom_theme": "L'Écoute et la Place de l'Enfant",
+      "lien_oeuvre": "Sidi Mohammed observe le monde des adultes et éprouve parfois des difficultés à faire comprendre ses émotions et ses besoins.",
+      "sujets": [
+        {
+          "id_sujet": "PE_BM_14",
+          "titre": "Les adultes doivent-ils prendre davantage en compte la parole des enfants ?",
+          "enonce": "Dans La Boîte à merveilles, Sidi Mohammed est attentif aux événements qui l'entourent, mais il ne comprend pas toujours les décisions des adultes et ne peut pas toujours exprimer ce qu'il ressent. Certains estiment que les enfants doivent simplement obéir, car les adultes savent mieux ce qui est bon pour eux ; d'autres pensent qu'il faut écouter leur parole et tenir compte de leur avis selon leur âge. Un enfant doit-il pouvoir participer aux décisions qui le concernent ? Développez une réponse nuancée dans un texte argumentatif avec des exemples.",
+          "type_plan": "Plan dialectique",
+          "structure_recommandee": {
+            "introduction": "Présenter le décalage entre le regard de l'enfant et celui des adultes dans le roman, puis poser la question de la place de sa parole.",
+            "developpement": {
+              "les_bienfaits_de_l_ecoute_des_enfants": [
+                "Être écouté aide l'enfant à exprimer ses besoins et à mieux comprendre ses émotions.",
+                "La participation adaptée à son âge renforce sa confiance et son sens des responsabilités.",
+                "Les adultes peuvent mieux protéger l'enfant lorsqu'ils connaissent son point de vue."
+              ],
+              "les_limites_et_le_role_des_adultes": [
+                "L'enfant n'a pas toujours l'expérience nécessaire pour mesurer toutes les conséquences d'une décision.",
+                "Les parents et les éducateurs restent responsables de sa sécurité et de son encadrement.",
+                "Écouter l'enfant ne signifie pas accepter toutes ses demandes, mais lui expliquer les décisions."
+              ]
+            },
+            "conclusion": "La parole de l'enfant mérite d'être entendue et prise au sérieux, tandis que les adultes gardent leur rôle de guide et de protection."
+          },
+          "vocabulaire_utile": [
+            "écoute",
+            "parole de l'enfant",
+            "respect",
+            "responsabilité",
+            "encadrement",
+            "confiance"
+          ]
+        }
+      ]
+    }
+  ]
+}

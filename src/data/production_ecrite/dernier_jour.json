@@ -1,0 +1,668 @@
+{
+  "titre": "Sujets de Production Écrite - Le Dernier Jour d'un condamné (Examen Régional 1ère BAC)",
+  "auteur": "Victor Hugo",
+  "genre": "Roman à thèse / Plaidoyer abolitionniste",
+  "bareme_officiel": {
+    "total": "10 points",
+    "criteres_discours": {
+      "points": 5,
+      "details": [
+        "Conformité de la production à la consigne d'écriture (2 points)",
+        "Cohérence de l'argumentation et pertinence des idées (1.5 point)",
+        "Structure du texte : Introduction, Développement (paragraphes distincts), Conclusion (1.5 point)"
+      ]
+    },
+    "criteres_langue": {
+      "points": 5,
+      "details": [
+        "Vocabulaire précis, riche et adapté au thème (1 point)",
+        "Syntaxe correcte et variété des structures de phrases (1 point)",
+        "Orthographe grammaticale et d'usage (1 point)",
+        "Conjugaison et concordance des temps (1 point)",
+        "Ponctuation adéquate et présentation claire du texte (1 point)"
+      ]
+    }
+  },
+  "sujets": [
+    {
+      "id": "sujet_1",
+      "theme": "La Peine de mort et la Justice",
+      "enonce": "Dans Le Dernier Jour d'un condamné, Victor Hugo fait partager au lecteur les pensées d'un homme qui attend son exécution et dénonce ainsi la peine capitale. Aujourd'hui encore, certains estiment que cette peine est nécessaire pour punir les crimes les plus graves et protéger la société ; d'autres la jugent inhumaine et irréversible. La peine de mort peut-elle réellement rendre justice et empêcher les crimes, ou faut-il l'abolir au nom du droit à la vie ? Rédigez un texte argumentatif structuré dans lequel vous examinez les arguments des deux points de vue avant de défendre votre opinion, avec des exemples tirés de l'œuvre et de la vie courante.",
+      "plan_recommande": "Plan dialectique (Thèse / Antithèse / Synthèse personnelle)",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Depuis des siècles, la question du châtiment suprême suscite de vifs débats éthiques et juridiques au sein de la société.",
+          "problematique": "Faut-il maintenir la peine de mort pour garantir la sécurité publique, ou convient-il de l'abolir au nom du respect absolu de la vie humaine ?",
+          "annonce_plan": "Nous examinerons d'abord les arguments des partisans du maintien de la peine capitale, puis nous analyserons les raisons qui militent en faveur de son abolition définitive."
+        },
+        "developpement": {
+          "partie_1_thise_maintien": {
+            "titre": "Les arguments en faveur de la peine de mort (Partisans)",
+            "arguments": [
+              {
+                "argument": "La punition exemplaire et la dissuasion des futurs criminels.",
+                "exemple": "Certains pensent que la crainte du châtiment suprême retient les individus d'exécuter des crimes odieux."
+              },
+              {
+                "argument": "La justice pour les victimes et la consolation de leurs familles.",
+                "exemple": "Pour les partisans de la loi du talion (« œil pour œil, dent pour dent »), la mort du criminel rétablit l'équilibre moral."
+              }
+            ]
+          },
+          "partie_2_antithese_abolition": {
+            "titre": "Les arguments contre la peine de mort (Abolitionnistes - Thèse de Victor Hugo)",
+            "arguments": [
+              {
+                "argument": "Le risque d'erreur judiciaire irréparable.",
+                "exemple": "Une fois le condamné exécuté, aucune réhabilitation n'est possible si l'innocence est prouvée plus tard."
+              },
+              {
+                "argument": "L'inhumanité et la torture morale subie par le condamné.",
+                "exemple": "Dans le roman de Hugo, le condamné souffre d'une torture psychologique constante (« l'idée fixe de la mort ») pire que la mort physique elle-même."
+              },
+              {
+                "argument": "L'absence de possibilité de rédemption ou de réinsertion.",
+                "exemple": "Tuer un homme prive la société d'éduquer et de réformer un être humain capable d'amendement."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Si la nécessité de protéger la société est légitime, l'élimination physique d'un homme s'apparente à une vengeance institutionnalisée.",
+          "ouverture": "Ne devrions-nous pas plutôt investir dans l'éducation, la justice sociale et la réforme du système carcéral pour prévenir le crime à la racine ?"
+        }
+      },
+      "vocabulaire_et_connecteurs": [
+        "Châtiment suprême, abolitionnisme, rédemption, irréparable, barbarie, déchéance, justice expéditive",
+        "En premier lieu, toutefois, il est indéniable que, en revanche, en définitive"
+      ]
+    },
+    {
+      "id": "sujet_2",
+      "theme": "La Pauvreté, l'Ignorance et la Criminalité",
+      "enonce": "Dans Le Dernier Jour d'un condamné, le récit du Friauche évoque un parcours marqué par la pauvreté, l'absence de protection et l'influence de la prison. Cette rencontre invite à réfléchir aux causes de la criminalité. Certains pensent que la misère, le manque d'éducation et l'exclusion poussent des personnes vers la délinquance ; d'autres rappellent que chacun reste responsable de ses actes. Dans quelle mesure la société contribue-t-elle à la criminalité sans effacer la responsabilité individuelle ? Rédigez un texte argumentatif nuancé, appuyé par des exemples précis et des pistes de prévention.",
+      "plan_recommande": "Plan analytique ou dialectique",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Victor Hugo soutenait que 'chaque enfant qu'on enseigne est un homme qu'on gagne'. Pourtant, la pauvreté pousse encore aujourd'hui de nombreux individus vers la délinquance.",
+          "problematique": "Dans quelle mesure la société porte-t-elle la responsabilité des crimes commis par les démunis et les marginalisés ?",
+          "annonce_plan": "Nous analyserons le rôle des failles sociales et éducatives dans la criminalité, avant d'aborder la responsabilité individuelle de chaque citoyen."
+        },
+        "developpement": {
+          "partie_1": {
+            "titre": "La responsabilité majeure de la société",
+            "arguments": [
+              {
+                "argument": "La misère et l'absence d'éducation poussent au vol et au crime par nécessité de survie.",
+                "exemple": "Le Friauche raconte son parcours : orphelin à 6 ans, poussé au vol pour manger, puis corrompu par la prison."
+              },
+              {
+                "argument": "Le système carcéral dégradant qui transforme les petits délinquants en criminels hardened.",
+                "exemple": "Au lieu de réhabiliter, le bagne et la prison deviennent des 'écoles du crime'."
+              }
+            ]
+          },
+          "partie_2": {
+            "titre": "La responsabilité individuelle et morale de l'homme",
+            "arguments": [
+              {
+                "argument": "La pauvreté n'excuse pas la violence gratuite ou la déchéance morale.",
+                "exemple": "De nombreuses personnes vivant dans des conditions précaires restent honnêtes et respectueuses des lois."
+              },
+              {
+                "argument": "Le libre arbitre de l'individu face aux choix de vie.",
+                "exemple": "Chaque homme a la capacité morale de discerner le bien du mal, indépendamment de son statut social."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La société et l'individu partagent la responsabilité : si la société échoue à éduquer, elle ne peut se contenter de punir aveuglément.",
+          "ouverture": "L'éradication de la misère et l'accès universel à l'école ne sont-ils pas les meilleurs moyens de réduire la criminalité ?"
+        }
+      },
+      "vocabulaire_et_connecteurs": [
+        "Marginalisation, engrenage, réhabilitation, précarité, éducation, responsabilité collective",
+        "Tout d'abord, en outre, il convient d'ajouter que, néanmoins, en conclusion"
+      ]
+    },
+    {
+      "id": "sujet_3",
+      "theme": "La Souffrance des Familles des Condamnés (Les victimes collatérales)",
+      "enonce": "Dans le chapitre consacré à la visite de Marie, le condamné souffre de constater que sa petite fille ne le reconnaît presque plus. Son inquiétude révèle que l'incarcération ou l'exécution d'une personne touche aussi des proches qui n'ont commis aucune faute. Les familles des condamnés, notamment les enfants, sont-elles des victimes oubliées de la justice ? Comment la société peut-elle les accompagner sans excuser le crime ni leur faire porter la responsabilité de leur parent ? Rédigez un texte argumentatif organisé, en développant des arguments et des exemples.",
+      "plan_recommande": "Plan thématique / Plaidoyer",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Lorsqu'un individu comble un crime et reçoit une peine sévère, les conséquences dépassent souvent le seul coupable.",
+          "problematique": "Dans quelle mesure les familles et les enfants des condamnés subissent-ils une peine injuste et dévastatrice ?",
+          "annonce_plan": "Nous verrons comment l'incarcération ou l'exécution d'un parent détruit la famille sur les plans affectif, social et économique."
+        },
+        "developpement": {
+          "partie_1": {
+            "titre": "L'impact dramatique sur la famille innocente",
+            "arguments": [
+              {
+                "argument": "La souffrance psychologique et l'orphelinat tragique.",
+                "exemple": "La petite Marie, 3 ans, ne reconnaît même plus son père et l'appelle 'monsieur', préfigurant une vie d'orpheline sans soutien."
+              },
+              {
+                "argument": "La stigmatisation sociale et la honte publique.",
+                "exemple": "Les enfants de condamnés portent injustement la honte du crime commis par leurs parents."
+              },
+              {
+                "argument": "La ruine financière et la détresse matérielle.",
+                "exemple": "La perte du soutien de famille plonge la mère, l'épouse et l'enfant dans l'extrême pauvreté."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La justice, en voulant punir le coupable, frappe aveuglément des innocents qui n'ont commis aucune faute.",
+          "ouverture": "Comment la société peut-elle mieux protéger et accompagner les enfants des détenus pour éviter la perpétuation du drame ?"
+        }
+      },
+      "vocabulaire_et_connecteurs": [
+        "Victimes collatérales, drame familial, stigmatisation, orphelinat, traumatisme, détresse matérielle",
+        "D'une part, d'autre part, ainsi, par conséquent, en définitive"
+      ]
+    },
+    {
+      "id": "sujet_4",
+      "theme": "La Vengeance populaire et le Voyeurisme (La foule face aux spectacles violents)",
+      "enonce": "Dans Le Dernier Jour d'un condamné, la foule se rassemble à la place de Grève pour assister à l'exécution comme à un spectacle. Aujourd'hui, certains faits divers et images de souffrance sont largement partagés dans les médias et sur les réseaux sociaux. Pourquoi la douleur d'autrui attire-t-elle parfois la curiosité du public ? Cette fascination risque-t-elle de banaliser la violence et de porter atteinte à la dignité des victimes ? Rédigez un texte argumentatif dans lequel vous analysez les causes et les conséquences de ce phénomène et proposez des comportements plus respectueux.",
+      "plan_recommande": "Plan analytique (Causes, Manifestations, Conséquences/Critique)",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "De la guillotine publique aux vidéos sensationnalistes sur Internet, la fascination humaine pour le morbide travers les époques.",
+          "problematique": "Pourquoi la souffrance et la violence suscitent-elles une telle curiosité, et quels sont les dangers de ce comportement pour les valeurs humaines ?",
+          "annonce_plan": "Nous analyserons d'abord les formes et les causes de ce voyeurisme, puis nous dénoncerons ses effets pervers sur l'empathie."
+        },
+        "developpement": {
+          "partie_1": {
+            "titre": "Les manifestations et les causes de la curiosité morbide",
+            "arguments": [
+              {
+                "argument": "Le besoin de sensationnel et le divertissement vulgaire.",
+                "exemple": "La foule crie 'À la Grève !' comme s'il s'agissait d'un spectacle théâtral joyeux."
+              },
+              {
+                "argument": "L'amplification moderne par les réseaux sociaux et les médias.",
+                "exemple": "La diffusion virale d'accidents, d'agressions ou de drames personnels pour accumuler des vues."
+              }
+            ]
+          },
+          "partie_2": {
+            "titre": "La dégradation morale et la perte d'empathie",
+            "arguments": [
+              {
+                "argument": "La déshumanisation de la victime et la perte de compassion.",
+                "exemple": "Le spectacle transforme un homme qui souffre en un objet de divertissement sans valeur."
+              },
+              {
+                "argument": "La banalisation de la violence chez les jeunes et dans la société.",
+                "exemple": "À force de consommer des images violentes, la sensibilité morale s'émousse."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Le voyeurisme de la souffrance traduit une régression morale qu'il convient de combattre par l'éducation et la dignité.",
+          "ouverture": "Ne devrions-nous pas cultiver le respect de la vie privée et l'empathie plutôt que la recherche frénétique du choc visuel ?"
+        }
+      },
+      "vocabulaire_et_connecteurs": [
+        "Voyeurisme, curiosité morbide, insensibilité, banalisation, sensationnalisme, compassion, dignité",
+        "Il est évident que, de surcroît, cependant, en somme"
+      ]
+    },
+    {
+      "id": "sujet_5",
+      "theme": "L'Humanisation des prisons et le respect de la dignité humaine",
+      "enonce": "Dans le roman, le condamné décrit l'angoisse de l'enfermement, les conditions pénibles de la prison et l'humiliation des prisonniers. Certains pensent que la détention doit être sévère pour sanctionner la faute et protéger la société ; d'autres affirment qu'une personne condamnée conserve ses droits fondamentaux et doit être traitée avec dignité. La punition autorise-t-elle à priver un détenu de tout respect ? Rédigez un texte argumentatif équilibré où vous examinez le rôle de la sanction, les exigences de sécurité et les conditions nécessaires à une réinsertion possible.",
+      "plan_recommande": "Plan dialectique ou thématique",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "La question du traitement réservé aux prisonniers oppose souvent la volonté de punition au respect des Droits de l'Homme.",
+          "problematique": "Un condamné perd-il tous ses droits à la dignité humaine une fois franchies les portes de la prison ?",
+          "annonce_plan": "Nous étudierons les arguments prônant la rigueur pénale avant de défendre le droit inaliénable à un traitement digne."
+        },
+        "developpement": {
+          "partie_1": {
+            "titre": "Le maintien indispensable de la dignité humaine en détention",
+            "arguments": [
+              {
+                "argument": "Les droits humains fondamentaux sont inaliénables.",
+                "exemple": "Le récit du ferrage des forçats à Bicêtre (Ch. XIII) montre que la torture physique et l'humiliation sont des actes de barbarie."
+              },
+              {
+                "argument": "La préparation de la réinsertion sociale.",
+                "exemple": "Un prisonnier maltraité ressort rempli de haine contre la société, tandis qu'un suivi respectueux permet la réhabilitation."
+              }
+            ]
+          },
+          "partie_2": {
+            "titre": "La nécessité d'une discipline stricte et proportionnée",
+            "arguments": [
+              {
+                "argument": "La prison doit conserver son caractère punitif et dissuasif.",
+                "exemple": "Les conditions ne doivent pas être perçues comme un confort pour ne pas dévaloriser la punition."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La mesure de la civilisation d'une société se juge à la façon dont elle traite ses prisonniers.",
+          "ouverture": "Comment concilier sécurité publique, sanction de la faute et respect absolu de la dignité humaine ?"
+        }
+      },
+      "vocabulaire_et_connecteurs": [
+        "Dignité inaliénable, inhumanité, réhabilitation, humiliation, punition juste, droits fondamentaux",
+        "D'abord, par ailleurs, néanmoins, pour conclure"
+      ]
+    },
+    {
+      "id": "sujet_6",
+      "theme": "L'erreur judiciaire et l'irréversibilité de la peine",
+      "enonce": "Dans Le Dernier Jour d'un condamné, le narrateur ne raconte pas seulement son crime : il fait aussi entendre la peur d'un homme dont la vie dépend d'une décision judiciaire irréversible. Or, une enquête peut être imparfaite et un jugement peut reposer sur des témoignages ou des preuves contestables. Certains estiment que la sévérité des peines protège la société ; d'autres rappellent qu'une erreur devient impossible à réparer lorsque le condamné a été exécuté. Comment la justice peut-elle punir les coupables tout en protégeant les innocents contre une erreur irréversible ? Rédigez un texte argumentatif organisé, appuyé par des arguments et des exemples précis.",
+      "plan_recommande": "Plan dialectique / Concessif",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Une décision de justice peut bouleverser la vie d'une personne et de toute sa famille.",
+          "problematique": "Comment concilier la nécessité de sanctionner un crime avec le risque d'une erreur judiciaire irréparable ?",
+          "annonce_plan": "Nous présenterons d'abord la nécessité d'une justice ferme, puis les dangers des erreurs de jugement, avant d'évoquer les garanties indispensables à une décision équitable."
+        },
+        "developpement": {
+          "partie_1_la_necessite_de_sanctionner": {
+            "titre": "Le rôle de la justice dans la protection de la société",
+            "arguments": [
+              {
+                "argument": "Une sanction proportionnée reconnaît la gravité du tort subi par les victimes.",
+                "exemple": "Dans le roman, le condamné comprend que la société juge son acte, même si le récit met surtout en lumière sa souffrance."
+              },
+              {
+                "argument": "Des règles claires protègent les citoyens et empêchent la vengeance individuelle.",
+                "exemple": "Un système judiciaire organise l'examen des faits et permet de décider selon des procédures communes."
+              }
+            ]
+          },
+          "partie_2_le_risque_d_une_erreur_irreparable": {
+            "titre": "Les limites d'un jugement humain",
+            "arguments": [
+              {
+                "argument": "Les témoins peuvent se tromper et les preuves peuvent être incomplètes ou mal interprétées.",
+                "exemple": "Une condamnation prononcée trop rapidement peut empêcher de vérifier de nouveaux éléments."
+              },
+              {
+                "argument": "Une exécution ne permet aucune réparation si l'innocence est reconnue plus tard.",
+                "exemple": "Le plaidoyer de Victor Hugo invite le lecteur à imaginer la terreur d'une décision sans retour possible."
+              }
+            ]
+          },
+          "partie_3_les_garanties_d_une_justice_equitable": {
+            "titre": "Prévenir l'injustice et protéger les droits",
+            "arguments": [
+              {
+                "argument": "Une enquête approfondie, une défense indépendante et la possibilité d'un appel limitent les erreurs.",
+                "exemple": "La révision d'un procès peut être nécessaire lorsque de nouveaux éléments sérieux apparaissent."
+              },
+              {
+                "argument": "La gravité d'une peine exige un niveau de preuve et un examen particulièrement rigoureux.",
+                "exemple": "Les décisions irréversibles appellent davantage de prudence que les sanctions qui peuvent être réexaminées."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La justice doit protéger la société et reconnaître les victimes, mais elle doit aussi prévoir des garanties fortes contre toute condamnation injuste.",
+          "ouverture": "Comment les citoyens peuvent-ils contribuer à préserver l'indépendance et la fiabilité de la justice ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Erreur judiciaire",
+        "Présomption d'innocence",
+        "Preuve",
+        "Voie de recours",
+        "Irréversibilité",
+        "En outre, toutefois, par conséquent"
+      ]
+    },
+    {
+      "id": "sujet_7",
+      "theme": "L'éducation et la prévention de la criminalité",
+      "enonce": "Le parcours du Friauche évoque un enfant confronté très tôt à la pauvreté et à l'absence de protection, puis entraîné dans la délinquance. Cette histoire amène à se demander si la société doit seulement punir les crimes ou si elle doit aussi agir avant qu'ils ne se produisent. L'éducation, l'accompagnement des familles et l'accès à une formation peuvent-ils réduire la criminalité ? Rédigez un texte argumentatif dans lequel vous examinez les causes sociales de la délinquance, le rôle de la responsabilité individuelle et les moyens de prévenir le passage à l'acte.",
+      "plan_recommande": "Plan analytique (Causes / Conséquences / Solutions)",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "La criminalité est souvent traitée après le passage à l'acte, alors qu'une partie de ses causes peut être prévenue.",
+          "problematique": "Comment la société peut-elle réduire la délinquance sans nier la responsabilité de ceux qui commettent un crime ?",
+          "annonce_plan": "Nous analyserons d'abord les facteurs qui peuvent favoriser la délinquance, puis les limites d'une explication uniquement sociale, avant de présenter des solutions de prévention."
+        },
+        "developpement": {
+          "partie_1_les_facteurs_de_risque": {
+            "titre": "Les difficultés qui fragilisent certains parcours",
+            "arguments": [
+              {
+                "argument": "La pauvreté, l'exclusion et le manque de perspectives peuvent accroître la vulnérabilité.",
+                "exemple": "Le récit du Friauche met en évidence l'influence de son enfance difficile sur son parcours."
+              },
+              {
+                "argument": "L'absence de soutien éducatif peut éloigner un jeune de l'école et des possibilités d'insertion.",
+                "exemple": "Un enfant sans accompagnement risque de ne pas trouver d'adulte vers qui se tourner lorsqu'il rencontre une difficulté."
+              }
+            ]
+          },
+          "partie_2_la_responsabilite_individuelle": {
+            "titre": "Comprendre les causes ne signifie pas excuser tous les actes",
+            "arguments": [
+              {
+                "argument": "Chaque personne doit répondre de ses décisions et du tort causé à autrui.",
+                "exemple": "La justice examine les actes et les circonstances afin de déterminer une responsabilité."
+              },
+              {
+                "argument": "Des personnes vivant dans la précarité respectent les lois et cherchent des solutions pacifiques.",
+                "exemple": "La difficulté sociale éclaire un parcours, mais ne permet pas à elle seule de juger chaque situation."
+              }
+            ]
+          },
+          "partie_3_les_moyens_de_prevention": {
+            "titre": "Agir en amont et accompagner les personnes",
+            "arguments": [
+              {
+                "argument": "L'école, la formation et l'accès à des activités encadrées ouvrent des perspectives.",
+                "exemple": "Un accompagnement scolaire ou associatif peut aider un jeune à construire un projet réaliste."
+              },
+              {
+                "argument": "La prévention et la réinsertion complètent les sanctions nécessaires.",
+                "exemple": "Des formations et un suivi adaptés peuvent réduire le risque de récidive après une peine."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La prévention exige à la fois une justice responsable et des politiques d'éducation, de soutien et d'insertion.",
+          "ouverture": "Comment renforcer le lien entre l'école, les familles et les services sociaux pour soutenir les jeunes en difficulté ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Prévention",
+        "Exclusion sociale",
+        "Accompagnement",
+        "Insertion",
+        "Responsabilité individuelle",
+        "D'une part, de plus, néanmoins, en définitive"
+      ]
+    },
+    {
+      "id": "sujet_8",
+      "theme": "L'attente, la peur et le temps vécu",
+      "enonce": "Le narrateur de Victor Hugo vit chaque instant en pensant à l'exécution qui approche. Pour lui, l'attente transforme le temps en épreuve et nourrit l'angoisse. Dans la vie courante, l'incertitude avant un examen, une opération ou une décision importante peut également être difficile à supporter. Pourquoi l'attente d'un événement redouté est-elle parfois aussi éprouvante que l'événement lui-même ? Rédigez un texte argumentatif dans lequel vous analysez les effets de l'incertitude et proposez des moyens d'aider les personnes qui la traversent.",
+      "plan_recommande": "Plan analytique (Causes / Conséquences / Solutions)",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Le temps ne semble pas toujours s'écouler de la même façon : l'attente peut rendre chaque instant particulièrement lourd.",
+          "problematique": "Pourquoi l'incertitude et l'attente d'une épreuve peuvent-elles provoquer une grande souffrance ?",
+          "annonce_plan": "Nous étudierons les causes de cette angoisse, ses conséquences sur la personne, puis les formes de soutien qui peuvent l'atténuer."
+        },
+        "developpement": {
+          "partie_1_les_causes_de_l_angoisse": {
+            "titre": "L'incertitude et la perte de contrôle",
+            "arguments": [
+              {
+                "argument": "Ne pas connaître le moment ou l'issue d'un événement empêche de se préparer sereinement.",
+                "exemple": "Le condamné compte les étapes qui le séparent de l'exécution sans pouvoir modifier la décision."
+              },
+              {
+                "argument": "L'imagination peut amplifier les dangers lorsque la personne reste seule avec ses pensées.",
+                "exemple": "Dans le roman, les réflexions du narrateur reviennent sans cesse à la mort et à la séparation d'avec ses proches."
+              }
+            ]
+          },
+          "partie_2_les_effets_sur_la_personne": {
+            "titre": "Les conséquences psychologiques et relationnelles",
+            "arguments": [
+              {
+                "argument": "L'inquiétude peut perturber le sommeil, la concentration et la capacité à prendre des décisions.",
+                "exemple": "Une personne qui attend un résultat important peut avoir du mal à poursuivre ses activités habituelles."
+              },
+              {
+                "argument": "L'isolement augmente la difficulté à supporter l'épreuve.",
+                "exemple": "Le récit souligne le poids de l'enfermement et le besoin du condamné de revoir sa fille."
+              }
+            ]
+          },
+          "partie_3_les_moyens_de_soutien": {
+            "titre": "Aider sans minimiser la peur",
+            "arguments": [
+              {
+                "argument": "Une information claire réduit les incertitudes évitables.",
+                "exemple": "Avant une épreuve scolaire ou médicale, expliquer les étapes aide la personne à se préparer."
+              },
+              {
+                "argument": "L'écoute, la présence et l'accompagnement professionnel peuvent rompre l'isolement.",
+                "exemple": "Un proche qui écoute sans juger offre un soutien concret à quelqu'un qui attend une décision difficile."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "L'attente devient particulièrement pénible lorsqu'elle associe peur, incertitude et solitude ; l'information et la présence d'autrui peuvent aider à la traverser.",
+          "ouverture": "Comment les institutions peuvent-elles mieux accompagner les personnes confrontées à une longue attente ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Incertitude",
+        "Angoisse",
+        "Anticipation",
+        "Isolement",
+        "Accompagnement",
+        "En effet, cependant, ainsi, pour conclure"
+      ]
+    },
+    {
+      "id": "sujet_9",
+      "theme": "La réinsertion et le droit à une seconde chance",
+      "enonce": "Le condamné du roman de Victor Hugo est réduit aux yeux de la société à son crime et à la peine qui l'attend. Pourtant, une personne peut-elle être définie uniquement par sa faute ? Certains pensent qu'une sanction doit surtout punir et dissuader ; d'autres estiment qu'elle doit aussi permettre au condamné de se transformer et de retrouver une place dans la société. La réinsertion et la seconde chance sont-elles nécessaires après une condamnation ? Rédigez un texte argumentatif nuancé, en évoquant la protection des victimes, la responsabilité du condamné et les moyens d'éviter la récidive.",
+      "plan_recommande": "Plan dialectique / Concessif",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Une condamnation répond à une faute, mais elle ne détermine pas nécessairement toute la vie future d'une personne.",
+          "problematique": "La justice doit-elle se limiter à punir ou doit-elle également préparer la réinsertion du condamné ?",
+          "annonce_plan": "Nous présenterons d'abord le rôle de la sanction, puis l'intérêt de la réinsertion, avant de rechercher un équilibre entre protection et seconde chance."
+        },
+        "developpement": {
+          "partie_1_la_necessite_de_la_sanction": {
+            "titre": "Reconnaître le tort et protéger la société",
+            "arguments": [
+              {
+                "argument": "Une peine proportionnée rappelle que les actes ont des conséquences.",
+                "exemple": "Le procès vise à examiner la faute et à reconnaître les droits des victimes."
+              },
+              {
+                "argument": "La société doit prévenir de nouveaux actes et garantir la sécurité de tous.",
+                "exemple": "Des mesures de contrôle peuvent être nécessaires selon la gravité des faits et le risque évalué."
+              }
+            ]
+          },
+          "partie_2_l_interet_de_la_reinsertion": {
+            "titre": "Permettre un changement et limiter la récidive",
+            "arguments": [
+              {
+                "argument": "L'éducation, la formation et le suivi peuvent aider une personne à comprendre les conséquences de ses actes.",
+                "exemple": "Un détenu qui apprend un métier peut préparer un projet légal à sa sortie."
+              },
+              {
+                "argument": "Une personne accompagnée peut reconstruire des liens sociaux et prendre de nouvelles responsabilités.",
+                "exemple": "Des associations soutiennent le retour à l'emploi et au logement des personnes libérées."
+              }
+            ]
+          },
+          "partie_3_un_equilibre_entre_droits_et_responsabilites": {
+            "titre": "Associer protection des victimes et possibilité d'évolution",
+            "arguments": [
+              {
+                "argument": "La seconde chance ne signifie ni oublier la faute ni imposer le pardon aux victimes.",
+                "exemple": "La réparation et la reconnaissance du dommage peuvent faire partie d'un parcours de responsabilité."
+              },
+              {
+                "argument": "Des mesures adaptées permettent de protéger la société tout en préparant le retour à la vie collective.",
+                "exemple": "Un suivi progressif peut accompagner une réinsertion lorsque les conditions de sécurité sont réunies."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "Une justice équilibrée sanctionne les actes, protège les victimes et garde ouverte la possibilité d'un changement réel.",
+          "ouverture": "Quels dispositifs peuvent aider les anciens détenus à retrouver une place dans la société sans négliger la sécurité collective ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Réinsertion",
+        "Récidive",
+        "Responsabilisation",
+        "Réparation",
+        "Seconde chance",
+        "Certes, toutefois, en outre, en définitive"
+      ]
+    },
+    {
+      "id": "sujet_10",
+      "theme": "La littérature engagée et la dénonciation de l'injustice",
+      "enonce": "Dans Le Dernier Jour d'un condamné, Victor Hugo adopte le point de vue d'un homme qui attend son exécution. En donnant accès à ses pensées et à ses émotions, l'écrivain cherche à faire réfléchir le lecteur sur la peine de mort. La littérature peut-elle réellement aider à dénoncer une injustice et à faire évoluer les mentalités, ou son influence reste-t-elle limitée face aux décisions politiques et juridiques ? Rédigez un texte argumentatif organisé, en vous appuyant sur l'œuvre, sur d'autres lectures ou sur des exemples de la société.",
+      "plan_recommande": "Plan dialectique / Concessif",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Un récit, une pièce ou un témoignage peut rendre visibles des souffrances que la société préfère parfois ignorer.",
+          "problematique": "La littérature peut-elle agir sur les consciences et contribuer à combattre les injustices ?",
+          "annonce_plan": "Nous montrerons d'abord le pouvoir de sensibilisation des œuvres, puis les limites de leur influence, avant de souligner les conditions d'un changement durable."
+        },
+        "developpement": {
+          "partie_1_le_pouvoir_de_sensibilisation": {
+            "titre": "Donner un visage et une voix aux personnes concernées",
+            "arguments": [
+              {
+                "argument": "Le récit permet au lecteur de comprendre une situation à travers l'expérience d'un personnage.",
+                "exemple": "Le monologue intérieur du condamné fait ressentir l'angoisse de l'attente et la peur de la séparation."
+              },
+              {
+                "argument": "Une œuvre peut remettre en question des habitudes présentées comme normales.",
+                "exemple": "Le plaidoyer de Hugo invite à regarder l'exécution non comme un spectacle, mais comme une souffrance humaine."
+              }
+            ]
+          },
+          "partie_2_les_limites_de_l_influence_litteraire": {
+            "titre": "L'émotion ne suffit pas toujours à transformer les institutions",
+            "arguments": [
+              {
+                "argument": "Les lecteurs ne tirent pas tous la même conclusion d'une œuvre.",
+                "exemple": "Certains peuvent être touchés par le condamné sans modifier leur opinion sur la justice pénale."
+              },
+              {
+                "argument": "Les changements juridiques et sociaux nécessitent aussi des débats, des décisions et des actions collectives.",
+                "exemple": "Un livre peut ouvrir une discussion, mais les citoyens et les institutions doivent ensuite agir."
+              }
+            ]
+          },
+          "partie_3_l_art_comme_point_de_depart_du_changement": {
+            "titre": "Associer culture, réflexion et engagement",
+            "arguments": [
+              {
+                "argument": "Les œuvres développent l'esprit critique et donnent des repères pour discuter des droits humains.",
+                "exemple": "Une lecture suivie d'un débat permet aux élèves de confronter leurs arguments avec respect."
+              },
+              {
+                "argument": "La littérature peut rejoindre le travail des associations, des médias et des responsables publics.",
+                "exemple": "Des témoignages diffusés dans l'espace public peuvent attirer l'attention sur une réforme nécessaire."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La littérature ne change pas seule les lois, mais elle peut éveiller les consciences et nourrir les mobilisations qui rendent le changement possible.",
+          "ouverture": "Comment l'école peut-elle faire des œuvres littéraires un espace de réflexion sur les droits et la justice ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Littérature engagée",
+        "Sensibilisation",
+        "Esprit critique",
+        "Témoignage",
+        "Mobilisation",
+        "D'abord, néanmoins, par ailleurs, en somme"
+      ]
+    },
+    {
+      "id": "sujet_11",
+      "theme": "La peine, la vengeance et la justice réparatrice",
+      "enonce": "Face à un crime grave, les victimes et leurs proches peuvent éprouver un désir de justice et parfois de vengeance. Le roman de Victor Hugo critique un châtiment qui détruit le condamné sans réparer le tort subi ni aider les victimes. Une peine doit-elle avant tout faire souffrir le coupable, ou peut-elle chercher à réparer le dommage, protéger la société et prévenir de nouveaux crimes ? Rédigez un texte argumentatif nuancé dans lequel vous distinguez justice et vengeance et proposez les objectifs que devrait poursuivre une sanction équitable.",
+      "plan_recommande": "Plan dialectique / Analytique",
+      "structure_detaillee": {
+        "introduction": {
+          "amorce": "Après un crime, la demande de justice s'accompagne parfois d'une colère compréhensible et d'un désir de punition.",
+          "problematique": "Une sanction juste doit-elle faire souffrir le coupable ou rechercher d'autres objectifs pour la société et les victimes ?",
+          "annonce_plan": "Nous analyserons d'abord la demande de punition, puis les différences entre justice et vengeance, avant d'examiner les objectifs d'une sanction réparatrice."
+        },
+        "developpement": {
+          "partie_1_la_demande_de_punition": {
+            "titre": "Reconnaître le tort et protéger les victimes",
+            "arguments": [
+              {
+                "argument": "Une sanction montre que la société prend au sérieux le dommage causé.",
+                "exemple": "Les victimes ont besoin que leur plainte soit entendue et que les faits soient examinés."
+              },
+              {
+                "argument": "Une mesure de protection peut prévenir de nouveaux actes et rassurer la population.",
+                "exemple": "La justice peut limiter la liberté d'une personne lorsque cela est nécessaire et proportionné."
+              }
+            ]
+          },
+          "partie_2_distinguer_justice_et_vengeance": {
+            "titre": "Éviter une réponse guidée uniquement par la colère",
+            "arguments": [
+              {
+                "argument": "La vengeance personnelle risque d'entraîner une succession de violences.",
+                "exemple": "Une réponse fondée sur le talion ne répare pas nécessairement la perte ni la souffrance des victimes."
+              },
+              {
+                "argument": "La justice doit examiner les faits selon des règles communes et garantir un procès équitable.",
+                "exemple": "Le récit de Hugo conduit le lecteur à s'interroger sur la proportion et l'humanité de la peine."
+              }
+            ]
+          },
+          "partie_3_les_objectifs_d_une_sanction_equitable": {
+            "titre": "Punir, protéger, réparer et prévenir",
+            "arguments": [
+              {
+                "argument": "Une sanction proportionnée peut responsabiliser l'auteur et reconnaître les droits des victimes.",
+                "exemple": "La réparation matérielle ou symbolique peut compléter une peine lorsque cela est possible."
+              },
+              {
+                "argument": "L'éducation et l'accompagnement peuvent contribuer à éviter la récidive.",
+                "exemple": "Une peine qui prépare une réinsertion peut mieux protéger la société à long terme."
+              }
+            ]
+          }
+        },
+        "conclusion": {
+          "bilan": "La justice doit reconnaître le tort et protéger les victimes sans se transformer en vengeance ; elle doit aussi viser la prévention et, lorsque possible, la réparation.",
+          "ouverture": "Comment associer davantage les victimes à la justice tout en préservant les droits de la défense ?"
+        }
+      },
+      "vocabulaire_utile": [
+        "Justice réparatrice",
+        "Vengeance",
+        "Proportionnalité",
+        "Réparation",
+        "Prévention",
+        "En effet, cependant, ainsi, pour conclure"
+      ]
+    }
+  ],
+  "conseils_methode_examen": [
+    "Lisez attentivement le sujet et repérez les mots-clés (peine de mort, justice, pauvreté, violence, souffrance).",
+    "Déterminez le type de plan exigé (dialectique si deux avis s'opposent, analytique si vous analysez causes/conséquences).",
+    "Consacrez 10 minutes au brouillon pour lister vos arguments et les illustrer par des exemples (du roman de Hugo ou du monde actuel).",
+    "Soignez l'introduction : amorce, problématique claire, et annonce du plan.",
+    "Utilisez des connecteurs logiques pour lier vos idées (d'abord, en effet, cependant, enfin).",
+    "Vérifiez l'orthographe, la ponctuation et les accords verbaux avant de rendre votre copie."
+  ]
+}
