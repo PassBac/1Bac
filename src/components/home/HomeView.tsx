@@ -1,9 +1,10 @@
 import React from 'react';
 import { NovelSummary, NovelId, UserStudyProgress } from '../../types';
-import { ArrowRight, RotateCcw, BookOpen, BookOpenCheck, CheckCircle2, Feather } from 'lucide-react';
+import { ArrowRight, RotateCcw, BookOpen, BookOpenCheck, CheckCircle2, Feather, FileText } from 'lucide-react';
 import { getNovelStudyData } from '../../data/novelStudyData';
 import { LESSONS } from '../../data/lessons';
 import { PRODUCTION_WRITING_WORKS } from '../../data/productionEcrite';
+import { REGIONAL_EXAMS } from '../../data/regionalExams';
 
 interface HomeViewProps {
   novels: NovelSummary[];
@@ -30,6 +31,9 @@ export const HomeView: React.FC<HomeViewProps> = ({
       total + (studyData?.quizBanks.reduce((count, bank) => count + bank.questions.length, 0) || 0),
     0
   );
+  const regionalExamCorrectionCount = REGIONAL_EXAMS.filter(
+    (exam) => exam.correctionPdf
+  ).length;
 
   return (
     <div className="space-y-12 py-6 max-w-6xl mx-auto px-4 sm:px-6 animate-in fade-in duration-300">
@@ -192,6 +196,37 @@ export const HomeView: React.FC<HomeViewProps> = ({
               </article>
             );
           })}
+        </div>
+      </section>
+
+      <section>
+        <div className="overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-xs dark:border-stone-800 dark:bg-stone-900">
+          <div className="grid gap-6 p-6 sm:p-8 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+            <div className="min-w-0">
+              <div className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-amber-800 dark:text-amber-400">
+                <FileText className="h-4 w-4" />
+                Annales · Entraînement
+              </div>
+              <h2 className="mt-2 font-serif text-2xl font-bold text-stone-900 dark:text-stone-100 sm:text-3xl">
+                Examens régionaux
+              </h2>
+              <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone-600 dark:text-stone-400">
+                Retrouvez les sujets de 2017 et 2022, filtrez par année, région ou session,
+                puis ouvrez le sujet et, lorsqu’il existe, son corrigé au format PDF.
+              </p>
+              <p className="mt-3 text-xs text-stone-500 dark:text-stone-400">
+                {REGIONAL_EXAMS.length} sujets · {regionalExamCorrectionCount} corrigés disponibles
+              </p>
+            </div>
+            <button
+              type="button"
+              onClick={() => onNavigate('examens')}
+              className="inline-flex min-h-11 items-center justify-center gap-2 self-start rounded-xl bg-amber-800 px-5 py-3 text-xs font-semibold text-white transition hover:bg-amber-900 dark:bg-amber-700 dark:hover:bg-amber-600 lg:self-center"
+            >
+              Consulter les examens
+              <ArrowRight className="h-4 w-4" />
+            </button>
+          </div>
         </div>
       </section>
 

@@ -41,7 +41,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         </button>
 
-        <nav className="hidden lg:flex items-center gap-5 text-sm font-medium text-stone-600 dark:text-stone-300">
+        <nav className="hidden lg:flex items-center gap-4 text-sm font-medium text-stone-600 dark:text-stone-300">
           <button
             onClick={() => handleNavClick('home')}
             className={`transition-colors whitespace-nowrap relative py-1 ${
@@ -80,6 +80,20 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             Langues
             {isLanguagesActive && (
+              <span className="absolute bottom-0 left-0 right-0 h-0.5 rounded-full bg-amber-800 dark:bg-amber-500" />
+            )}
+          </button>
+
+          <button
+            onClick={() => handleNavClick('examens')}
+            className={`transition-colors whitespace-nowrap relative py-1 ${
+              currentView === 'examens'
+                ? 'text-amber-900 dark:text-amber-400 font-bold'
+                : 'text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
+            }`}
+          >
+            Examens
+            {currentView === 'examens' && (
               <span className="absolute bottom-0 left-0 right-0 h-0.5 rounded-full bg-amber-800 dark:bg-amber-500" />
             )}
           </button>
@@ -191,6 +205,17 @@ export const Navbar: React.FC<NavbarProps> = ({
             }`}
           >
             Langues
+          </button>
+
+          <button
+            onClick={() => handleNavClick('examens')}
+            className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+              currentView === 'examens'
+                ? 'bg-amber-100/60 dark:bg-amber-950/80 text-amber-950 dark:text-amber-200 font-bold'
+                : 'text-stone-700 dark:text-stone-300 hover:bg-stone-100 dark:hover:bg-stone-800'
+            }`}
+          >
+            Examens régionaux
           </button>
 
           <button
